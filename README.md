@@ -26,7 +26,7 @@ The percentages are how often the first suggestion is right.
 | Development | 8–17 h | 3–7 h | **2–4 h** |
 | Test | 8–17 h | 5–9 h | **2–4 h** |
 
-On development organizations, 42% of transactions can be marked safe to skim at 1% error. On the new councils, confidence needs calibrating per company first ([write-up](docs/writeup.md#business-result)).
+With the app's safe-to-approve rule, 40% of development transactions are marked safe to skim, and 0.5% of those are wrong. On the test councils it is 21% and 8.2%, so confidence needs calibrating per company first ([write-up](docs/writeup.md#business-result)).
 
 
 ## How it works

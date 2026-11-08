@@ -36,14 +36,15 @@ The assumptions, in seconds per transaction:
 
 The model roughly halves review time compared with vendor rules. Marking suggestions safe is what lets a person skim, and that is also the only way a wrong code gets through unnoticed. So the next question is how many transactions can be skimmed at a given error rate.
 
-**Automation against error.** The threshold is chosen on development for each target error rate, then applied unchanged to the test councils:
+**Automation against error.** Each row is one confidence threshold, used together with the model's next step being "approve". The thresholds are chosen on development and applied unchanged to the test councils. The demo app and the review-time estimate above use the fixed threshold of 0.9 in the first row.
 
-| Target error among skimmed suggestions | Development: skimmed | Development: wrong | Test: skimmed | Test: wrong |
+| Threshold | Development: skimmed | Development: wrong | Test: skimmed | Test: wrong |
 |---|---|---|---|---|
-| 1% | 42% | 1.0% | 25% | 11.0% |
-| 2% | 46% | 1.7% | 29% | 13.9% |
-| 5% | 55% | 4.9% | 42% | 18.9% |
-| 10% | 59% | 7.5% | 55% | 28.9% |
+| **0.90, the app's safe-to-approve rule** | **40%** | **0.5%** | **21%** | **8.2%** |
+| 0.87, chosen for 1% error on development | 42% | 1.0% | 25% | 11.0% |
+| 0.81, chosen for 2% error on development | 46% | 1.7% | 29% | 13.9% |
+| 0.57, chosen for 5% error on development | 55% | 4.9% | 42% | 18.9% |
+| 0.05, chosen for 10% error on development | 59% | 7.5% | 55% | 28.9% |
 
 On organizations like the development set, about 40–45% of transactions can be skimmed at 1–2% error. On the two test councils, the same threshold lets far more errors through. Confidence learned on one kind of organization does not carry over unchanged.
 
@@ -119,14 +120,7 @@ Training used real coded transactions from 10 public bodies, plus next-step labe
 | Model trained on real labels only | 62% |
 | Model trained on real and generated labels | 79–81% (two seeds) |
 
-**Safe to approve:**
-
-| | Development | Test |
-|---|---|---|
-| Marked safe | 40% of transactions | 21% |
-| Wrong among them | 0.5% (2 of 405) | 8.2% (7 of 85) |
-
-Confidence that was reliable on development organizations was too high on one test council. See [calibration per company](#business-result) above.
+**Safe to approve:** see [automation against error](#business-result). With the app's rule, 2 of 405 safe suggestions were wrong on development and 7 of 85 on test.
 
 ## Error analysis
 
