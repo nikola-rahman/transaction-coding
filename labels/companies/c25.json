@@ -1,0 +1,1498 @@
+{
+ "name": "Kestrel Peak Dental Partners",
+ "chart": [
+  "CLN-51010 Dental Consumables",
+  "CLN-51020 Restorative Materials",
+  "CLN-51030 Endodontic Supplies",
+  "CLN-51040 Orthodontic Aligners & Supplies",
+  "CLN-51050 Implant Components",
+  "CLN-51060 Anesthetics & Pharmaceuticals",
+  "CLN-51070 Infection Control & PPE",
+  "CLN-51080 Sterilization Supplies",
+  "CLN-51100 Small Dental Instruments",
+  "CLN-51110 Handpiece Repair",
+  "CLN-51120 Clinical Equipment Maintenance",
+  "CLN-51130 Clinical Equipment Under Cap Threshold",
+  "CLN-51140 Medical Waste Disposal",
+  "LAB-52010 Outside Lab Fees - Crown & Bridge",
+  "LAB-52020 Outside Lab Fees - Dentures & Appliances",
+  "LAB-52030 In-House Milling Materials",
+  "LAB-52040 Lab Courier & Shipping",
+  "LAB-52050 Scanner & Mill Service Plans",
+  "FAC-53010 Office Rent",
+  "FAC-53020 Common Area Maintenance",
+  "FAC-53030 Electric & Gas",
+  "FAC-53050 Janitorial Services",
+  "FAC-53060 Repairs & Maintenance",
+  "FAC-53070 Landscaping & Snow Removal",
+  "FAC-53080 Security & Alarm Monitoring",
+  "FAC-53090 Furniture & Fixtures Under Threshold",
+  "FAC-53100 Capitalized Equipment & Improvements",
+  "OPS-54010 Office Supplies",
+  "OPS-54020 Postage & Mailing",
+  "OPS-54040 Patient Refreshments",
+  "OPS-54050 Telephone & Internet",
+  "OPS-54060 Patient Financing Fees",
+  "OPS-54070 Merchant Processing Fees",
+  "OPS-54080 Insurance Clearinghouse Fees",
+  "OPS-54090 Patient Statements & Collections",
+  "OPS-54100 Scrubs & Uniforms",
+  "MKT-55010 Paid Search",
+  "MKT-55020 Paid Social",
+  "MKT-55030 Direct Mail",
+  "MKT-55040 Local Sponsorships",
+  "MKT-55050 Review & Reputation Tools",
+  "MKT-55060 Creative & Design Services",
+  "MKT-55070 Website Hosting & Domains",
+  "MKT-55080 Patient Referral Gifts",
+  "TEC-56010 Practice Management Software",
+  "TEC-56020 Productivity Software",
+  "TEC-56030 Cloud Hosting",
+  "TEC-56040 Security Software",
+  "TEC-56050 Developer Tools",
+  "TEC-56060 Computer Hardware Under Threshold",
+  "TEC-56070 IT Managed Services",
+  "TEC-56080 Prepaid Software Subscriptions",
+  "ADM-57010 Legal Fees",
+  "ADM-57020 Accounting & Tax Fees",
+  "ADM-57030 Business Insurance",
+  "ADM-57040 Malpractice Insurance",
+  "ADM-57050 Licenses & State Board Fees",
+  "ADM-57060 Bank Fees",
+  "ADM-57070 Business Meals",
+  "ADM-57080 Travel - Airfare",
+  "ADM-57090 Travel - Lodging",
+  "ADM-57100 Travel - Ground Transport",
+  "HRP-58010 Recruiting Fees",
+  "HRP-58020 Job Board Advertising",
+  "HRP-58030 Continuing Education",
+  "HRP-58040 Employee Meals & Team Events",
+  "HRP-58050 Background Checks & Credentialing",
+  "HRP-58060 Payroll Service Fees"
+ ],
+ "departments": [
+  "Clinical Operations",
+  "Practice Operations",
+  "Marketing & Growth",
+  "Technology",
+  "Finance & Admin",
+  "People"
+ ],
+ "people": [
+  {
+   "name": "Maren Oyelaran",
+   "department": "Clinical Operations",
+   "card_name": "Clinical Supplies Card"
+  },
+  {
+   "name": "Dr. Tobias Vance",
+   "department": "Clinical Operations",
+   "card_name": "Tobias Vance Card"
+  },
+  {
+   "name": "Dr. Priya Halvorsen",
+   "department": "Clinical Operations",
+   "card_name": "Priya Halvorsen Card"
+  },
+  {
+   "name": "Dana Kowalczyk",
+   "department": "Clinical Operations",
+   "card_name": "Lakewood Office Card"
+  },
+  {
+   "name": "Renata Solis",
+   "department": "Clinical Operations",
+   "card_name": "Arvada Office Card"
+  },
+  {
+   "name": "Luis Abernathy",
+   "department": "Practice Operations",
+   "card_name": "Practice Ops Card"
+  },
+  {
+   "name": "Shauna Whitlock",
+   "department": "Practice Operations",
+   "card_name": "Aurora Office Card"
+  },
+  {
+   "name": "Imani Thorsen",
+   "department": "Practice Operations",
+   "card_name": "Facilities Card"
+  },
+  {
+   "name": "Corey Nakashima",
+   "department": "Marketing & Growth",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Elise Brandvold",
+   "department": "Marketing & Growth",
+   "card_name": "Elise Brandvold Card"
+  },
+  {
+   "name": "Arjun Pellegrino",
+   "department": "Technology",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Hannah Dubrovsky",
+   "department": "Technology",
+   "card_name": "IT Card"
+  },
+  {
+   "name": "Gwen Castellane",
+   "department": "Finance & Admin",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Marcus Adeyemi-Lund",
+   "department": "Finance & Admin",
+   "card_name": "Marcus Adeyemi-Lund Card"
+  },
+  {
+   "name": "Tessa Rourke",
+   "department": "People",
+   "card_name": "People Team Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "HENRY SCHEIN DENTAL",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Chairside disposables for operatories",
+     "account": "CLN-51010 Dental Consumables",
+     "amount_low": 180,
+     "amount_high": 1400,
+     "weight": 5,
+     "item_shown_by_document": "Bibs, saliva ejectors, cotton rolls, prophy angles",
+     "memo": "Monthly chairside restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Composite and bonding agents for fillings",
+     "account": "CLN-51020 Restorative Materials",
+     "amount_low": 220,
+     "amount_high": 1900,
+     "weight": 3,
+     "item_shown_by_document": "Composite syringes, universal bond, etch gel",
+     "memo": "Composite reorder",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement hand instruments",
+     "account": "CLN-51100 Small Dental Instruments",
+     "amount_low": 90,
+     "amount_high": 750,
+     "weight": 1,
+     "item_shown_by_document": "Explorers, scalers, cord packers",
+     "memo": "Hygiene instrument replacements",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "PATTERSON DENTAL",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Operatory consumables for the Lakewood office",
+     "account": "CLN-51010 Dental Consumables",
+     "amount_low": 150,
+     "amount_high": 1100,
+     "weight": 4,
+     "item_shown_by_document": "Impression trays, air/water tips, articulating paper",
+     "memo": "Lakewood supply order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Handpiece rebuild service",
+     "account": "CLN-51110 Handpiece Repair",
+     "amount_low": 120,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "High-speed handpiece turbine replacement",
+     "memo": "Handpiece repair",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Curing light or small equipment purchase",
+     "account": "CLN-51130 Clinical Equipment Under Cap Threshold",
+     "amount_low": 600,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "LED curing light, ultrasonic scaler unit",
+     "memo": "New curing light op 3",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "BENCO DENTAL",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "PPE and surface disinfectant",
+     "account": "CLN-51070 Infection Control & PPE",
+     "amount_low": 140,
+     "amount_high": 980,
+     "weight": 4,
+     "item_shown_by_document": "Nitrile gloves, level 3 masks, CaviWipes",
+     "memo": "PPE restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "New dental chair or delivery unit above cap threshold",
+     "account": "FAC-53100 Capitalized Equipment & Improvements",
+     "amount_low": 6500,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "Patient chair and delivery system with install",
+     "memo": "New op buildout Arvada",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Compressor or vacuum pump service visit",
+     "account": "CLN-51120 Clinical Equipment Maintenance",
+     "amount_low": 280,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Technician labor, vacuum pump filter kit",
+     "memo": "Vac pump service",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "DARBY DENTAL SUPPLY",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Local anesthetic and topical",
+     "account": "CLN-51060 Anesthetics & Pharmaceuticals",
+     "amount_low": 120,
+     "amount_high": 860,
+     "weight": 1,
+     "item_shown_by_document": "Lidocaine carpules, articaine, benzocaine topical",
+     "memo": "Anesthetic reorder",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SAFCO DENTAL SUPPLY",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Endodontic files and obturation supplies",
+     "account": "CLN-51030 Endodontic Supplies",
+     "amount_low": 110,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "Rotary files, gutta percha points, paper points",
+     "memo": "Endo supplies",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ALIGN TECHNOLOGY INC",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Clear aligner case fees",
+     "account": "CLN-51040 Orthodontic Aligners & Supplies",
+     "amount_low": 1800,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Invisalign case fees by patient ID",
+     "memo": "Monthly aligner statement",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRAUMANN USA LLC",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Implant fixtures and abutments",
+     "account": "CLN-51050 Implant Components",
+     "amount_low": 650,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Bone level implants, healing abutments",
+     "memo": "Implant order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DENTSPLY SIRONA",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Milling blocks for same-day crowns",
+     "account": "LAB-52030 In-House Milling Materials",
+     "amount_low": 240,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "CEREC zirconia and ceramic blocks",
+     "memo": "Mill blocks restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual scanner and mill service plan",
+     "account": "LAB-52050 Scanner & Mill Service Plans",
+     "amount_low": 1800,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Primescan annual service agreement",
+     "memo": "Scanner service plan renewal",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GLIDEWELL DENTAL LAB",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Crown and bridge cases",
+     "account": "LAB-52010 Outside Lab Fees - Crown & Bridge",
+     "amount_low": 400,
+     "amount_high": 5200,
+     "weight": 4,
+     "item_shown_by_document": "Zirconia crowns by case number",
+     "memo": "Monthly crown cases",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Dentures and night guards",
+     "account": "LAB-52020 Outside Lab Fees - Dentures & Appliances",
+     "amount_low": 180,
+     "amount_high": 2100,
+     "weight": 2,
+     "item_shown_by_document": "Full dentures, occlusal guards by case number",
+     "memo": "Denture and guard cases",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "STERICYCLE INC",
+   "merchant_category": "Sanitary and Waste Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sharps and regulated medical waste pickup",
+     "account": "CLN-51140 Medical Waste Disposal",
+     "amount_low": 85,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Sharps container pickup by location",
+     "memo": "Medical waste monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMZN MKTP US",
+   "merchant_category": "Book Stores and General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, pens, and label rolls",
+     "account": "OPS-54010 Office Supplies",
+     "amount_low": 20,
+     "amount_high": 240,
+     "weight": 5,
+     "item_shown_by_document": "Copy paper, label tape, pens",
+     "memo": "Front desk supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Coffee pods and bottled water for waiting rooms",
+     "account": "OPS-54040 Patient Refreshments",
+     "amount_low": 25,
+     "amount_high": 160,
+     "weight": 3,
+     "item_shown_by_document": "K-cups, bottled water",
+     "memo": "Waiting room coffee",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement monitors and keyboards",
+     "account": "TEC-56060 Computer Hardware Under Threshold",
+     "amount_low": 60,
+     "amount_high": 520,
+     "weight": 2,
+     "item_shown_by_document": "24 inch monitor, USB keyboard",
+     "memo": "Op monitor replacement",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #1062",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Snacks and drinks for patients",
+     "account": "OPS-54040 Patient Refreshments",
+     "amount_low": 40,
+     "amount_high": 220,
+     "weight": 2,
+     "item_shown_by_document": "Bottled water, granola bars",
+     "memo": "Patient lounge snacks",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food for a staff lunch-and-learn",
+     "account": "HRP-58040 Employee Meals & Team Events",
+     "amount_low": 60,
+     "amount_high": 340,
+     "weight": 3,
+     "item_shown_by_document": "Sandwich platters, fruit trays, drinks",
+     "memo": "Team lunch Thursday",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 00214",
+   "merchant_category": "Office Supply Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Toner and office supplies",
+     "account": "OPS-54010 Office Supplies",
+     "amount_low": 30,
+     "amount_high": 310,
+     "weight": 4,
+     "item_shown_by_document": "Toner cartridges, folders",
+     "memo": "Office supply run",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Desk chair or filing cabinet",
+     "account": "FAC-53090 Furniture & Fixtures Under Threshold",
+     "amount_low": 120,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Task chair, lateral filing cabinet",
+     "memo": "New front desk chair",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 0741",
+   "merchant_category": "Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stamps and certified letters",
+     "account": "OPS-54020 Postage & Mailing",
+     "amount_low": 12,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Forever stamps, certified mail fee",
+     "memo": "Stamps",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 88213",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sending cases and impressions to outside lab",
+     "account": "LAB-52040 Lab Courier & Shipping",
+     "amount_low": 18,
+     "amount_high": 95,
+     "weight": 3,
+     "item_shown_by_document": "Priority overnight shipment label",
+     "memo": "Lab case overnight",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Sending contracts and credentialing packets",
+     "account": "OPS-54020 Postage & Mailing",
+     "amount_low": 15,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Express envelope shipment label",
+     "memo": "Docs to payer",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8842",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "New patient search campaigns",
+     "account": "MKT-55010 Paid Search",
+     "amount_low": 900,
+     "amount_high": 5500,
+     "weight": 1,
+     "item_shown_by_document": "Ads invoice by campaign",
+     "memo": "Google Ads monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *K7Q2PX",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Local Facebook and Instagram ads",
+     "account": "MKT-55020 Paid Social",
+     "amount_low": 400,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Ad account billing receipt",
+     "memo": "Meta ads monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BIRDEYE INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Review request and listing tool",
+     "account": "MKT-55050 Review & Reputation Tools",
+     "amount_low": 299,
+     "amount_high": 1200,
+     "weight": 1,
+     "item_shown_by_document": "Monthly subscription by location",
+     "memo": "Birdeye subscription",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GODADDY.COM",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Domain renewals and site hosting",
+     "account": "MKT-55070 Website Hosting & Domains",
+     "amount_low": 20,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Domain renewal, managed hosting",
+     "memo": "Domain renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HENRY SCHEIN ONE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly cloud practice management fees",
+     "account": "TEC-56010 Practice Management Software",
+     "amount_low": 1400,
+     "amount_high": 4200,
+     "weight": 3,
+     "item_shown_by_document": "Dentrix Ascend monthly fee by location",
+     "memo": "Dentrix monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual prepaid imaging software license",
+     "account": "TEC-56080 Prepaid Software Subscriptions",
+     "amount_low": 6000,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "12-month imaging license with service dates",
+     "memo": "Annual license prepay",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MSFT *MICROSOFT 365",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Office licenses for admin staff",
+     "account": "TEC-56020 Productivity Software",
+     "amount_low": 180,
+     "amount_high": 860,
+     "weight": 1,
+     "item_shown_by_document": "Microsoft 365 Business seats",
+     "memo": "M365 monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMAZON WEB SERVICES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for patient booking app",
+     "account": "TEC-56030 Cloud Hosting",
+     "amount_low": 350,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "AWS monthly usage statement",
+     "memo": "AWS monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Code hosting seats for the product team",
+     "account": "TEC-56050 Developer Tools",
+     "amount_low": 40,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team seats",
+     "memo": "GitHub",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "1PASSWORD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Password manager for HIPAA access controls",
+     "account": "TEC-56040 Security Software",
+     "amount_low": 60,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "1Password Business seats",
+     "memo": "1Password",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE R412",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "iPad for patient check-in",
+     "account": "TEC-56060 Computer Hardware Under Threshold",
+     "amount_low": 350,
+     "amount_high": 1100,
+     "weight": 3,
+     "item_shown_by_document": "iPad, case",
+     "memo": "Check-in iPad Lakewood",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Laptop batch above cap threshold",
+     "account": "FAC-53100 Capitalized Equipment & Improvements",
+     "amount_low": 5200,
+     "amount_high": 9800,
+     "weight": 1,
+     "item_shown_by_document": "Four MacBook Pro laptops",
+     "memo": "Laptops for new hires",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Other Pay Television Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Office internet circuits",
+     "account": "OPS-54050 Telephone & Internet",
+     "amount_low": 180,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Business internet by service address",
+     "memo": "Comcast monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE TRANSFER FEES",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Patient card processing fees",
+     "account": "OPS-54070 Merchant Processing Fees",
+     "amount_low": 450,
+     "amount_high": 3100,
+     "weight": 1,
+     "item_shown_by_document": "Monthly processing fee summary",
+     "memo": "Stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SYNCHRONY CARECREDIT",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Merchant discount on financed treatment",
+     "account": "OPS-54060 Patient Financing Fees",
+     "amount_low": 120,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Promotional financing fee statement",
+     "memo": "CareCredit fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DENTALXCHANGE",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Claims clearinghouse fees",
+     "account": "OPS-54080 Insurance Clearinghouse Fees",
+     "amount_low": 140,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Claims and eligibility transactions",
+     "memo": "Clearinghouse monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UNITED AIRLINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to dental conferences and investor meetings",
+     "account": "ADM-57080 Travel - Airfare",
+     "amount_low": 220,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "E-ticket receipt",
+     "memo": "Flight to Chicago Midwinter",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT DENVER TECH",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for visiting doctors and conferences",
+     "account": "ADM-57090 Travel - Lodging",
+     "amount_low": 160,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Folio with room and tax",
+     "memo": "Hotel for doctor interviews",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides between offices and airport",
+     "account": "ADM-57100 Travel - Ground Transport",
+     "amount_low": 12,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt",
+     "memo": "Airport ride",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*PANERA",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch for staff at an office",
+     "account": "HRP-58040 Employee Meals & Team Events",
+     "amount_low": 45,
+     "amount_high": 260,
+     "weight": 3,
+     "item_shown_by_document": "Sandwiches and salads order",
+     "memo": "Staff lunch Aurora",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch with a prospective associate dentist",
+     "account": "ADM-57070 Business Meals",
+     "amount_low": 35,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Two-person lunch order",
+     "memo": "Lunch with Dr. candidate",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll platform",
+     "account": "HRP-58060 Payroll Service Fees",
+     "amount_low": 240,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Payroll subscription by employee count",
+     "memo": "Gusto monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *P41882",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job slots for corporate hires",
+     "account": "HRP-58020 Job Board Advertising",
+     "amount_low": 180,
+     "amount_high": 820,
+     "weight": 2,
+     "item_shown_by_document": "LinkedIn job posting receipt",
+     "memo": "Ops manager post",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Recruiter seat used by outside sourcer",
+     "account": "HRP-58010 Recruiting Fees",
+     "amount_low": 170,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Recruiter Lite subscription",
+     "memo": "Recruiter seat",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "CHECKR INC",
+   "merchant_category": "Professional Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "New hire background checks",
+     "account": "HRP-58050 Background Checks & Credentialing",
+     "amount_low": 30,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Background check by candidate",
+     "memo": "New hire checks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMERICAN DENTAL ASSOC",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "CE course registration",
+     "account": "HRP-58030 Continuing Education",
+     "amount_low": 95,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Online course registration",
+     "memo": "CE for Dr. Vance",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dues and credential renewal for a provider",
+     "account": "ADM-57050 Licenses & State Board Fees",
+     "amount_low": 180,
+     "amount_high": 560,
+     "weight": 1,
+     "item_shown_by_document": "Membership and credential renewal",
+     "memo": "ADA dues",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #1508",
+   "merchant_category": "Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Plumbing parts and paint for a small repair",
+     "account": "FAC-53060 Repairs & Maintenance",
+     "amount_low": 20,
+     "amount_high": 280,
+     "weight": 3,
+     "item_shown_by_document": "Faucet cartridge, paint, caulk",
+     "memo": "Sterilization sink fix",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Shelving for the supply room",
+     "account": "FAC-53090 Furniture & Fixtures Under Threshold",
+     "amount_low": 80,
+     "amount_high": 460,
+     "weight": 1,
+     "item_shown_by_document": "Wire shelving units",
+     "memo": "Supply room shelves",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ADT SECURITY",
+   "merchant_category": "Burglar and Fire Alarm Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Alarm monitoring",
+     "account": "FAC-53080 Security & Alarm Monitoring",
+     "amount_low": 65,
+     "amount_high": 290,
+     "weight": 1,
+     "item_shown_by_document": "Monthly monitoring by location",
+     "memo": "ADT monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP",
+   "merchant_category": "Uniforms and Commercial Clothing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Scrub rental and laundering",
+     "account": "OPS-54100 Scrubs & Uniforms",
+     "amount_low": 110,
+     "amount_high": 480,
+     "weight": 2,
+     "item_shown_by_document": "Scrub tops and pants rental",
+     "memo": "Scrub service",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Floor mats and restroom service",
+     "account": "FAC-53050 Janitorial Services",
+     "amount_low": 70,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Entry mats, restroom supplies",
+     "memo": "Mat service",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "XCEL ENERGY",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric and gas for offices",
+     "account": "FAC-53030 Electric & Gas",
+     "amount_low": 280,
+     "amount_high": 1450,
+     "weight": 1,
+     "item_shown_by_document": "Utility bill by service address",
+     "memo": "Xcel monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MEDPRO GROUP",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Professional liability premiums",
+     "account": "ADM-57040 Malpractice Insurance",
+     "amount_low": 1100,
+     "amount_high": 5800,
+     "weight": 1,
+     "item_shown_by_document": "Premium installment by provider",
+     "memo": "Malpractice installment",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "THE HARTFORD",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "General liability and property premium",
+     "account": "ADM-57030 Business Insurance",
+     "amount_low": 600,
+     "amount_high": 2900,
+     "weight": 1,
+     "item_shown_by_document": "Business owner policy invoice",
+     "memo": "BOP premium",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KVR HOLDINGS LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Rent for the Lakewood office",
+     "account": "FAC-53010 Office Rent",
+     "amount_low": 7800,
+     "amount_high": 12500,
+     "weight": 4,
+     "item_shown_by_document": "Base rent for suite",
+     "memo": "Lakewood rent",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual CAM true-up",
+     "account": "FAC-53020 Common Area Maintenance",
+     "amount_low": 450,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "CAM reconciliation statement",
+     "memo": "CAM true-up",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "TMB PROPERTIES 4",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Rent for the Arvada office",
+     "account": "FAC-53010 Office Rent",
+     "amount_low": 6400,
+     "amount_high": 9800,
+     "weight": 1,
+     "item_shown_by_document": "Base rent for suite",
+     "memo": "Arvada rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JRL SERVICES",
+   "merchant_category": "Cleaning and Maintenance",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Nightly office cleaning",
+     "account": "FAC-53050 Janitorial Services",
+     "amount_low": 650,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Monthly janitorial invoice by location",
+     "memo": "Janitorial monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTHFORK ENT LLC",
+   "merchant_category": "Building Maintenance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Snow plowing and grounds care",
+     "account": "FAC-53070 Landscaping & Snow Removal",
+     "amount_low": 180,
+     "amount_high": 1250,
+     "weight": 1,
+     "item_shown_by_document": "Snow event and mowing invoice",
+     "memo": "Snow plow Feb",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "P&D TECH",
+   "merchant_category": "Repair Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Local handpiece repair",
+     "account": "CLN-51110 Handpiece Repair",
+     "amount_low": 75,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Handpiece bearing replacement",
+     "memo": "Handpiece repair",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SDS INC",
+   "merchant_category": "Computer Maintenance and Repair",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Managed IT support for office networks",
+     "account": "TEC-56070 IT Managed Services",
+     "amount_low": 1800,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "Monthly managed service invoice",
+     "memo": "IT support monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MWB SVC CO",
+   "merchant_category": "Repair Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Autoclave repair and certification",
+     "account": "CLN-51120 Clinical Equipment Maintenance",
+     "amount_low": 220,
+     "amount_high": 1350,
+     "weight": 2,
+     "item_shown_by_document": "Autoclave door seal, calibration",
+     "memo": "Autoclave service",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement autoclave installed at an office",
+     "account": "CLN-51130 Clinical Equipment Under Cap Threshold",
+     "amount_low": 1400,
+     "amount_high": 2450,
+     "weight": 1,
+     "item_shown_by_document": "Tabletop autoclave and install",
+     "memo": "New autoclave Aurora",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "AMC RECOVERY GRP",
+   "merchant_category": "Collection Agencies",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Patient statements and collections",
+     "account": "OPS-54090 Patient Statements & Collections",
+     "amount_low": 110,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Statement run and collection fee",
+     "memo": "Statements monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LFG PARTNERS",
+   "merchant_category": "Professional Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Outside counsel for leases and compliance",
+     "account": "ADM-57010 Legal Fees",
+     "amount_low": 900,
+     "amount_high": 7400,
+     "weight": 1,
+     "item_shown_by_document": "Hours billed by matter",
+     "memo": "Legal invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "R&S GRAPHICS",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "New mover postcards",
+     "account": "MKT-55030 Direct Mail",
+     "amount_low": 450,
+     "amount_high": 3200,
+     "weight": 2,
+     "item_shown_by_document": "Postcard printing and mail drop",
+     "memo": "New mover mailer",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Logo and signage design",
+     "account": "MKT-55060 Creative & Design Services",
+     "amount_low": 300,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Design hours for signage",
+     "memo": "Arvada signage design",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "BLUE HERON VENTURES",
+   "merchant_category": "Charitable and Social Service Organizations",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Sponsorship of a neighborhood 5K",
+     "account": "MKT-55040 Local Sponsorships",
+     "amount_low": 250,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Sponsor package invoice",
+     "memo": "Spring 5K sponsor",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TLC PROVISIONS",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Catered staff meeting",
+     "account": "HRP-58040 Employee Meals & Team Events",
+     "amount_low": 120,
+     "amount_high": 640,
+     "weight": 2,
+     "item_shown_by_document": "Catering order for 15",
+     "memo": "All-hands lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Catered dinner with referring specialists",
+     "account": "ADM-57070 Business Meals",
+     "amount_low": 180,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "Catering order for 8",
+     "memo": "Specialist dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "HGP DISTRIBUTORS",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Sterilization pouches and test strips",
+     "account": "CLN-51080 Sterilization Supplies",
+     "amount_low": 80,
+     "amount_high": 540,
+     "weight": 1,
+     "item_shown_by_document": "Sterilization pouches, spore test strips",
+     "memo": "Sterilization supplies",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CRESTLINE 44",
+   "merchant_category": "Dental/Laboratory/Medical Equipment and Supplies",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Local lab work for anterior crowns",
+     "account": "LAB-52010 Outside Lab Fees - Crown & Bridge",
+     "amount_low": 260,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Ceramic crowns by case number",
+     "memo": "Local lab invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WHITTLE & CRANE CPAS",
+   "merchant_category": "Accounting and Bookkeeping Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping review and tax work",
+     "account": "ADM-57020 Accounting & Tax Fees",
+     "amount_low": 800,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Tax and advisory invoice",
+     "memo": "CPA invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LITTLE SPARROW BAGELS",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Morning huddle breakfast for staff",
+     "account": "HRP-58040 Employee Meals & Team Events",
+     "amount_low": 24,
+     "amount_high": 110,
+     "weight": 1,
+     "item_shown_by_document": "Bagels and coffee box",
+     "memo": "Huddle breakfast",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FOOTHILLS DENTAL STUDY CLUB",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Study club CE meeting",
+     "account": "HRP-58030 Continuing Education",
+     "amount_low": 75,
+     "amount_high": 350,
+     "weight": 1,
+     "item_shown_by_document": "Meeting registration, CE credits",
+     "memo": "Study club",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ASPEN GROVE FLORAL",
+   "merchant_category": "Florists",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Thank-you bouquets for referring patients",
+     "account": "MKT-55080 Patient Referral Gifts",
+     "amount_low": 35,
+     "amount_high": 95,
+     "weight": 1,
+     "item_shown_by_document": "Bouquet and delivery",
+     "memo": "Referral thank-you",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1182 @@
+{
+ "name": "Marrowlight Biosystems",
+ "chart": [
+  "Laboratory Consumables and Plasticware",
+  "Reagents and Assay Kits",
+  "Custom Oligos and Synthetic DNA",
+  "Contract Research and Sequencing Services",
+  "Lab Equipment Below Capitalization Threshold",
+  "Capitalized Equipment and Tooling",
+  "Equipment Service and Calibration",
+  "Lab Waste and Biohazard Disposal",
+  "Lab Gases and Cryogenics",
+  "Prototype Parts and Machining",
+  "Electronic Components for Development",
+  "Production Materials for Instruments",
+  "Outbound Freight and Cold Chain Shipping",
+  "Inbound Freight and Customs Duties",
+  "Packaging and Labeling Supplies",
+  "Cloud Computing and Data Storage",
+  "Business Software Subscriptions",
+  "Scientific Software and Bioinformatics Licenses",
+  "Prepaid Expenses",
+  "Computer Hardware and Peripherals",
+  "Telecommunications and Internet",
+  "Facility Rent and Lab Lease",
+  "Utilities",
+  "Janitorial and Facility Maintenance",
+  "Office Supplies",
+  "Office Snacks and Kitchen Supplies",
+  "Team Meals and Events",
+  "Customer Meals and Entertainment",
+  "Airfare",
+  "Lodging",
+  "Ground Transportation and Parking",
+  "Conferences and Trade Shows",
+  "Digital Advertising and Marketing Programs",
+  "Marketing Collateral and Branded Merchandise",
+  "Recruiting and Job Advertising",
+  "Employee Training and Professional Development",
+  "Employee Benefits and Perks",
+  "General Legal Fees",
+  "Patent and Intellectual Property Costs",
+  "Accounting, Audit and Tax Services",
+  "Business Insurance",
+  "Regulatory and Quality Compliance",
+  "Licenses, Permits and Professional Dues"
+ ],
+ "departments": [
+  "Assay Research",
+  "Instrument Engineering",
+  "Computational Biology",
+  "Manufacturing and Quality",
+  "Commercial",
+  "Finance and Operations",
+  "People and Culture"
+ ],
+ "people": [
+  {
+   "name": "Ingrid Valtonen",
+   "department": "Assay Research",
+   "card_name": "Assay Research Card"
+  },
+  {
+   "name": "Tomasz Oyelaran",
+   "department": "Assay Research",
+   "card_name": "Tomasz Oyelaran Card"
+  },
+  {
+   "name": "Priya Castellano",
+   "department": "Assay Research",
+   "card_name": "Lab Purchasing Card"
+  },
+  {
+   "name": "Desmond Achterberg",
+   "department": "Instrument Engineering",
+   "card_name": "Instrument Engineering Card"
+  },
+  {
+   "name": "Mei-Lin Rossiter",
+   "department": "Instrument Engineering",
+   "card_name": "Mei-Lin Rossiter Card"
+  },
+  {
+   "name": "Rafael Nakashima",
+   "department": "Computational Biology",
+   "card_name": "Computational Biology Card"
+  },
+  {
+   "name": "Hannah Delacroix-Obi",
+   "department": "Computational Biology",
+   "card_name": "Hannah Delacroix-Obi Card"
+  },
+  {
+   "name": "Callum Featherstone",
+   "department": "Manufacturing and Quality",
+   "card_name": "Manufacturing Card"
+  },
+  {
+   "name": "Yevgenia Marchetti",
+   "department": "Manufacturing and Quality",
+   "card_name": "Quality Systems Card"
+  },
+  {
+   "name": "Jonah Abernathy",
+   "department": "Commercial",
+   "card_name": "Jonah Abernathy Card"
+  },
+  {
+   "name": "Sofia Lindqvist-Reyes",
+   "department": "Commercial",
+   "card_name": "Field Sales Card"
+  },
+  {
+   "name": "Marcus Tenorio",
+   "department": "Commercial",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Adaeze Hollingsworth",
+   "department": "Finance and Operations",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Wendell Kowalczyk",
+   "department": "Finance and Operations",
+   "card_name": "Facilities Card"
+  },
+  {
+   "name": "Noor Sandoval",
+   "department": "People and Culture",
+   "card_name": "People and Culture Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMZN MKTP US*2K4LM09T1",
+   "merchant_category": "Book Stores / General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Spare pipette tip racks and bench tape for the lab",
+     "account": "Laboratory Consumables and Plasticware",
+     "amount_low": 20,
+     "amount_high": 240,
+     "weight": 3,
+     "item_shown_by_document": "Pipette tip racks, labeling tape, nitrile gloves",
+     "memo": "lab bench restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Notebooks, pens and whiteboard supplies",
+     "account": "Office Supplies",
+     "amount_low": 15,
+     "amount_high": 150,
+     "weight": 2,
+     "item_shown_by_document": "Spiral notebooks, dry erase markers",
+     "memo": "office supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "USB hubs, monitors and docking accessories",
+     "account": "Computer Hardware and Peripherals",
+     "amount_low": 30,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "USB-C docking station, HDMI cable",
+     "memo": "dock for new hire",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "THERMO FISHER SCIENTIFIC",
+   "merchant_category": "Medical, Dental, Lab Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Assay kits and buffers for development runs",
+     "account": "Reagents and Assay Kits",
+     "amount_low": 180,
+     "amount_high": 3800,
+     "weight": 5,
+     "item_shown_by_document": "Qubit dsDNA assay kit, PBS buffer, Taq polymerase",
+     "memo": "assay dev reagents",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Benchtop vortexers, mini centrifuges and pipettes",
+     "account": "Lab Equipment Below Capitalization Threshold",
+     "amount_low": 300,
+     "amount_high": 2400,
+     "weight": 2,
+     "item_shown_by_document": "Mini centrifuge, electronic pipette",
+     "memo": "bench equipment",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Real-time PCR system for the assay lab",
+     "account": "Capitalized Equipment and Tooling",
+     "amount_low": 18000,
+     "amount_high": 62000,
+     "weight": 1,
+     "item_shown_by_document": "QuantStudio real-time PCR system with install",
+     "memo": "new qPCR instrument",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MILLIPORESIGMA",
+   "merchant_category": "Chemicals and Allied Products",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Solvents, salts and fine chemicals",
+     "account": "Reagents and Assay Kits",
+     "amount_low": 90,
+     "amount_high": 2200,
+     "weight": 1,
+     "item_shown_by_document": "Tris base, ethanol, magnesium chloride",
+     "memo": "chem order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VWR INTERNATIONAL",
+   "merchant_category": "Medical, Dental, Lab Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Tubes, plates, gloves and filter tips",
+     "account": "Laboratory Consumables and Plasticware",
+     "amount_low": 120,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "96-well plates, filter tips, conical tubes",
+     "memo": "monthly consumables",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTEGRATED DNA TECHNOLOGIES",
+   "merchant_category": "Medical, Dental, Lab Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Custom primers and probes",
+     "account": "Custom Oligos and Synthetic DNA",
+     "amount_low": 60,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Custom primers, 25 nmole, standard desalting",
+     "memo": "primers for panel v3",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TWIST BIOSCIENCE",
+   "merchant_category": "Medical, Dental, Lab Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Synthetic gene fragments for control material",
+     "account": "Custom Oligos and Synthetic DNA",
+     "amount_low": 250,
+     "amount_high": 4500,
+     "weight": 1,
+     "item_shown_by_document": "Gene fragments, clonal genes",
+     "memo": "control constructs",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ILLUMINA INC",
+   "merchant_category": "Medical, Dental, Lab Equipment and Supplies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sequencing flow cells and reagent cartridges",
+     "account": "Reagents and Assay Kits",
+     "amount_low": 1500,
+     "amount_high": 9800,
+     "weight": 4,
+     "item_shown_by_document": "NextSeq reagent cartridge and flow cell",
+     "memo": "validation run reagents",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Benchtop sequencer purchase",
+     "account": "Capitalized Equipment and Tooling",
+     "amount_low": 45000,
+     "amount_high": 120000,
+     "weight": 1,
+     "item_shown_by_document": "NextSeq system with installation and first-year service",
+     "memo": "sequencer for validation lab",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PLASMIDSAURUS",
+   "merchant_category": "Testing Laboratories",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Whole plasmid sequencing of constructs",
+     "account": "Contract Research and Sequencing Services",
+     "amount_low": 15,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Whole plasmid sequencing, per sample",
+     "memo": "plasmid QC",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AZENTA LIFE SCIENCES",
+   "merchant_category": "Testing Laboratories",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Outsourced amplicon and NGS sequencing runs",
+     "account": "Contract Research and Sequencing Services",
+     "amount_low": 400,
+     "amount_high": 7500,
+     "weight": 1,
+     "item_shown_by_document": "Amplicon-EZ sequencing, sample batch",
+     "memo": "outsourced seq batch",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AIRGAS USA LLC",
+   "merchant_category": "Industrial Gases",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Liquid nitrogen and CO2 cylinder refills",
+     "account": "Lab Gases and Cryogenics",
+     "amount_low": 80,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Liquid nitrogen dewar fill, CO2 cylinder rental",
+     "memo": "LN2 and CO2",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STERICYCLE INC",
+   "merchant_category": "Sanitation and Waste Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly biohazard and sharps pickup",
+     "account": "Lab Waste and Biohazard Disposal",
+     "amount_low": 280,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Regulated medical waste pickup, sharps containers",
+     "memo": "biowaste pickup",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KESTREL METROLOGY SVCS",
+   "merchant_category": "Professional Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual pipette and balance calibration",
+     "account": "Equipment Service and Calibration",
+     "amount_low": 450,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Pipette calibration, balance certification",
+     "memo": "annual calibration",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MCMASTER-CARR",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fittings and fasteners for instrument prototypes",
+     "account": "Prototype Parts and Machining",
+     "amount_low": 25,
+     "amount_high": 700,
+     "weight": 3,
+     "item_shown_by_document": "Stainless fittings, socket head screws",
+     "memo": "fixture hardware",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Fasteners and tubing for production instrument builds",
+     "account": "Production Materials for Instruments",
+     "amount_low": 40,
+     "amount_high": 1400,
+     "weight": 2,
+     "item_shown_by_document": "Stainless fittings, PTFE tubing",
+     "memo": "line build stock",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Door hardware and shelving repairs for the building",
+     "account": "Janitorial and Facility Maintenance",
+     "amount_low": 20,
+     "amount_high": 350,
+     "weight": 1,
+     "item_shown_by_document": "Door closer, shelf brackets",
+     "memo": "facility repair",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DIGIKEY ELECTRONICS",
+   "merchant_category": "Electronic Parts and Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sensors and connectors for board bring-up",
+     "account": "Electronic Components for Development",
+     "amount_low": 30,
+     "amount_high": 900,
+     "weight": 3,
+     "item_shown_by_document": "Connectors, photodiodes, dev boards",
+     "memo": "rev C bring-up",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Components for shipping instrument builds",
+     "account": "Production Materials for Instruments",
+     "amount_low": 200,
+     "amount_high": 5200,
+     "weight": 2,
+     "item_shown_by_document": "Connectors, photodiodes, reels of capacitors",
+     "memo": "production kit parts",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "PROTOLABS INC",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quick turn machined and molded prototype parts",
+     "account": "Prototype Parts and Machining",
+     "amount_low": 180,
+     "amount_high": 4200,
+     "weight": 3,
+     "item_shown_by_document": "CNC machined housing, qty 10",
+     "memo": "cartridge housing protos",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Production injection mold for cartridge housing",
+     "account": "Capitalized Equipment and Tooling",
+     "amount_low": 6500,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "Aluminum injection mold tool",
+     "memo": "cartridge mold tool",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "BAYSIDE PM LLC",
+   "merchant_category": "Machine Shops",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Local machining of optical mounts and fixtures",
+     "account": "Prototype Parts and Machining",
+     "amount_low": 220,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Machined aluminum optical mounts",
+     "memo": "optics mounts",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 78234910",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dry ice overnight shipments of kits to customers",
+     "account": "Outbound Freight and Cold Chain Shipping",
+     "amount_low": 45,
+     "amount_high": 380,
+     "weight": 4,
+     "item_shown_by_document": "Priority Overnight, dry ice surcharge",
+     "memo": "customer kit shipment",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Inbound shipment and duties on imported optics",
+     "account": "Inbound Freight and Customs Duties",
+     "amount_low": 30,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "International Priority, duties and taxes",
+     "memo": "optics import",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ULINE",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Insulated shippers, cartons and label stock",
+     "account": "Packaging and Labeling Supplies",
+     "amount_low": 90,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Insulated foam shippers, thermal labels",
+     "memo": "shipper restock",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly compute and storage for pipelines",
+     "account": "Cloud Computing and Data Storage",
+     "amount_low": 2200,
+     "amount_high": 14500,
+     "weight": 5,
+     "item_shown_by_document": "EC2 and S3 usage charges",
+     "memo": "AWS monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "One year reserved compute commitment paid upfront",
+     "account": "Prepaid Expenses",
+     "amount_low": 12000,
+     "amount_high": 38000,
+     "weight": 1,
+     "item_shown_by_document": "EC2 reserved instances, all upfront, 12 months",
+     "memo": "1yr RI upfront",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *GSUITE_MARROWLIGHT",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly Workspace seats",
+     "account": "Business Software Subscriptions",
+     "amount_low": 1300,
+     "amount_high": 2100,
+     "weight": 1,
+     "item_shown_by_document": "Google Workspace Business Plus, monthly seats",
+     "memo": "workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8842913",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search campaigns aimed at lab managers",
+     "account": "Digital Advertising and Marketing Programs",
+     "amount_low": 500,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads campaign charges",
+     "memo": "search ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BENCHLING INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quarterly seat true-up for the electronic lab notebook",
+     "account": "Scientific Software and Bioinformatics Licenses",
+     "amount_low": 1800,
+     "amount_high": 9000,
+     "weight": 2,
+     "item_shown_by_document": "Additional notebook seats, prorated for the current quarter",
+     "memo": "seat true-up",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual platform renewal billed in advance",
+     "account": "Prepaid Expenses",
+     "amount_low": 28000,
+     "amount_high": 76000,
+     "weight": 1,
+     "item_shown_by_document": "Annual subscription, 12 month term",
+     "memo": "annual ELN renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MATHWORKS",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "MATLAB licenses for signal analysis",
+     "account": "Scientific Software and Bioinformatics Licenses",
+     "amount_low": 240,
+     "amount_high": 2700,
+     "weight": 1,
+     "item_shown_by_document": "MATLAB and Signal Processing Toolbox licenses",
+     "memo": "MATLAB license",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team plan seats for code repositories",
+     "account": "Business Software Subscriptions",
+     "amount_low": 120,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team seats, monthly",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T02QH7LMN",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company chat subscription",
+     "account": "Business Software Subscriptions",
+     "amount_low": 700,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro seats, monthly",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE #R102",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Keyboards, adapters and low cost accessories",
+     "account": "Computer Hardware and Peripherals",
+     "amount_low": 30,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Magic Keyboard, USB-C adapter",
+     "memo": "accessories",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "High spec workstation for image analysis",
+     "account": "Capitalized Equipment and Tooling",
+     "amount_low": 3800,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Mac Studio with extended memory",
+     "memo": "analysis workstation",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *JOBS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job posts and recruiter seats",
+     "account": "Recruiting and Job Advertising",
+     "amount_low": 300,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "Recruiter Lite seat, promoted job posts",
+     "memo": "hiring scientist role",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sponsored posts about the new instrument",
+     "account": "Digital Advertising and Marketing Programs",
+     "amount_low": 400,
+     "amount_high": 3000,
+     "weight": 2,
+     "item_shown_by_document": "Sponsored content campaign",
+     "memo": "launch campaign",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Learning seats for managers",
+     "account": "Employee Training and Professional Development",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "LinkedIn Learning annual seats",
+     "memo": "manager training",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Building internet and phone lines",
+     "account": "Telecommunications and Internet",
+     "amount_low": 340,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "Business internet, voice lines",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PG&E WEB ONLINE",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric and gas for labs and offices",
+     "account": "Utilities",
+     "amount_low": 2800,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Electric and gas service charges",
+     "memo": "utilities",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JLM HOLDINGS LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly lab and office lease",
+     "account": "Facility Rent and Lab Lease",
+     "amount_low": 62000,
+     "amount_high": 68000,
+     "weight": 1,
+     "item_shown_by_document": "Monthly base rent and common area charges",
+     "memo": "rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "RMT SERVICES",
+   "merchant_category": "Cleaning and Maintenance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Nightly office and non-lab cleaning",
+     "account": "Janitorial and Facility Maintenance",
+     "amount_low": 900,
+     "amount_high": 2300,
+     "weight": 1,
+     "item_shown_by_document": "Janitorial services, monthly",
+     "memo": "cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 00114",
+   "merchant_category": "Stationery and Office Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, toner and folders",
+     "account": "Office Supplies",
+     "amount_low": 25,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Copy paper, toner cartridge, folders",
+     "memo": "office restock",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0481",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee, snacks and kitchen restock",
+     "account": "Office Snacks and Kitchen Supplies",
+     "amount_low": 90,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "Coffee, sparkling water, granola bars",
+     "memo": "kitchen run",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food and drinks for the all hands party",
+     "account": "Team Meals and Events",
+     "amount_low": 120,
+     "amount_high": 800,
+     "weight": 1,
+     "item_shown_by_document": "Platters, sparkling water, paper plates",
+     "memo": "all hands party",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*OLIVE GROVE",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dinner for the lab team during a late run",
+     "account": "Team Meals and Events",
+     "amount_low": 40,
+     "amount_high": 320,
+     "weight": 3,
+     "item_shown_by_document": "Mediterranean bowls, delivery fee",
+     "memo": "late run dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch for a visiting customer lab",
+     "account": "Customer Meals and Entertainment",
+     "amount_low": 60,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Mediterranean bowls, delivery fee",
+     "memo": "lunch with visiting lab",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TST* MARIGOLD TAQUERIA",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team lunch near the office",
+     "account": "Team Meals and Events",
+     "amount_low": 35,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Tacos, agua fresca",
+     "memo": "team lunch",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *ORCHARD LANE",
+   "merchant_category": "Caterers",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Catering for the Friday science seminar",
+     "account": "Team Meals and Events",
+     "amount_low": 180,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Sandwich trays, salad, cookies",
+     "memo": "seminar catering",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights for customer site visits",
+     "account": "Airfare",
+     "amount_low": 220,
+     "amount_high": 780,
+     "weight": 4,
+     "item_shown_by_document": "Round trip economy ticket",
+     "memo": "site visit flight",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flying in a final round candidate",
+     "account": "Recruiting and Job Advertising",
+     "amount_low": 240,
+     "amount_high": 690,
+     "weight": 1,
+     "item_shown_by_document": "Round trip economy ticket",
+     "memo": "candidate flight",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT HOTELS",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel during customer installs and visits",
+     "account": "Lodging",
+     "amount_low": 170,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Room and tax",
+     "memo": "hotel, install trip",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides to airports and customer sites",
+     "account": "Ground Transportation and Parking",
+     "amount_low": 12,
+     "amount_high": 90,
+     "weight": 1,
+     "item_shown_by_document": "Trip fare",
+     "memo": "ride to airport",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AACR",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Exhibitor booth and annual meeting registration",
+     "account": "Conferences and Trade Shows",
+     "amount_low": 800,
+     "amount_high": 9500,
+     "weight": 3,
+     "item_shown_by_document": "Annual meeting exhibitor booth, badges",
+     "memo": "AACR booth",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Individual scientist memberships",
+     "account": "Licenses, Permits and Professional Dues",
+     "amount_low": 90,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Active member dues",
+     "memo": "AACR dues",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SQ *LAKESHORE SIGNS",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Conference posters and printed brochures",
+     "account": "Marketing Collateral and Branded Merchandise",
+     "amount_low": 60,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Printed posters, tri-fold brochures",
+     "memo": "poster printing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VISTAPRINT",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Branded notebooks and pens for trade shows",
+     "account": "Marketing Collateral and Branded Merchandise",
+     "amount_low": 80,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Branded notebooks, pens, business cards",
+     "memo": "show giveaways",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HARROW & FINCH LLP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Commercial contracts and financing counsel",
+     "account": "General Legal Fees",
+     "amount_low": 1800,
+     "amount_high": 16000,
+     "weight": 2,
+     "item_shown_by_document": "Matter: commercial agreements, hours billed",
+     "memo": "legal monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Patent filing and prosecution work",
+     "account": "Patent and Intellectual Property Costs",
+     "amount_low": 2400,
+     "amount_high": 14500,
+     "weight": 2,
+     "item_shown_by_document": "Matter: patent prosecution, office action response",
+     "memo": "patent matter",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "PELL STREET ADVISORS",
+   "merchant_category": "Accounting and Bookkeeping Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual audit and tax provision work",
+     "account": "Accounting, Audit and Tax Services",
+     "amount_low": 3500,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Audit progress billing, tax provision",
+     "memo": "audit fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EMBROKER INSURANCE",
+   "merchant_category": "Insurance Sales",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly installment on corporate insurance",
+     "account": "Business Insurance",
+     "amount_low": 1100,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "General liability and product liability installment",
+     "memo": "insurance installment",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BSI GROUP AMERICA",
+   "merchant_category": "Professional Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "ISO 13485 surveillance audit",
+     "account": "Regulatory and Quality Compliance",
+     "amount_low": 3200,
+     "amount_high": 11500,
+     "weight": 1,
+     "item_shown_by_document": "ISO 13485 surveillance audit, auditor days",
+     "memo": "ISO audit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CLASSPASS",
+   "merchant_category": "Health and Fitness Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company wellness credits for staff",
+     "account": "Employee Benefits and Perks",
+     "amount_low": 400,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Corporate wellness credits",
+     "memo": "wellness credits",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

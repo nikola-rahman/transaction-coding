@@ -1,0 +1,1473 @@
+{
+ "name": "Larkspur & Vane Hotels",
+ "chart": [
+  "Rooms Linen & Laundry",
+  "Rooms Guest Amenities",
+  "Rooms Cleaning Supplies",
+  "Rooms Minibar COGS",
+  "OTA Commissions",
+  "Travel Agent Commissions",
+  "F&B Food Cost",
+  "F&B Beverage Cost",
+  "F&B Smallwares",
+  "F&B Paper & Disposables",
+  "F&B Music & Entertainment",
+  "Flowers & Lobby Decor",
+  "R&M Building",
+  "R&M HVAC & Plumbing",
+  "R&M Elevators",
+  "Grounds & Pest Control",
+  "Capex FF&E",
+  "Capex Building Improvements",
+  "Utilities Electric & Gas",
+  "Utilities Water & Sewer",
+  "Waste Removal",
+  "Telecom & Internet",
+  "PMS & Hotel Software",
+  "Software Subscriptions",
+  "IT Hardware",
+  "IT Contractors",
+  "Digital Advertising",
+  "Brand & Print Marketing",
+  "PR & Media",
+  "Website & SEO",
+  "Photography & Content",
+  "Recruiting",
+  "Staff Uniforms",
+  "Staff Meals",
+  "Training & Certs",
+  "Employee Travel",
+  "Meals & Entertainment",
+  "Employee Events",
+  "Legal Fees",
+  "Accounting & Audit",
+  "Licenses & Permits",
+  "Property Insurance",
+  "Prepaid Expenses",
+  "Bank & Merchant Fees",
+  "Office Supplies",
+  "Postage & Freight",
+  "Guest Recovery"
+ ],
+ "departments": [
+  "Rooms",
+  "F&B",
+  "Engineering",
+  "Sales & Marketing",
+  "Finance",
+  "People & Culture",
+  "IT"
+ ],
+ "people": [
+  {
+   "name": "Marisol Quintero-Hale",
+   "department": "Rooms",
+   "card_name": "Rooms Ops Card"
+  },
+  {
+   "name": "Devon Achterberg",
+   "department": "Rooms",
+   "card_name": "Devon Achterberg Card"
+  },
+  {
+   "name": "Priya Venkataraghavan",
+   "department": "Rooms",
+   "card_name": "Housekeeping Card"
+  },
+  {
+   "name": "Tomasz Wierzbicki",
+   "department": "F&B",
+   "card_name": "F&B Purchasing Card"
+  },
+  {
+   "name": "Odalys Ferreira",
+   "department": "F&B",
+   "card_name": "Odalys Ferreira Card"
+  },
+  {
+   "name": "Callum Brandvold",
+   "department": "F&B",
+   "card_name": "Banquets Card"
+  },
+  {
+   "name": "Renzo Takahara",
+   "department": "Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Hattie Oyelaran",
+   "department": "Engineering",
+   "card_name": "Hattie Oyelaran Card"
+  },
+  {
+   "name": "Saoirse Lindqvist",
+   "department": "Sales & Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Jonah Mbeki-Ross",
+   "department": "Sales & Marketing",
+   "card_name": "Jonah Mbeki-Ross Card"
+  },
+  {
+   "name": "Anneliese Corvino",
+   "department": "Finance",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Bram Sutherlin",
+   "department": "Finance",
+   "card_name": "Bram Sutherlin Card"
+  },
+  {
+   "name": "Keisha Dombrowski",
+   "department": "People & Culture",
+   "card_name": "People Card"
+  },
+  {
+   "name": "Ilir Vashchenko",
+   "department": "IT",
+   "card_name": "IT Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMAZON MKTPL*2K4R17WQ3",
+   "merchant_category": "Misc General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, toner and front desk stationery",
+     "account": "Office Supplies",
+     "amount_low": 25,
+     "amount_high": 320,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, toner cartridges, pens",
+     "memo": "office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement keyboards, chargers and small IT accessories",
+     "account": "IT Hardware",
+     "amount_low": 30,
+     "amount_high": 450,
+     "weight": 2,
+     "item_shown_by_document": "USB-C docks, wireless keyboards",
+     "memo": "IT accessories",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Guest room phone chargers and bath extras",
+     "account": "Rooms Guest Amenities",
+     "amount_low": 40,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Bedside charging cables, shower caps",
+     "memo": "room extras",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0412",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Emergency restaurant food top-up",
+     "account": "F&B Food Cost",
+     "amount_low": 80,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "Eggs, butter, produce, dairy",
+     "memo": "kitchen ran short",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Snacks and coffee for the staff break room",
+     "account": "Staff Meals",
+     "amount_low": 50,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "Coffee, granola bars, fruit",
+     "memo": "break room",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food and drinks for team party",
+     "account": "Employee Events",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Platters, soda, paper goods",
+     "memo": "holiday party",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Staff ride between properties or to a client meeting",
+     "account": "Employee Travel",
+     "amount_low": 12,
+     "amount_high": 70,
+     "weight": 3,
+     "item_shown_by_document": "Trip receipt with route",
+     "memo": "ride to site visit",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Ride paid for a guest after an overbooking or service failure",
+     "account": "Guest Recovery",
+     "amount_low": 15,
+     "amount_high": 95,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt with route",
+     "memo": "walked guest ride",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #2217",
+   "merchant_category": "Home Supply Warehouse",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Paint, fasteners and repair materials for guest rooms",
+     "account": "R&M Building",
+     "amount_low": 30,
+     "amount_high": 850,
+     "weight": 4,
+     "item_shown_by_document": "Paint, drywall screws, caulk",
+     "memo": "room repairs",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Mulch, planters and soil for the courtyard",
+     "account": "Grounds & Pest Control",
+     "amount_low": 40,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "Mulch, potting soil, planters",
+     "memo": "courtyard",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Materials for a lobby renovation that gets capitalized",
+     "account": "Capex Building Improvements",
+     "amount_low": 1500,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Tile, vanity units, lumber",
+     "memo": "lobby reno materials",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "WEBSTAURANTSTORE",
+   "merchant_category": "Restaurant Supply",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Glassware, sheet pans and kitchen tools",
+     "account": "F&B Smallwares",
+     "amount_low": 60,
+     "amount_high": 1400,
+     "weight": 3,
+     "item_shown_by_document": "Rocks glasses, sheet pans, tongs",
+     "memo": "replace breakage",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "To-go containers, napkins and straws",
+     "account": "F&B Paper & Disposables",
+     "amount_low": 70,
+     "amount_high": 750,
+     "weight": 2,
+     "item_shown_by_document": "Compostable clamshells, cocktail napkins",
+     "memo": "disposables",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ULINE SHIP SUPPLIES",
+   "merchant_category": "Stationery and Office Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Boxes and tape for shipping between properties",
+     "account": "Postage & Freight",
+     "amount_low": 50,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Corrugated boxes, packing tape",
+     "memo": "shipping supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Trash liners and janitorial supplies for housekeeping",
+     "account": "Rooms Cleaning Supplies",
+     "amount_low": 90,
+     "amount_high": 800,
+     "weight": 2,
+     "item_shown_by_document": "Can liners, microfiber cloths",
+     "memo": "housekeeping restock",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP",
+   "merchant_category": "Uniforms and Commercial Clothing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly uniform rental for kitchen and engineering staff",
+     "account": "Staff Uniforms",
+     "amount_low": 280,
+     "amount_high": 1250,
+     "weight": 3,
+     "item_shown_by_document": "Chef coats, work shirts rental",
+     "memo": "uniform service",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Bar towels and kitchen linen rental",
+     "account": "Rooms Linen & Laundry",
+     "amount_low": 140,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Bar mops, aprons, floor mats",
+     "memo": "linen service",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "TOAST INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly restaurant POS subscription",
+     "account": "PMS & Hotel Software",
+     "amount_low": 165,
+     "amount_high": 1100,
+     "weight": 4,
+     "item_shown_by_document": "POS software subscription",
+     "memo": "Toast monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "New handheld terminals for the bar",
+     "account": "IT Hardware",
+     "amount_low": 450,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Toast Go handheld terminals",
+     "memo": "bar handhelds",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "APPLE.COM/US",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "iPad for the concierge desk under the cap threshold",
+     "account": "IT Hardware",
+     "amount_low": 350,
+     "amount_high": 1200,
+     "weight": 3,
+     "item_shown_by_document": "iPad, case",
+     "memo": "concierge iPad",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Batch of laptops above the cap threshold",
+     "account": "Capex FF&E",
+     "amount_low": 3200,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "MacBook Pro quantity 3 or more",
+     "memo": "new laptops",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "DELL MARKETING LP",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Single monitor or desktop replacement",
+     "account": "IT Hardware",
+     "amount_low": 220,
+     "amount_high": 1450,
+     "weight": 3,
+     "item_shown_by_document": "Monitor, desktop",
+     "memo": "replace PC",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Back-office server for a new property",
+     "account": "Capex FF&E",
+     "amount_low": 4200,
+     "amount_high": 14000,
+     "weight": 1,
+     "item_shown_by_document": "PowerEdge server",
+     "memo": "server for new hotel",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*ORDER",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dinner for staff working a double shift",
+     "account": "Staff Meals",
+     "amount_low": 35,
+     "amount_high": 220,
+     "weight": 3,
+     "item_shown_by_document": "Food order",
+     "memo": "late shift dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch with a corporate client or group planner",
+     "account": "Meals & Entertainment",
+     "amount_low": 45,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Food order",
+     "memo": "client lunch",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TRAVELERS INS PREM",
+   "merchant_category": "Insurance Premiums",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly property insurance installment",
+     "account": "Property Insurance",
+     "amount_low": 4800,
+     "amount_high": 12500,
+     "weight": 3,
+     "item_shown_by_document": "Installment notice for current month",
+     "memo": "insurance installment",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual policy paid up front",
+     "account": "Prepaid Expenses",
+     "amount_low": 38000,
+     "amount_high": 96000,
+     "weight": 1,
+     "item_shown_by_document": "Annual premium invoice with policy term",
+     "memo": "annual premium",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HARBOR STREET BAKERY",
+   "merchant_category": "Bakeries",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pastries and bread for hotel breakfast",
+     "account": "F&B Food Cost",
+     "amount_low": 90,
+     "amount_high": 780,
+     "weight": 4,
+     "item_shown_by_document": "Croissants, sourdough loaves",
+     "memo": "breakfast order",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Welcome treats for staff orientation",
+     "account": "Employee Events",
+     "amount_low": 40,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Assorted pastries",
+     "memo": "new hire welcome",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "OLD MILL WINE MERCHANTS",
+   "merchant_category": "Package Stores Beer Wine Liquor",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Wine and spirits for the restaurant and bar",
+     "account": "F&B Beverage Cost",
+     "amount_low": 240,
+     "amount_high": 3600,
+     "weight": 4,
+     "item_shown_by_document": "Cases of wine, spirits",
+     "memo": "bar order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Half bottles and miniatures for room minibars",
+     "account": "Rooms Minibar COGS",
+     "amount_low": 120,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Half bottles, 50ml miniatures",
+     "memo": "minibar refill",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "BLUEBIRD FLORALS",
+   "merchant_category": "Florists",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly lobby arrangements",
+     "account": "Flowers & Lobby Decor",
+     "amount_low": 85,
+     "amount_high": 520,
+     "weight": 4,
+     "item_shown_by_document": "Weekly arrangement",
+     "memo": "lobby flowers",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Apology bouquet sent to a guest room",
+     "account": "Guest Recovery",
+     "amount_low": 45,
+     "amount_high": 140,
+     "weight": 1,
+     "item_shown_by_document": "Bouquet",
+     "memo": "sorry flowers",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "COPPERLINE PLUMBING & HEATING",
+   "merchant_category": "Plumbing and Heating Contractors",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Service call to fix a leak or boiler fault",
+     "account": "R&M HVAC & Plumbing",
+     "amount_low": 220,
+     "amount_high": 2600,
+     "weight": 4,
+     "item_shown_by_document": "Service call, labor and parts",
+     "memo": "boiler fix",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Full boiler replacement",
+     "account": "Capex Building Improvements",
+     "amount_low": 9500,
+     "amount_high": 38000,
+     "weight": 1,
+     "item_shown_by_document": "New boiler installed, labor and equipment",
+     "memo": "boiler replacement",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 01184",
+   "merchant_category": "Stationery and Office Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pens, folders and printer ink",
+     "account": "Office Supplies",
+     "amount_low": 15,
+     "amount_high": 240,
+     "weight": 3,
+     "item_shown_by_document": "Folders, ink, pens",
+     "memo": "office stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Rush printed rate cards for a trade show",
+     "account": "Brand & Print Marketing",
+     "amount_low": 75,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Color print job, foam board",
+     "memo": "trade show print",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "LDR GROUP INC",
+   "merchant_category": "Business Services NEC",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Replacement guest room chairs and lamps",
+     "account": "Capex FF&E",
+     "amount_low": 2800,
+     "amount_high": 18500,
+     "weight": 2,
+     "item_shown_by_document": "Lounge chairs, bedside lamps",
+     "memo": "room refresh",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Reupholstery of a few damaged pieces",
+     "account": "R&M Building",
+     "amount_low": 300,
+     "amount_high": 1900,
+     "weight": 2,
+     "item_shown_by_document": "Reupholstery labor and fabric",
+     "memo": "chair repair",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "WESTERLY CO",
+   "merchant_category": "Misc Specialty Retail",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Signature candles and room scent for guest rooms",
+     "account": "Rooms Guest Amenities",
+     "amount_low": 180,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "Room candles, linen spray",
+     "memo": "room scent order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Seasonal decor for the lobby",
+     "account": "Flowers & Lobby Decor",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Dried wreaths, seasonal garland",
+     "memo": "lobby decor",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SQ *JRM SERVICES",
+   "merchant_category": "Contractors NEC",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Handyman repairs at a property",
+     "account": "R&M Building",
+     "amount_low": 90,
+     "amount_high": 750,
+     "weight": 3,
+     "item_shown_by_document": "Labor, door repair",
+     "memo": "door fix",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Snow clearing and yard cleanup",
+     "account": "Grounds & Pest Control",
+     "amount_low": 120,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "Snow removal visit",
+     "memo": "snow clearing",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "DBA LUMEN WORKS",
+   "merchant_category": "Computer Maintenance and Repair",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Hourly network and security support",
+     "account": "IT Contractors",
+     "amount_low": 400,
+     "amount_high": 4200,
+     "weight": 3,
+     "item_shown_by_document": "Consulting hours",
+     "memo": "network support",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual managed firewall license",
+     "account": "Prepaid Expenses",
+     "amount_low": 2400,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "12 month firewall license with term dates",
+     "memo": "firewall renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "SYSCO BOSTON",
+   "merchant_category": "Wholesale Food",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly broadline food delivery",
+     "account": "F&B Food Cost",
+     "amount_low": 1800,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "Proteins, dry goods, dairy",
+     "memo": "weekly Sysco",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BOOKING.COM BV",
+   "merchant_category": "Travel Agencies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly commissions on OTA bookings",
+     "account": "OTA Commissions",
+     "amount_low": 4500,
+     "amount_high": 38000,
+     "weight": 1,
+     "item_shown_by_document": "Commission statement by reservation",
+     "memo": "Booking comm",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EXPEDIA GROUP",
+   "merchant_category": "Travel Agencies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly commissions on OTA bookings",
+     "account": "OTA Commissions",
+     "amount_low": 3200,
+     "amount_high": 29000,
+     "weight": 1,
+     "item_shown_by_document": "Commission statement by reservation",
+     "memo": "Expedia comm",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8842117",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Paid search and hotel ads",
+     "account": "Digital Advertising",
+     "amount_low": 900,
+     "amount_high": 12000,
+     "weight": 1,
+     "item_shown_by_document": "Monthly ads invoice",
+     "memo": "Google ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *XQ7TLM3B2",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Instagram and Facebook campaigns",
+     "account": "Digital Advertising",
+     "amount_low": 300,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Campaign billing receipt",
+     "memo": "social ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRIPADVISOR LLC",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sponsored placement on listings",
+     "account": "Digital Advertising",
+     "amount_low": 250,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored placement invoice",
+     "memo": "TA listing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ADOBE *CREATIVE CLD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design software seats",
+     "account": "Software Subscriptions",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Creative Cloud seats",
+     "memo": "Adobe",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T02HK9",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team chat subscription",
+     "account": "Software Subscriptions",
+     "amount_low": 380,
+     "amount_high": 1450,
+     "weight": 1,
+     "item_shown_by_document": "Monthly seats",
+     "memo": "Slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MICROSOFT*365 BUSINESS",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and Office licenses",
+     "account": "Software Subscriptions",
+     "amount_low": 900,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Business Standard licenses",
+     "memo": "M365",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MEWS SYSTEMS",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Property management system fees",
+     "account": "PMS & Hotel Software",
+     "amount_low": 2800,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "PMS subscription by property",
+     "memo": "PMS monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR 0062318844",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights for site visits and trade shows",
+     "account": "Employee Travel",
+     "amount_low": 180,
+     "amount_high": 920,
+     "weight": 1,
+     "item_shown_by_document": "E-ticket receipt",
+     "memo": "flight to show",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ECOLAB INC",
+   "merchant_category": "Chemicals and Allied Products",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laundry and dish chemicals",
+     "account": "Rooms Cleaning Supplies",
+     "amount_low": 350,
+     "amount_high": 2900,
+     "weight": 1,
+     "item_shown_by_document": "Detergents, sanitizer",
+     "memo": "Ecolab order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN JOBS",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job postings for managers",
+     "account": "Recruiting",
+     "amount_low": 150,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Job slots invoice",
+     "memo": "GM posting",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INDEED JOBS",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sponsored job ads for hourly roles",
+     "account": "Recruiting",
+     "amount_low": 90,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored jobs invoice",
+     "memo": "housekeeper ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 79112048",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shipping contracts and lost guest items",
+     "account": "Postage & Freight",
+     "amount_low": 14,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Shipping label receipt",
+     "memo": "return guest item",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Property internet and phone lines",
+     "account": "Telecom & Internet",
+     "amount_low": 650,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Monthly service statement",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE FEES",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Card processing fees on direct bookings",
+     "account": "Bank & Merchant Fees",
+     "amount_low": 420,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Monthly fee summary",
+     "memo": "processing fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WM CORPORATE SERVICES",
+   "merchant_category": "Sanitation Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Trash and recycling pickup",
+     "account": "Waste Removal",
+     "amount_low": 480,
+     "amount_high": 2100,
+     "weight": 1,
+     "item_shown_by_document": "Monthly hauling invoice",
+     "memo": "trash",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OTIS ELEVATOR CO",
+   "merchant_category": "Contractors NEC",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quarterly elevator service contract",
+     "account": "R&M Elevators",
+     "amount_low": 1100,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Maintenance contract billing",
+     "memo": "elevator service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ORKIN #388",
+   "merchant_category": "Pest Control",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly pest treatment",
+     "account": "Grounds & Pest Control",
+     "amount_low": 110,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Service ticket",
+     "memo": "pest control",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQSP* WEBSITE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Website hosting for property microsites",
+     "account": "Website & SEO",
+     "amount_low": 25,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Site plan renewal",
+     "memo": "microsite",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SERVSAFE NRAEF",
+   "merchant_category": "Schools and Educational Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Food handler certification",
+     "account": "Training & Certs",
+     "amount_low": 15,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Course and exam voucher",
+     "memo": "ServSafe cert",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDTRACK YOUR BRAND",
+   "merchant_category": "Digital Goods Media",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Licensed lobby and restaurant music",
+     "account": "F&B Music & Entertainment",
+     "amount_low": 35,
+     "amount_high": 280,
+     "weight": 1,
+     "item_shown_by_document": "Music subscription by zone",
+     "memo": "lobby music",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EVERSOURCE ELEC",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric bills for properties",
+     "account": "Utilities Electric & Gas",
+     "amount_low": 1800,
+     "amount_high": 16500,
+     "weight": 1,
+     "item_shown_by_document": "Meter bill for the period",
+     "memo": "electric",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CITY OF SALEM WATER",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Water and sewer bills",
+     "account": "Utilities Water & Sewer",
+     "amount_low": 350,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Quarterly water bill",
+     "memo": "water",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FENNEL & FIG PRODUCE",
+   "merchant_category": "Wholesale Food",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Local produce for the restaurant",
+     "account": "F&B Food Cost",
+     "amount_low": 110,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Greens, herbs, seasonal vegetables",
+     "memo": "produce",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TIDEWATER SEAFOOD CO",
+   "merchant_category": "Wholesale Food",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fresh fish and shellfish",
+     "account": "F&B Food Cost",
+     "amount_low": 180,
+     "amount_high": 2200,
+     "weight": 1,
+     "item_shown_by_document": "Oysters, halibut, scallops",
+     "memo": "fish order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTHSIDE LAUNDRY SERVICE",
+   "merchant_category": "Laundry Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Outsourced sheet and towel laundering",
+     "account": "Rooms Linen & Laundry",
+     "amount_low": 1200,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "Pounds laundered by week",
+     "memo": "laundry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREYFIELD PRINT SHOP",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Brochures, menus and key sleeves",
+     "account": "Brand & Print Marketing",
+     "amount_low": 95,
+     "amount_high": 1250,
+     "weight": 1,
+     "item_shown_by_document": "Key sleeves, menus, brochures",
+     "memo": "print run",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MARLOW LAW GROUP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lease and employment counsel",
+     "account": "Legal Fees",
+     "amount_low": 850,
+     "amount_high": 14000,
+     "weight": 1,
+     "item_shown_by_document": "Hours by matter",
+     "memo": "legal retainer",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HOLLIS & DRAKE CPAS",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual audit and tax work",
+     "account": "Accounting & Audit",
+     "amount_low": 2500,
+     "amount_high": 26000,
+     "weight": 1,
+     "item_shown_by_document": "Audit progress billing",
+     "memo": "audit fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KNB HOLDINGS LLC",
+   "merchant_category": "Business Services NEC",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Replacement towels and bed linen",
+     "account": "Rooms Linen & Laundry",
+     "amount_low": 900,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Bath towels, king sheets",
+     "memo": "linen par",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* 412 MAIN",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a travel agency partner",
+     "account": "Meals & Entertainment",
+     "amount_low": 60,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Itemized dinner check",
+     "memo": "partner dinner",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PDQ VENTURES LLC",
+   "merchant_category": "Business Services NEC",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Contract help migrating property networks",
+     "account": "IT Contractors",
+     "amount_low": 1200,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Contractor hours",
+     "memo": "network migration",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SP AURELIA",
+   "merchant_category": "Misc Specialty Retail",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Bath amenity bottles for guest rooms",
+     "account": "Rooms Guest Amenities",
+     "amount_low": 260,
+     "amount_high": 3100,
+     "weight": 1,
+     "item_shown_by_document": "Shampoo, body wash refills",
+     "memo": "amenity reorder",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MHG PARTNERS",
+   "merchant_category": "Business Services NEC",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly PR agency retainer",
+     "account": "PR & Media",
+     "amount_low": 2500,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Retainer invoice",
+     "memo": "PR retainer",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "7741 TRADING CO",
+   "merchant_category": "Wholesale Beverages",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Beer and spirits distributor delivery",
+     "account": "F&B Beverage Cost",
+     "amount_low": 450,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Kegs, cases of spirits",
+     "memo": "beer delivery",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTHBOUND 88 LLC",
+   "merchant_category": "Business Services NEC",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Room and food photo shoot",
+     "account": "Photography & Content",
+     "amount_low": 600,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Shoot day and edited images",
+     "memo": "photo shoot",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CSC 0291",
+   "merchant_category": "Government Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Liquor license and annual filing fees",
+     "account": "Licenses & Permits",
+     "amount_low": 75,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Filing fee receipt",
+     "memo": "annual filing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "T&R ASSOC",
+   "merchant_category": "Landscaping Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly garden maintenance",
+     "account": "Grounds & Pest Control",
+     "amount_low": 280,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Grounds maintenance visit",
+     "memo": "garden service",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

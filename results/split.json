@@ -1,0 +1,84 @@
+{
+ "train": {
+  "ct:AccessHealthCT": {
+   "rows": 1856,
+   "accounts": 5
+  },
+  "ct:Capitol Region Development Authority": {
+   "rows": 312,
+   "accounts": 19
+  },
+  "ct:Connecticut Health and Educational Facilities Authority": {
+   "rows": 2653,
+   "accounts": 44
+  },
+  "ct:Connecticut Higher Education Supplemental Loan Authority": {
+   "rows": 1487,
+   "accounts": 32
+  },
+  "ct:Connecticut Housing Finance Authority": {
+   "rows": 2554,
+   "accounts": 29
+  },
+  "ct:Connecticut Innovations": {
+   "rows": 4047,
+   "accounts": 617
+  },
+  "ct:Connecticut Port Authority": {
+   "rows": 392,
+   "accounts": 169
+  },
+  "ct:Connecticut Student Loan Foundation": {
+   "rows": 250,
+   "accounts": 19
+  },
+  "ct:Materials Innovation and Recycling Authority": {
+   "rows": 9008,
+   "accounts": 321
+  },
+  "ct:State Education Resource Center": {
+   "rows": 4479,
+   "accounts": 81
+  },
+  "la": {
+   "rows": 3058157,
+   "accounts": 658
+  },
+  "ramsey": {
+   "rows": 1435138,
+   "accounts": 586
+  }
+ },
+ "validation": {
+  "ct:CT Lottery": {
+   "rows": 8002,
+   "accounts": 141
+  },
+  "ct:Connecticut Airport Authority": {
+   "rows": 21227,
+   "accounts": 280
+  },
+  "ct:Connecticut Green Bank": {
+   "rows": 9634,
+   "accounts": 95
+  },
+  "fulton": {
+   "rows": 200282,
+   "accounts": 512
+  },
+  "council:cambridgeshire": {
+   "rows": 49553,
+   "accounts": 227
+  }
+ },
+ "sealed_test": {
+  "council:calderdale": {
+   "rows": 102214,
+   "accounts": 49
+  },
+  "council:barnet": {
+   "rows": 12171,
+   "accounts": 67
+  }
+ }
+}

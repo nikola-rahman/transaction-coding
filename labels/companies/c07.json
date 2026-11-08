@@ -1,0 +1,1524 @@
+{
+ "name": "Halden Thermal Works, Inc.",
+ "chart": [
+  "510100 Cost of Pilots:Site Installation",
+  "510200 Cost of Pilots:Pilot Freight",
+  "610100 Research & Development:Prototype Materials",
+  "610200 Research & Development:Electronics & Sensors",
+  "610300 Research & Development:Lab Consumables",
+  "610400 Research & Development:Small Tools & Bench Equipment",
+  "610500 Research & Development:Outside Fabrication",
+  "610600 Research & Development:Testing & Certification",
+  "610700 Research & Development:Engineering Software",
+  "620100 Facilities:Workshop Rent",
+  "620200 Facilities:Utilities",
+  "620300 Facilities:Repairs & Maintenance",
+  "620400 Facilities:Waste & Hazmat Disposal",
+  "620500 Facilities:Equipment Rental",
+  "630100 Software & IT:SaaS Subscriptions",
+  "630200 Software & IT:Cloud Hosting",
+  "630300 Software & IT:Computer Hardware",
+  "640100 Professional Fees:Legal",
+  "640200 Professional Fees:Patent & IP",
+  "640300 Professional Fees:Accounting & Tax",
+  "640400 Professional Fees:Contractors",
+  "650100 Travel:Airfare",
+  "650200 Travel:Lodging",
+  "650300 Travel:Ground Transport",
+  "650400 Travel:Meals",
+  "660100 Marketing:Website & Branding",
+  "660200 Marketing:Conferences & Events",
+  "670100 Office & Admin:Office Supplies",
+  "670200 Office & Admin:Postage & Shipping",
+  "670300 Office & Admin:Team Meals",
+  "670400 Office & Admin:Bank & Merchant Fees",
+  "680100 Insurance:General Liability & Property",
+  "690100 Depreciation & Amortization:Capitalized Equipment",
+  "690200 Depreciation & Amortization:Prepaid Expense Amortization"
+ ],
+ "departments": [
+  "Executive",
+  "Engineering",
+  "Field Pilots",
+  "Operations"
+ ],
+ "people": [
+  {
+   "name": "Maren Oyelaran",
+   "department": "Executive",
+   "card_name": "Maren Oyelaran Card"
+  },
+  {
+   "name": "Tobias Lindqvist-Reyes",
+   "department": "Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Sunniva Paredes",
+   "department": "Engineering",
+   "card_name": "Sunniva Paredes Card"
+  },
+  {
+   "name": "Dov Castellanos",
+   "department": "Field Pilots",
+   "card_name": "Field Pilots Card"
+  },
+  {
+   "name": "Hana Whitcombe",
+   "department": "Operations",
+   "card_name": "Operations Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "MCMASTER-CARR",
+   "merchant_category": "5085 Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stainless fittings and ceramic insulation for the heat battery prototype",
+     "account": "610100 Research & Development:Prototype Materials",
+     "amount_low": 40,
+     "amount_high": 900,
+     "weight": 4,
+     "item_shown_by_document": "316 stainless pipe fittings, ceramic fiber blanket",
+     "memo": "fittings + insulation for core v3",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Hand tools and clamps for the bench",
+     "account": "610400 Research & Development:Small Tools & Bench Equipment",
+     "amount_low": 25,
+     "amount_high": 350,
+     "weight": 2,
+     "item_shown_by_document": "Torque wrench, bar clamps, deburring tool",
+     "memo": "bench tools",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "DIGIKEY ELECTRONICS",
+   "merchant_category": "5065 Electrical Parts and Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sensors and connectors for the controller board",
+     "account": "610200 Research & Development:Electronics & Sensors",
+     "amount_low": 20,
+     "amount_high": 600,
+     "weight": 5,
+     "item_shown_by_document": "Thermocouple amplifiers, terminal blocks, connectors",
+     "memo": "controller parts",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Bench power supply and soldering station",
+     "account": "610400 Research & Development:Small Tools & Bench Equipment",
+     "amount_low": 120,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "Programmable DC power supply",
+     "memo": "new bench supply",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GRAINGER",
+   "merchant_category": "5085 Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Gloves, respirators and PPE for test work",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 30,
+     "amount_high": 300,
+     "weight": 3,
+     "item_shown_by_document": "Heat resistant gloves, N95 respirators",
+     "memo": "PPE restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement parts for shop ventilation",
+     "account": "620300 Facilities:Repairs & Maintenance",
+     "amount_low": 60,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "Exhaust fan belt, duct clamps",
+     "memo": "fix shop exhaust fan",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AMZN MKTP US*2K7QX91",
+   "merchant_category": "5942 Book Stores / Online Marketplace",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, pens and notebooks",
+     "account": "670100 Office & Admin:Office Supplies",
+     "amount_low": 10,
+     "amount_high": 120,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, gel pens",
+     "memo": "office stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Wipes, isopropyl alcohol and sample bags",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 12,
+     "amount_high": 140,
+     "weight": 3,
+     "item_shown_by_document": "Isopropyl alcohol, lint free wipes",
+     "memo": "lab restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Multimeter and small bench tools",
+     "account": "610400 Research & Development:Small Tools & Bench Equipment",
+     "amount_low": 20,
+     "amount_high": 220,
+     "weight": 2,
+     "item_shown_by_document": "Digital multimeter, IR thermometer",
+     "memo": "multimeter",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #0642",
+   "merchant_category": "5200 Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lumber and sheet metal for the test rig",
+     "account": "610100 Research & Development:Prototype Materials",
+     "amount_low": 15,
+     "amount_high": 400,
+     "weight": 3,
+     "item_shown_by_document": "2x4 lumber, galvanized sheet",
+     "memo": "rig frame",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Paint, anchors and fixes around the workshop",
+     "account": "620300 Facilities:Repairs & Maintenance",
+     "amount_low": 15,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "Paint, concrete anchors, conduit",
+     "memo": "workshop repairs",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ULINE SHIP SUPPLIES",
+   "merchant_category": "5085 Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Boxes and foam for shipping samples",
+     "account": "670200 Office & Admin:Postage & Shipping",
+     "amount_low": 40,
+     "amount_high": 350,
+     "weight": 2,
+     "item_shown_by_document": "Corrugated boxes, foam sheets",
+     "memo": "sample shipping boxes",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Spill kits and sample containers",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 35,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Spill kit, HDPE containers",
+     "memo": "spill kit",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "OMEGA ENGINEERING",
+   "merchant_category": "5065 Electrical Parts and Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "High temperature thermocouples and probes",
+     "account": "610200 Research & Development:Electronics & Sensors",
+     "amount_low": 45,
+     "amount_high": 800,
+     "weight": 1,
+     "item_shown_by_document": "Type K thermocouple probes",
+     "memo": "TCs for core test",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TEQUIPMENT.NET",
+   "merchant_category": "5065 Electrical Parts and Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Probes and leads below the capitalization threshold",
+     "account": "610400 Research & Development:Small Tools & Bench Equipment",
+     "amount_low": 40,
+     "amount_high": 900,
+     "weight": 3,
+     "item_shown_by_document": "Oscilloscope probes, test leads",
+     "memo": "scope probes",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Data acquisition system above the $2,500 capitalization threshold",
+     "account": "690100 Depreciation & Amortization:Capitalized Equipment",
+     "amount_low": 2500,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "32 channel data acquisition system",
+     "memo": "DAQ for test stand, capitalize?",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PROTOLABS INC",
+   "merchant_category": "3999 Manufacturing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Machined brackets and manifold parts",
+     "account": "610500 Research & Development:Outside Fabrication",
+     "amount_low": 180,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "CNC machined aluminum manifold",
+     "memo": "manifold rev B",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "XOMETRY",
+   "merchant_category": "3999 Manufacturing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Machined parts for the lab prototype",
+     "account": "610500 Research & Development:Outside Fabrication",
+     "amount_low": 150,
+     "amount_high": 2800,
+     "weight": 3,
+     "item_shown_by_document": "CNC machined flange set",
+     "memo": "flanges for prototype",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Machined parts for the pilot unit install",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 300,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "CNC machined flange set",
+     "memo": "flanges for brewery pilot",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SENDCUTSEND",
+   "merchant_category": "3999 Manufacturing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laser cut sheet metal panels",
+     "account": "610500 Research & Development:Outside Fabrication",
+     "amount_low": 60,
+     "amount_high": 750,
+     "weight": 1,
+     "item_shown_by_document": "Laser cut 304 stainless panels",
+     "memo": "enclosure panels",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JLCPCB",
+   "merchant_category": "5065 Electrical Parts and Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Controller PCB fabrication runs",
+     "account": "610200 Research & Development:Electronics & Sensors",
+     "amount_low": 25,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "4 layer PCB, 10 pcs",
+     "memo": "controller board rev C",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AIRGAS USA LLC",
+   "merchant_category": "5169 Chemicals and Allied Products",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Argon and nitrogen refills",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 45,
+     "amount_high": 280,
+     "weight": 3,
+     "item_shown_by_document": "Argon refill, nitrogen refill",
+     "memo": "gas refill",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monthly cylinder rental",
+     "account": "620500 Facilities:Equipment Rental",
+     "amount_low": 18,
+     "amount_high": 70,
+     "weight": 2,
+     "item_shown_by_document": "Cylinder rental charge, 3 cylinders",
+     "memo": "cylinder rent",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "UNITED RENTALS",
+   "merchant_category": "7394 Equipment Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Scissor lift rental for workshop work",
+     "account": "620500 Facilities:Equipment Rental",
+     "amount_low": 180,
+     "amount_high": 850,
+     "weight": 2,
+     "item_shown_by_document": "Scissor lift, 3 day rental",
+     "memo": "lift for shop",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Telehandler rental at the pilot site",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 450,
+     "amount_high": 2200,
+     "weight": 1,
+     "item_shown_by_document": "Telehandler, 3 day rental",
+     "memo": "pilot site unload",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UL SOLUTIONS",
+   "merchant_category": "8734 Testing Laboratories",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pre compliance review of the heater assembly",
+     "account": "610600 Research & Development:Testing & Certification",
+     "amount_low": 2000,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Preliminary safety evaluation",
+     "memo": "UL prelim review",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AUTODESK INC",
+   "merchant_category": "5734 Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly Fusion seat",
+     "account": "610700 Research & Development:Engineering Software",
+     "amount_low": 70,
+     "amount_high": 140,
+     "weight": 4,
+     "item_shown_by_document": "Fusion monthly subscription",
+     "memo": "fusion monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual Fusion seats paid up front",
+     "account": "690200 Depreciation & Amortization:Prepaid Expense Amortization",
+     "amount_low": 680,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Fusion annual subscription, 2 seats",
+     "memo": "annual, spread over 12 mo",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MATHWORKS INC",
+   "merchant_category": "5734 Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual MATLAB startup licence",
+     "account": "690200 Depreciation & Amortization:Prepaid Expense Amortization",
+     "amount_low": 1200,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "MATLAB and Simulink annual licence",
+     "memo": "annual thermal modeling licence",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ALTIUM LLC",
+   "merchant_category": "5734 Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "PCB design software seat",
+     "account": "610700 Research & Development:Engineering Software",
+     "amount_low": 55,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Altium Designer monthly",
+     "memo": "PCB CAD",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_HALDEN",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and documents for the team",
+     "account": "630100 Software & IT:SaaS Subscriptions",
+     "amount_low": 35,
+     "amount_high": 90,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Standard, 5 users",
+     "memo": "workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T04HALDEN",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team chat",
+     "account": "630100 Software & IT:SaaS Subscriptions",
+     "amount_low": 25,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro, 5 users",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Firmware repositories",
+     "account": "630100 Software & IT:SaaS Subscriptions",
+     "amount_low": 12,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team, 3 seats",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMAZON WEB SERVICES",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for pilot telemetry",
+     "account": "630200 Software & IT:Cloud Hosting",
+     "amount_low": 15,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "EC2, S3, IoT Core usage",
+     "memo": "AWS telemetry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTUIT *QBOOKS ONLINE",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bookkeeping software",
+     "account": "630100 Software & IT:SaaS Subscriptions",
+     "amount_low": 35,
+     "amount_high": 100,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online Plus",
+     "memo": "quickbooks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO PAYROLL FEE",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll platform fee",
+     "account": "630100 Software & IT:SaaS Subscriptions",
+     "amount_low": 55,
+     "amount_high": 110,
+     "weight": 1,
+     "item_shown_by_document": "Gusto Simple plan, 5 people",
+     "memo": "payroll fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CARTA INC",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Cap table management",
+     "account": "640300 Professional Fees:Accounting & Tax",
+     "amount_low": 120,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Carta Launch annual plan",
+     "memo": "cap table",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE #R014",
+   "merchant_category": "5732 Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Keyboards, adapters and cables",
+     "account": "630300 Software & IT:Computer Hardware",
+     "amount_low": 20,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "USB-C hub, Magic Keyboard",
+     "memo": "adapters",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Laptop for the new engineer",
+     "account": "690100 Depreciation & Amortization:Capitalized Equipment",
+     "amount_low": 2500,
+     "amount_high": 3600,
+     "weight": 1,
+     "item_shown_by_document": "MacBook Pro 16 inch",
+     "memo": "new eng laptop, over threshold",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "B&H PHOTO 800-606-6969",
+   "merchant_category": "5732 Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monitors and docks",
+     "account": "630300 Software & IT:Computer Hardware",
+     "amount_low": 130,
+     "amount_high": 750,
+     "weight": 1,
+     "item_shown_by_document": "27 inch monitor, Thunderbolt dock",
+     "memo": "monitor",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UNITED AIRLINES",
+   "merchant_category": "3000 Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to pilot customers and investors",
+     "account": "650100 Travel:Airfare",
+     "amount_low": 150,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "SFO to DEN, economy",
+     "memo": "Denver pilot visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES",
+   "merchant_category": "3058 Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to site visits",
+     "account": "650100 Travel:Airfare",
+     "amount_low": 170,
+     "amount_high": 680,
+     "weight": 1,
+     "item_shown_by_document": "SFO to MSP, economy",
+     "memo": "MSP site visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT COURTYARD DENVER",
+   "merchant_category": "3509 Hotels",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel during site visits",
+     "account": "650200 Travel:Lodging",
+     "amount_low": 130,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "2 nights room and tax",
+     "memo": "pilot trip hotel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AIRBNB * HMX4Q2ZT",
+   "merchant_category": "7011 Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shared stay for the install crew",
+     "account": "650200 Travel:Lodging",
+     "amount_low": 180,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "4 nights entire home",
+     "memo": "install crew stay",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "4121 Taxicabs and Rideshares",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides to airports and meetings",
+     "account": "650300 Travel:Ground Transport",
+     "amount_low": 12,
+     "amount_high": 85,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt, SFO to downtown",
+     "memo": "uber to airport",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *EATS",
+   "merchant_category": "5814 Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Late night dinner during test runs",
+     "account": "670300 Office & Admin:Team Meals",
+     "amount_low": 28,
+     "amount_high": 160,
+     "weight": 2,
+     "item_shown_by_document": "Thai dinner order",
+     "memo": "dinner during overnight test",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner in the hotel on a site visit",
+     "account": "650400 Travel:Meals",
+     "amount_low": 16,
+     "amount_high": 55,
+     "weight": 1,
+     "item_shown_by_document": "Thai dinner order",
+     "memo": "dinner on the road",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "HERTZ RENT-A-CAR",
+   "merchant_category": "3357 Car Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rental car on site visits",
+     "account": "650300 Travel:Ground Transport",
+     "amount_low": 75,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Midsize, 3 days",
+     "memo": "rental for site visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 57442190",
+   "merchant_category": "5541 Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fuel for the rental on a site visit",
+     "account": "650300 Travel:Ground Transport",
+     "amount_low": 25,
+     "amount_high": 85,
+     "weight": 3,
+     "item_shown_by_document": "Unleaded fuel",
+     "memo": "gas",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Diesel for the test generator",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 30,
+     "amount_high": 110,
+     "weight": 1,
+     "item_shown_by_document": "Diesel fuel",
+     "memo": "diesel for genset test",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*SAFFRON HOUSE",
+   "merchant_category": "5812 Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team lunch at the workshop",
+     "account": "670300 Office & Admin:Team Meals",
+     "amount_low": 40,
+     "amount_high": 170,
+     "weight": 3,
+     "item_shown_by_document": "Lunch order, 5 items",
+     "memo": "team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Meal while travelling",
+     "account": "650400 Travel:Meals",
+     "amount_low": 15,
+     "amount_high": 48,
+     "weight": 1,
+     "item_shown_by_document": "Lunch order, 1 item",
+     "memo": "lunch at hotel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "STARBUCKS STORE 08812",
+   "merchant_category": "5814 Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee on the road",
+     "account": "650400 Travel:Meals",
+     "amount_low": 5,
+     "amount_high": 22,
+     "weight": 2,
+     "item_shown_by_document": "Latte, sandwich",
+     "memo": "coffee, travel day",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Coffee with the team",
+     "account": "670300 Office & Admin:Team Meals",
+     "amount_low": 12,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "Coffee traveler, pastries",
+     "memo": "morning standup coffee",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0482",
+   "merchant_category": "5300 Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Snacks and drinks for the workshop",
+     "account": "670300 Office & Admin:Team Meals",
+     "amount_low": 40,
+     "amount_high": 220,
+     "weight": 3,
+     "item_shown_by_document": "Snack box, sparkling water",
+     "memo": "shop snacks",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Trash bags and paper goods",
+     "account": "670100 Office & Admin:Office Supplies",
+     "amount_low": 25,
+     "amount_high": 120,
+     "weight": 2,
+     "item_shown_by_document": "Paper towels, trash bags",
+     "memo": "paper goods",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Distilled water for test loops",
+     "account": "610300 Research & Development:Lab Consumables",
+     "amount_low": 15,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Distilled water, 12 gal",
+     "memo": "DI water for loop",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 0552190123",
+   "merchant_category": "9402 Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Mailing patent paperwork and samples",
+     "account": "670200 Office & Admin:Postage & Shipping",
+     "amount_low": 8,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Priority Mail label",
+     "memo": "mailed samples",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 781134902",
+   "merchant_category": "4215 Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sending samples to test labs",
+     "account": "670200 Office & Admin:Postage & Shipping",
+     "amount_low": 18,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "FedEx Express, 12 lb",
+     "memo": "sand samples to lab",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Sending parts to the pilot site",
+     "account": "510200 Cost of Pilots:Pilot Freight",
+     "amount_low": 60,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "FedEx Freight, 140 lb",
+     "memo": "parts to pilot site",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "WEBFLOW.COM",
+   "merchant_category": "7372 Computer Programming Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company website hosting",
+     "account": "660100 Marketing:Website & Branding",
+     "amount_low": 18,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Webflow CMS site plan",
+     "memo": "website",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "RE+ EVENTS",
+   "merchant_category": "7399 Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Conference pass and exhibit fee",
+     "account": "660200 Marketing:Conferences & Events",
+     "amount_low": 450,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Conference pass, 2 attendees",
+     "memo": "RE+ passes",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PG&E WEB ONLINE",
+   "merchant_category": "4900 Utilities",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Workshop electricity",
+     "account": "620200 Facilities:Utilities",
+     "amount_low": 380,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Electric service, commercial",
+     "memo": "shop power, high on test weeks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "4899 Cable and Telecom Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Workshop internet",
+     "account": "620200 Facilities:Utilities",
+     "amount_low": 110,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Business internet",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WISE US INC",
+   "merchant_category": "6012 Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fee on a payment to an overseas supplier",
+     "account": "670400 Office & Admin:Bank & Merchant Fees",
+     "amount_low": 5,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "International transfer fee",
+     "memo": "wire fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VOUCH INSURANCE",
+   "merchant_category": "6300 Insurance",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly general liability instalment",
+     "account": "680100 Insurance:General Liability & Property",
+     "amount_low": 240,
+     "amount_high": 520,
+     "weight": 3,
+     "item_shown_by_document": "General liability premium, monthly",
+     "memo": "GL premium",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual property policy paid up front",
+     "account": "690200 Depreciation & Amortization:Prepaid Expense Amortization",
+     "amount_low": 3200,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Property policy, 12 month term",
+     "memo": "annual premium, amortize",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "LANDVALE HOLDINGS LLC",
+   "merchant_category": "6513 Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly workshop rent",
+     "account": "620100 Facilities:Workshop Rent",
+     "amount_low": 4200,
+     "amount_high": 4800,
+     "weight": 6,
+     "item_shown_by_document": "Rent for Unit 7, 1,800 sq ft",
+     "memo": "shop rent",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Rent paid ahead for the next six months at a discount",
+     "account": "690200 Depreciation & Amortization:Prepaid Expense Amortization",
+     "amount_low": 24000,
+     "amount_high": 26500,
+     "weight": 1,
+     "item_shown_by_document": "Rent, six months prepaid",
+     "memo": "six months up front",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PELLHAM SATO LLP",
+   "merchant_category": "8111 Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pre seed financing and contract work",
+     "account": "640100 Professional Fees:Legal",
+     "amount_low": 900,
+     "amount_high": 7500,
+     "weight": 1,
+     "item_shown_by_document": "Legal services, SAFE documents",
+     "memo": "SAFE paperwork",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HARROWGATE LUND IP",
+   "merchant_category": "8111 Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Provisional patent on the thermal core",
+     "account": "640200 Professional Fees:Patent & IP",
+     "amount_low": 1800,
+     "amount_high": 8200,
+     "weight": 1,
+     "item_shown_by_document": "Provisional application drafting",
+     "memo": "core patent filing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BRIGHTLEDGER BOOKS & TAX",
+   "merchant_category": "8931 Accounting and Bookkeeping",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping and annual return",
+     "account": "640300 Professional Fees:Accounting & Tax",
+     "amount_low": 450,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Monthly close, R&D credit study",
+     "memo": "books",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OKONJO CONTROLS",
+   "merchant_category": "8999 Professional Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Contract controls engineering",
+     "account": "640400 Professional Fees:Contractors",
+     "amount_low": 1200,
+     "amount_high": 6400,
+     "weight": 3,
+     "item_shown_by_document": "Controls engineering, 32 hours",
+     "memo": "controls contractor",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Commissioning the pilot controller on site",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 1500,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Commissioning, 24 hours",
+     "memo": "pilot commissioning",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SQ *FRUITVALE WELD & FAB",
+   "merchant_category": "7692 Welding Repair",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Welded frames for the prototype",
+     "account": "610500 Research & Development:Outside Fabrication",
+     "amount_low": 220,
+     "amount_high": 2600,
+     "weight": 3,
+     "item_shown_by_document": "Welded steel frame, labor and material",
+     "memo": "prototype frame",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Skid for the pilot unit",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 800,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Welded steel skid, labor and material",
+     "memo": "pilot skid",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Repair of the shop roll up door track",
+     "account": "620300 Facilities:Repairs & Maintenance",
+     "amount_low": 120,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "Weld repair, door track",
+     "memo": "door track fix",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ESTUARY METALS",
+   "merchant_category": "5051 Metal Service Centers",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Steel plate and tube stock",
+     "account": "610100 Research & Development:Prototype Materials",
+     "amount_low": 90,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "A36 plate, 2 in square tube",
+     "memo": "steel for core shell",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BAYLINE REFRACTORY SUPPLY",
+   "merchant_category": "5039 Construction Materials",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Silica sand and firebrick for the thermal core",
+     "account": "610100 Research & Development:Prototype Materials",
+     "amount_low": 240,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Silica sand 4 tons, firebrick",
+     "memo": "sand load for core",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ARC MATERIALS GRP",
+   "merchant_category": "5039 Construction Materials",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Insulation board for the core",
+     "account": "610100 Research & Development:Prototype Materials",
+     "amount_low": 120,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Calcium silicate board",
+     "memo": "insulation boards",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *DRCKLABS",
+   "merchant_category": "7399 Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Custom thermal test fixtures from a small shop",
+     "account": "610600 Research & Development:Testing & Certification",
+     "amount_low": 180,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Custom thermal cycling fixture",
+     "memo": "test fixture",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *KJM SERVICES",
+   "merchant_category": "7349 Cleaning and Maintenance",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Shop floor cleaning",
+     "account": "620300 Facilities:Repairs & Maintenance",
+     "amount_low": 90,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Floor cleaning service",
+     "memo": "floor cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRIDENT HZ HAUL",
+   "merchant_category": "4953 Sanitary Systems",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Removing spent insulation and oily rags",
+     "account": "620400 Facilities:Waste & Hazmat Disposal",
+     "amount_low": 140,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Waste pickup, 2 drums",
+     "memo": "waste pickup",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORCAL CAL LAB",
+   "merchant_category": "8734 Testing Laboratories",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual sensor calibration",
+     "account": "610600 Research & Development:Testing & Certification",
+     "amount_low": 85,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Calibration certificate, 6 thermocouples",
+     "memo": "sensor cal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GVC RIGGING INC",
+   "merchant_category": "1799 Special Trade Contractors",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Crane and rigging at the pilot site",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 1100,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Crane, 4 hours, two riggers",
+     "memo": "set unit at pilot site",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COASTLINE ELECTRIC CO",
+   "merchant_category": "1731 Electrical Contractors",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "New 240V circuit in the workshop",
+     "account": "620300 Facilities:Repairs & Maintenance",
+     "amount_low": 450,
+     "amount_high": 2800,
+     "weight": 2,
+     "item_shown_by_document": "Install 240V circuit, Unit 7",
+     "memo": "new shop circuit",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Electrical tie in at the pilot site",
+     "account": "510100 Cost of Pilots:Site Installation",
+     "amount_low": 900,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "Electrical tie in, labor and materials",
+     "memo": "pilot tie in",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TOPLINE FREIGHT LLC",
+   "merchant_category": "4214 Motor Freight Carriers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Trucking the pilot unit to the site",
+     "account": "510200 Cost of Pilots:Pilot Freight",
+     "amount_low": 650,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Flatbed, Oakland to Denver",
+     "memo": "pilot unit trucking",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LUMEN PRINT & SIGN",
+   "merchant_category": "7338 Quick Copy Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Trade show banners",
+     "account": "660200 Marketing:Conferences & Events",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Retractable banner",
+     "memo": "booth banner",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Business cards and logo stickers",
+     "account": "660100 Marketing:Website & Branding",
+     "amount_low": 30,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Business cards, 250 pack",
+     "memo": "cards",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "MDC SVCS 8812",
+   "merchant_category": "7399 Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Contract drafting for the test report",
+     "account": "640400 Professional Fees:Contractors",
+     "amount_low": 200,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Technical drafting, 6 hours",
+     "memo": "drawings for report",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* HEARTH & RYE",
+   "merchant_category": "5812 Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch with a pilot customer",
+     "account": "650400 Travel:Meals",
+     "amount_low": 35,
+     "amount_high": 140,
+     "weight": 1,
+     "item_shown_by_document": "Lunch for 2",
+     "memo": "customer lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Team dinner after a test milestone",
+     "account": "670300 Office & Admin:Team Meals",
+     "amount_low": 90,
+     "amount_high": 320,
+     "weight": 2,
+     "item_shown_by_document": "Dinner for 5",
+     "memo": "team dinner, 500C hold",
+     "decided_by": "purpose"
+    }
+   ]
+  }
+ ]
+}

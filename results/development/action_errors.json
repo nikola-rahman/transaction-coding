@@ -1,0 +1,803 @@
+[
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.79,
+"state": "New transaction: merchant=UNITED ILLUMINATING COMPANY; amount=232.81 USD; date=2016-10-06; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nUNITED ILLUMINATING COMPANY | 188.53 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 915.47 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 201.51 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 844.99 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 1475.34 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 266.16 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 185.28 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 1560.73 | None | None | None -> utilities\nUNITED ILLUMINATING COMPANY | 1313.78 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 355.77 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 454.65 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 2624.18 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 3786.14 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 537.27 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 454.65 | None | None | None -> electricity\nUNITED ILLUMINATING COMPANY | 3359.85 | None | None | None -> electricity",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.83,
+"state": "New transaction: merchant=Enviro Power, LLC; amount=12500.0 USD; date=2017-08-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nEnviro Power, LLC | 12449.04 | None | None | None -> ttb grant",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.56,
+"state": "New transaction: merchant=COMM REVENUE SERVICES, ST OF CT; amount=75733.94 USD; date=2016-07-25; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCOMM REVENUE SERVICES, ST OF CT | 229453.79 | None | None | None -> solid waste assessment tax",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.58,
+"state": "New transaction: merchant=GetGo; amount=413.33 USD; date=2017-08-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nGetGo | 507.96 | None | None | None -> webinar service",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.91,
+"state": "New transaction: merchant=The Bananaland; amount=17500.0 USD; date=2018-02-09; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nThe Bananaland | 2595.5 | None | None | None -> marketing\nThe Bananaland | 300.0 | None | None | None -> marketing\nThe Bananaland | 3436.5 | None | None | None -> marketing\nThe Bananaland | 11379.0 | None | None | None -> marketing\nThe Bananaland | 7972.77 | None | None | None -> marketing\nThe Bananaland | 350.0 | None | None | None -> marketing\nThe Bananaland | 8346.0 | None | None | None -> marketing\nThe Bananaland | 3903.0 | None | None | None -> marketing",
+"case": "easy"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.49,
+"state": "New transaction: merchant=Systems Integration, Inc; amount=11495.0 USD; date=2017-11-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.76,
+"state": "New transaction: merchant=STAPLES BUSINESS ADVANTAGE; amount=363.09 USD; date=2018-04-25; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nSTAPLES BUSINESS ADVANTAGE | 190.95 | None | None | None -> office supplies",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.83,
+"state": "New transaction: merchant=MassMEDIC; amount=1000.0 USD; date=2018-02-02; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "send_to_bookkeeper",
+"pred": "request_document",
+"p": 0.74,
+"state": "New transaction: merchant=TOWN OF ESSEX; amount=3287.8 USD; date=2015-10-01; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nTOWN OF ESSEX | 3105.19 | None | None | None -> payment in lieu of taxes\nTOWN OF ESSEX | 3131.39 | None | None | None -> payment in lieu of taxes\nTOWN OF ESSEX | 3415.1 | None | None | None -> payment in lieu of taxes\nTOWN OF ESSEX | 2717.5 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 2261.07 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 2851.77 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 3246.99 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 2825.61 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 3384.78 | None | None | None -> muncipal subsidy\nTOWN OF ESSEX | 7182.1 | None | None | None -> distribution to towns",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.62,
+"state": "New transaction: merchant=GUZOWSKI, ROGER; amount=103.53 USD; date=2018-06-20; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.46,
+"state": "New transaction: merchant=Updike, Kelly & Spellacy, PC; amount=503.1 USD; date=2018-05-24; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.69,
+"state": "New transaction: merchant=KIRK, THOMAS D; amount=71.41 USD; date=2016-02-11; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "send_to_bookkeeper",
+"p": 0.89,
+"state": "New transaction: merchant=SONITROL SECURITY SYSTEMS HTFD INC; amount=4490.67 USD; date=2017-07-18; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nSONITROL SECURITY SYSTEMS HTFD INC | 121.68 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 719.55 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 285.0 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 4205.67 | None | None | None -> building operations and project equipment maintenance\nSONITROL SECURITY SYSTEMS HTFD INC | 121.68 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 719.55 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 441.45 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 245.0 | None | None | None -> building operations\nSONITROL SECURITY SYSTEMS HTFD INC | 4245.67 | None | None | None -> building operations and project equipment maintenance",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.95,
+"state": "New transaction: merchant=CONNECTICARE, INC.; amount=14587.73 USD; date=2017-11-02; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCONNECTICARE, INC. | 32717.46 | None | None | None -> employee benefits - medical insurance\nCONNECTICARE, INC. | 33071.36 | None | None | None -> employee benefits - medical insurance\nCONNECTICARE, INC. | 33071.36 | None | None | None -> employee benefits - medical insurance\nCONNECTICARE, INC. | 32141.9 | None | None | None -> employee benefits - medical insurance\nCONNECTICARE, INC. | 35796.28 | None | None | None -> employee benefits - medical insurance\nCONNECTICARE, INC. | 38740.84 | None | None | None -> employee benefits - medical insurance",
+"case": "easy"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.7,
+"state": "New transaction: merchant=Elm Press, Inc.; amount=2175.0 USD; date=2017-11-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.79,
+"state": "New transaction: merchant=SIGN PRO INC; amount=3657.39 USD; date=2015-03-06; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.66,
+"state": "New transaction: merchant=WriteWell Solutions, LLC; amount=2775.0 USD; date=2018-06-20; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nWriteWell Solutions, LLC | 1350.0 | None | None | None -> psa 2149\nWriteWell Solutions, LLC | 1500.0 | None | None | None -> psa 2149",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.55,
+"state": "New transaction: merchant=LA VOZ HISPANA; amount=345.0 USD; date=2015-01-08; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.52,
+"state": "New transaction: merchant=Amanda Hayward; amount=307.97 USD; date=2017-07-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "send_to_bookkeeper",
+"pred": "accept",
+"p": 0.68,
+"state": "New transaction: merchant=Cox Communications; amount=357.48 USD; date=2018-06-20; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> internet\nCox Communications | 324.99 | None | None | None -> phone/internet services\nCox Communications | 324.5 | None | None | None -> phone/internet services\nCox Communications | 377.47 | None | None | None -> phone/internet services\nCox Communications | 515.39 | None | None | None -> phone/internet services\nCox Communications | 515.39 | None | None | None -> phone/internet services\nCox Communications | 515.45 | None | None | None -> phone/internet services\nCox Communications | 513.2 | None | None | None -> phone/internet services\nCox Communications | 513.2 | None | None | None -> phone/internet services",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.66,
+"state": "New transaction: merchant=Whitney Brown; amount=1275.0 USD; date=2017-10-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.47,
+"state": "New transaction: merchant=TIMELINE IRRIGATION LLC; amount=500.0 USD; date=2015-05-21; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.86,
+"state": "New transaction: merchant=CT STATE OF DEPARTMENT OF ENERGY; amount=200.0 USD; date=2015-03-12; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCT STATE OF DEPARTMENT OF ENERGY | 4232.8 | None | None | None -> fees/licence/ permits",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "send_to_bookkeeper",
+"pred": "request_document",
+"p": 0.87,
+"state": "New transaction: merchant=Unishippers; amount=151.01 USD; date=2018-06-20; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nUnishippers | 27.0 | None | None | None -> express shipping\nUnishippers | 45.88 | None | None | None -> express shipping\nUnishippers | 131.28 | None | None | None -> wk ending 5/5/18\nUnishippers | 27.0 | None | None | None -> wk end 5/12/18\nUnishippers | 27.0 | None | None | None -> express postage\nUnishippers | 27.0 | None | None | None -> express postage\nUnishippers | 51.9 | None | None | None -> express shipping\nUnishippers | 27.0 | None | None | None -> express postage\nUnishippers | 82.67 | None | None | None -> shipping\nUnishippers | 80.35 | None | None | None -> shipping\nUnishippers | 27.0 | None | None | None -> shipping\nUnishippers | 81.35 | None | None | None -> shipping\nUnishippers | 137.15 | None | None | None -> shipping\nUnishippers | 27.0 | None | None | None -> shipping\nUnishippers | 80.97 | None | None | None -> shipping\nUnishippers | 27.0 | None | None | None -> shipping",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.36,
+"state": "New transaction: merchant=Eleanor Tandler; amount=8500.0 USD; date=2018-03-02; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "send_to_bookkeeper",
+"pred": "lookup_merchant",
+"p": 0.77,
+"state": "New transaction: merchant=PREMIUM ASSIGNMENT CORPORATION; amount=1325.2 USD; date=2016-11-17; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.9,
+"state": "New transaction: merchant=STATE OF CONN DEPT OF CONSUMER; amount=1000.0 USD; date=2016-07-07; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.76,
+"state": "New transaction: merchant=TRC ENVIROMENTAL CORP; amount=2520.0 USD; date=2016-05-05; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.73,
+"state": "New transaction: merchant=MATEO, TINA CLARISSA A.; amount=140.53 USD; date=2015-11-05; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.54,
+"state": "New transaction: merchant=Cision US Inc.; amount=8305.0 USD; date=2018-01-11; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.41,
+"state": "New transaction: merchant=Carmody Torrance Sandak & Hennessey, LLP; amount=65.0 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.65,
+"state": "New transaction: merchant=PITNEY BOWES POSTAGE BY MAIL; amount=1500.0 USD; date=2018-05-09; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.5,
+"state": "New transaction: merchant=MURPHY ROAD RECYCLING LLC; amount=13804.0 USD; date=2017-11-14; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.79,
+"state": "New transaction: merchant=Fumiko Foos; amount=2738.75 USD; date=2018-05-11; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nFumiko Foos | 3008.91 | None | None | None -> psa / consulting\nFumiko Foos | 2238.9 | None | None | None -> psa / consulting\nFumiko Foos | 2730.0 | None | None | None -> psa / consulting\nFumiko Foos | 2467.5 | None | None | None -> psa / consulting\nFumiko Foos | 2502.5 | None | None | None -> psa / consulting\nFumiko Foos | 2423.75 | None | None | None -> psa / consulting\nFumiko Foos | 3287.72 | None | None | None -> psa / consulting\nFumiko Foos | 2563.75 | None | None | None -> psa / consulting\nFumiko Foos | 3029.86 | None | None | None -> psa 2070\nFumiko Foos | 2828.61 | None | None | None -> ct next consulting\nFumiko Foos | 2546.25 | None | None | None -> psa 2070\nFumiko Foos | 2800.0 | None | None | None -> psa 2070\nFumiko Foos | 2619.43 | None | None | None -> psa 2070\nFumiko Foos | 2765.0 | None | None | None -> psa 2070\nFumiko Foos | 3225.13 | None | None | None -> psa 2070\nFumiko Foos | 2275.0 | None | None | None -> consultant\nFumiko Foos | 2865.98 | None | None | None -> psa 2070\nFumiko Foos | 2013.98 | None | None | None -> psa 2070",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.91,
+"state": "New transaction: merchant=Fumiko Foos; amount=2882.94 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nFumiko Foos | 2311.94 | None | None | None -> psa 2070\nFumiko Foos | 2870.0 | None | None | None -> psa 2070\nFumiko Foos | 2896.25 | None | None | None -> psa 2070\nFumiko Foos | 2817.5 | None | None | None -> psa 2070\nFumiko Foos | 2861.25 | None | None | None -> psa 2070\nFumiko Foos | 2607.5 | None | None | None -> psa 2070\nFumiko Foos | 2290.98 | None | None | None -> ct next consulting\nFumiko Foos | 2898.33 | None | None | None -> ct next consulting\nFumiko Foos | 2569.79 | None | None | None -> ct next consulting\nFumiko Foos | 2734.33 | None | None | None -> ct next consulting",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.46,
+"state": "New transaction: merchant=Updike, Kelly & Spellacy, PC; amount=2309.4 USD; date=2018-05-18; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.7,
+"state": "New transaction: merchant=CRYSTAL ROCK LLC; amount=87.93 USD; date=2015-12-14; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCRYSTAL ROCK LLC | 41.45 | None | None | None -> other benefits - coffee/ water\nCRYSTAL ROCK LLC | 3.0 | None | None | None -> other operating charges\nCRYSTAL ROCK LLC | 14.4 | None | None | None -> office supplies\nCRYSTAL ROCK LLC | 31.5 | None | None | None -> office supplies\nCRYSTAL ROCK LLC | 394.7 | None | None | None -> other benefits - coffee/ water\nCRYSTAL ROCK LLC | 3.0 | None | None | None -> other operating charges\nCRYSTAL ROCK LLC | 112.4 | None | None | None -> other benefits - coffee/ water\nCRYSTAL ROCK LLC | 3.0 | None | None | None -> other operating charges\nCRYSTAL ROCK LLC | 3.0 | None | None | None -> other operating charges\nCRYSTAL ROCK LLC | 350.27 | None | None | None -> other benefits - coffee/ water",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.8,
+"state": "New transaction: merchant=Petmasters, LLC; amount=1600.0 USD; date=2018-05-11; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.75,
+"state": "New transaction: merchant=TEConomy Partners, LLC; amount=18868.8 USD; date=2017-05-11; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.98,
+"state": "New transaction: merchant=Fumiko Foos; amount=2520.0 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nFumiko Foos | 2013.98 | None | None | None -> psa 2070\nFumiko Foos | 2555.0 | None | None | None -> psa 2070\nFumiko Foos | 2409.16 | None | None | None -> psa 2070\nFumiko Foos | 1680.0 | None | None | None -> psa 2070\nFumiko Foos | 2756.25 | None | None | None -> psa 2070\nFumiko Foos | 2524.86 | None | None | None -> psa 2070\nFumiko Foos | 2511.25 | None | None | None -> psa 2070\nFumiko Foos | 2520.0 | None | None | None -> psa 2070\nFumiko Foos | 2290.98 | None | None | None -> ct next consulting\nFumiko Foos | 2898.33 | None | None | None -> ct next consulting\nFumiko Foos | 2569.79 | None | None | None -> ct next consulting\nFumiko Foos | 2734.33 | None | None | None -> ct next consulting",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.44,
+"state": "New transaction: merchant=KONE INC.; amount=752.4 USD; date=2016-03-03; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "send_to_bookkeeper",
+"pred": "accept",
+"p": 0.96,
+"state": "New transaction: merchant=NEXTERA ENERGY POWER MARKETING, LLC; amount=6162.68 USD; date=2016-05-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNEXTERA ENERGY POWER MARKETING, LLC | 13064.94 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6162.68 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fee",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.7,
+"state": "New transaction: merchant=CT STATE OF DEPARTMENT OF ENERGY; amount=200.0 USD; date=2016-01-07; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCT STATE OF DEPARTMENT OF ENERGY | 16100.0 | None | None | None -> fees/licenses/permits\nCT STATE OF DEPARTMENT OF ENERGY | 1400.0 | None | None | None -> fees/licenses/permits",
+"case": "thin"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.67,
+"state": "New transaction: merchant=Anthony Brown; amount=5129.07 USD; date=2018-06-08; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nAnthony Brown | 500.0 | None | None | None -> psa\nAnthony Brown | 7500.0 | None | None | None -> psa\nAnthony Brown | 1125.0 | None | None | None -> psa\nAnthony Brown | 7500.0 | None | None | None -> psa\nAnthony Brown | 7500.0 | None | None | None -> psa\nAnthony Brown | 7000.0 | None | None | None -> psa\nAnthony Brown | 875.0 | None | None | None -> psa\nAnthony Brown | 8125.0 | None | None | None -> psa\nAnthony Brown | 11437.5 | None | None | None -> psa 2113\nAnthony Brown | 12235.72 | None | None | None -> psa 2113\nAnthony Brown | 15564.15 | None | None | None -> psa 2113\nAnthony Brown | 11210.17 | None | None | None -> psa 2113\nAnthony Brown | 15720.91 | None | None | None -> psa 2113\nAnthony Brown | 9375.0 | None | None | None -> psa 2113\nAnthony Brown | 1750.0 | None | None | None -> new psa\nAnthony Brown | 9750.0 | None | None | None -> new psa",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.8,
+"state": "New transaction: merchant=CIT Technology Fin Serv, Inc; amount=2203.6 USD; date=2017-09-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.87,
+"state": "New transaction: merchant=Richard Sowerby; amount=3225.0 USD; date=2018-06-20; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nRichard Sowerby | 5625.0 | None | None | None -> psa 2168\nRichard Sowerby | 5625.0 | None | None | None -> psa\nRichard Sowerby | 6075.0 | None | None | None -> psa 2168\nRichard Sowerby | 8850.0 | None | None | None -> psa\nRichard Sowerby | 5250.0 | None | None | None -> psa\nRichard Sowerby | 7500.0 | None | None | None -> psa\nRichard Sowerby | 10800.0 | None | None | None -> psa\nRichard Sowerby | 8175.0 | None | None | None -> psa\nRichard Sowerby | 11925.0 | None | None | None -> psa",
+"case": "several_accounts"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.78,
+"state": "New transaction: merchant=Suburban Stationers, Inc; amount=223.26 USD; date=2018-02-09; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.56,
+"state": "New transaction: merchant=C K ENVIRONMENTAL INC; amount=7940.0 USD; date=2017-12-12; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_actions_held",
+"org": "ct:Connecticut Innovations",
+"gold": "send_to_bookkeeper",
+"pred": "request_document",
+"p": 0.84,
+"state": "New transaction: merchant=PR Newswire Association, LLC; amount=8895.0 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.56,
+"state": "New transaction: merchant=Elm Press, Inc.; amount=1265.0 USD; date=2017-11-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "send_to_bookkeeper",
+"pred": "lookup_merchant",
+"p": 0.43,
+"state": "New transaction: merchant=PREMIUM ASSIGNMENT CORPORATION; amount=12989.9 USD; date=2016-11-17; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "send_to_bookkeeper",
+"p": 0.85,
+"state": "New transaction: merchant=CWPM LLC; amount=171996.76 USD; date=2017-01-12; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCWPM LLC | 30130.0 | None | None | None -> building operations and watertown capital expenses\nCWPM LLC | 303934.38 | None | None | None -> contract operating charges\nCWPM LLC | 116275.11 | None | None | None -> contract operating charges\nCWPM LLC | 173182.08 | None | None | None -> contract operating charges",
+"case": "several_accounts"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "ask_person",
+"pred": "request_document",
+"p": 0.62,
+"state": "New transaction: merchant=NORTH CANAAN ELEMENTY SCHOOL; amount=110.0 USD; date=2015-09-24; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "ask_person",
+"pred": "lookup_merchant",
+"p": 0.57,
+"state": "New transaction: merchant=Max Bibo's of Wethersfield; amount=252.43 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.75,
+"state": "New transaction: merchant=HEALTHEQUITY, INC.; amount=10993.75 USD; date=2017-06-13; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nHEALTHEQUITY, INC. | 22837.5 | None | None | None -> flexible benefits- health spending account",
+"case": "thin"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.88,
+"state": "New transaction: merchant=ENERGY RECOVERY COUNCIL; amount=1500.0 USD; date=2018-06-07; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.81,
+"state": "New transaction: merchant=UCONN Health Center; amount=187500.0 USD; date=2017-06-16; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nUCONN Health Center | 187500.0 | None | None | None -> 14-scb-uchc-02-finck - regen grant\nUCONN Health Center | 100000.0 | None | None | None -> 14-sca-uchc-02-matthews - regen grant\nUCONN Health Center | 187500.0 | None | None | None -> 14-scb-uchc-11-ma - regen grant\nUCONN Health Center | 297341.0 | None | None | None -> 14-scdis-uchc-01 chamberlain - regen grant\nUCONN Health Center | 178427.0 | None | None | None -> 15-rmb-uchc-08 - regen grant\nUCONN Health Center | 194911.0 | None | None | None -> 15-rmb-uchc-04 - regen grant\nUCONN Health Center | 99039.0 | None | None | None -> 15-rma-uchc-03 - regen grant\nUCONN Health Center | 500000.0 | None | None | None -> 15-rmd-uchc-01 - regen grant\nUCONN Health Center | 200000.0 | None | None | None -> award 13-scb-uch-05 - regen grant\nUCONN Health Center | 187500.0 | None | None | None -> 13-scb-uchc-06 hei - regen grant",
+"case": "several_accounts"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "accept",
+"pred": "lookup_merchant",
+"p": 0.53,
+"state": "New transaction: merchant=Lightower Fiber Networks, LLC; amount=817.0 USD; date=2018-02-16; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.59,
+"state": "New transaction: merchant=Quality Mechanical Service, LLC; amount=169.0 USD; date=2018-05-18; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nQuality Mechanical Service, LLC | 169.0 | None | None | None -> sept 17 inspection",
+"case": "thin"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.91,
+"state": "New transaction: merchant=Clarivate Analytics (US), LLC; amount=2631.51 USD; date=2018-04-12; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.48,
+"state": "New transaction: merchant=Seth Feurstein; amount=5000.0 USD; date=2016-07-21; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "send_to_bookkeeper",
+"pred": "lookup_merchant",
+"p": 0.65,
+"state": "New transaction: merchant=Nerac, Inc.; amount=40000.0 USD; date=2018-01-26; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.88,
+"state": "New transaction: merchant=US NUCLEAR REGULATORY COMMISSION; amount=500.0 USD; date=2018-05-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.57,
+"state": "New transaction: merchant=BOSTON INSURANCE EMPLOYEE BENEFIT TRUST; amount=220.39 USD; date=2017-07-05; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nBOSTON INSURANCE EMPLOYEE BENEFIT TRUST | 10531.63 | None | None | None -> employee flexible benefits- dental, group life and voluntory life\nBOSTON INSURANCE EMPLOYEE BENEFIT TRUST | 4080.54 | None | None | None -> employee flexible benefits- dental, group life and voluntory life",
+"case": "thin"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.89,
+"state": "New transaction: merchant=CIT Technology Fin Serv, Inc.; amount=2203.6 USD; date=2017-02-16; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nCIT Technology Fin Serv, Inc. | 4857.53 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 374.0 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 4857.53 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 374.0 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 4857.53 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 4857.53 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 374.0 | None | None | None -> copiers\nCIT Technology Fin Serv, Inc. | 4857.53 | None | None | None -> copiers",
+"case": "easy"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.62,
+"state": "New transaction: merchant=Thomson Reuters Scientific, LL; amount=2518.19 USD; date=2017-04-06; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.63,
+"state": "New transaction: merchant=Fondation Osmo; amount=1184.86 USD; date=2018-06-15; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.69,
+"state": "New transaction: merchant=PULLMAN AND COMLEY LLC; amount=197.5 USD; date=2015-01-15; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nPULLMAN AND COMLEY LLC | 3575.0 | None | None | None -> legal services",
+"case": "thin"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "send_to_bookkeeper",
+"pred": "accept",
+"p": 0.94,
+"state": "New transaction: merchant=NEXTERA ENERGY POWER MARKETING, LLC; amount=6162.68 USD; date=2016-03-21; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNEXTERA ENERGY POWER MARKETING, LLC | 13064.94 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6162.68 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> management fee\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 6101.7 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fees\nNEXTERA ENERGY POWER MARKETING, LLC | 12935.6 | None | None | None -> power product management fee",
+"case": "several_accounts"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.58,
+"state": "New transaction: merchant=GoNation, LLC; amount=9016.5 USD; date=2018-06-01; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "ask_person",
+"pred": "request_document",
+"p": 0.4,
+"state": "New transaction: merchant=Picnic Basket Catering; amount=258.1 USD; date=2017-09-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.72,
+"state": "New transaction: merchant=CohnReznich, LLP; amount=3000.0 USD; date=2017-03-02; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.89,
+"state": "New transaction: merchant=METTLER TOLEDO INC; amount=2021.95 USD; date=2016-07-28; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nMETTLER TOLEDO INC | 14300.0 | None | None | None -> project equipment maintenance\nMETTLER TOLEDO INC | 8703.71 | None | None | None -> project equipment maintenance",
+"case": "thin"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.59,
+"state": "New transaction: merchant=TRC ENVIROMENTAL CORP; amount=2318.75 USD; date=2016-09-29; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.62,
+"state": "New transaction: merchant=FRONTIER COMMUNICATIONS; amount=175.11 USD; date=2015-01-08; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.48,
+"state": "New transaction: merchant=Quality Mechanical Service, LLC; amount=169.0 USD; date=2017-11-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_hard_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.86,
+"state": "New transaction: merchant=NAES CORPORATION; amount=722.89 USD; date=2017-10-25; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNAES CORPORATION | 37635.65 | None | None | None -> management fees\nNAES CORPORATION | 8383.98 | None | None | None -> management fees\nNAES CORPORATION | 3189.32 | None | None | None -> home office support\nNAES CORPORATION | 31491.43 | None | None | None -> home office support\nNAES CORPORATION | 3222.0 | None | None | None -> home office support\nNAES CORPORATION | 1512.35 | None | None | None -> home office support\nNAES CORPORATION | 3848.48 | None | None | None -> home office support\nNAES CORPORATION | 312.0 | None | None | None -> home office support\nNAES CORPORATION | 37635.65 | None | None | None -> management fees\nNAES CORPORATION | 8383.98 | None | None | None -> management fees\nNAES CORPORATION | 20560.18 | None | None | None -> home office support\nNAES CORPORATION | 4928.93 | None | None | None -> home office support\nNAES CORPORATION | 8383.98 | None | None | None -> management fees\nNAES CORPORATION | 37635.65 | None | None | None -> management fees\nNAES CORPORATION | 356895.66 | None | None | None -> management fees\nNAES CORPORATION | 26489.79 | None | None | None -> management fees\nNAES CORPORATION | 38957.07 | None | None | None -> management fee\nNAES CORPORATION | 38957.07 | None | None | None -> management fee\nNAES CORPORATION | 38957.07 | None | None | None ->",
+"case": "several_accounts"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "lookup_merchant",
+"pred": "request_document",
+"p": 0.9,
+"state": "New transaction: merchant=CCSU ITBD; amount=2500.0 USD; date=2017-04-12; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "lookup_merchant",
+"p": 0.65,
+"state": "New transaction: merchant=Source Media; amount=3500.0 USD; date=2016-06-09; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "ask_person",
+"p": 0.75,
+"state": "New transaction: merchant=KAMINSKY, CHERYK; amount=50.12 USD; date=2016-11-03; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.95,
+"state": "New transaction: merchant=NAES CORPORATION; amount=6638.9 USD; date=2015-09-24; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNAES CORPORATION | 1686.87 | None | None | None -> home offcie support\nNAES CORPORATION | 1167.73 | None | None | None -> home offcie support\nNAES CORPORATION | 6638.9 | None | None | None -> home offcie support\nNAES CORPORATION | 1606.9 | None | None | None -> home offcie support\nNAES CORPORATION | 22710.44 | None | None | None -> home offcie support\nNAES CORPORATION | 2563.91 | None | None | None -> home offcie support\nNAES CORPORATION | 931.2 | None | None | None -> home offcie support\nNAES CORPORATION | 3636.04 | None | None | None -> home offcie support\nNAES CORPORATION | 38949.79 | None | None | None -> management fee\nNAES CORPORATION | 26448.85 | None | None | None -> annual management incentive\nNAES CORPORATION | 358760.62 | None | None | None -> annual management incentive\nNAES CORPORATION | 631.34 | None | None | None -> home office support\nNAES CORPORATION | 1314.27 | None | None | None -> home office support\nNAES CORPORATION | 6573.17 | None | None | None -> management fee\nNAES CORPORATION | 5747.29 | None | None | None -> home office support\nNAES CORPORATION | 381.68 | None | None | None -> home office support\nNAES CORPORATION | 35243.1 | None | None | None -> management fee\nNAES CORPORATION | 16841.78 | None | None | None -> home office support\nNAES CORPORATIO",
+"case": "several_accounts"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.41,
+"state": "New transaction: merchant=Kelsea Michael; amount=4500.0 USD; date=2016-07-21; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "accept",
+"pred": "request_document",
+"p": 0.78,
+"state": "New transaction: merchant=Andrew Greenawalt; amount=3875.0 USD; date=2017-12-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nAndrew Greenawalt | 6750.0 | None | None | None -> psa",
+"case": "thin"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "ask_person",
+"p": 0.47,
+"state": "New transaction: merchant=Henry Schaffer; amount=2250.0 USD; date=2016-09-01; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Materials Innovation and Recycling Authority",
+"gold": "accept",
+"pred": "ask_person",
+"p": 0.69,
+"state": "New transaction: merchant=KRISHNAMOORTHY, DEEPA; amount=30.46 USD; date=2015-06-24; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.54,
+"state": "New transaction: merchant=Thomas Wilke; amount=5000.0 USD; date=2016-06-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.39,
+"state": "New transaction: merchant=Addaero Manufacturing; amount=12481.5 USD; date=2017-07-31; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "accept",
+"p": 0.77,
+"state": "New transaction: merchant=Richard Sowerby; amount=11925.0 USD; date=2017-09-30; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nRichard Sowerby | 8250.0 | None | None | None -> psa\nRichard Sowerby | 7950.0 | None | None | None -> psa\nRichard Sowerby | 13575.0 | None | None | None -> psa 2098\nRichard Sowerby | 8625.0 | None | None | None -> psa 2098\nRichard Sowerby | 14700.0 | None | None | None -> psa 2098\nRichard Sowerby | 9075.0 | None | None | None -> psa 2098\nRichard Sowerby | 6825.0 | None | None | None -> psa 2098\nRichard Sowerby | 4800.0 | None | None | None -> psa 2098",
+"case": "several_accounts"
+},
+{
+"set": "real_person_held",
+"org": "ct:Connecticut Innovations",
+"gold": "request_document",
+"pred": "send_to_bookkeeper",
+"p": 0.37,
+"state": "New transaction: merchant=Seth Feurstein; amount=5000.0 USD; date=2016-07-21; department=None; merchant category=None; memo=None; card=None; receipt=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"case": "new_merchant"
+}
+]

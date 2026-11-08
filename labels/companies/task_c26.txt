@@ -1,0 +1,36 @@
+You write realistic fictional company data for a software test. Do not read any files or use the web.
+
+Company brief: {"id": "c26", "type": "cybersecurity consultancy", "stage": "family-owned, 25 people", "accounts": 128, "style": "no numbers, descriptive names", "merchants": 64}
+
+Write a JSON file to labels/companies/c26.json with this shape:
+{
+ "name": "fictional company name",
+ "chart": ["expense accounts with this company's own naming and numbering style; about the requested number"],
+ "departments": ["3 to 8 departments"],
+ "people": [{"name": "fictional name", "department": "one department", "card_name": "e.g. Engineering Card or a person's card"}],
+ "merchants": [{
+   "name": "merchant as shown on a card or bank line",
+   "merchant_category": "card-network style category",
+   "payment_kind": "card or bank_payment",
+   "clear_name": true,
+   "purposes": [{
+     "purpose": "what this purchase is for",
+     "account": "exact chart account",
+     "amount_low": 10, "amount_high": 200,
+     "weight": 1,
+     "item_shown_by_document": "what a receipt or invoice would show",
+     "memo": "a short memo a person might write",
+     "decided_by": "nothing|item|purpose|accounting_judgment"
+   }]
+ }]
+}
+
+Rules:
+- Include about the requested number of merchants: well-known vendors, plus invented small local businesses.
+- About a third of merchants should have two or three purposes that map to different accounts.
+- `decided_by` says what separates this purpose from the merchant's other purposes: `item` if a receipt shows it, `purpose` if only the person knows why or who for, `accounting_judgment` for capitalization, prepaid, or policy calls, `nothing` if the merchant has one purpose.
+- Set `clear_name` false for vague or unfamiliar merchant names, and include at least 12 such merchants, such as holding-company names, initials, or names that do not reveal the business.
+- Every `account` must exactly match a chart entry.
+- All people and small businesses must be invented. Use realistic amounts for this company.
+
+Then reply with one line: the number of accounts and merchants written.

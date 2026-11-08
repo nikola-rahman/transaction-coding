@@ -1,0 +1,108 @@
+{
+ "automation": [
+  {
+   "target": 0.01,
+   "threshold": 0.8692,
+   "dev_safe": 0.418,
+   "dev_error": 0.009569377990430622,
+   "test_safe": 0.25,
+   "test_error": 0.11
+  },
+  {
+   "target": 0.02,
+   "threshold": 0.8105,
+   "dev_safe": 0.46,
+   "dev_error": 0.017391304347826087,
+   "test_safe": 0.2875,
+   "test_error": 0.1391304347826087
+  },
+  {
+   "target": 0.05,
+   "threshold": 0.5708,
+   "dev_safe": 0.553,
+   "dev_error": 0.048824593128390596,
+   "test_safe": 0.4225,
+   "test_error": 0.1893491124260355
+  },
+  {
+   "target": 0.1,
+   "threshold": 0.0531,
+   "dev_safe": 0.586,
+   "dev_error": 0.07508532423208192,
+   "test_safe": 0.545,
+   "test_error": 0.2889908256880734
+  }
+ ],
+ "per_company": [
+  {
+   "set": "development",
+   "target": 0.02,
+   "global_safe": 0.446,
+   "global_error": 0.017937219730941704,
+   "company_safe": 0.398,
+   "company_error": 0.010050251256281407,
+   "rows": 500
+  },
+  {
+   "set": "development",
+   "target": 0.05,
+   "global_safe": 0.536,
+   "global_error": 0.041044776119402986,
+   "company_safe": 0.514,
+   "company_error": 0.04669260700389105,
+   "rows": 500
+  },
+  {
+   "set": "test",
+   "target": 0.02,
+   "global_safe": 0.29,
+   "global_error": 0.13793103448275862,
+   "company_safe": 0.08,
+   "company_error": 0.0625,
+   "rows": 200
+  },
+  {
+   "set": "test",
+   "target": 0.05,
+   "global_safe": 0.41,
+   "global_error": 0.17073170731707318,
+   "company_safe": 0.135,
+   "company_error": 0.07407407407407407,
+   "rows": 200
+  }
+ ],
+ "time": {
+  "development": [
+   {
+    "assumption": "low",
+    "manual_h": 8.333333333333334,
+    "rules_h": 3.4358333333333335,
+    "model_h": 1.8341666666666667,
+    "silent_errors_per_1000": 2.0
+   },
+   {
+    "assumption": "high",
+    "manual_h": 16.666666666666668,
+    "rules_h": 6.871666666666667,
+    "model_h": 3.6683333333333334,
+    "silent_errors_per_1000": 2.0
+   }
+  ],
+  "test": [
+   {
+    "assumption": "low",
+    "manual_h": 8.333333333333334,
+    "rules_h": 4.602083333333334,
+    "model_h": 2.1125000000000003,
+    "silent_errors_per_1000": 17.5
+   },
+   {
+    "assumption": "high",
+    "manual_h": 16.666666666666668,
+    "rules_h": 9.204166666666667,
+    "model_h": 4.2250000000000005,
+    "silent_errors_per_1000": 17.5
+   }
+  ]
+ }
+}

@@ -1,0 +1,100 @@
+{"id": "r0200", "action": "request_document", "unknown": "item", "reason": "A generic Payroll line with no payroll history in this department could be any pay or benefit component, and a payroll register would show which one."}
+{"id": "r0201", "action": "accept", "unknown": "nothing", "reason": "All 8 past CT Stamp & Seal payments, including one for the same $24.00, were coded to office supplies."}
+{"id": "r0202", "action": "accept", "unknown": "nothing", "reason": "Three past payments of the identical $2,583.33 were all coded to other operating charges."}
+{"id": "r0203", "action": "accept", "unknown": "nothing", "reason": "Both past payments of the identical $58,333 went to contractual, so this large amount is routine for the vendor."}
+{"id": "r0204", "action": "accept", "unknown": "nothing", "reason": "The only past payment was the identical $160 and was coded to building maintenance, which fits the recurring charge."}
+{"id": "r0205", "action": "accept", "unknown": "nothing", "reason": "Both past payments, including the identical $1,200, were coded to sales/marketing - adver."}
+{"id": "r0206", "action": "accept", "unknown": "nothing", "reason": "All three past payments of similar size were coded to psa 2136."}
+{"id": "r0207", "action": "accept", "unknown": "nothing", "reason": "The small payment to this person matches the one past payment, coded to employee expense reimbursement."}
+{"id": "r0208", "action": "accept", "unknown": "nothing", "reason": "Both past payments, including the identical $20, were coded to information technology consultant."}
+{"id": "r0209", "action": "request_document", "unknown": "item", "reason": "The memo gives the sports day purpose but no history shows whether this was supplies, rental or a service, which an invoice would show."}
+{"id": "r0210", "action": "lookup_merchant", "unknown": "merchant", "reason": "The cryptic merchant text has no history and suggests no account, so even at $2.00 there is no likely account until the payee is identified."}
+{"id": "r0211", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past payments of over $4,000 went to prepayments, and whether a $68.74 payment is also a prepayment or an expense is an accounting call."}
+{"id": "r0212", "action": "accept", "unknown": "nothing", "reason": "The past $150 entries show the cash and payables sides of the same payment, with stipend expenses as the one expense account."}
+{"id": "r0213", "action": "request_document", "unknown": "item", "reason": "Past payments of similar size split across psa 2070, ct next consulting and consultant, so the invoice is needed to show which engagement this covers."}
+{"id": "r0214", "action": "request_document", "unknown": "item", "reason": "The only past payment was $100,035 to construction expense, so this much smaller amount could instead be construction materials or supplies, which an invoice would show."}
+{"id": "r0215", "action": "request_document", "unknown": "item", "reason": "Past Payroll lines in this department span salaries, overtime, PERA and FICA, and only a payroll register would show which component this $616.37 is."}
+{"id": "r0216", "action": "accept", "unknown": "nothing", "reason": "All four past payments were coded to homeownership counseling expense, and the amount is ordinary for that program."}
+{"id": "r0217", "action": "accept", "unknown": "nothing", "reason": "All past payments shown, from $4.38 to $8,482.07, were coded to petroleum products."}
+{"id": "r0218", "action": "accept", "unknown": "nothing", "reason": "Past payments of about this size ($4,205.67 and $4,245.67) were consistently coded to building operations and project equipment maintenance, with smaller ones to building operations."}
+{"id": "r0219", "action": "accept", "unknown": "nothing", "reason": "All past payments shown to this restaurant, across a wide amount range, were coded to meeting."}
+{"id": "r0220", "action": "accept", "unknown": "purpose", "reason": "The very small bar charge matches the one past payment coded to meals and entertainment, and the exact meal variant is not worth chasing."}
+{"id": "r0221", "action": "accept", "unknown": "nothing", "reason": "All 7 past payments were coded to telephone & internet access, and $318.00 falls within their range."}
+{"id": "r0222", "action": "lookup_merchant", "unknown": "merchant", "reason": "There is no history for this name among 464 accounts, so the merchant's business needs confirming first."}
+{"id": "r0223", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments were coded to psa 2098, and $5,625 falls within their range."}
+{"id": "r0224", "action": "accept", "unknown": "item", "reason": "The $25 is below the one past $175 dues payment, but it is very small and a chamber of commerce charge reasonably fits dues / memberships."}
+{"id": "r0225", "action": "accept", "unknown": "nothing", "reason": "Although very large, the amount is in line with past payments of $1.28M and $1.37M, and all 6 past payments were coded to contractual."}
+{"id": "r0226", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This $460,986 payment is below past amounts and past coding alternates between salaries and other payroll expenses, so a high-risk amount has no settled account."}
+{"id": "r0227", "action": "request_document", "unknown": "item", "reason": "With no history for this merchant, several close accounts remain possible, such as maintenance materials, field equipment and operating supplies, and a receipt would show the item."}
+{"id": "r0228", "action": "accept", "unknown": "nothing", "reason": "All four past payments of the identical $40 were coded to water cooler."}
+{"id": "r0229", "action": "accept", "unknown": "nothing", "reason": "Past coding separates by amount, and both past payments of the identical $285.79 went to information systems."}
+{"id": "r0230", "action": "request_document", "unknown": "item", "reason": "With no history, a business journal payment could be advertising or a subscription, and an invoice would show which."}
+{"id": "r0231", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and does not reveal the business, and $6,250 could fit software, consulting or grant accounts."}
+{"id": "r0232", "action": "accept", "unknown": "item", "reason": "At $22 from a newspaper, a subscription or notice account is reasonable and the exact choice would not change reporting materially."}
+{"id": "r0233", "action": "accept", "unknown": "nothing", "reason": "All past Falcon Fuels payments shown were coded to petroleum products, and the amount is within their range."}
+{"id": "r0234", "action": "request_document", "unknown": "item", "reason": "Past card payments span many accounts, including meals, dues, office supplies, travel and licenses, so the receipt behind this $79.99 is needed."}
+{"id": "r0235", "action": "accept", "unknown": "nothing", "reason": "All three past payments to this firm were coded to legal services, and the amount is in their range."}
+{"id": "r0236", "action": "accept", "unknown": "nothing", "reason": "All past payments shown to this restaurant were coded to meeting, and this smaller meal raises no new account question."}
+{"id": "r0237", "action": "request_document", "unknown": "item", "reason": "Past payments were coded to medical insurance at $32,000 to $39,000, so this unusually low $14,587.73 needs an invoice to show what it covers."}
+{"id": "r0238", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Similar premiums were expensed to health insurance in some months and to health ins payable in others, so this large payment turns on an accrual decision."}
+{"id": "r0239", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments, including the identical $325, were coded to building operations."}
+{"id": "r0240", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and does not reveal the business, and $6,250 could fit software, consulting or grant accounts."}
+{"id": "r0241", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments were coded to telephone, and $252.80 is within their range."}
+{"id": "r0242", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history, and knowing the business would show whether $7,500 is a grant, a program payment or a vendor service."}
+{"id": "r0243", "action": "accept", "unknown": "item", "reason": "The card spans many accounts, but at $21.67 meals is the most common coding for similar amounts and the amount is very small."}
+{"id": "r0244", "action": "accept", "unknown": "purpose", "reason": "The very small $9.43 payment to this person reasonably follows the one past payment, coded to other payroll expenses."}
+{"id": "r0245", "action": "lookup_merchant", "unknown": "merchant", "reason": "The abbreviated merchant name has no history and the coded memo does not say what it is, so identifying the merchant comes first."}
+{"id": "r0246", "action": "accept", "unknown": "nothing", "reason": "All three past payments of the identical $1,350 were coded to information systems."}
+{"id": "r0247", "action": "accept", "unknown": "nothing", "reason": "Past payments of similar small size were all postage-related, and the $15.03 does not justify separating the near-identical postal accounts."}
+{"id": "r0248", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $75,000 payment with no history could be a grant, child care subsidy or loan-related item, so it is both high risk and unsettled."}
+{"id": "r0249", "action": "request_document", "unknown": "item", "reason": "Past coding is mostly office supplies, but similar amounts also went to contributions and non-capital assets, so the invoice is needed to show what was bought."}
+{"id": "r0250", "action": "accept", "unknown": "nothing", "reason": "Past payments up to $215 were consistently coded to supplies, with other administrative only at $481 and above, so $159 fits supplies."}
+{"id": "r0251", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and does not reveal the business, and it could be a vendor or a grant recipient among 409 accounts."}
+{"id": "r0252", "action": "request_document", "unknown": "item", "reason": "Amazon sells many kinds of goods and $1,624.65 is ten times the one past payment, so a receipt is needed to show what was bought."}
+{"id": "r0253", "action": "request_document", "unknown": "item", "reason": "Past Comcast bills of similar size appear under both internet rc and telephone rc, and the bill would show which service this covers."}
+{"id": "r0254", "action": "accept", "unknown": "nothing", "reason": "All past payments shown were coded to temporary staffing, and $3,690 is within their range."}
+{"id": "r0255", "action": "accept", "unknown": "nothing", "reason": "All past payments shown, including the identical $4,200, were coded to utilities."}
+{"id": "r0256", "action": "accept", "unknown": "nothing", "reason": "All past payments shown were coded to utilities, and $9,193.54 is a plausible higher utility bill for this merchant."}
+{"id": "r0257", "action": "accept", "unknown": "nothing", "reason": "The one past payment was the identical $185 and was coded to dues-professional organizations, which fits a bar association."}
+{"id": "r0258", "action": "accept", "unknown": "nothing", "reason": "All past payments shown were coded to utilities, and $57.98 matches the smaller recurring charges."}
+{"id": "r0259", "action": "request_document", "unknown": "item", "reason": "Past payments were either ttb grant or a conference reimbursement, and $3,560 matches neither clearly, so the supporting invoice or award document is needed."}
+{"id": "r0260", "action": "request_document", "unknown": "item", "reason": "Past coding varies by service and $10,584.96 breaks the usual $12,600 to $13,400 support services amount, so an invoice is needed to show what it covers."}
+{"id": "r0261", "action": "accept", "unknown": "nothing", "reason": "All four past payments of the identical $2,000 were coded to professional services."}
+{"id": "r0262", "action": "accept", "unknown": "nothing", "reason": "Payments of about this size are always coded to a biweekly pay period account, and the sequence ending 7/3/15 points to the pay period ending 7/17/15."}
+{"id": "r0263", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name looks like a professional firm but has no history, so its type of practice needs confirming to choose among 511 accounts."}
+{"id": "r0264", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments, though from the police department, were coded to field equipment expense, and $79 is routine vehicle-related spending."}
+{"id": "r0265", "action": "accept", "unknown": "nothing", "reason": "All past payments shown in this department were coded to field equipment expense, and the memo shows a similar vehicle part."}
+{"id": "r0266", "action": "request_document", "unknown": "item", "reason": "With no history, the name suggests financing and an invoice would show whether this $1,491.85 is a copier lease, maintenance or another item."}
+{"id": "r0267", "action": "request_document", "unknown": "item", "reason": "Small bills went to foreclosure expense and bills over $9,000 to building maintenance, so a bill showing the service address is needed for this $303.79."}
+{"id": "r0268", "action": "accept", "unknown": "nothing", "reason": "All past payments shown were coded to telephone & internet access, and this small amount raises no concern."}
+{"id": "r0269", "action": "accept", "unknown": "nothing", "reason": "All 5 past payments, from $35 to $955, were coded to building operations."}
+{"id": "r0270", "action": "accept", "unknown": "nothing", "reason": "Payments of the identical $34,000 were consistently coded to professional services."}
+{"id": "r0271", "action": "request_document", "unknown": "item", "reason": "The one past payment, for the same $8,917.10, was coded to other professional fees, which is unexpected for a hotel, so the invoice is needed with travel and training as alternatives."}
+{"id": "r0272", "action": "accept", "unknown": "nothing", "reason": "The merchant's name plainly matches advertising, and the one past payment of similar size was coded there."}
+{"id": "r0273", "action": "accept", "unknown": "nothing", "reason": "The one past payment was the identical $3,500 and was coded to communications, which fits a marketing firm."}
+{"id": "r0274", "action": "accept", "unknown": "nothing", "reason": "All past payments shown were coded to contractual, and $1,897 is within their range."}
+{"id": "r0275", "action": "accept", "unknown": "nothing", "reason": "All four past payments of similar size were coded to telephone and pagers."}
+{"id": "r0276", "action": "accept", "unknown": "nothing", "reason": "All three past payments of similar size were coded to field equipment expense."}
+{"id": "r0277", "action": "ask_person", "unknown": "purpose", "reason": "A payment to a named individual with no history could be staff or presenter reimbursement, and she can say what it was for."}
+{"id": "r0278", "action": "accept", "unknown": "nothing", "reason": "The merchant is plainly a fuel supplier, and petroleum products is the only matching account in the list."}
+{"id": "r0279", "action": "request_document", "unknown": "item", "reason": "Payroll lines span many components and this department has no history shown, so a payroll register would show whether this $14.00 is deferred compensation or another reported item."}
+{"id": "r0280", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and the business is unclear, so knowing it would help choose among 72 accounts."}
+{"id": "r0281", "action": "accept", "unknown": "nothing", "reason": "All 7 past payments were coded to temporary staffing, and $2,988 is within their range."}
+{"id": "r0282", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and does not make the business clear, so it should be identified before choosing an account."}
+{"id": "r0283", "action": "accept", "unknown": "nothing", "reason": "Past coding separates by amount, and every payment near $1,175 to $1,240, including the identical amount, went to 457 plan."}
+{"id": "r0284", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments were coded to telephone, and the merchant is plainly a telephone service."}
+{"id": "r0285", "action": "accept", "unknown": "nothing", "reason": "All past payments shown to this law firm were coded to legal services, and a small bill raises no new question."}
+{"id": "r0286", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name has no history and could mean a consultant or a financial firm, so identifying the business would narrow the accounts."}
+{"id": "r0287", "action": "request_document", "unknown": "item", "reason": "Small payments to this vendor span postage, travel and debt issue cost, so a receipt would show what this $211.81 covers."}
+{"id": "r0288", "action": "accept", "unknown": "nothing", "reason": "The memo says animal medical supplies, which plainly matches medical supplies, and the amount is very small."}
+{"id": "r0289", "action": "accept", "unknown": "nothing", "reason": "Both past payments of the identical $138.75 were coded to sharefile."}
+{"id": "r0290", "action": "lookup_merchant", "unknown": "merchant", "reason": "There is no history for this name among 357 accounts, so the merchant's business needs confirming first."}
+{"id": "r0291", "action": "request_document", "unknown": "item", "reason": "The name suggests signs, but with no history an invoice is needed to show whether $3,657.39 is a repair, a supply or a larger installation."}
+{"id": "r0292", "action": "accept", "unknown": "nothing", "reason": "The one past payment of about the same amount was coded to postage exp, and the amount matches a postage refill."}
+{"id": "r0293", "action": "accept", "unknown": "nothing", "reason": "All 7 past payments of the identical $255 were coded to environmental testing."}
+{"id": "r0294", "action": "accept", "unknown": "nothing", "reason": "Both past payments were coded to psa 2149, and $2,775 is a plausible further billing on the same agreement."}
+{"id": "r0295", "action": "request_document", "unknown": "item", "reason": "No payroll history is shown and many pay and benefit accounts exist, so a payroll register would show which component this $162.78 is."}
+{"id": "r0296", "action": "accept", "unknown": "nothing", "reason": "All 6 past payments were coded to telephone, and $154.30 is within their range."}
+{"id": "r0297", "action": "accept", "unknown": "nothing", "reason": "All past payments shown, including the identical $1,241.25, were coded to office temporaries."}
+{"id": "r0298", "action": "request_document", "unknown": "item", "reason": "With no history, $1,200 to this organization could be dues or sponsorship advertising, and an invoice would show which."}
+{"id": "r0299", "action": "request_document", "unknown": "item", "reason": "Past coding varies by service and $10,584.96 breaks the usual $12,500 to $13,400 support services amount, so an invoice is needed to show what it covers."}

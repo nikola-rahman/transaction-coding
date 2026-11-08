@@ -1,0 +1,1829 @@
+{
+ "name": "Low Ferry Brewing Co.",
+ "chart": [
+  "BRW-51010 Malt & Grain",
+  "BRW-51020 Hops",
+  "BRW-51030 Yeast & Cultures",
+  "BRW-51040 Adjuncts, Fruit & Brewing Salts",
+  "BRW-51060 Lab Supplies & Testing",
+  "BRW-51070 Process Gases",
+  "BRW-51080 Cleaning & Sanitation Chemicals",
+  "BRW-51090 Small Brewhouse Tools",
+  "BRW-51110 Brewhouse Equipment Repairs",
+  "BRW-51120 Brewer Training & Certification",
+  "BRW-51130 Barrels & Aging Supplies",
+  "PKG-52010 Cans & Can Ends",
+  "PKG-52020 Labels & Shrink Sleeves",
+  "PKG-52030 Carriers & Cardboard Trays",
+  "PKG-52040 Kegs & Keg Parts",
+  "PKG-52050 Mobile Canning Services",
+  "PKG-52060 Pallets & Stretch Wrap",
+  "PKG-52070 Packaging Line Maintenance",
+  "TAP-53010 Food & Snacks for Resale",
+  "TAP-53020 Non-Alcoholic Beverages for Resale",
+  "TAP-53030 Glassware & Serveware",
+  "TAP-53040 Bar Supplies",
+  "TAP-53050 Merchandise for Resale",
+  "TAP-53060 POS & Payment Software",
+  "TAP-53070 Live Music & Entertainment",
+  "TAP-53080 Taproom Furniture & Decor",
+  "TAP-53090 Draft Line Cleaning & Service",
+  "TAP-53120 Staff Meals",
+  "DST-54010 Freight & Outbound Shipping",
+  "DST-54020 Vehicle Fuel",
+  "DST-54030 Vehicle Repairs & Maintenance",
+  "DST-54040 Truck Rental",
+  "DST-54050 Distributor Samples & Promotions",
+  "DST-54060 Sales Travel",
+  "DST-54070 Sales Meals & Customer Entertainment",
+  "DST-54080 Cold Storage & Warehousing",
+  "MKT-55010 Digital Advertising",
+  "MKT-55020 Print & Local Advertising",
+  "MKT-55030 Events & Festivals",
+  "MKT-55040 Sponsorships & Community Giving",
+  "MKT-55050 Design & Creative Services",
+  "MKT-55060 Photography & Video",
+  "MKT-55070 Social & Email Software",
+  "MKT-55080 Promotional Giveaways & Tap Handles",
+  "MKT-55090 Website Hosting & Domains",
+  "ADM-56010 Accounting Software",
+  "ADM-56020 Legal Fees",
+  "ADM-56030 Accounting & Tax Services",
+  "ADM-56040 Business Insurance",
+  "ADM-56050 Licenses, Permits & Dues",
+  "ADM-56060 Excise Taxes & Compliance Filings",
+  "ADM-56070 Payroll & HR Software",
+  "ADM-56080 Recruiting",
+  "ADM-56090 Office Supplies",
+  "ADM-56110 Bank & Merchant Fees",
+  "ADM-56120 Productivity Software",
+  "ADM-56130 Computers & Small Electronics",
+  "ADM-56140 Employee Benefits & Perks",
+  "ADM-56160 Company Travel",
+  "ADM-56170 Prepaid Expenses",
+  "FAC-57010 Rent",
+  "FAC-57020 Electric & Gas",
+  "FAC-57030 Water & Sewer",
+  "FAC-57040 Waste & Spent Grain Hauling",
+  "FAC-57050 Building Repairs",
+  "FAC-57060 Pest Control & Janitorial",
+  "FAC-57070 Internet & Phone",
+  "FAC-57080 Security & Alarm",
+  "FAC-57090 Equipment Rental",
+  "FAC-57110 Capital Equipment Clearing",
+  "FAC-57120 Safety Supplies & PPE"
+ ],
+ "departments": [
+  "Brewing",
+  "Packaging",
+  "Taproom",
+  "Sales & Distribution",
+  "Marketing",
+  "Finance & Admin",
+  "Facilities"
+ ],
+ "people": [
+  {
+   "name": "Marit Oyelaran",
+   "department": "Brewing",
+   "card_name": "Marit Oyelaran Card"
+  },
+  {
+   "name": "Dov Castellanos",
+   "department": "Brewing",
+   "card_name": "Brewhouse Card"
+  },
+  {
+   "name": "Tamsin Reddick",
+   "department": "Brewing",
+   "card_name": "Lab & QA Card"
+  },
+  {
+   "name": "Joaquin Pell",
+   "department": "Packaging",
+   "card_name": "Packaging Card"
+  },
+  {
+   "name": "Renske Abara",
+   "department": "Taproom",
+   "card_name": "Taproom Manager Card"
+  },
+  {
+   "name": "Hollis Nakagawa",
+   "department": "Taproom",
+   "card_name": "Bar Supplies Card"
+  },
+  {
+   "name": "Priya Vandermolen",
+   "department": "Sales & Distribution",
+   "card_name": "Priya Vandermolen Card"
+  },
+  {
+   "name": "Cal Whitlock-Osei",
+   "department": "Sales & Distribution",
+   "card_name": "Delivery Fleet Card"
+  },
+  {
+   "name": "Ines Barrowman",
+   "department": "Sales & Distribution",
+   "card_name": "Ines Barrowman Card"
+  },
+  {
+   "name": "Lucan Treadway",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Saoirse Lindqvist",
+   "department": "Marketing",
+   "card_name": "Events Card"
+  },
+  {
+   "name": "Bettina Achterberg",
+   "department": "Finance & Admin",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Omari Fitzwilliam",
+   "department": "Finance & Admin",
+   "card_name": "Omari Fitzwilliam Card"
+  },
+  {
+   "name": "Greer Hutchens",
+   "department": "Facilities",
+   "card_name": "Facilities Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "BREWERS SUPPLY GROUP",
+   "merchant_category": "Wholesale Durable Goods",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pallets of base malt for core beers",
+     "account": "BRW-51010 Malt & Grain",
+     "amount_low": 1800,
+     "amount_high": 9500,
+     "weight": 4,
+     "item_shown_by_document": "2-row pale malt, 55 lb bags x 40",
+     "memo": "base malt pallet",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Rice hulls, lactose and brewing salts",
+     "account": "BRW-51040 Adjuncts, Fruit & Brewing Salts",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Rice hulls, lactose, calcium chloride",
+     "memo": "adjuncts + salts",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "YAKIMA CHIEF HOPS",
+   "merchant_category": "Wholesale Nondurable Goods",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pelletized hops under annual contract",
+     "account": "BRW-51020 Hops",
+     "amount_low": 1200,
+     "amount_high": 14000,
+     "weight": 1,
+     "item_shown_by_document": "Citra and Mosaic T-90 pellets, 44 lb boxes",
+     "memo": "hop contract delivery",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WHITE LABS INC",
+   "merchant_category": "Chemicals and Allied Products",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Liquid yeast pitches for fermentation",
+     "account": "BRW-51030 Yeast & Cultures",
+     "amount_low": 180,
+     "amount_high": 950,
+     "weight": 3,
+     "item_shown_by_document": "WLP001 California Ale yeast, 7 bbl pitch",
+     "memo": "yeast for batch 412",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Outside microbiological testing of finished beer",
+     "account": "BRW-51060 Lab Supplies & Testing",
+     "amount_low": 85,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Beer spoilage PCR panel, 3 samples",
+     "memo": "QA lab panel",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "OLD ORCHARD FRUIT CO",
+   "merchant_category": "Farm Supplies and Produce",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fruit puree and whole fruit for sours",
+     "account": "BRW-51040 Adjuncts, Fruit & Brewing Salts",
+     "amount_low": 240,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Cherry puree, 44 lb pails x 6",
+     "memo": "fruit for sour series",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ADK COOPERAGE LLC",
+   "merchant_category": "Wholesale Durable Goods",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Used bourbon and wine barrels",
+     "account": "BRW-51130 Barrels & Aging Supplies",
+     "amount_low": 350,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Used bourbon barrels, 53 gal x 8",
+     "memo": "barrels for stout program",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AIRGAS USA LLC",
+   "merchant_category": "Industrial Gases",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bulk CO2 for carbonation and purging",
+     "account": "BRW-51070 Process Gases",
+     "amount_low": 300,
+     "amount_high": 2100,
+     "weight": 4,
+     "item_shown_by_document": "Bulk liquid CO2, 3,200 lb delivery",
+     "memo": "CO2 fill",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Argon and welding rod for tank fitting repairs",
+     "account": "BRW-51110 Brewhouse Equipment Repairs",
+     "amount_low": 45,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Argon cylinder refill, stainless TIG rod",
+     "memo": "welding gas for repair",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ECOLAB INC",
+   "merchant_category": "Chemicals and Allied Products",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Caustic and acid for tank CIP",
+     "account": "BRW-51080 Cleaning & Sanitation Chemicals",
+     "amount_low": 350,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "Caustic CIP cleaner, 55 gal drum; acid sanitizer",
+     "memo": "CIP chemicals",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Glasswasher detergent and rinse for the bar",
+     "account": "TAP-53040 Bar Supplies",
+     "amount_low": 70,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Low-temp glasswasher detergent, 2 gal x 4",
+     "memo": "bar glasswasher chem",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GW KENT INC",
+   "merchant_category": "Brewery Equipment and Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hoses, clamps and hand tools for the brewhouse",
+     "account": "BRW-51090 Small Brewhouse Tools",
+     "amount_low": 40,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "Tri-clamp fittings, EPDM brew hose, 25 ft",
+     "memo": "brewhouse fittings",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement seals and valves for existing tanks",
+     "account": "BRW-51110 Brewhouse Equipment Repairs",
+     "amount_low": 70,
+     "amount_high": 1400,
+     "weight": 2,
+     "item_shown_by_document": "Butterfly valve rebuild kit, manway gasket",
+     "memo": "fix FV3 valve",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "New bright tank or chiller component above capitalization threshold",
+     "account": "FAC-57110 Capital Equipment Clearing",
+     "amount_low": 5500,
+     "amount_high": 28000,
+     "weight": 1,
+     "item_shown_by_document": "15 bbl brite tank, jacketed",
+     "memo": "new brite tank",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "NPL MECHANICAL INC",
+   "merchant_category": "Contractors",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Glycol and boiler service calls",
+     "account": "BRW-51110 Brewhouse Equipment Repairs",
+     "amount_low": 280,
+     "amount_high": 3800,
+     "weight": 3,
+     "item_shown_by_document": "Service call, glycol pump seal replacement",
+     "memo": "glycol repair",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Installing new process piping for cellar expansion",
+     "account": "FAC-57110 Capital Equipment Clearing",
+     "amount_low": 6000,
+     "amount_high": 32000,
+     "weight": 1,
+     "item_shown_by_document": "Install stainless glycol header, phase 2",
+     "memo": "cellar expansion piping",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "GRAINGER",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pump parts and motors for brewhouse repairs",
+     "account": "BRW-51110 Brewhouse Equipment Repairs",
+     "amount_low": 60,
+     "amount_high": 1100,
+     "weight": 3,
+     "item_shown_by_document": "Centrifugal pump seal kit, 1 hp motor",
+     "memo": "transfer pump part",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Wrenches, gauges and shop tools",
+     "account": "BRW-51090 Small Brewhouse Tools",
+     "amount_low": 25,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "Tri-clamp wrench set, pressure gauge",
+     "memo": "cellar tools",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Respirators, gloves and eye protection",
+     "account": "FAC-57120 Safety Supplies & PPE",
+     "amount_low": 30,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Chemical splash goggles, nitrile gloves",
+     "memo": "PPE restock",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "MASTER BREWERS ASSN",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Technical course seats for brewers",
+     "account": "BRW-51120 Brewer Training & Certification",
+     "amount_low": 150,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Packaging technology short course, 1 seat",
+     "memo": "Dov course",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CICERONE CERTIFICATION",
+   "merchant_category": "Schools and Educational Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Beer server certification exams",
+     "account": "BRW-51120 Brewer Training & Certification",
+     "amount_low": 69,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Certified Beer Server exam, 1 attempt",
+     "memo": "taproom cert",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BALL CORP",
+   "merchant_category": "Metal Containers",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Truckloads of printed 16 oz cans",
+     "account": "PKG-52010 Cans & Can Ends",
+     "amount_low": 6500,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "16 oz printed cans, 1 truckload; can ends",
+     "memo": "can order, Heron Lager",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRI-COUNTY LABEL & SLEEVE",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pressure-sensitive can labels and sleeves",
+     "account": "PKG-52020 Labels & Shrink Sleeves",
+     "amount_low": 380,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Pressure-sensitive labels, 40,000 ct",
+     "memo": "labels for spring seasonal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SMURFIT WESTROCK",
+   "merchant_category": "Paper and Packaging",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Four-pack carriers and cardboard case trays",
+     "account": "PKG-52030 Carriers & Cardboard Trays",
+     "amount_low": 900,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "PakTech-style carriers, 24-can trays",
+     "memo": "carriers and trays",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KEGSTAR USA INC",
+   "merchant_category": "Equipment Rental and Leasing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Keg pool rental fees",
+     "account": "PKG-52040 Kegs & Keg Parts",
+     "amount_low": 320,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Keg fills, 1/6 and 1/2 bbl, monthly statement",
+     "memo": "keg pool monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MICRO MATIC USA",
+   "merchant_category": "Beverage Dispensing Equipment",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Keg couplers, spears and valves",
+     "account": "PKG-52040 Kegs & Keg Parts",
+     "amount_low": 55,
+     "amount_high": 780,
+     "weight": 2,
+     "item_shown_by_document": "Keg spear rebuild kit, sanke couplers",
+     "memo": "keg parts",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Faucets, shanks and beer line for the taproom",
+     "account": "TAP-53090 Draft Line Cleaning & Service",
+     "amount_low": 40,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Stainless faucets, 3/16 beer line, 100 ft",
+     "memo": "taproom draft parts",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "IRONCLAD MOBILE CANNING LLC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Contract canning days at the brewery",
+     "account": "PKG-52050 Mobile Canning Services",
+     "amount_low": 1400,
+     "amount_high": 3900,
+     "weight": 1,
+     "item_shown_by_document": "Mobile canning run, 240 cases, 1 day",
+     "memo": "canning day",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRL HOLDINGS LLC",
+   "merchant_category": "Wholesale Durable Goods",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Reconditioned pallets",
+     "account": "PKG-52060 Pallets & Stretch Wrap",
+     "amount_low": 95,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Reconditioned 48x40 pallets x 60",
+     "memo": "pallets",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRICOR SVC CO",
+   "merchant_category": "Equipment Repair",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Seamer and filler service visits",
+     "account": "PKG-52070 Packaging Line Maintenance",
+     "amount_low": 400,
+     "amount_high": 3600,
+     "weight": 1,
+     "item_shown_by_document": "Seamer tune-up, chuck replacement",
+     "memo": "canning line service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ULINE",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stretch wrap and pallet supplies",
+     "account": "PKG-52060 Pallets & Stretch Wrap",
+     "amount_low": 70,
+     "amount_high": 540,
+     "weight": 3,
+     "item_shown_by_document": "Stretch wrap, 18 in x 1500 ft, case of 4",
+     "memo": "wrap",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Shipping boxes and case trays",
+     "account": "PKG-52030 Carriers & Cardboard Trays",
+     "amount_low": 60,
+     "amount_high": 480,
+     "weight": 2,
+     "item_shown_by_document": "Corrugated 12-bottle shippers, bundle of 25",
+     "memo": "boxes for sample orders",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Floor mats and safety gear for the packaging hall",
+     "account": "FAC-57120 Safety Supplies & PPE",
+     "amount_low": 45,
+     "amount_high": 360,
+     "weight": 1,
+     "item_shown_by_document": "Anti-fatigue mat, hi-vis vests",
+     "memo": "safety items",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SYSCO",
+   "merchant_category": "Food Wholesale",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Kitchen staples for taproom food menu",
+     "account": "TAP-53010 Food & Snacks for Resale",
+     "amount_low": 260,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Fries, sliders, pretzel cheese, weekly delivery",
+     "memo": "food order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HARBOR PRETZEL BAKERY",
+   "merchant_category": "Bakeries",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Soft pretzels for the taproom",
+     "account": "TAP-53010 Food & Snacks for Resale",
+     "amount_low": 60,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Soft pretzels, 8 dozen",
+     "memo": "pretzels for weekend",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SOLSTICE SODA WORKS",
+   "merchant_category": "Soft Drinks",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Local craft sodas and kombucha for resale",
+     "account": "TAP-53020 Non-Alcoholic Beverages for Resale",
+     "amount_low": 85,
+     "amount_high": 460,
+     "weight": 1,
+     "item_shown_by_document": "Root beer kegs, ginger kombucha, cases",
+     "memo": "NA drinks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0487",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Snack bags and bar nuts sold in the taproom",
+     "account": "TAP-53010 Food & Snacks for Resale",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Kettle chips, mixed nuts, bulk",
+     "memo": "taproom snacks",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Water and sodas for the taproom menu",
+     "account": "TAP-53020 Non-Alcoholic Beverages for Resale",
+     "amount_low": 40,
+     "amount_high": 220,
+     "weight": 1,
+     "item_shown_by_document": "Sparkling water, 35 ct",
+     "memo": "NA for bar",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food for the staff all-hands lunch",
+     "account": "ADM-56140 Employee Benefits & Perks",
+     "amount_low": 80,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Sandwich platters, fruit tray",
+     "memo": "all-hands lunch",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "WEBSTAURANTSTORE",
+   "merchant_category": "Restaurant Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pint glasses and tasters",
+     "account": "TAP-53030 Glassware & Serveware",
+     "amount_low": 90,
+     "amount_high": 860,
+     "weight": 3,
+     "item_shown_by_document": "Nonic pint glasses, 24 ct; 5 oz tasters",
+     "memo": "glass restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Bar mats, pour spouts, towels",
+     "account": "TAP-53040 Bar Supplies",
+     "amount_low": 30,
+     "amount_high": 280,
+     "weight": 2,
+     "item_shown_by_document": "Rubber bar mats, bar towels, pour spouts",
+     "memo": "bar supplies",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AMZN MKTP US*2K4JD81T0",
+   "merchant_category": "Book and Online Retail",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, toner, pens",
+     "account": "ADM-56090 Office Supplies",
+     "amount_low": 15,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, HP toner cartridge",
+     "memo": "office stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Straws, napkins and bar small wares",
+     "account": "TAP-53040 Bar Supplies",
+     "amount_low": 15,
+     "amount_high": 160,
+     "weight": 2,
+     "item_shown_by_document": "Cocktail napkins, can openers, bar spoons",
+     "memo": "bar restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monitors, keyboards and cables",
+     "account": "ADM-56130 Computers & Small Electronics",
+     "amount_low": 25,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "27 in monitor, USB-C hub",
+     "memo": "desk setup",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "HOME DEPOT #4412",
+   "merchant_category": "Home Improvement",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lumber, fasteners and paint for building fixes",
+     "account": "FAC-57050 Building Repairs",
+     "amount_low": 20,
+     "amount_high": 640,
+     "weight": 3,
+     "item_shown_by_document": "Pressure-treated 2x4s, deck screws, exterior paint",
+     "memo": "patch loading dock",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Hand tools for the cellar",
+     "account": "BRW-51090 Small Brewhouse Tools",
+     "amount_low": 15,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Socket set, utility knife, shop light",
+     "memo": "tools for cellar",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Shelving and decor for the taproom",
+     "account": "TAP-53080 Taproom Furniture & Decor",
+     "amount_low": 40,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Pine shelf boards, wall brackets, string lights",
+     "memo": "taproom shelves",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TST* TOAST INC",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly POS subscription",
+     "account": "TAP-53060 POS & Payment Software",
+     "amount_low": 165,
+     "amount_high": 420,
+     "weight": 4,
+     "item_shown_by_document": "Toast POS subscription, 3 terminals, monthly",
+     "memo": "toast sub",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "New handheld terminals and printers bought outright",
+     "account": "FAC-57110 Capital Equipment Clearing",
+     "amount_low": 1200,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Toast Go handhelds x 4, kitchen printer",
+     "memo": "new POS hardware",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PRO LINE DRAFT SERVICE",
+   "merchant_category": "Equipment Repair",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Biweekly draft line cleaning",
+     "account": "TAP-53090 Draft Line Cleaning & Service",
+     "amount_low": 120,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Draft line cleaning, 24 lines",
+     "memo": "line cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *D PICKERS",
+   "merchant_category": "Entertainment",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Bluegrass trio for Saturday taproom",
+     "account": "TAP-53070 Live Music & Entertainment",
+     "amount_low": 150,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "Live set, Saturday 6-9 pm",
+     "memo": "band Saturday",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SOUNDTRACK YOUR BRAND",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Licensed background music for the taproom",
+     "account": "TAP-53070 Live Music & Entertainment",
+     "amount_low": 35,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Music streaming license, 1 zone",
+     "memo": "taproom music",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *HOLLOW OAK BISTRO",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dinner with an account buyer",
+     "account": "DST-54070 Sales Meals & Customer Entertainment",
+     "amount_low": 45,
+     "amount_high": 320,
+     "weight": 3,
+     "item_shown_by_document": "2 entrees, 2 drinks, tip",
+     "memo": "dinner with buyer",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Shift meal for the brew crew during a late double batch",
+     "account": "TAP-53120 Staff Meals",
+     "amount_low": 35,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "6 sandwiches, 2 salads",
+     "memo": "late brew day dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "HRB VENTURES LLC",
+   "merchant_category": "Caterers",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Taproom staff meal catering",
+     "account": "TAP-53120 Staff Meals",
+     "amount_low": 90,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Taco bar for 18, staff meal",
+     "memo": "staff meal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 783216",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sample cases to out-of-town accounts",
+     "account": "DST-54010 Freight & Outbound Shipping",
+     "amount_low": 20,
+     "amount_high": 240,
+     "weight": 3,
+     "item_shown_by_document": "FedEx Ground, 2 boxes, 42 lb",
+     "memo": "samples shipped",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Beer samples sent overnight to a testing lab",
+     "account": "BRW-51060 Lab Supplies & Testing",
+     "amount_low": 35,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "FedEx Priority Overnight, 1 box",
+     "memo": "overnight to lab",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 57444",
+   "merchant_category": "Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Diesel for the delivery truck",
+     "account": "DST-54020 Vehicle Fuel",
+     "amount_low": 55,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Diesel, 38 gal",
+     "memo": "fuel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TJD AUTO & DIESEL",
+   "merchant_category": "Automotive Repair",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Reefer truck repair and oil changes",
+     "account": "DST-54030 Vehicle Repairs & Maintenance",
+     "amount_low": 90,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Brake service, oil change, reefer belt",
+     "memo": "truck service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PENSKE TRUCK RENTAL",
+   "merchant_category": "Truck Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Extra refrigerated truck on festival weekends",
+     "account": "DST-54040 Truck Rental",
+     "amount_low": 180,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "26 ft box truck, 2 days",
+     "memo": "festival truck",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINEAGE LOGISTICS",
+   "merchant_category": "Warehousing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Off-site cold storage pallet fees",
+     "account": "DST-54080 Cold Storage & Warehousing",
+     "amount_low": 600,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Cold storage, 48 pallets, monthly",
+     "memo": "cold storage",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KBR BEV SERVICES",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "In-store tasting and sample programs with distributors",
+     "account": "DST-54050 Distributor Samples & Promotions",
+     "amount_low": 150,
+     "amount_high": 1200,
+     "weight": 1,
+     "item_shown_by_document": "In-store tasting program, 6 events",
+     "memo": "distributor tastings",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR 0062345678901",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight to visit a new distributor",
+     "account": "DST-54060 Sales Travel",
+     "amount_low": 180,
+     "amount_high": 640,
+     "weight": 3,
+     "item_shown_by_document": "Economy round trip, 1 passenger",
+     "memo": "distributor visit",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "CEO flight to the investor board meeting",
+     "account": "ADM-56160 Company Travel",
+     "amount_low": 220,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Economy round trip, 1 passenger",
+     "memo": "board trip",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Rideshares",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides between accounts on a sales trip",
+     "account": "DST-54060 Sales Travel",
+     "amount_low": 12,
+     "amount_high": 70,
+     "weight": 3,
+     "item_shown_by_document": "Uber trip, 8.2 mi",
+     "memo": "ride to account",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Ride home for staff after company event",
+     "account": "ADM-56160 Company Travel",
+     "amount_low": 10,
+     "amount_high": 50,
+     "weight": 1,
+     "item_shown_by_document": "Uber trip, 4.1 mi",
+     "memo": "staff ride home",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS4412895510",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search ads for the taproom",
+     "account": "MKT-55010 Digital Advertising",
+     "amount_low": 150,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads, monthly clicks",
+     "memo": "google ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *4H7WPQ2KL2",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Instagram and Facebook promos",
+     "account": "MKT-55010 Digital Advertising",
+     "amount_low": 100,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Meta ad spend, seasonal launch campaign",
+     "memo": "instagram ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PORT ELLERY WEEKLY",
+   "merchant_category": "Newspapers and Publishing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quarter-page weekend ads",
+     "account": "MKT-55020 Print & Local Advertising",
+     "amount_low": 110,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Quarter-page ad, 2 issues",
+     "memo": "weekly ad",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "RIVERFEST ASSOC",
+   "merchant_category": "Civic Organizations",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Booth fee at the summer festival",
+     "account": "MKT-55030 Events & Festivals",
+     "amount_low": 150,
+     "amount_high": 950,
+     "weight": 2,
+     "item_shown_by_document": "Vendor booth, 10x10, 2 days",
+     "memo": "riverfest booth",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Presenting sponsor package for the community event",
+     "account": "MKT-55040 Sponsorships & Community Giving",
+     "amount_low": 500,
+     "amount_high": 3000,
+     "weight": 1,
+     "item_shown_by_document": "Presenting sponsor, logo on banners",
+     "memo": "riverfest sponsor",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ELLERY LITTLE LEAGUE",
+   "merchant_category": "Civic Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Youth team sponsorship",
+     "account": "MKT-55040 Sponsorships & Community Giving",
+     "amount_low": 150,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Team sponsorship, spring season",
+     "memo": "little league",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STUDIO NINE TWELVE",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Label and seasonal can artwork",
+     "account": "MKT-55050 Design & Creative Services",
+     "amount_low": 600,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Can label design, 2 seasonal SKUs",
+     "memo": "label art",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JMK MEDIA",
+   "merchant_category": "Photographic Studios",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Product and taproom photo shoot",
+     "account": "MKT-55060 Photography & Video",
+     "amount_low": 250,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Half-day product shoot, 40 edited images",
+     "memo": "photo shoot",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MAILCHIMP *MONTHLY",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Newsletter sends",
+     "account": "MKT-55070 Social & Email Software",
+     "amount_low": 45,
+     "amount_high": 190,
+     "weight": 1,
+     "item_shown_by_document": "Standard plan, 5,000 contacts",
+     "memo": "newsletter",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PRINTFUL INC",
+   "merchant_category": "Apparel and Accessories",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "T-shirts and hats to sell in the taproom",
+     "account": "TAP-53050 Merchandise for Resale",
+     "amount_low": 180,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "Heathered tees x 48, dad hats x 24",
+     "memo": "merch restock",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Shirts handed out to festival volunteers and bar owners",
+     "account": "MKT-55080 Promotional Giveaways & Tap Handles",
+     "amount_low": 120,
+     "amount_high": 700,
+     "weight": 1,
+     "item_shown_by_document": "Heathered tees x 24",
+     "memo": "giveaway shirts",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GODADDY.COM",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Domain renewals and hosting",
+     "account": "MKT-55090 Website Hosting & Domains",
+     "amount_low": 20,
+     "amount_high": 220,
+     "weight": 1,
+     "item_shown_by_document": "Domain renewal, 1 year; hosting",
+     "memo": "domains",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTUIT *QBOOKS ONLINE",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "QuickBooks subscription",
+     "account": "ADM-56010 Accounting Software",
+     "amount_low": 90,
+     "amount_high": 235,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online Advanced, monthly",
+     "memo": "qbo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO *PAYROLL",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll and HR software",
+     "account": "ADM-56070 Payroll & HR Software",
+     "amount_low": 220,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Gusto Plus, 40 employees, monthly",
+     "memo": "gusto",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BWK LAW GROUP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Outside counsel on distribution agreement",
+     "account": "ADM-56020 Legal Fees",
+     "amount_low": 600,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Professional services, distribution agreement review",
+     "memo": "legal invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MRC & ASSOCIATES",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Year-end tax and monthly close support",
+     "account": "ADM-56030 Accounting & Tax Services",
+     "amount_low": 800,
+     "amount_high": 5400,
+     "weight": 1,
+     "item_shown_by_document": "Monthly close support, Q3 sales tax review",
+     "memo": "CPA invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "THE HARTFORD",
+   "merchant_category": "Insurance",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly liquor liability installment",
+     "account": "ADM-56040 Business Insurance",
+     "amount_low": 650,
+     "amount_high": 2800,
+     "weight": 3,
+     "item_shown_by_document": "Liquor liability policy, monthly installment",
+     "memo": "insurance installment",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual policy premium paid up front",
+     "account": "ADM-56170 Prepaid Expenses",
+     "amount_low": 6000,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Commercial package policy, 12-month premium",
+     "memo": "annual premium",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PAY.GOV*TTB",
+   "merchant_category": "Government Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Federal excise tax on beer removed",
+     "account": "ADM-56060 Excise Taxes & Compliance Filings",
+     "amount_low": 450,
+     "amount_high": 5200,
+     "weight": 4,
+     "item_shown_by_document": "TTB excise tax return, quarterly",
+     "memo": "excise payment",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Label approval and permit fees",
+     "account": "ADM-56050 Licenses, Permits & Dues",
+     "amount_low": 40,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Brewer's notice amendment fee",
+     "memo": "TTB filing fee",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "STATE LIQUOR CTRL BD",
+   "merchant_category": "Government Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual brewery and taproom licenses",
+     "account": "ADM-56050 Licenses, Permits & Dues",
+     "amount_low": 350,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Brewery license renewal, retail endorsement",
+     "memo": "license renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN JOBS",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job post for head of sales",
+     "account": "ADM-56080 Recruiting",
+     "amount_low": 120,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored job post, 30 days",
+     "memo": "job post",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE",
+   "merchant_category": "Payment Processing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Card fees on event ticket sales",
+     "account": "ADM-56110 Bank & Merchant Fees",
+     "amount_low": 10,
+     "amount_high": 190,
+     "weight": 1,
+     "item_shown_by_document": "Processing fees, monthly",
+     "memo": "stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EKOS BREWMASTER",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly production software subscription",
+     "account": "ADM-56120 Productivity Software",
+     "amount_low": 260,
+     "amount_high": 520,
+     "weight": 3,
+     "item_shown_by_document": "Ekos Pro, monthly",
+     "memo": "ekos monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual prepaid production software contract",
+     "account": "ADM-56170 Prepaid Expenses",
+     "amount_low": 3000,
+     "amount_high": 6200,
+     "weight": 1,
+     "item_shown_by_document": "Ekos Pro, 12-month subscription",
+     "memo": "ekos annual",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_LOWFERRY",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and shared drive seats",
+     "account": "ADM-56120 Productivity Software",
+     "amount_low": 70,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business, 40 seats, monthly",
+     "memo": "gsuite",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE.COM/US",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "iPads for taproom and small accessories",
+     "account": "ADM-56130 Computers & Small Electronics",
+     "amount_low": 40,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "iPad, cases, chargers",
+     "memo": "iPad for bar",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "MacBook Pros above the capitalization threshold",
+     "account": "FAC-57110 Capital Equipment Clearing",
+     "amount_low": 1900,
+     "amount_high": 5400,
+     "weight": 1,
+     "item_shown_by_document": "MacBook Pro 14 in x 2",
+     "memo": "laptops for new hires",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HGL PROPERTIES LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly brewery and taproom rent",
+     "account": "FAC-57010 Rent",
+     "amount_low": 9500,
+     "amount_high": 16000,
+     "weight": 3,
+     "item_shown_by_document": "Base rent, 12,500 sq ft, monthly",
+     "memo": "rent",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Landlord pass-through of roof and parking lot repairs",
+     "account": "FAC-57050 Building Repairs",
+     "amount_low": 400,
+     "amount_high": 3600,
+     "weight": 1,
+     "item_shown_by_document": "CAM reconciliation, roof and lot repairs",
+     "memo": "CAM true-up",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "NORTHSHORE POWER & GAS",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric and natural gas for the plant",
+     "account": "FAC-57020 Electric & Gas",
+     "amount_low": 2400,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "Electric and gas, monthly",
+     "memo": "utility bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CITY OF PORT ELLERY UTIL",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Water and sewer usage",
+     "account": "FAC-57030 Water & Sewer",
+     "amount_low": 1200,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "Water and sewer, monthly",
+     "memo": "water bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WM CORPORATE SVCS",
+   "merchant_category": "Waste Management",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Trash and recycling pickup",
+     "account": "FAC-57040 Waste & Spent Grain Hauling",
+     "amount_low": 240,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Dumpster service, weekly pickup",
+     "memo": "trash",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREEN ACRE FEED & HAUL",
+   "merchant_category": "Waste Management",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Spent grain hauling to a local farm",
+     "account": "FAC-57040 Waste & Spent Grain Hauling",
+     "amount_low": 80,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Spent grain pickup, 4 trips",
+     "memo": "spent grain",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ORKIN",
+   "merchant_category": "Pest Control",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly pest service",
+     "account": "FAC-57060 Pest Control & Janitorial",
+     "amount_low": 65,
+     "amount_high": 220,
+     "weight": 1,
+     "item_shown_by_document": "Pest control service, monthly",
+     "memo": "pest",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MT SERVICES GRP",
+   "merchant_category": "Janitorial Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Taproom nightly cleaning",
+     "account": "FAC-57060 Pest Control & Janitorial",
+     "amount_low": 300,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Janitorial service, 2 weeks",
+     "memo": "cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP",
+   "merchant_category": "Uniform Supply",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Floor mats and towel service",
+     "account": "FAC-57060 Pest Control & Janitorial",
+     "amount_low": 70,
+     "amount_high": 320,
+     "weight": 3,
+     "item_shown_by_document": "Mat rental, bar towels, weekly",
+     "memo": "mats",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "First aid cabinet restock",
+     "account": "FAC-57120 Safety Supplies & PPE",
+     "amount_low": 35,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "First aid cabinet refill",
+     "memo": "first aid",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunications",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internet and phone lines",
+     "account": "FAC-57070 Internet & Phone",
+     "amount_low": 180,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Business internet, 2 phone lines, monthly",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ADT SECURITY",
+   "merchant_category": "Security Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Alarm monitoring and camera contract",
+     "account": "FAC-57080 Security & Alarm",
+     "amount_low": 60,
+     "amount_high": 280,
+     "weight": 1,
+     "item_shown_by_document": "Alarm monitoring, monthly",
+     "memo": "alarm",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SUNBELT RENTALS",
+   "merchant_category": "Equipment Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Forklift rental during busy season",
+     "account": "FAC-57090 Equipment Rental",
+     "amount_low": 180,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Propane forklift, 1 week",
+     "memo": "forklift",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

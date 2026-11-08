@@ -1,0 +1,100 @@
+{"id": "s0100", "action": "request_document", "unknown": "item", "reason": "A Ford dealer paid by central fleet could be parts or repair work, there is no history for this merchant, and an invoice would show which."}
+{"id": "s0101", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $75,000 payment with no history, in an account list that mixes grants, subsidies, prepayments, and loan accounts, needs accounting judgment."}
+{"id": "s0102", "action": "accept", "unknown": "nothing", "reason": "Past CHEFA payments of this exact amount all went to support services, and only a small $257 item differed."}
+{"id": "s0103", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "History for this amount range splits across payroll cash, FSA expenses, and prepaid health insurance, so the treatment of this pass-through needs accounting judgment."}
+{"id": "s0104", "action": "request_document", "unknown": "item", "reason": "This bank's past coding depends on the payment type, with child care subsidy, HSA, and loan entries, and remittance detail would show which this is."}
+{"id": "s0105", "action": "request_document", "unknown": "item", "reason": "A commercial card payment has varied past coding across many accounts, so the card statement is needed to show what was bought."}
+{"id": "s0106", "action": "accept", "unknown": "nothing", "reason": "A small payment to a DNS provider reasonably fits telephone & internet access, even with no history."}
+{"id": "s0107", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "NAES payments split between capital expenses, operating expenses, and incentive compensation at similar amounts, so this $31,950 needs a capitalization judgment."}
+{"id": "s0108", "action": "request_document", "unknown": "item", "reason": "The row shows no Payroll history for this department, and a payroll register would show which pay component this $51,336.52 is."}
+{"id": "s0109", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $50,928 payment to a merchant with no history is large and unsettled against a project-specific account list."}
+{"id": "s0110", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant at this exact amount went to contractual."}
+{"id": "s0111", "action": "accept", "unknown": "nothing", "reason": "The one past payment to this merchant was the same $1,500 amount and went to refinance pilot program exp."}
+{"id": "s0112", "action": "accept", "unknown": "nothing", "reason": "A small Office Depot purchase matches the past office and administrative coding for this merchant."}
+{"id": "s0113", "action": "request_document", "unknown": "item", "reason": "Past coding for this vendor varies between engineering services and engineering and environmental testing, so the invoice's service description would settle it."}
+{"id": "s0114", "action": "accept", "unknown": "nothing", "reason": "CohnReznick is an accounting firm, and accounting fees is the plain match in this short account list."}
+{"id": "s0115", "action": "request_document", "unknown": "item", "reason": "Payroll history spans salaries, overtime, PERA, and FICA at varied amounts, so a payroll register is needed to show the component of this $98.98."}
+{"id": "s0116", "action": "request_document", "unknown": "item", "reason": "Past payments were $31,210.94 of rent, so this $2,368.36 is unusual and an invoice would show what it covers."}
+{"id": "s0117", "action": "request_document", "unknown": "item", "reason": "With no history, a payment to BioCT could be a sponsorship, membership, or event fee, and an invoice would show which."}
+{"id": "s0118", "action": "accept", "unknown": "nothing", "reason": "A very small $25 payment matches a past $25 payment coded to staff development/training."}
+{"id": "s0119", "action": "accept", "unknown": "nothing", "reason": "This very small restaurant charge can reasonably follow the merchant's usual coding to business expense - board."}
+{"id": "s0120", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant at this exact amount went to contractual."}
+{"id": "s0121", "action": "accept", "unknown": "nothing", "reason": "All shown past payments to this stationer went to office supplies at similar amounts."}
+{"id": "s0122", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This $381,691 payment is far above past Deloitte amounts, and history splits between equipment and contractual."}
+{"id": "s0123", "action": "request_document", "unknown": "item", "reason": "A $128.12 Payroll entry could be any of several pay or benefit accounts, and a payroll register would show which."}
+{"id": "s0124", "action": "accept", "unknown": "nothing", "reason": "Past payments of exactly $104.50 consistently went to the 457 plan."}
+{"id": "s0125", "action": "accept", "unknown": "nothing", "reason": "All shown past Eversource payments went to utilities, including similar small amounts."}
+{"id": "s0126", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to advertising, one at this exact amount."}
+{"id": "s0127", "action": "ask_person", "unknown": "purpose", "reason": "A payment to an individual with no history leaves the purpose unknown, and the payee can be asked directly."}
+{"id": "s0128", "action": "ask_person", "unknown": "purpose", "reason": "A payment to an individual with no history leaves the purpose unknown, and the payee can be asked directly."}
+{"id": "s0129", "action": "accept", "unknown": "nothing", "reason": "A consulting firm plainly fits contractual among only five accounts."}
+{"id": "s0130", "action": "ask_person", "unknown": "purpose", "reason": "A tavern charge is a meal, but meal accounts here are split by event and attendee, so the purpose must come from the spender."}
+{"id": "s0131", "action": "request_document", "unknown": "item", "reason": "A news outlet payment with no history could be advertising or a subscription, and an invoice would show which."}
+{"id": "s0132", "action": "accept", "unknown": "nothing", "reason": "A library service vendor paid by the library department plainly matches library materials."}
+{"id": "s0133", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant's business is unclear with no history, and knowing it would likely settle the choice among website, advertising, and computer accounts."}
+{"id": "s0134", "action": "request_document", "unknown": "item", "reason": "With no history, a town payment could be a distribution, deposit return, or fee, and the remittance would show which."}
+{"id": "s0135", "action": "accept", "unknown": "nothing", "reason": "A very small Office Depot purchase with a supplies memo fits office and administrative."}
+{"id": "s0136", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $112,772.75 payment with no history is large and unsettled among many program and grant accounts."}
+{"id": "s0137", "action": "accept", "unknown": "nothing", "reason": "This amount sits with the roughly $1,200 monthly payments coded to the 457 plan, well away from the pension amounts."}
+{"id": "s0138", "action": "request_document", "unknown": "item", "reason": "With no history, a town payment could be a distribution, subsidy, or fee, and the remittance would show which."}
+{"id": "s0139", "action": "accept", "unknown": "nothing", "reason": "This very small card amount exactly matches a past $22.18 charge coded to dues & subscriptions."}
+{"id": "s0140", "action": "accept", "unknown": "nothing", "reason": "Payroll-cycle payments to this merchant consistently post to fsa account expenses, with payroll cash as the offset."}
+{"id": "s0141", "action": "accept", "unknown": "nothing", "reason": "The one past payment was a nearly identical amount coded to state pier - water & sewer."}
+{"id": "s0142", "action": "accept", "unknown": "nothing", "reason": "All shown past USPS payments went to postage exp at similar amounts."}
+{"id": "s0143", "action": "accept", "unknown": "nothing", "reason": "The one past payment was the same $20 amount coded to shredding, which matches the merchant's business."}
+{"id": "s0144", "action": "lookup_merchant", "unknown": "merchant", "reason": "The distributor's product line is unknown with no merchant history, and the memo is only a reference number."}
+{"id": "s0145", "action": "accept", "unknown": "nothing", "reason": "T-Mobile is a wireless carrier and plainly matches telephone-cellular service."}
+{"id": "s0146", "action": "request_document", "unknown": "item", "reason": "The same $1,000 amount has been coded to both health insurance and professional fees, so an invoice would show which this is."}
+{"id": "s0147", "action": "accept", "unknown": "nothing", "reason": "A very small bank charge reasonably follows the usual misc exp coding for this merchant."}
+{"id": "s0148", "action": "accept", "unknown": "nothing", "reason": "HealthEquity's one past payment went to the health spending account, which matches its business, and this amount is of similar scale."}
+{"id": "s0149", "action": "accept", "unknown": "nothing", "reason": "Both past payments at similar amounts went to contractual."}
+{"id": "s0150", "action": "request_document", "unknown": "item", "reason": "A $20.93 Payroll entry could be several pay or benefit accounts, and a payroll register would show which."}
+{"id": "s0151", "action": "lookup_merchant", "unknown": "merchant", "reason": "This merchant's business is unknown with no history, and knowing it would probably settle the technology department account."}
+{"id": "s0152", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This $14,115.07 is well above the one past $2,224.66 vrdb expense, and bond-related payments need accounting judgment."}
+{"id": "s0153", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant at this exact amount went to contractual."}
+{"id": "s0154", "action": "request_document", "unknown": "item", "reason": "This bank's past coding depends on the payment type, with child care subsidy, HSA, and loan entries, and remittance detail would show which this is."}
+{"id": "s0155", "action": "accept", "unknown": "nothing", "reason": "All past Falcon Fuels payments went to petroleum products, including a similar very small amount."}
+{"id": "s0156", "action": "accept", "unknown": "nothing", "reason": "An industry council payment plainly fits dues-professional organizations."}
+{"id": "s0157", "action": "accept", "unknown": "nothing", "reason": "The one past payment went to vehicle repair and maintenance, and this small amount reasonably follows it."}
+{"id": "s0158", "action": "request_document", "unknown": "item", "reason": "The merchant's past coding varies between advertising and other office expense, and this amount is larger than before, so a receipt is needed."}
+{"id": "s0159", "action": "request_document", "unknown": "item", "reason": "Past AECOM payments are coded to accounts specific to the billing period, so the invoice is needed to show the period and services."}
+{"id": "s0160", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant's business is unclear from its name and has no history, and knowing it would likely settle the account."}
+{"id": "s0161", "action": "accept", "unknown": "nothing", "reason": "The one past Paychex payment was this exact amount and went to other payroll expenses."}
+{"id": "s0162", "action": "accept", "unknown": "nothing", "reason": "A regional water utility bill plainly matches the water account used by this department."}
+{"id": "s0163", "action": "request_document", "unknown": "item", "reason": "The row shows no Payroll history for this department, and a payroll register would show which pay component this is."}
+{"id": "s0164", "action": "accept", "unknown": "nothing", "reason": "All shown past CHEFA payments went to support services at similar amounts."}
+{"id": "s0165", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $507,229 IBM payment with no history is very large and could be equipment or contractual, a possible capital decision."}
+{"id": "s0166", "action": "request_document", "unknown": "item", "reason": "An office products vendor with no history in this row sells many kinds of goods, so a receipt would show what was bought."}
+{"id": "s0167", "action": "accept", "unknown": "nothing", "reason": "All shown past CHEFA payments went to support services, including this exact amount's range."}
+{"id": "s0168", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant's name is unclear with no history, and learning its business would probably settle the account."}
+{"id": "s0169", "action": "lookup_merchant", "unknown": "merchant", "reason": "This is an unfamiliar merchant with no history, and knowing its business would help place it in a large account list."}
+{"id": "s0170", "action": "request_document", "unknown": "item", "reason": "This $9,305 is far above the past $351 to $2,429 contractual payments, so an invoice should confirm what it covers."}
+{"id": "s0171", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this condominium association at similar amounts went to foreclosure expense."}
+{"id": "s0172", "action": "request_document", "unknown": "item", "reason": "Similar consultants here split between capital and current accounts, so an invoice is needed to show the project despite the small amount."}
+{"id": "s0173", "action": "accept", "unknown": "nothing", "reason": "Past WageWorks payments of varying amounts went to flexible spending, while the admin fee is a fixed $150."}
+{"id": "s0174", "action": "request_document", "unknown": "item", "reason": "The one past payment went to a contract-specific PSA account, so an invoice is needed to show which contract this $2,000 falls under."}
+{"id": "s0175", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this bookbinder went to issuance expense."}
+{"id": "s0176", "action": "request_document", "unknown": "item", "reason": "The same $187,500 amount has been coded to several award-specific grant accounts, so the award number on the invoice is needed."}
+{"id": "s0177", "action": "request_document", "unknown": "item", "reason": "The row shows no Payroll history for the sheriff, and a payroll register would show which pay component this is."}
+{"id": "s0178", "action": "request_document", "unknown": "item", "reason": "A commercial card payment has varied past coding across many accounts, so the card statement is needed to show what was bought."}
+{"id": "s0179", "action": "accept", "unknown": "nothing", "reason": "A small purchase from an office supply vendor plainly matches office supplies in this short account list."}
+{"id": "s0180", "action": "request_document", "unknown": "item", "reason": "Payroll history spans many components, so a payroll register would show what this $9,691.05 is for the county manager."}
+{"id": "s0181", "action": "request_document", "unknown": "item", "reason": "A $230.80 Payroll entry could be several pay or benefit accounts, and a payroll register would show which."}
+{"id": "s0182", "action": "lookup_merchant", "unknown": "merchant", "reason": "This merchant's business is unknown with no history, and knowing it would probably settle the aging department account."}
+{"id": "s0183", "action": "accept", "unknown": "nothing", "reason": "Both past Paetec payments at similar amounts went to telephone."}
+{"id": "s0184", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $66,634 payment with no history, in an account list that mixes grants, subsidies, and loan accounts, needs accounting judgment."}
+{"id": "s0185", "action": "accept", "unknown": "nothing", "reason": "A fiber network provider plainly matches the telecom service accounts, and this is a routine-sized bill."}
+{"id": "s0186", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is generic with no history, and knowing the merchant's business would probably settle the account."}
+{"id": "s0187", "action": "request_document", "unknown": "item", "reason": "Past payments alternate between salaries and other payroll expenses, and the payroll remittance would show which this is."}
+{"id": "s0188", "action": "accept", "unknown": "nothing", "reason": "Both past Moody's payments, one at this exact amount, went to bond issuance costs."}
+{"id": "s0189", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "History splits between the close accounts support services, chefa support, and consultants-other, so policy decides the answer."}
+{"id": "s0190", "action": "accept", "unknown": "nothing", "reason": "A professional society payment plainly matches dues & subscriptions."}
+{"id": "s0191", "action": "request_document", "unknown": "item", "reason": "Past reimbursements to this person vary between parking and mileage, so the expense report would show what this larger amount covers."}
+{"id": "s0192", "action": "accept", "unknown": "nothing", "reason": "This very small $9 payment can reasonably follow the merchant's one past coding."}
+{"id": "s0193", "action": "accept", "unknown": "nothing", "reason": "A small airline charge plainly matches the auto / air / rail accounts."}
+{"id": "s0194", "action": "accept", "unknown": "nothing", "reason": "This very small payment can reasonably follow the merchant's one past coding to dues and subscriptions."}
+{"id": "s0195", "action": "accept", "unknown": "nothing", "reason": "Most past payments to this conferencing vendor went to telephone & internet access, and this amount is typical."}
+{"id": "s0196", "action": "request_document", "unknown": "item", "reason": "The one past payment went to a date-specific inspection account, so an invoice is needed to show what this later charge covers."}
+{"id": "s0197", "action": "request_document", "unknown": "item", "reason": "This individual's one past payment was $114.07 of travel, so an expense report should confirm what this larger amount covers."}
+{"id": "s0198", "action": "request_document", "unknown": "item", "reason": "This amount is unusually low for this vendor, whose coding varies by service, so the invoice would show the work done."}
+{"id": "s0199", "action": "accept", "unknown": "nothing", "reason": "This very small Grainger purchase can reasonably follow the department's past coding for this merchant."}

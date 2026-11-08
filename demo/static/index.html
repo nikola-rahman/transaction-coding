@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coding Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<style>
+/* Layout: fixed sidebar for company and views; a work table in the middle; a review drawer slides in from the right. */
+:root {
+  --bg: #f3f4f1; --panel: #ffffff; --sunk: #eceee9; --line: #dcdfd7; --fg: #1d2420; --muted: #66706a; --faint: #98a19b;
+  --accent: #1f6b57; --accent-soft: #e1efe9; --accent-fg: #ffffff;
+  --good: #2c7a4b; --good-soft: #e3f2e8; --warn: #9a6a12; --warn-soft: #f8eedb; --bad: #a43b32; --bad-soft: #f8e4e1; --info: #33618f; --info-soft: #e2ebf5;
+  --shadow: 0 1px 2px rgba(20,30,25,.06), 0 8px 24px rgba(20,30,25,.08);
+  --sans: "Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif; --mono: "JetBrains Mono", ui-monospace, Menlo, monospace; --display: "Newsreader", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121614; --panel: #1a1f1c; --sunk: #151a17; --line: #2a322d; --fg: #e4e9e5; --muted: #9aa59e; --faint: #6c7770;
+  --accent: #5cc3a2; --accent-soft: #1d3a31; --accent-fg: #0d1a15;
+  --good: #6fd49a; --good-soft: #1b3326; --warn: #e3b55a; --warn-soft: #3a2f17; --bad: #f08a80; --bad-soft: #3d201d; --info: #8db8e6; --info-soft: #1c2b3b;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.35); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #121614; --panel: #1a1f1c; --sunk: #151a17; --line: #2a322d; --fg: #e4e9e5; --muted: #9aa59e; --faint: #6c7770;
+  --accent: #5cc3a2; --accent-soft: #1d3a31; --accent-fg: #0d1a15;
+  --good: #6fd49a; --good-soft: #1b3326; --warn: #e3b55a; --warn-soft: #3a2f17; --bad: #f08a80; --bad-soft: #3d201d; --info: #8db8e6; --info-soft: #1c2b3b;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 30px rgba(0,0,0,.35); color-scheme: dark; }
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.45 var(--sans); }
+button, input, select { font: inherit; color: inherit; }
+.app { display: grid; grid-template-columns: 248px 1fr; height: 100%; }
+aside { background: var(--panel); border-right: 1px solid var(--line); display: flex; flex-direction: column; padding: 20px 14px; gap: 18px; min-width: 0; }
+.brand { display: flex; align-items: baseline; gap: 8px; padding: 0 6px; }
+.brand b { font: 600 22px/1 var(--display); letter-spacing: -.01em; }
+.brand span { font: 500 10px/1 var(--mono); color: var(--muted); letter-spacing: .12em; text-transform: uppercase; }
+label.small { display: block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 6px 6px; }
+select.org { width: 100%; padding: 9px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--sunk); }
+nav { display: flex; flex-direction: column; gap: 2px; }
+nav button { all: unset; cursor: pointer; display: flex; justify-content: space-between; align-items: center; padding: 8px 10px; border-radius: 7px; color: var(--muted); font-weight: 500; }
+nav button:hover { background: var(--sunk); color: var(--fg); }
+nav button.on { background: var(--accent-soft); color: var(--accent); }
+nav button:focus-visible { outline: 2px solid var(--accent); }
+nav .count { font: 500 11px var(--mono); background: var(--sunk); padding: 1px 7px; border-radius: 99px; color: var(--muted); }
+nav button.on .count { background: var(--panel); color: var(--accent); }
+.status { margin-top: auto; border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; font-size: 12px; color: var(--muted); display: grid; gap: 4px; }
+.status .row { display: flex; align-items: center; gap: 8px; color: var(--fg); font-weight: 600; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--faint); flex: none; }
+.dot.ok { background: var(--good); box-shadow: 0 0 0 3px var(--good-soft); } .dot.off { background: var(--bad); box-shadow: 0 0 0 3px var(--bad-soft); } .dot.mock { background: var(--warn); box-shadow: 0 0 0 3px var(--warn-soft); }
+.status code { font: 11px var(--mono); color: var(--muted); word-break: break-all; }
+.toggle { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); padding: 0 6px; cursor: pointer; }
+main { overflow: auto; min-width: 0; }
+.wrap { padding: 28px 32px 60px; max-width: 1280px; }
+header.page { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+h1 { font: 600 30px/1.1 var(--display); margin: 0; letter-spacing: -.01em; text-wrap: balance; }
+.sub { color: var(--muted); margin-top: 6px; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { border: 1px solid var(--line); background: var(--panel); padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 600; display: inline-flex; gap: 6px; align-items: center; }
+.btn:hover { border-color: var(--faint); } .btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.btn.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+.btn.primary:hover { filter: brightness(1.06); }
+.btn.danger { color: var(--bad); } .btn.small { padding: 4px 10px; font-size: 12px; }
+.btn:disabled { opacity: .45; cursor: default; }
+.tabs { display: flex; gap: 4px; margin-bottom: 12px; flex-wrap: wrap; }
+.tabs button { border: 1px solid transparent; background: none; padding: 6px 12px; border-radius: 99px; cursor: pointer; color: var(--muted); font-weight: 500; }
+.tabs button.on { background: var(--panel); border-color: var(--line); color: var(--fg); box-shadow: var(--shadow); }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; }
+.table { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: 11px; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 10px 14px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+td { padding: 11px 14px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+tr:last-child td { border-bottom: 0; }
+tbody tr.click { cursor: pointer; } tbody tr.click:hover { background: var(--sunk); } tbody tr.sel { background: var(--accent-soft); }
+.num { text-align: right; font: 13px var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.date { font: 12px var(--mono); color: var(--muted); white-space: nowrap; }
+.merchant { font-weight: 600; } .meta { font-size: 12px; color: var(--muted); max-width: 300px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sugg { display: grid; gap: 4px; min-width: 210px; }
+.sugg .acct { font-weight: 500; }
+.bar { height: 4px; border-radius: 4px; background: var(--sunk); overflow: hidden; } .bar i { display: block; height: 100%; border-radius: 4px; background: var(--accent); }
+.conf { font: 11px var(--mono); color: var(--muted); }
+.pill { display: inline-flex; align-items: center; gap: 5px; padding: 2px 9px; border-radius: 99px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+.pill.good { background: var(--good-soft); color: var(--good); } .pill.warn { background: var(--warn-soft); color: var(--warn); } .pill.bad { background: var(--bad-soft); color: var(--bad); } .pill.info { background: var(--info-soft); color: var(--info); } .pill.plain { background: var(--sunk); color: var(--muted); }
+.thinking { color: var(--faint); font-style: italic; display: inline-flex; gap: 6px; align-items: center; }
+.spin { width: 12px; height: 12px; border: 2px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .spin { animation: none; } .drawer { transition: none !important; } }
+.empty { padding: 48px; text-align: center; color: var(--muted); }
+.drawer { position: fixed; top: 0; right: 0; bottom: 0; width: min(560px, 100%); background: var(--panel); border-left: 1px solid var(--line); box-shadow: var(--shadow); transform: translateX(102%); transition: transform .22s ease; overflow-y: auto; z-index: 20; }
+.drawer.open { transform: none; }
+.drawer .head { position: sticky; top: 0; background: var(--panel); padding: 18px 22px 14px; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; z-index: 1; }
+.drawer .head h2 { font: 600 22px/1.15 var(--display); margin: 0; word-break: break-word; }
+.drawer section { padding: 16px 22px; border-bottom: 1px solid var(--line); }
+.drawer h3 { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; font-weight: 600; }
+.kv { display: grid; grid-template-columns: 130px 1fr; gap: 6px 12px; font-size: 13px; } .kv dt { color: var(--muted); } .kv dd { margin: 0; min-width: 0; word-break: break-word; }
+.opt { display: grid; grid-template-columns: 1fr 64px auto; gap: 10px; align-items: center; padding: 7px 0; }
+.opt .bar { height: 6px; } .opt.top .name { font-weight: 700; }
+.steps { display: flex; flex-wrap: wrap; gap: 6px; }
+.steps button { border: 1px solid var(--line); background: var(--panel); border-radius: 99px; padding: 5px 11px; cursor: pointer; font-size: 12px; display: inline-flex; gap: 6px; }
+.steps button.on { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.steps button b { font: 500 11px var(--mono); color: var(--muted); }
+.picker { display: flex; gap: 8px; } .picker input { flex: 1; min-width: 0; }
+input.text, select.text { padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--sunk); width: 100%; }
+input.text:focus, select.text:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.ev td { padding: 6px 8px; font-size: 12px; } .ev .same { font-weight: 700; }
+.reveal { margin-top: 10px; font-size: 13px; padding: 8px 10px; border-radius: 8px; background: var(--info-soft); color: var(--info); }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 16px; }
+.tile { padding: 16px; } .tile .k { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); } .tile .v { font: 600 30px/1.2 var(--display); margin-top: 6px; } .tile .h { font-size: 12px; color: var(--muted); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px; }
+.calrow { display: grid; grid-template-columns: 80px 1fr 90px; gap: 12px; align-items: center; padding: 8px 0; font-size: 13px; }
+.calrow .bar { height: 10px; }
+.form { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; padding: 16px; align-items: end; }
+.form label { display: grid; gap: 4px; font-size: 12px; color: var(--muted); }
+.modal { position: fixed; inset: 0; background: rgba(10,16,13,.45); display: grid; place-items: center; z-index: 30; padding: 16px; }
+.modal .card { width: min(560px, 100%); padding: 22px; box-shadow: var(--shadow); }
+.modal h2 { font: 600 22px var(--display); margin: 0 0 14px; }
+.toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--fg); color: var(--bg); padding: 10px 16px; border-radius: 9px; font-weight: 600; box-shadow: var(--shadow); z-index: 40; max-width: calc(100% - 32px); }
+.toast.err { background: var(--bad); color: #fff; }
+.hint { font-size: 12px; color: var(--muted); }
+.rec { font-size: 11px; font-weight: 600; max-width: 260px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .rec.ok { color: var(--good); } .rec.no { color: var(--bad); }
+tr.hit td:first-child { box-shadow: inset 3px 0 0 var(--good); } tr.miss td:first-child { box-shadow: inset 3px 0 0 var(--bad); }
+@media (max-width: 820px) { .app { grid-template-columns: 1fr; } aside { border-right: 0; border-bottom: 1px solid var(--line); } .status { margin-top: 0; } .wrap { padding: 20px 16px 48px; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="brand"><b>Coding Desk</b><span>demo</span></div>
+    <div><label class="small" for="org">Company</label><select id="org" class="org"></select></div>
+    <nav id="nav">
+      <button data-view="inbox"><span>To review</span><span class="count" id="c-inbox">0</span></button>
+      <button data-view="coded"><span>Coded</span><span class="count" id="c-coded">0</span></button>
+      <button data-view="rules"><span>Rules</span><span class="count" id="c-rules">0</span></button>
+      <button data-view="accounts"><span>Chart of accounts</span><span class="count" id="c-accounts">0</span></button>
+      <button data-view="monitor"><span>Monitoring</span><span></span></button>
+    </nav>
+    <label class="toggle"><input type="checkbox" id="reveal"> Show what the organization recorded</label>
+    <div class="status" id="status"></div>
+  </aside>
+  <main><div class="wrap" id="view"></div></main>
+</div>
+<div class="drawer" id="drawer" aria-hidden="true"></div>
+<div id="layer"></div>
+<script>
+const STEPS = { accept: "Approve", request_document: "Request receipt", ask_person: "Ask the spender", lookup_merchant: "Look up merchant", send_to_bookkeeper: "Send to bookkeeper" };
+const S = { org: null, orgs: [], view: "inbox", tab: "all", inbox: [], accounts: [], open: null, status: {} };
+try { S.view = localStorage.getItem("view") || "inbox"; document.getElementById("reveal").checked = localStorage.getItem("reveal") === "1"; } catch (e) {}
+const $ = s => document.querySelector(s);
+const esc = v => String(v ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const cur = () => (S.orgs.find(o => o.id === S.org) || {}).currency || "";
+const money = v => new Intl.NumberFormat(undefined, { style: "currency", currency: cur() || "USD" }).format(v);
+const pct = v => v == null ? "—" : Math.round(v * 100) + "%";
+async function api(path, opts = {}) {
+  const r = await fetch(path, { headers: { "content-type": "application/json" }, ...opts, body: opts.body ? JSON.stringify(opts.body) : undefined });
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(j.detail || `Request failed (${r.status})`);
+  return j;
+}
+function toast(msg, err) { const t = document.createElement("div"); t.className = "toast" + (err ? " err" : ""); t.textContent = msg; document.body.append(t); setTimeout(() => t.remove(), err ? 4200 : 2200); }
+const guard = fn => async (...a) => { try { await fn(...a); } catch (e) { toast(e.message, true); } };
+
+function confPill(s) {
+  if (!s) return "";
+  if (s.rule_id) return `<span class="pill info">Rule</span>`;
+  if (s.safe) return `<span class="pill good">Safe to approve</span>`;
+  if (s.confidence >= .7) return `<span class="pill warn">Check</span>`;
+  return `<span class="pill bad">Uncertain</span>`;
+}
+function stepPill(t) {
+  if (t.next_step) return `<span class="pill info">Waiting: ${esc(STEPS[t.next_step])}</span>`;
+  const s = t.suggestion; if (!s || s.action === "accept") return "";
+  return `<span class="pill plain">Suggests: ${esc(STEPS[s.action])}</span>`;
+}
+
+async function loadOrgs() {
+  S.orgs = await api("/api/orgs"); if (!S.org) { try { S.org = localStorage.getItem("org"); } catch (e) {} }
+  if (!S.orgs.find(o => o.id === S.org)) S.org = S.orgs[0]?.id;
+  $("#org").innerHTML = S.orgs.map(o => `<option value="${esc(o.id)}" ${o.id === S.org ? "selected" : ""}>${esc(o.name)}</option>`).join("");
+  const o = S.orgs.find(o => o.id === S.org) || {}; $("#c-inbox").textContent = o.inbox ?? 0; $("#c-coded").textContent = (o.coded ?? 0).toLocaleString();
+}
+async function loadStatus() {
+  S.status = await api("/api/status").catch(() => ({}));
+  const st = S.status, cls = st.mock ? "mock" : st.connected ? "ok" : "off";
+  const label = st.mock ? "Mock model (no GPU)" : st.connected ? "Model connected" : "Model not connected";
+  $("#status").innerHTML = `<div class="row"><span class="dot ${cls}"></span>${label}</div>
+    <div>${esc(st.model || "")}</div><div>${esc(st.device || "")}</div>
+    ${st.pending ? `<div>${st.pending} waiting for a suggestion</div>` : ""}<code>${esc(st.model_url || "")}</code>`;
+}
+async function refreshCounts() {
+  const [rules, accts] = await Promise.all([api(`/api/rules?org=${enc()}`), api(`/api/accounts?org=${enc()}`)]);
+  S.accounts = accts; $("#c-rules").textContent = rules.length; $("#c-accounts").textContent = accts.length;
+}
+const enc = () => encodeURIComponent(S.org);
+const REV = () => $("#reveal").checked;
+
+function setView(v) {
+  S.view = v; try { localStorage.setItem("view", v); } catch (e) {}
+  document.querySelectorAll("#nav button").forEach(b => b.classList.toggle("on", b.dataset.view === v)); closeDrawer(); render();
+}
+async function render() { await ({ inbox: renderInbox, coded: renderCoded, rules: renderRules, accounts: renderAccounts, monitor: renderMonitor }[S.view])(); }
+
+// ---------- To review ----------
+async function renderInbox() {
+  S.inbox = await api(`/api/inbox?org=${enc()}`);
+  const safe = S.inbox.filter(t => t.suggestion?.safe && !t.next_step), waiting = S.inbox.filter(t => t.next_step);
+  const review = S.inbox.filter(t => t.suggestion && !t.suggestion.safe && !t.next_step);
+  const rows = { all: S.inbox, safe, review, waiting }[S.tab];
+  $("#view").innerHTML = `
+    <header class="page"><div><h1>To review</h1><div class="sub">${S.inbox.length} transactions without an account · ${safe.length} safe to approve · ${review.length} need a look · ${waiting.length} waiting on someone${REV() ? (() => { const k = S.inbox.filter(t => t.suggestion && t.recorded_account); const m = k.filter(t => t.suggestion.account === t.recorded_account).length; return k.length ? ` · <b>${m} of ${k.length} suggestions match what was recorded</b>` : ""; })() : ""}</div></div>
+      <div class="actions"><button class="btn" id="add">Add transaction</button><button class="btn primary" id="bulk" ${safe.length ? "" : "disabled"}>Approve ${safe.length} safe</button></div></header>
+    <div class="tabs" role="tablist">${[["all", "All", S.inbox.length], ["safe", "Safe to approve", safe.length], ["review", "Needs a look", review.length], ["waiting", "Waiting", waiting.length]]
+      .map(([k, l, n]) => `<button role="tab" data-tab="${k}" class="${S.tab === k ? "on" : ""}">${l} · ${n}</button>`).join("")}</div>
+    <div class="card table">${rows.length ? `<table><thead><tr><th>Date</th><th>Merchant</th><th class="num">Amount</th><th>Suggested account</th><th>Status</th><th></th></tr></thead><tbody>
+      ${rows.map(t => { const s = t.suggestion; return `<tr class="click ${S.open === t.id ? "sel" : ""} ${REV() && s && t.recorded_account ? (s.account === t.recorded_account ? "hit" : "miss") : ""}" data-id="${t.id}">
+        <td class="date">${esc(t.date)}</td>
+        <td><div class="merchant">${esc(t.merchant_name)}</div><div class="meta">${esc([t.department, t.merchant_category].filter(Boolean).join(" · ") || "—")}</div></td>
+        <td class="num">${money(t.amount)}</td>
+        <td>${s ? `<div class="sugg"><span class="acct">${esc(s.account)}</span><div class="bar"><i style="width:${Math.round(s.confidence * 100)}%"></i></div><span class="conf">${s.rule_id ? "from rule" : pct(s.confidence) + " confident"}</span>${REV() && t.recorded_account ? (s.account === t.recorded_account ? `<span class="rec ok">✓ matches what was recorded</span>` : `<span class="rec no" title="${esc(t.recorded_account)}">✗ recorded: ${esc(t.recorded_account)}</span>`) : ""}</div>` : `<span class="thinking"><span class="spin"></span>Thinking…</span>`}</td>
+        <td><div style="display:grid;gap:4px;justify-items:start">${confPill(s)}${stepPill(t)}</div></td>
+        <td class="num">${s ? `<button class="btn small" data-approve="${t.id}">Approve</button>` : ""}</td></tr>`; }).join("")}</tbody></table>`
+      : `<div class="empty">${S.inbox.length ? "Nothing in this group." : "All caught up. Add a transaction to see a suggestion."}</div>`}</div>`;
+  $("#add").onclick = addModal;
+  $("#bulk").onclick = guard(async () => { const r = await api(`/api/bulk_approve?org=${enc()}`, { method: "POST" }); toast(`Approved ${r.approved}`); await afterChange(); });
+  document.querySelectorAll("[data-tab]").forEach(b => b.onclick = () => { S.tab = b.dataset.tab; renderInbox(); });
+  document.querySelectorAll("tr[data-id]").forEach(tr => tr.onclick = e => { if (!e.target.closest("button")) openTxn(+tr.dataset.id); });
+  document.querySelectorAll("[data-approve]").forEach(b => b.onclick = guard(async () => {
+    const t = S.inbox.find(x => x.id === +b.dataset.approve); await api(`/api/transactions/${t.id}/code`, { method: "POST", body: { account: t.suggestion.account } });
+    toast(`Coded to ${t.suggestion.account}`); await afterChange(); }));
+}
+
+// ---------- review drawer ----------
+function closeDrawer() { S.open = null; $("#drawer").classList.remove("open"); $("#drawer").setAttribute("aria-hidden", "true"); }
+async function openTxn(id) {
+  S.open = id; const t = await api(`/api/transactions/${id}`); const s = t.suggestion; const coded = !!t.account;
+  const reveal = $("#reveal").checked && t.recorded_account;
+  const me = t.merchant_name.toLowerCase();
+  $("#drawer").innerHTML = `
+    <div class="head"><div><div class="date">${esc(t.date)} · ${money(t.amount)}</div><h2>${esc(t.merchant_name)}</h2></div><button class="btn small" id="close" aria-label="Close">Close</button></div>
+    <section><dl class="kv"><dt>Department</dt><dd>${esc(t.department || "—")}</dd><dt>Merchant category</dt><dd>${esc(t.merchant_category || "—")}</dd><dt>Memo</dt><dd>${esc(t.memo || "—")}</dd><dt>Payment</dt><dd>${esc(t.payment_kind || "—")}</dd>
+      ${coded ? `<dt>Coded to</dt><dd><b>${esc(t.account)}</b> <span class="pill plain">${esc(t.source)}</span></dd>` : ""}</dl>
+      ${reveal ? `<div class="reveal">The organization recorded: <b>${esc(t.recorded_account)}</b>${s ? (s.account === t.recorded_account ? " — matches the suggestion" : " — differs from the suggestion") : ""}</div>` : ""}</section>
+    ${coded ? `<section><div class="actions"><button class="btn" id="uncode">Send back to review</button><button class="btn danger" id="del">Delete transaction</button></div></section>` : `
+    <section><h3>Suggested account ${confPill(s)}</h3>
+      ${s ? s.top5.map(([a, p], i) => `<div class="opt ${i === 0 ? "top" : ""}"><div><div class="name">${esc(a)}</div><div class="bar"><i style="width:${Math.round(p * 100)}%"></i></div></div><span class="conf num">${pct(p)}</span><button class="btn small ${i === 0 ? "primary" : ""}" data-code="${esc(a)}">${i === 0 ? "Approve" : "Use"}</button></div>`).join("")
+        : `<span class="thinking"><span class="spin"></span>Waiting for the model…</span>`}
+      <div style="margin-top:12px"><label class="small" for="pick" style="margin:0 0 6px">Or choose another account</label>
+        <div class="picker"><input id="pick" class="text" list="acctlist" placeholder="Search the chart of accounts"><button class="btn" id="usepick">Code</button></div>
+        <datalist id="acctlist">${S.accounts.map(a => `<option value="${esc(a.name)}">`).join("")}</datalist></div></section>
+    <section><h3>Next step</h3><div class="steps">${Object.entries(STEPS).filter(([k]) => k !== "accept").map(([k, l]) => `<button data-step="${k}" class="${t.next_step === k ? "on" : ""}">${l}${s && s.action_probs[k] != null ? ` <b>${pct(s.action_probs[k])}</b>` : ""}</button>`).join("")}
+      ${t.next_step ? `<button data-step="">Clear</button>` : ""}</div>
+      ${s ? `<p class="hint">Model's next step: <b>${esc(STEPS[s.action])}</b> (${pct(s.action_probs[s.action])}).</p>` : ""}</section>
+    <section><div class="actions"><button class="btn danger" id="del">Delete transaction</button></div></section>`}
+    ${s ? `<section><h3>Why this suggestion</h3>${s.rule_id ? `<p class="hint">Rule #${s.rule_id} matched this merchant, so the model was not asked.</p>` :
+      t.evidence.length ? `<p class="hint">The ${t.evidence.length} most relevant earlier transactions the model read, found by merchant, merchant category and department. Same merchant in bold.</p>
+      <div class="table"><table class="ev"><tbody>${t.evidence.map(e => `<tr><td class="date">${esc(e.date)}</td><td class="${e.merchant_name.toLowerCase() === me ? "same" : ""}">${esc(e.merchant_name)}</td><td class="num">${money(e.amount)}</td><td>${esc(e.account)}</td></tr>`).join("")}</tbody></table></div>`
+      : `<p class="hint">No earlier transactions matched on merchant, category or department. The model only had the transaction itself.</p>`}</section>
+      <section><h3>Trace</h3><dl class="kv"><dt>Made by</dt><dd>${esc(s.model_version)}</dd><dt>Latency</dt><dd>${s.latency_ms ?? "—"} ms</dd><dt>Suggestion id</dt><dd>#${s.id} · ${esc(s.created_at)} UTC</dd></dl></section>` : ""}
+    ${t.timeline.length ? `<section><h3>Activity</h3>${t.timeline.map(e => `<div class="hint">${esc(e.at)} · ${esc(e.kind.replace("_", " "))} ${esc(Object.entries(JSON.parse(e.detail || "{}")).filter(([, v]) => v != null).map(([k, v]) => `${k}: ${v}`).join(", "))}</div>`).join("")}</section>` : ""}`;
+  $("#drawer").classList.add("open"); $("#drawer").setAttribute("aria-hidden", "false");
+  $("#close").onclick = () => { closeDrawer(); document.querySelectorAll("tr.sel").forEach(r => r.classList.remove("sel")); };
+  const codeTo = guard(async a => { await api(`/api/transactions/${id}/code`, { method: "POST", body: { account: a } }); toast(`Coded to ${a}`); closeDrawer(); await afterChange(); });
+  document.querySelectorAll("[data-code]").forEach(b => b.onclick = () => codeTo(b.dataset.code));
+  if ($("#usepick")) $("#usepick").onclick = () => { const v = $("#pick").value.trim(); if (!v) return toast("Choose an account first", true); codeTo(v); };
+  document.querySelectorAll("[data-step]").forEach(b => b.onclick = guard(async () => { await api(`/api/transactions/${id}/next_step`, { method: "POST", body: { step: b.dataset.step || null } }); toast(b.dataset.step ? `Marked: ${STEPS[b.dataset.step]}` : "Next step cleared"); await afterChange(); openTxn(id); }));
+  if ($("#uncode")) $("#uncode").onclick = guard(async () => { await api(`/api/transactions/${id}/uncode`, { method: "POST" }); toast("Sent back to review"); closeDrawer(); await afterChange(); });
+  document.querySelectorAll("#del").forEach(b => b.onclick = () => confirmBox("Delete this transaction?", "It is removed from the database. If it was coded, suggestions for similar transactions are recomputed.", "Delete", guard(async () => { await api(`/api/transactions/${id}`, { method: "DELETE" }); toast("Deleted"); closeDrawer(); await afterChange(); })));
+}
+function confirmBox(title, body, label, onYes) {
+  $("#layer").innerHTML = `<div class="modal"><div class="card"><h2>${esc(title)}</h2><p class="hint">${esc(body)}</p><div class="actions" style="justify-content:flex-end;margin-top:16px"><button class="btn" id="no">Cancel</button><button class="btn primary" id="yes">${esc(label)}</button></div></div></div>`;
+  $("#no").onclick = () => $("#layer").innerHTML = ""; $("#yes").onclick = () => { $("#layer").innerHTML = ""; onYes(); };
+}
+function addModal() {
+  const today = new Date().toISOString().slice(0, 10);
+  $("#layer").innerHTML = `<div class="modal"><form class="card" id="f"><h2>Add transaction</h2><div class="form" style="padding:0">
+    <label>Merchant<input class="text" id="m" required placeholder="e.g. TESCO STORES 2296"></label><label>Amount (${esc(cur())})<input class="text" id="a" type="number" step="0.01" required value="24.99"></label>
+    <label>Date<input class="text" id="d" type="date" value="${today}"></label><label>Department<input class="text" id="dep" placeholder="optional"></label>
+    <label>Merchant category<input class="text" id="cat" placeholder="optional"></label><label>Memo<input class="text" id="memo" placeholder="optional"></label></div>
+    <p class="hint">It appears in To review, and the model suggests an account from this company's history.</p>
+    <div class="actions" style="justify-content:flex-end;margin-top:12px"><button type="button" class="btn" id="no">Cancel</button><button class="btn primary">Add</button></div></form></div>`;
+  $("#no").onclick = () => $("#layer").innerHTML = "";
+  $("#f").onsubmit = guard(async e => { e.preventDefault(); await api("/api/transactions", { method: "POST", body: { org: S.org, merchant_name: $("#m").value, amount: +$("#a").value, date: $("#d").value, department: $("#dep").value, merchant_category: $("#cat").value, memo: $("#memo").value } });
+    $("#layer").innerHTML = ""; toast("Added. The model is on it."); S.tab = "all"; await afterChange(); });
+}
+
+// ---------- Coded ----------
+async function renderCoded(search = "") {
+  const rows = await api(`/api/coded?org=${enc()}&search=${encodeURIComponent(search)}`);
+  const srcPill = s => `<span class="pill ${{ person: "warn", suggestion: "good", bulk: "good", rule: "info", import: "plain" }[s] || "plain"}">${esc({ person: "changed by person", suggestion: "approved", bulk: "bulk approved", rule: "rule", import: "history" }[s] || s)}</span>`;
+  $("#view").innerHTML = `<header class="page"><div><h1>Coded</h1><div class="sub">Every coded transaction is history the model reads for the next suggestion. Most recent first.</div></div>
+    <div class="actions"><input class="text" id="q" placeholder="Search merchant or account" value="${esc(search)}" style="width:260px"><button class="btn" id="reset">Reset demo session</button></div></header>
+    <div class="card table">${rows.length ? `<table><thead><tr><th>Date</th><th>Merchant</th><th class="num">Amount</th><th>Account</th><th>Source</th></tr></thead><tbody>
+    ${rows.map(t => `<tr class="click" data-id="${t.id}"><td class="date">${esc(t.date)}</td><td><div class="merchant">${esc(t.merchant_name)}</div><div class="meta">${esc(t.department || "")}</div></td><td class="num">${money(t.amount)}</td><td>${esc(t.account)}</td><td>${srcPill(t.source)}</td></tr>`).join("")}</tbody></table>` : `<div class="empty">No matches.</div>`}</div>
+    <p class="hint">Showing up to 200. Click a row to send it back to review or delete it.</p>`;
+  let tm; $("#q").oninput = e => { clearTimeout(tm); tm = setTimeout(() => renderCoded(e.target.value), 250); };
+  $("#reset").onclick = () => confirmBox("Reset the demo session?", "Everything coded in this session goes back to To review. Imported history stays.", "Reset", guard(async () => { const r = await api(`/api/demo/reset_inbox?org=${enc()}`, { method: "POST" }); toast(`${r.reset} back in review`); await afterChange(); }));
+  document.querySelectorAll("tr[data-id]").forEach(tr => tr.onclick = () => openTxn(+tr.dataset.id));
+}
+
+// ---------- Rules ----------
+async function renderRules() {
+  const rules = await api(`/api/rules?org=${enc()}`);
+  $("#view").innerHTML = `<header class="page"><div><h1>Rules</h1><div class="sub">Rules run before the model. A matching rule codes the transaction and the model is not asked.</div></div></header>
+    <form class="card form" id="rf" style="margin-bottom:16px"><label>Merchant text<input class="text" id="rp" required placeholder="e.g. amazon"></label>
+      <label>Match<select class="text" id="rm"><option value="contains">contains</option><option value="equals">equals</option></select></label>
+      <label>Account<input class="text" id="ra" list="acctlist2" required placeholder="Search accounts"></label><button class="btn primary">Add rule</button>
+      <datalist id="acctlist2">${S.accounts.map(a => `<option value="${esc(a.name)}">`).join("")}</datalist></form>
+    <div class="card table">${rules.length ? `<table><thead><tr><th>#</th><th>When merchant</th><th>Code to</th><th>Added</th><th></th></tr></thead><tbody>${rules.map(r => `<tr><td class="date">${r.id}</td><td>${esc(r.match)} <b>${esc(r.pattern)}</b></td><td>${esc(r.account)}</td><td class="date">${esc(r.created_at)}</td><td class="num"><button class="btn small danger" data-del="${r.id}">Delete</button></td></tr>`).join("")}</tbody></table>`
+      : `<div class="empty">No rules yet. Add one above and watch matching transactions in To review switch to it.</div>`}</div>`;
+  $("#rf").onsubmit = guard(async e => { e.preventDefault(); await api("/api/rules", { method: "POST", body: { org: S.org, pattern: $("#rp").value, match: $("#rm").value, account: $("#ra").value } }); toast("Rule added"); await afterChange(); });
+  document.querySelectorAll("[data-del]").forEach(b => b.onclick = guard(async () => { await api(`/api/rules/${b.dataset.del}`, { method: "DELETE" }); toast("Rule deleted"); await afterChange(); }));
+}
+
+// ---------- Chart of accounts ----------
+async function renderAccounts() {
+  $("#view").innerHTML = `<header class="page"><div><h1>Chart of accounts</h1><div class="sub">The model chooses among these accounts. Most used first.</div></div></header>
+    <form class="card form" id="af" style="margin-bottom:16px"><label>New account<input class="text" id="an" required placeholder="e.g. software subscriptions"></label><button class="btn primary">Add account</button></form>
+    <div class="card table"><table><thead><tr><th>Account</th><th class="num">Transactions</th><th></th></tr></thead><tbody>${S.accounts.map(a => `<tr><td>${esc(a.name)}</td><td class="num">${a.used.toLocaleString()}</td><td class="num"><button class="btn small danger" data-del="${a.id}">Delete</button></td></tr>`).join("")}</tbody></table></div>`;
+  $("#af").onsubmit = guard(async e => { e.preventDefault(); await api("/api/accounts", { method: "POST", body: { org: S.org, name: $("#an").value } }); toast("Account added"); await afterChange(); });
+  document.querySelectorAll("[data-del]").forEach(b => b.onclick = guard(async () => { await api(`/api/accounts/${b.dataset.del}`, { method: "DELETE" }); toast("Account deleted"); await afterChange(); }));
+}
+
+// ---------- Monitoring ----------
+async function renderMonitor() {
+  const m = await api(`/api/metrics?org=${enc()}`); const src = m.sources || {};
+  $("#view").innerHTML = `<header class="page"><div><h1>Monitoring</h1><div class="sub">Built from suggestions people reviewed in this app.</div></div></header>
+    <div class="tiles">
+      <div class="card tile"><div class="k">Reviewed suggestions</div><div class="v">${m.reviewed}</div><div class="h">${m.changed} changed by a person</div></div>
+      <div class="card tile"><div class="k">Suggestion right</div><div class="v">${m.right == null ? "—" : m.right + "%"}</div><div class="h">approved as suggested</div></div>
+      <div class="card tile"><div class="k">Right account in top 5</div><div class="v">${m.top5 == null ? "—" : m.top5 + "%"}</div><div class="h">one click away</div></div>
+      <div class="card tile"><div class="k">Median latency</div><div class="v">${m.latency_ms.median == null ? "—" : Math.round(m.latency_ms.median) + " ms"}</div><div class="h">last ${m.latency_ms.count} model calls</div></div></div>
+    <div class="grid2">
+      <div class="card" style="padding:16px"><h3 style="font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 6px">Calibration: how often each confidence band was right</h3>
+        ${m.calibration.map(c => `<div class="calrow"><span class="date">${c.bin}</span><div class="bar"><i style="width:${c.right ?? 0}%"></i></div><span class="num">${c.right == null ? "no data" : c.right + "% · " + c.n}</span></div>`).join("")}
+        <p class="hint">If the 90–100% band falls well below 90%, raise the safe threshold or recalibrate for this company.</p></div>
+      <div class="card" style="padding:16px"><h3 style="font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 6px">Coded this session</h3>
+        ${["suggestion", "bulk", "person", "rule"].map(k => `<div class="calrow"><span>${{ suggestion: "Approved", bulk: "Bulk approved", person: "Changed", rule: "By rule" }[k]}</span><div class="bar"><i style="width:${Math.min(100, (src[k] || 0) * 5)}%"></i></div><span class="num">${src[k] || 0}</span></div>`).join("")}</div>
+      <div class="card" style="padding:16px;grid-column:1/-1"><h3 style="font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 6px">Recent activity</h3>
+        ${m.recent.length ? m.recent.map(e => `<div class="hint" style="padding:3px 0">${esc(e.at)} · <b>${esc(e.kind.replaceAll("_", " "))}</b> ${esc(e.merchant_name || "")} ${esc(Object.entries(JSON.parse(e.detail || "{}")).filter(([, v]) => v != null).map(([k, v]) => `${k}: ${v}`).join(", "))}</div>`).join("") : `<p class="hint">Nothing yet.</p>`}</div></div>`;
+}
+
+async function afterChange() { await loadOrgs(); await refreshCounts(); await render(); }
+$("#org").onchange = guard(async e => { S.org = e.target.value; try { localStorage.setItem("org", S.org); } catch (x) {} S.tab = "all"; closeDrawer(); await afterChange(); });
+$("#reveal").onchange = e => { try { localStorage.setItem("reveal", e.target.checked ? "1" : "0"); } catch (x) {} if (S.view === "inbox") renderInbox(); if (S.open) openTxn(S.open); };
+document.querySelectorAll("#nav button").forEach(b => b.onclick = () => setView(b.dataset.view));
+document.addEventListener("keydown", e => { if (e.key === "Escape") { closeDrawer(); $("#layer").innerHTML = ""; } });
+(async () => {
+  await loadStatus(); await loadOrgs(); await refreshCounts(); setView(S.view);
+  setInterval(async () => { await loadStatus(); if (S.view === "inbox" && (S.status.pending || S.inbox.some(t => !t.suggestion))) { await loadOrgs(); await renderInbox(); } }, 2500);
+})().catch(e => toast(e.message, true));
+</script>
+</body>
+</html>

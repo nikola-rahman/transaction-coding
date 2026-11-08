@@ -1,0 +1,100 @@
+{"id": "r0600", "action": "accept", "unknown": "nothing", "reason": "All seven past payments to this stationer went to office supplies, and $497 is higher than usual but still an ordinary stationery order."}
+{"id": "r0601", "action": "request_document", "unknown": "item", "reason": "Past coding is always utilities, but $16,182.60 is about seven times the largest past payment shown, so the bill should confirm what it covers."}
+{"id": "r0602", "action": "accept", "unknown": "nothing", "reason": "All past Frontier payments went to telephone and pagers, and $78.92 is in the normal range."}
+{"id": "r0603", "action": "request_document", "unknown": "item", "reason": "There is no history for this nonprofit alliance, and an invoice would show whether the payment is dues, training or another charge."}
+{"id": "r0604", "action": "accept", "unknown": "nothing", "reason": "All past Fidelity payments of similar size went to 401k contributions and loan repayments."}
+{"id": "r0605", "action": "accept", "unknown": "nothing", "reason": "Past CHEFA payments in the $12,000-13,000 range all went to support services, while meetings coding covers only small amounts, so $10,584.96 fits support services."}
+{"id": "r0606", "action": "request_document", "unknown": "item", "reason": "The merchant is a known waste hauler with no history here, and an invoice would show whether this $32,368 is rubbish removal, recycling or another waste service."}
+{"id": "r0607", "action": "accept", "unknown": "nothing", "reason": "Both past small payments to this merchant went to meetings & workshops, and $40 is a similar small amount."}
+{"id": "r0608", "action": "accept", "unknown": "nothing", "reason": "Three identical $30 MailChimp payments all went to mktg and bus dev."}
+{"id": "r0609", "action": "request_document", "unknown": "item", "reason": "There is no history, and an invoice would show whether this $1,200 to a community organization is dues, sponsorship or advertising."}
+{"id": "r0610", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past coding splits between vrdb expense and bond issuance costs, and $77,839.38 is above the vrdb amounts shown, so a large bond-related item needs accounting judgment."}
+{"id": "r0611", "action": "accept", "unknown": "nothing", "reason": "The three past $39 rows are the cash, payable and hardware expenses sides of the same kind of entry, so this very small payment fits hardware expenses."}
+{"id": "r0612", "action": "accept", "unknown": "nothing", "reason": "All past payments to this firm went to legal services, and the amount is in the normal range."}
+{"id": "r0613", "action": "accept", "unknown": "nothing", "reason": "All three past Sonitrol payments went to building operations, and $299.56 is within their range."}
+{"id": "r0614", "action": "request_document", "unknown": "item", "reason": "Apple sells hardware, software and subscriptions, there is no history, and a receipt would show which was bought."}
+{"id": "r0615", "action": "accept", "unknown": "nothing", "reason": "The memo identifies a monthly copier equipment lease, and at $32.17 a reasonable lease or contract account is good enough despite having no history."}
+{"id": "r0616", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "An $80,000 round payment to a merchant with no history, in a chart full of grant and contract accounts, is high risk and not settled."}
+{"id": "r0617", "action": "accept", "unknown": "nothing", "reason": "Both past Simplex Grinnell payments went to building operations, and $730.21 falls between them."}
+{"id": "r0618", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $30,000 round payment to a university with no history could be one of many grant or program accounts, so the high amount calls for accounting judgment."}
+{"id": "r0619", "action": "accept", "unknown": "nothing", "reason": "All past payments to this firm went to legal services, and $3,483 is only modestly above the shown amounts for a variable legal bill."}
+{"id": "r0620", "action": "accept", "unknown": "nothing", "reason": "Past payments, including many at exactly $3,920, all went to temporary staffing."}
+{"id": "r0621", "action": "accept", "unknown": "nothing", "reason": "All past payments, including several at exactly $266, went to consultants-dp."}
+{"id": "r0622", "action": "request_document", "unknown": "item", "reason": "Past W.B. Mason coding splits between office supplies and office furniture at overlapping amounts, so an invoice is needed to show what was bought."}
+{"id": "r0623", "action": "request_document", "unknown": "item", "reason": "Past coding for this bank depends on what the payment was, including child care subsidy, loan guarantee and HSA items, and $7,769.01 does not separate them without a bank document."}
+{"id": "r0624", "action": "accept", "unknown": "nothing", "reason": "All past Betts payments in this department went to field equipment expense, and the memo uses the same shop-order format."}
+{"id": "r0625", "action": "accept", "unknown": "nothing", "reason": "All past Prudential payments near this amount went to 457 contribution."}
+{"id": "r0626", "action": "accept", "unknown": "nothing", "reason": "Past Konica payments in this department with the same invoice memo all went to contractual services."}
+{"id": "r0627", "action": "request_document", "unknown": "item", "reason": "There is no history, and the invoice would show whether this turnout gear charge is a service, supplies or uniform-related cost."}
+{"id": "r0628", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant went to equipment rental, and $987.35 is within their range."}
+{"id": "r0629", "action": "accept", "unknown": "nothing", "reason": "All past Verizon Wireless payments went to telephone and pagers, and $1,110.64 is close to the prior monthly bills of about $1,000."}
+{"id": "r0630", "action": "accept", "unknown": "nothing", "reason": "Both past small payments to this merchant went to meetings & workshops, and $18 matches them."}
+{"id": "r0631", "action": "accept", "unknown": "nothing", "reason": "The memo uses the same police shop and quote format as past field equipment expense rows, and the amount is only $10.50."}
+{"id": "r0632", "action": "accept", "unknown": "nothing", "reason": "The only past Galls payment went to uniforms, and the merchant and memo fit a routine uniform purchase for the fire department."}
+{"id": "r0633", "action": "accept", "unknown": "nothing", "reason": "All six past Boccuzzi payments went to psa, and $3,000 is only somewhat below their range."}
+{"id": "r0634", "action": "accept", "unknown": "nothing", "reason": "Every past $10,000 payment went to professional services, and the single travel row was a different, smaller amount."}
+{"id": "r0635", "action": "request_document", "unknown": "item", "reason": "Past Bank of America payments went to many different accounts, which suggests mixed charges that only a statement or receipt would show."}
+{"id": "r0636", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $50,000 round payment to an unfamiliar professional corporation with no history, in a non-departmental budget with liability payout accounts, is high risk and unsettled."}
+{"id": "r0637", "action": "accept", "unknown": "nothing", "reason": "All past HealthEquity payments, including one at exactly $155.25, went to flexible benefits- health spending account."}
+{"id": "r0638", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $77,959 journal entry has no vendor or memo, past journal entries hit many unrelated accounts, and it may be a reclassification."}
+{"id": "r0639", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history and its name does not show what service it provides among many social services accounts."}
+{"id": "r0640", "action": "request_document", "unknown": "item", "reason": "Past coding splits between disability and medical/life insurance, and $31.62 matches neither shown amount, so the premium statement should show the coverage."}
+{"id": "r0641", "action": "accept", "unknown": "nothing", "reason": "All past Verizon Business payments went to telephone and pagers, and $435.25 is close to prior bills."}
+{"id": "r0642", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this restaurant went to meals and entertainment, and $51.82 is a similar amount."}
+{"id": "r0643", "action": "request_document", "unknown": "item", "reason": "There is no history for this consultant, and an invoice would show which technology or consulting service the $20,720 paid for."}
+{"id": "r0644", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name does not make clear what this business sells, there is no history, and knowing that would narrow the account for this $14,250 payment."}
+{"id": "r0645", "action": "request_document", "unknown": "item", "reason": "Past payments to this contractor split between psa 2101 and psa 2086, and the invoice would show which agreement applies."}
+{"id": "r0646", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant is unfamiliar with no history, and its business is needed to place it among a large set of accounts."}
+{"id": "r0647", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history or memo, and its name does not show what it supplies to recreation and parks."}
+{"id": "r0648", "action": "accept", "unknown": "nothing", "reason": "All past TEKsystems payments, including one at exactly $1,920, went to contractual."}
+{"id": "r0649", "action": "accept", "unknown": "nothing", "reason": "A motor dealer payment with the police shop and quote memo format matches past field equipment expense rows, and the amount is routine."}
+{"id": "r0650", "action": "accept", "unknown": "nothing", "reason": "All four past BCRCS payments went to due dilligence, and $920 is within their range."}
+{"id": "r0651", "action": "accept", "unknown": "nothing", "reason": "Past United Airlines payments went to auto / air / rail, and a $25 airline charge fits the same account."}
+{"id": "r0652", "action": "accept", "unknown": "nothing", "reason": "Every past payment at exactly $57.12 went to emp medical, dental & life."}
+{"id": "r0653", "action": "request_document", "unknown": "item", "reason": "There is no history, and an invoice would show whether this landscape payment was for park supplies or a service."}
+{"id": "r0654", "action": "lookup_merchant", "unknown": "merchant", "reason": "This row has no history for the merchant and the name alone does not show its business, which a quick lookup would likely settle."}
+{"id": "r0655", "action": "accept", "unknown": "nothing", "reason": "Both past payments of exactly $3,500 went to communications."}
+{"id": "r0656", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this merchant went to office and administrative, and although those were other departments, $109.93 is small and the account is reasonable."}
+{"id": "r0657", "action": "request_document", "unknown": "item", "reason": "There is no history, and an invoice would show what tree or landscape work this $10,045 covered and where, which decides among maintenance and project accounts."}
+{"id": "r0658", "action": "request_document", "unknown": "item", "reason": "Payroll rows are split across salary, benefit and tax accounts, so the payroll register is needed to show which component this $11,161.21 is."}
+{"id": "r0659", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant went to maint svc contracts, and $257.87 is close to its larger past amounts."}
+{"id": "r0660", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A single similar past payment points to contract operating charges, but one precedent is thin support for a $103,032.17 payment when disposal accounts also exist."}
+{"id": "r0661", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history and its name does not fit any visible account, so its actual business should be checked first."}
+{"id": "r0662", "action": "accept", "unknown": "nothing", "reason": "All past Suburban Stationers payments went to office supplies, and $34.53 is a small routine amount."}
+{"id": "r0663", "action": "accept", "unknown": "nothing", "reason": "At $2.66 this is very small, and a routine uniform or shop supply account for the fleet department is reasonable without further work."}
+{"id": "r0664", "action": "request_document", "unknown": "item", "reason": "The one past payment went to issuance expense, but a law firm could also be legal, so the invoice should show the matter."}
+{"id": "r0665", "action": "accept", "unknown": "nothing", "reason": "Both past payments of about $100 to this person went to travel."}
+{"id": "r0666", "action": "lookup_merchant", "unknown": "merchant", "reason": "There is no history and the name does not show what the merchant sells, and the memo gives only a quote number."}
+{"id": "r0667", "action": "ask_person", "unknown": "purpose", "reason": "This is a payment to a named individual with no history, so she can say what it reimbursed or paid for."}
+{"id": "r0668", "action": "request_document", "unknown": "item", "reason": "Payroll rows span many salary, benefit and tax accounts with no single likely one, so the payroll register is needed even for $9.02."}
+{"id": "r0669", "action": "request_document", "unknown": "item", "reason": "The memo names the street furniture program but not the work, so an invoice would show whether this is contractual services or construction expense."}
+{"id": "r0670", "action": "accept", "unknown": "nothing", "reason": "Past MCI bills of similar size all went to telephone, and only one much larger payment went to information systems."}
+{"id": "r0671", "action": "request_document", "unknown": "item", "reason": "The only Haworth history is in another department with a department-specific account, so an invoice should show what this $374.75 bought."}
+{"id": "r0672", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history, and its business is needed to place it among grant, program and consulting accounts."}
+{"id": "r0673", "action": "accept", "unknown": "nothing", "reason": "Past Oxford rows are the health insurance expense and matching payroll cash entries, and $47,339.29 is in line with the $46,563.27 premium."}
+{"id": "r0674", "action": "accept", "unknown": "nothing", "reason": "All past Verizon Wireless payments near this amount went to telephone - cell phones."}
+{"id": "r0675", "action": "accept", "unknown": "nothing", "reason": "All three past payments to this restaurant went to board/ committee meetings refreshments, and $291.75 is within their range."}
+{"id": "r0676", "action": "accept", "unknown": "nothing", "reason": "The zoo department, the memo saying animal feed and the feed and grain account all plainly match."}
+{"id": "r0677", "action": "request_document", "unknown": "item", "reason": "The one past payment went to a numbered agreement, psa 2122, and this organization has many such accounts, so the invoice should confirm which agreement this is."}
+{"id": "r0678", "action": "request_document", "unknown": "item", "reason": "There is no history, and an invoice would show whether this $199 to a professional society is a membership, registration or publication."}
+{"id": "r0679", "action": "accept", "unknown": "nothing", "reason": "All past Premiere Global payments went to telephone & internet access, and $174.53 is within their range."}
+{"id": "r0680", "action": "accept", "unknown": "nothing", "reason": "All past Frontier payments went to telephone/internet, and $193.47 nearly matches a prior bill."}
+{"id": "r0681", "action": "accept", "unknown": "nothing", "reason": "A fuel merchant charged to the petroleum products department plainly matches the petroleum products account used for that department."}
+{"id": "r0682", "action": "accept", "unknown": "nothing", "reason": "All past payments to this merchant went to field equipment expense, and $12.78 is a very small amount."}
+{"id": "r0683", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to bookkeeper - outside sub contractor, and a smaller $361 bill from the same vendor is low risk."}
+{"id": "r0684", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A round $15,000 payroll amount does not look like a normal payroll split and may be a one-off payout or adjustment that needs accounting judgment."}
+{"id": "r0685", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history and its name does not show which social service it provides."}
+{"id": "r0686", "action": "accept", "unknown": "nothing", "reason": "The one past payment to this utility went to foreclosure expense, and $54.34 is small with that account a reasonable fit."}
+{"id": "r0687", "action": "accept", "unknown": "nothing", "reason": "Both past Wells Fargo payments went to vrdb expense, and $14,115.07 is within their range."}
+{"id": "r0688", "action": "accept", "unknown": "nothing", "reason": "A restaurant charge plainly fits the general meals and entertainment account, and no spender is identified to ask about purpose."}
+{"id": "r0689", "action": "accept", "unknown": "nothing", "reason": "A past Sonitrol payment of exactly $225 went to building operations, as did most other payments."}
+{"id": "r0690", "action": "accept", "unknown": "nothing", "reason": "The one past Expedia fee went to auto / air / rail, and $25 is a small amount of the same kind."}
+{"id": "r0691", "action": "accept", "unknown": "nothing", "reason": "Past payments of about $700 to this merchant went to telephone, and the other accounts appear only for different amounts."}
+{"id": "r0692", "action": "ask_person", "unknown": "purpose", "reason": "Past reimbursements to this named person split between staff mileage and professional learning mileage or travel, so she can say what the trip was for."}
+{"id": "r0693", "action": "request_document", "unknown": "item", "reason": "Past payments to this contractor split between psa 2101 and psa 2086, and the invoice would show which agreement applies."}
+{"id": "r0694", "action": "accept", "unknown": "nothing", "reason": "All past Verizon payments went to telephone & internet access, and $42.14 matches the recurring bill of about $42."}
+{"id": "r0695", "action": "accept", "unknown": "nothing", "reason": "The one past payment to this restaurant went to meetings & workshops, and $57.70 is a similar small amount."}
+{"id": "r0696", "action": "accept", "unknown": "nothing", "reason": "All past payments to this firm went to legal services, and $7,947.50 is within their range."}
+{"id": "r0697", "action": "request_document", "unknown": "item", "reason": "Payroll amounts split across salary, benefit and tax accounts, so the payroll register is needed to show what this $1,861.25 is."}
+{"id": "r0698", "action": "ask_person", "unknown": "purpose", "reason": "This is a payment to a named individual with no history, so he can say what the $35 was for."}
+{"id": "r0699", "action": "accept", "unknown": "nothing", "reason": "A fleet fuel card at a routine amount plainly points to vehicle fuel, although no fuel account appears in this row's sample of accounts."}

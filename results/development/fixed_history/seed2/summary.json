@@ -1,0 +1,69 @@
+{
+ "test": {
+  "set": "test",
+  "rows": 1000,
+  "top1": 62.2,
+  "top5": 79.0,
+  "seconds": 177
+ },
+ "real_actions_held": {
+  "set": "real_actions_held",
+  "rows": 330,
+  "top1": 73.3,
+  "top5": 86.7,
+  "seconds": 33,
+  "action_accuracy": 81.2,
+  "recall": {
+   "accept": 93.8,
+   "request_document": 62.2,
+   "ask_person": 50.0,
+   "lookup_merchant": 69.8,
+   "send_to_bookkeeper": 76.9
+  }
+ },
+ "real_hard_held": {
+  "set": "real_hard_held",
+  "rows": 152,
+  "top1": 56.6,
+  "top5": 77.0,
+  "seconds": 15,
+  "action_accuracy": 73.7,
+  "recall": {
+   "accept": 81.7,
+   "request_document": 60.5,
+   "ask_person": 42.9,
+   "lookup_merchant": 82.1,
+   "send_to_bookkeeper": 78.6
+  }
+ },
+ "real_person_held": {
+  "set": "real_person_held",
+  "rows": 100,
+  "top1": 72.0,
+  "top5": 82.0,
+  "seconds": 10,
+  "action_accuracy": 79.0,
+  "recall": {
+   "accept": 90.7,
+   "request_document": 57.1,
+   "ask_person": 72.7,
+   "lookup_merchant": 66.7,
+   "send_to_bookkeeper": 100.0
+  }
+ },
+ "generated_held": {
+  "set": "generated_held",
+  "rows": 1350,
+  "top1": 91.0,
+  "top5": 99.3,
+  "seconds": 162,
+  "action_accuracy": 86.6,
+  "recall": {
+   "accept": 92.1,
+   "request_document": 72.7,
+   "ask_person": 65.1,
+   "lookup_merchant": 54.5,
+   "send_to_bookkeeper": 66.3
+  }
+ }
+}

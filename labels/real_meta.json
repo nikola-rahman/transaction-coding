@@ -1,0 +1,8002 @@
+[
+{
+"id": "r0000",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "membership"
+},
+{
+"id": "r0001",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0002",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0003",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2202"
+},
+{
+"id": "r0004",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "litigation"
+},
+{
+"id": "r0005",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "software expenses over $1000"
+},
+{
+"id": "r0006",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0007",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0008",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa 2164"
+},
+{
+"id": "r0009",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "conf & education exp"
+},
+{
+"id": "r0010",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0011",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0012",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits - medical insurance"
+},
+{
+"id": "r0013",
+"org": "ct:AccessHealthCT",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0014",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "administrative overhead"
+},
+{
+"id": "r0015",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "exchange"
+},
+{
+"id": "r0016",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0017",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "other improvements - current"
+},
+{
+"id": "r0018",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0019",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "pay period ending 5/20/16"
+},
+{
+"id": "r0020",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0021",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0022",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "communication services"
+},
+{
+"id": "r0023",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "eia venue"
+},
+{
+"id": "r0024",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp disability insurance"
+},
+{
+"id": "r0025",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0026",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0027",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "communications"
+},
+{
+"id": "r0028",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0029",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "1st growth co. grant"
+},
+{
+"id": "r0030",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0031",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "medical services"
+},
+{
+"id": "r0032",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0033",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0034",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0035",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0036",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0037",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "accounting fees"
+},
+{
+"id": "r0038",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "construction materials"
+},
+{
+"id": "r0039",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0040",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0041",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0042",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0043",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0044",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0045",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "other professional fees"
+},
+{
+"id": "r0046",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0047",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "adult r 185 case mgmt-nw>21"
+},
+{
+"id": "r0048",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0049",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0050",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0051",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0052",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0053",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "child care subsidy"
+},
+{
+"id": "r0054",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0055",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "deposit - facility security asses & plan : nl city pier"
+},
+{
+"id": "r0056",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0057",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "solid waste assessment tax"
+},
+{
+"id": "r0058",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - stonington"
+},
+{
+"id": "r0059",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0060",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits - medical insurance"
+},
+{
+"id": "r0061",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0062",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0063",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "grounds maintenance"
+},
+{
+"id": "r0064",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0065",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0066",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "vehicle repair and maintenance"
+},
+{
+"id": "r0067",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0068",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - awea conference - portland me"
+},
+{
+"id": "r0069",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0070",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "fuel"
+},
+{
+"id": "r0071",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "credit card fees"
+},
+{
+"id": "r0072",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0073",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0074",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0075",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0076",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "shredding services"
+},
+{
+"id": "r0077",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "flexible spending"
+},
+{
+"id": "r0078",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0079",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0080",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "457 contribution"
+},
+{
+"id": "r0081",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0082",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0083",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "communications"
+},
+{
+"id": "r0084",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "telephone"
+},
+{
+"id": "r0085",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0086",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "webinar service"
+},
+{
+"id": "r0087",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "lease"
+},
+{
+"id": "r0088",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0089",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "insurance"
+},
+{
+"id": "r0090",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries"
+},
+{
+"id": "r0091",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "operating expenses"
+},
+{
+"id": "r0092",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0093",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "capital expenses"
+},
+{
+"id": "r0094",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0095",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "payroll cash account"
+},
+{
+"id": "r0096",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "motor vehicle supplies"
+},
+{
+"id": "r0097",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "signs & sign repairs"
+},
+{
+"id": "r0098",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0099",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0100",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "internet"
+},
+{
+"id": "r0101",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0102",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "webinar service"
+},
+{
+"id": "r0103",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0104",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0105",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0106",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0107",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits- vision insurance"
+},
+{
+"id": "r0108",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "payroll service fees"
+},
+{
+"id": "r0109",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone - cell phones"
+},
+{
+"id": "r0110",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0111",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "401k contributions and loan repayments"
+},
+{
+"id": "r0112",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0113",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0114",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it equipment and software services"
+},
+{
+"id": "r0115",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "construction expense"
+},
+{
+"id": "r0116",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "consulting services - june 2018"
+},
+{
+"id": "r0117",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "building maintenance"
+},
+{
+"id": "r0118",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0119",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "building maintenance"
+},
+{
+"id": "r0120",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0121",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "social services iii b"
+},
+{
+"id": "r0122",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0123",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "other operating charges"
+},
+{
+"id": "r0124",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0125",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "home office support"
+},
+{
+"id": "r0126",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": true,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0127",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0128",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0129",
+"org": "la",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0130",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0131",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0132",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "membership"
+},
+{
+"id": "r0133",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "tford boat show reception - 2 tables @ annual dinner"
+},
+{
+"id": "r0134",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "health care savings plan"
+},
+{
+"id": "r0135",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "conference reimb- women's summ"
+},
+{
+"id": "r0136",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "contracted educational services"
+},
+{
+"id": "r0137",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0138",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "refinance pilot program exp"
+},
+{
+"id": "r0139",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0140",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "dues/subscriptions"
+},
+{
+"id": "r0141",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0142",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0143",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "homeownership counseling expense"
+},
+{
+"id": "r0144",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0145",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "distribution to towns"
+},
+{
+"id": "r0146",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0147",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "dues and subscriptions"
+},
+{
+"id": "r0148",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0149",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "advertising"
+},
+{
+"id": "r0150",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "miscellaneous services"
+},
+{
+"id": "r0151",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0152",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0153",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0154",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries"
+},
+{
+"id": "r0155",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "advertising"
+},
+{
+"id": "r0156",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0157",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0158",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0159",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0160",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0161",
+"org": "ramsey",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "housing subsidy"
+},
+{
+"id": "r0162",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0163",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0164",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0165",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0166",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0167",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0168",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0169",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0170",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "legal"
+},
+{
+"id": "r0171",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0172",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0173",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0174",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0175",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0176",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0177",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0178",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0179",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0180",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "construction"
+},
+{
+"id": "r0181",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "insurance"
+},
+{
+"id": "r0182",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "consulting services"
+},
+{
+"id": "r0183",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0184",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0185",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0186",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it consulting"
+},
+{
+"id": "r0187",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "water cooler"
+},
+{
+"id": "r0188",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0189",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0190",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp disability insurance"
+},
+{
+"id": "r0191",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0192",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0193",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "shipping"
+},
+{
+"id": "r0194",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0195",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "solid waste assessment tax"
+},
+{
+"id": "r0196",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0197",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0198",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0199",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "emp pension benefits"
+},
+{
+"id": "r0200",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0201",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0202",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "other operating charges"
+},
+{
+"id": "r0203",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0204",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "building maintenance"
+},
+{
+"id": "r0205",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0206",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa /marketing"
+},
+{
+"id": "r0207",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0208",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "information technology consultant"
+},
+{
+"id": "r0209",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0210",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "business expense - staff"
+},
+{
+"id": "r0211",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0212",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0213",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa / consulting"
+},
+{
+"id": "r0214",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "construction expense"
+},
+{
+"id": "r0215",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "deferred compensation"
+},
+{
+"id": "r0216",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "homeownership counseling expense"
+},
+{
+"id": "r0217",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0218",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0219",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0220",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0221",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0222",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0223",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa 2168"
+},
+{
+"id": "r0224",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings / registrations"
+},
+{
+"id": "r0225",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": true,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0226",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0227",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "construction materials"
+},
+{
+"id": "r0228",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "water cooler"
+},
+{
+"id": "r0229",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "information systems"
+},
+{
+"id": "r0230",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0231",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ctnext consulting"
+},
+{
+"id": "r0232",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "publishing minutes & notices"
+},
+{
+"id": "r0233",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0234",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0235",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0236",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0237",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits - medical insurance"
+},
+{
+"id": "r0238",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "payroll cash account"
+},
+{
+"id": "r0239",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0240",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ctnext consulting"
+},
+{
+"id": "r0241",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0242",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ttb grant"
+},
+{
+"id": "r0243",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0244",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0245",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0246",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "information systems"
+},
+{
+"id": "r0247",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "postal supplies"
+},
+{
+"id": "r0248",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0249",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0250",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "supplies"
+},
+{
+"id": "r0251",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "first ttb"
+},
+{
+"id": "r0252",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "office expense"
+},
+{
+"id": "r0253",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone rc"
+},
+{
+"id": "r0254",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0255",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0256",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0257",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "dues-professional organizations"
+},
+{
+"id": "r0258",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0259",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "ttb grant"
+},
+{
+"id": "r0260",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0261",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0262",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "pay period ending 7/17/15"
+},
+{
+"id": "r0263",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal fees"
+},
+{
+"id": "r0264",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0265",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0266",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "copiers"
+},
+{
+"id": "r0267",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0268",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0269",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0270",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0271",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other professional fees"
+},
+{
+"id": "r0272",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0273",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "communications"
+},
+{
+"id": "r0274",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0275",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0276",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0277",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "staff mileage expenses"
+},
+{
+"id": "r0278",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0279",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "deferred compensation"
+},
+{
+"id": "r0280",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0281",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0282",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "advertising"
+},
+{
+"id": "r0283",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "457 plan"
+},
+{
+"id": "r0284",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0285",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0286",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "financial services"
+},
+{
+"id": "r0287",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0288",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "medical supplies"
+},
+{
+"id": "r0289",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "sharefile"
+},
+{
+"id": "r0290",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0291",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0292",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0293",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "environmental testing"
+},
+{
+"id": "r0294",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2149"
+},
+{
+"id": "r0295",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "fica - hi"
+},
+{
+"id": "r0296",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0297",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office temporaries"
+},
+{
+"id": "r0298",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0299",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0300",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0301",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "housing services"
+},
+{
+"id": "r0302",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "deferred compensation"
+},
+{
+"id": "r0303",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0304",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0305",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0306",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "fuel"
+},
+{
+"id": "r0307",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "due from foundation"
+},
+{
+"id": "r0308",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0309",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0310",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "litigation"
+},
+{
+"id": "r0311",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0312",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0313",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "business expense - staff"
+},
+{
+"id": "r0314",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0315",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "advertising"
+},
+{
+"id": "r0316",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "management fees"
+},
+{
+"id": "r0317",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "vehicle repair and maintenance"
+},
+{
+"id": "r0318",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa 2093"
+},
+{
+"id": "r0319",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "advertising"
+},
+{
+"id": "r0320",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office copier - monthly"
+},
+{
+"id": "r0321",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - awea conference - portland me"
+},
+{
+"id": "r0322",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0323",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0324",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0325",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "it consulting"
+},
+{
+"id": "r0326",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0327",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "internet"
+},
+{
+"id": "r0328",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": true,
+"held_out": true,
+"recorded": "innovate stamford 3rd tranche"
+},
+{
+"id": "r0329",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bookkeeper - outside sub contractor"
+},
+{
+"id": "r0330",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "vrdb expense"
+},
+{
+"id": "r0331",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "mileage reimbursement - may 2018"
+},
+{
+"id": "r0332",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "subscription"
+},
+{
+"id": "r0333",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0334",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "dues and subscriptions"
+},
+{
+"id": "r0335",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "operating expenses"
+},
+{
+"id": "r0336",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "webinar service"
+},
+{
+"id": "r0337",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": true,
+"recorded": "operating expenses"
+},
+{
+"id": "r0338",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "equipment rental"
+},
+{
+"id": "r0339",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0340",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0341",
+"org": "ramsey",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0342",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0343",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "lodging"
+},
+{
+"id": "r0344",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "engineering services"
+},
+{
+"id": "r0345",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "rule 5 child res trmt"
+},
+{
+"id": "r0346",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0347",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0348",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0349",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0350",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "fuel"
+},
+{
+"id": "r0351",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0352",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0353",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0354",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0355",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0356",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "grounds maintenance"
+},
+{
+"id": "r0357",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0358",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "fees/licence/ permits"
+},
+{
+"id": "r0359",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0360",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0361",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0362",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0363",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "internet"
+},
+{
+"id": "r0364",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "dues - professional organizations"
+},
+{
+"id": "r0365",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "business cards"
+},
+{
+"id": "r0366",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0367",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salary differentials & premium pay"
+},
+{
+"id": "r0368",
+"org": "ramsey",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "hosted & managed services"
+},
+{
+"id": "r0369",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0370",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "express shipping"
+},
+{
+"id": "r0371",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0372",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - awea conference - portland me"
+},
+{
+"id": "r0373",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0374",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0375",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0376",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0377",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0378",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "bookkeeper - outside sub contractor"
+},
+{
+"id": "r0379",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0380",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0381",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "phone"
+},
+{
+"id": "r0382",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0383",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0384",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it equipment and software services"
+},
+{
+"id": "r0385",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0386",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "insurance premiums"
+},
+{
+"id": "r0387",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "deferred compensation"
+},
+{
+"id": "r0388",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0389",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "homeownership counseling expense"
+},
+{
+"id": "r0390",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0391",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0392",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "other services"
+},
+{
+"id": "r0393",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage and delivery"
+},
+{
+"id": "r0394",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0395",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa 2014"
+},
+{
+"id": "r0396",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "building maintenance"
+},
+{
+"id": "r0397",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bldg materials & supplies"
+},
+{
+"id": "r0398",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0399",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0400",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0401",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "phone"
+},
+{
+"id": "r0402",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "audit fees"
+},
+{
+"id": "r0403",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "health & welfare insurance"
+},
+{
+"id": "r0404",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0405",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "fees/license/permits"
+},
+{
+"id": "r0406",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "room and board"
+},
+{
+"id": "r0407",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0408",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0409",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0410",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it equipment and software services"
+},
+{
+"id": "r0411",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "project equipment maintenance"
+},
+{
+"id": "r0412",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "dues & subscriptions &"
+},
+{
+"id": "r0413",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0414",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0415",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "fica - hi"
+},
+{
+"id": "r0416",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "external contract services"
+},
+{
+"id": "r0417",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0418",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0419",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0420",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0421",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0422",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "fees / licenses / permits"
+},
+{
+"id": "r0423",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0424",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "drugs,medicines,dental supplie"
+},
+{
+"id": "r0425",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0426",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": true,
+"held_out": true,
+"recorded": "15-rmb-yale-03 guo"
+},
+{
+"id": "r0427",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0428",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "accrued salaries & wages"
+},
+{
+"id": "r0429",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0430",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0431",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0432",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0433",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0434",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "other professional fees"
+},
+{
+"id": "r0435",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "consulting services - june 2018"
+},
+{
+"id": "r0436",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "environmental testing"
+},
+{
+"id": "r0437",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa 2224"
+},
+{
+"id": "r0438",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0439",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "flexible spending"
+},
+{
+"id": "r0440",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "information systems"
+},
+{
+"id": "r0441",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0442",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0443",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0444",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage"
+},
+{
+"id": "r0445",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0446",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "road oil & asphalt"
+},
+{
+"id": "r0447",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "information systems"
+},
+{
+"id": "r0448",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0449",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "payroll software services"
+},
+{
+"id": "r0450",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "reimbursement of loan overpayment"
+},
+{
+"id": "r0451",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "home office support"
+},
+{
+"id": "r0452",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0453",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0454",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa 2134"
+},
+{
+"id": "r0455",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0456",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "staff mileage expenses"
+},
+{
+"id": "r0457",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0458",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "business expense - board"
+},
+{
+"id": "r0459",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0460",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "other professional fees"
+},
+{
+"id": "r0461",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "mobile radio communication"
+},
+{
+"id": "r0462",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "auto / air / rail - parking"
+},
+{
+"id": "r0463",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0464",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0465",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": true,
+"held_out": true,
+"recorded": "bio 2018"
+},
+{
+"id": "r0466",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "press release subscription"
+},
+{
+"id": "r0467",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0468",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0469",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0470",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "401k admin fees"
+},
+{
+"id": "r0471",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0472",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0473",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0474",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "sexual assault examinations"
+},
+{
+"id": "r0475",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits- vision insurance"
+},
+{
+"id": "r0476",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "uniforms"
+},
+{
+"id": "r0477",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0478",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0479",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": true,
+"recorded": "management fees"
+},
+{
+"id": "r0480",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "ct next consulting"
+},
+{
+"id": "r0481",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0482",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0483",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "road maintenance - current exp"
+},
+{
+"id": "r0484",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0485",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0486",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "small tools & safety equipment"
+},
+{
+"id": "r0487",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0488",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "postage and delivery fees"
+},
+{
+"id": "r0489",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "disposal fees-solid waste"
+},
+{
+"id": "r0490",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0491",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa / consulting"
+},
+{
+"id": "r0492",
+"org": "ct:AccessHealthCT",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0493",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "circle: 24/7 homelessness crisis response pilot"
+},
+{
+"id": "r0494",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0495",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0496",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "other professional services"
+},
+{
+"id": "r0497",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "insurance - life"
+},
+{
+"id": "r0498",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0499",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0500",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0501",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0502",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0503",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0504",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "sponsorship"
+},
+{
+"id": "r0505",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "due diligence"
+},
+{
+"id": "r0506",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa / consulting"
+},
+{
+"id": "r0507",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa / consulting"
+},
+{
+"id": "r0508",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0509",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": true,
+"recorded": "capital expenses"
+},
+{
+"id": "r0510",
+"org": "ct:AccessHealthCT",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0511",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "communication services"
+},
+{
+"id": "r0512",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "other professional services"
+},
+{
+"id": "r0513",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "fees/licenses/permits"
+},
+{
+"id": "r0514",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0515",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0516",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "copiers"
+},
+{
+"id": "r0517",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0518",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "life insurance"
+},
+{
+"id": "r0519",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "staff mileage expenses"
+},
+{
+"id": "r0520",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0521",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0522",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0523",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0524",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0525",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": true,
+"held_out": true,
+"recorded": "innov places grant"
+},
+{
+"id": "r0526",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0527",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0528",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0529",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "advertising & promotion"
+},
+{
+"id": "r0530",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0531",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0532",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa 2164"
+},
+{
+"id": "r0533",
+"org": "ct:Connecticut Port Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "state pier - electricity"
+},
+{
+"id": "r0534",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0535",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "refinance pilot program exp"
+},
+{
+"id": "r0536",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - dc convention"
+},
+{
+"id": "r0537",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - ne shadowing - tom mcgee"
+},
+{
+"id": "r0538",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0539",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "management fees"
+},
+{
+"id": "r0540",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0541",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp disability insurance"
+},
+{
+"id": "r0542",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0543",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0544",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "misc"
+},
+{
+"id": "r0545",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "marketing costs"
+},
+{
+"id": "r0546",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0547",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "state pier - legal services 3/6-30/18"
+},
+{
+"id": "r0548",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits -life insurance"
+},
+{
+"id": "r0549",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0550",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "staff mileage expenses"
+},
+{
+"id": "r0551",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0552",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "medical services"
+},
+{
+"id": "r0553",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "refinance pilot program exp"
+},
+{
+"id": "r0554",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "fees / licenses / permits"
+},
+{
+"id": "r0555",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0556",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0557",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0558",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "issuance expense"
+},
+{
+"id": "r0559",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "misc"
+},
+{
+"id": "r0560",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0561",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0562",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "may partial rent"
+},
+{
+"id": "r0563",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0564",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0565",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0566",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2172"
+},
+{
+"id": "r0567",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "ctnext consulting"
+},
+{
+"id": "r0568",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0569",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "sponsorship"
+},
+{
+"id": "r0570",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0571",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0572",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0573",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0574",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "equipment costs - current exp"
+},
+{
+"id": "r0575",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "power products management fee"
+},
+{
+"id": "r0576",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0577",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office rental"
+},
+{
+"id": "r0578",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0579",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone"
+},
+{
+"id": "r0580",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0581",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0582",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0583",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0584",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "contract operating charges"
+},
+{
+"id": "r0585",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "other benefits - coffee/ water"
+},
+{
+"id": "r0586",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0587",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0588",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "electricity"
+},
+{
+"id": "r0589",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "information systems"
+},
+{
+"id": "r0590",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "capital expenses"
+},
+{
+"id": "r0591",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0592",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "accounting fees"
+},
+{
+"id": "r0593",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other professional fees"
+},
+{
+"id": "r0594",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "intacct training mtg"
+},
+{
+"id": "r0595",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "administration fees"
+},
+{
+"id": "r0596",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "child shelter"
+},
+{
+"id": "r0597",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0598",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0599",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office temporaries"
+},
+{
+"id": "r0600",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0601",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0602",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0603",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "grounds maintenance"
+},
+{
+"id": "r0604",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "401k contributions and loan repayments"
+},
+{
+"id": "r0605",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0606",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "rubbish removal"
+},
+{
+"id": "r0607",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0608",
+"org": "ct:Connecticut Port Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "mktg and bus dev"
+},
+{
+"id": "r0609",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0610",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0611",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0612",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0613",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0614",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "data processing equip-curr exp"
+},
+{
+"id": "r0615",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0616",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": true,
+"held_out": true,
+"recorded": "psa 2199"
+},
+{
+"id": "r0617",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0618",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "higher ed grant"
+},
+{
+"id": "r0619",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0620",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0621",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "consultants-dp"
+},
+{
+"id": "r0622",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0623",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "child care subsidy"
+},
+{
+"id": "r0624",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0625",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "457 contribution"
+},
+{
+"id": "r0626",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0627",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0628",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "equipment rental"
+},
+{
+"id": "r0629",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0630",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0631",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0632",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "uniforms"
+},
+{
+"id": "r0633",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0634",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "professional services"
+},
+{
+"id": "r0635",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "conf & education exp"
+},
+{
+"id": "r0636",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "miscellaneous liability payouts"
+},
+{
+"id": "r0637",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "flexible benefits- health spending account"
+},
+{
+"id": "r0638",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "data proc srv-mtce"
+},
+{
+"id": "r0639",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "semi-indep living srvs(sils)"
+},
+{
+"id": "r0640",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0641",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0642",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0643",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "consulting services"
+},
+{
+"id": "r0644",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0645",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0646",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ttb"
+},
+{
+"id": "r0647",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0648",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0649",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0650",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "due diligence"
+},
+{
+"id": "r0651",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "auto / air / rail - baggage fee - travel - napa conference"
+},
+{
+"id": "r0652",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0653",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "seeds & plants"
+},
+{
+"id": "r0654",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0655",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "communications"
+},
+{
+"id": "r0656",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0657",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "tree trimming & removal"
+},
+{
+"id": "r0658",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0659",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0660",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "contract operating charges"
+},
+{
+"id": "r0661",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ttb"
+},
+{
+"id": "r0662",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0663",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "laundry & sanitation service"
+},
+{
+"id": "r0664",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "issuance expense"
+},
+{
+"id": "r0665",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0666",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "children's play equipment"
+},
+{
+"id": "r0667",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0668",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "fica - hi"
+},
+{
+"id": "r0669",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0670",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0671",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "construction materials"
+},
+{
+"id": "r0672",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa 2152"
+},
+{
+"id": "r0673",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "payroll cash account"
+},
+{
+"id": "r0674",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone - cell phones"
+},
+{
+"id": "r0675",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "board/ committee meetings refreshments"
+},
+{
+"id": "r0676",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "feed and grain"
+},
+{
+"id": "r0677",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2202"
+},
+{
+"id": "r0678",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0679",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0680",
+"org": "ct:Connecticut Port Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "internet/telephone"
+},
+{
+"id": "r0681",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0682",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0683",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bookkeeper - outside sub contractor"
+},
+{
+"id": "r0684",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "severance pay"
+},
+{
+"id": "r0685",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "day training and hab (dac)"
+},
+{
+"id": "r0686",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0687",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "vrdb expense"
+},
+{
+"id": "r0688",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - dc convention"
+},
+{
+"id": "r0689",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0690",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "auto / air / rail"
+},
+{
+"id": "r0691",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0692",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0693",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa 2101"
+},
+{
+"id": "r0694",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0695",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings & workshops"
+},
+{
+"id": "r0696",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0697",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "workers comp-wage replace"
+},
+{
+"id": "r0698",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0699",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "fuel"
+},
+{
+"id": "r0700",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0701",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0702",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "ct next consulting"
+},
+{
+"id": "r0703",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0704",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "accounting fees"
+},
+{
+"id": "r0705",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "issuance expense"
+},
+{
+"id": "r0706",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office copier - monthly"
+},
+{
+"id": "r0707",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0708",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0709",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "vrdb expense"
+},
+{
+"id": "r0710",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0711",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ann subscr press releases"
+},
+{
+"id": "r0712",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0713",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "workers comp-wage replace"
+},
+{
+"id": "r0714",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0715",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "fica - hi"
+},
+{
+"id": "r0716",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "capital expenses"
+},
+{
+"id": "r0717",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0718",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "2018042728-0502"
+},
+{
+"id": "r0719",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "computer hardware"
+},
+{
+"id": "r0720",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0721",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "refinance pilot program exp"
+},
+{
+"id": "r0722",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0723",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0724",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "loan accounting software"
+},
+{
+"id": "r0725",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "457 contribution"
+},
+{
+"id": "r0726",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "april 2018 mileage"
+},
+{
+"id": "r0727",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "fica - hi"
+},
+{
+"id": "r0728",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0729",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": true,
+"recorded": "annual management incentive"
+},
+{
+"id": "r0730",
+"org": "la",
+"case": "easy",
+"large": true,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0731",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": true,
+"recorded": "operating expenses"
+},
+{
+"id": "r0732",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0733",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0734",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0735",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0736",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0737",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0738",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0739",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "fica - oasdi"
+},
+{
+"id": "r0740",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "rent"
+},
+{
+"id": "r0741",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0742",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "fsa account expenses"
+},
+{
+"id": "r0743",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "revenue royalty payments"
+},
+{
+"id": "r0744",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0745",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "program supplies"
+},
+{
+"id": "r0746",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "transportation allowance"
+},
+{
+"id": "r0747",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "expense report system"
+},
+{
+"id": "r0748",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0749",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "life insurance"
+},
+{
+"id": "r0750",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0751",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0752",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "health related services"
+},
+{
+"id": "r0753",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "emp pension benefits"
+},
+{
+"id": "r0754",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0755",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "uniforms"
+},
+{
+"id": "r0756",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - dc convention"
+},
+{
+"id": "r0757",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage and delivery"
+},
+{
+"id": "r0758",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "fee receivables"
+},
+{
+"id": "r0759",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0760",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "accounting fees"
+},
+{
+"id": "r0761",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0762",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "meeting"
+},
+{
+"id": "r0763",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa 2170"
+},
+{
+"id": "r0764",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "consulting services - june 2018"
+},
+{
+"id": "r0765",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "r0766",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0767",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "misc exp"
+},
+{
+"id": "r0768",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "payment in lieu of taxes"
+},
+{
+"id": "r0769",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "environmental testing"
+},
+{
+"id": "r0770",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "tuition"
+},
+{
+"id": "r0771",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "due diligence"
+},
+{
+"id": "r0772",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings / registrations"
+},
+{
+"id": "r0773",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "postage & delivery"
+},
+{
+"id": "r0774",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0775",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "construction expense"
+},
+{
+"id": "r0776",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "misc"
+},
+{
+"id": "r0777",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "consultants-other"
+},
+{
+"id": "r0778",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "health care savings plan"
+},
+{
+"id": "r0779",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "mktg and bus dev"
+},
+{
+"id": "r0780",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2102"
+},
+{
+"id": "r0781",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": true,
+"held_out": true,
+"recorded": "psa 2138"
+},
+{
+"id": "r0782",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0783",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "other payroll expenses"
+},
+{
+"id": "r0784",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0785",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "cell phone allowance"
+},
+{
+"id": "r0786",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0787",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "payroll cash account"
+},
+{
+"id": "r0788",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salaries temporary"
+},
+{
+"id": "r0789",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0790",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone-cellular service"
+},
+{
+"id": "r0791",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "r0792",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "communication services"
+},
+{
+"id": "r0793",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "misc"
+},
+{
+"id": "r0794",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee flexible benefits- dental, group life and voluntory life"
+},
+{
+"id": "r0795",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it equipment and software services"
+},
+{
+"id": "r0796",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0797",
+"org": "ct:Connecticut Port Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "state pier - heating oil"
+},
+{
+"id": "r0798",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0799",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0800",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0801",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0802",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0803",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0804",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "communication services"
+},
+{
+"id": "r0805",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "health & welfare insurance"
+},
+{
+"id": "r0806",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maintenance county roads"
+},
+{
+"id": "r0807",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "state pier - legal services 2/1-15/18"
+},
+{
+"id": "r0808",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa / consulting"
+},
+{
+"id": "r0809",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0810",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0811",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "motor vehicle supplies"
+},
+{
+"id": "r0812",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "copiers"
+},
+{
+"id": "r0813",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0814",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0815",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "management fees"
+},
+{
+"id": "r0816",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries"
+},
+{
+"id": "r0817",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "mail services"
+},
+{
+"id": "r0818",
+"org": "ct:AccessHealthCT",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "contractual"
+},
+{
+"id": "r0819",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment - shadow program - tom mcgee"
+},
+{
+"id": "r0820",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0821",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "miscellaneous - penalty - late filing"
+},
+{
+"id": "r0822",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office expense"
+},
+{
+"id": "r0823",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0824",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0825",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "intermittent salaries"
+},
+{
+"id": "r0826",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "data proc srv-mtce"
+},
+{
+"id": "r0827",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0828",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa 2170"
+},
+{
+"id": "r0829",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "sponsorship"
+},
+{
+"id": "r0830",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0831",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0832",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0833",
+"org": "la",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0834",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0835",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries overtime"
+},
+{
+"id": "r0836",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0837",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0838",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "water"
+},
+{
+"id": "r0839",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0840",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "equipment"
+},
+{
+"id": "r0841",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0842",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0843",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "home office support"
+},
+{
+"id": "r0844",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage exp"
+},
+{
+"id": "r0845",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0846",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bond issuance costs"
+},
+{
+"id": "r0847",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0848",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "psa 2047"
+},
+{
+"id": "r0849",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "trustee fee"
+},
+{
+"id": "r0850",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "fica - oasdi"
+},
+{
+"id": "r0851",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa 2075"
+},
+{
+"id": "r0852",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0853",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0854",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "postage and delivery"
+},
+{
+"id": "r0855",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "financial services"
+},
+{
+"id": "r0856",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "litigation"
+},
+{
+"id": "r0857",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0858",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0859",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0860",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0861",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0862",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0863",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0864",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0865",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0866",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa 1264"
+},
+{
+"id": "r0867",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0868",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "management fee"
+},
+{
+"id": "r0869",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "fees/licenses/permits"
+},
+{
+"id": "r0870",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0871",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0872",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0873",
+"org": "ct:AccessHealthCT",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0874",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "diesel fuel"
+},
+{
+"id": "r0875",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone-cellular service"
+},
+{
+"id": "r0876",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "sponsorship"
+},
+{
+"id": "r0877",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "search consulting for state pier operator. 1st pymnt covering first 2 mths"
+},
+{
+"id": "r0878",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postal supplies"
+},
+{
+"id": "r0879",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0880",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "data proc srv-mtce"
+},
+{
+"id": "r0881",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "2017 necca membership"
+},
+{
+"id": "r0882",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0883",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries overtime"
+},
+{
+"id": "r0884",
+"org": "ct:Connecticut Port Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0885",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "ctnext consulting"
+},
+{
+"id": "r0886",
+"org": "ct:Capitol Region Development Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0887",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0888",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "mobile"
+},
+{
+"id": "r0889",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0890",
+"org": "ct:Capitol Region Development Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "postage and delivery"
+},
+{
+"id": "r0891",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "housing subsidy"
+},
+{
+"id": "r0892",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "general operating cash account"
+},
+{
+"id": "r0893",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0894",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0895",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa"
+},
+{
+"id": "r0896",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0897",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meetings / registrations - aapa conference (evan)"
+},
+{
+"id": "r0898",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0899",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0900",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "bookkeeper - outside sub contractor - feb 2018"
+},
+{
+"id": "r0901",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0902",
+"org": "ct:Capitol Region Development Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "r0903",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "consulting services"
+},
+{
+"id": "r0904",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0905",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "support services"
+},
+{
+"id": "r0906",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "salaries temporary"
+},
+{
+"id": "r0907",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0908",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "foreclosure expense"
+},
+{
+"id": "r0909",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "traffic signal maintenance"
+},
+{
+"id": "r0910",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "copiers"
+},
+{
+"id": "r0911",
+"org": "ct:Connecticut Innovations",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0912",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "exchange"
+},
+{
+"id": "r0913",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "meeting space expenses"
+},
+{
+"id": "r0914",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0915",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "internet"
+},
+{
+"id": "r0916",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "community services district 12"
+},
+{
+"id": "r0917",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "transportation equipment"
+},
+{
+"id": "r0918",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0919",
+"org": "ct:Connecticut Port Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "communications"
+},
+{
+"id": "r0920",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0921",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "legal services"
+},
+{
+"id": "r0922",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "kitchen supplies"
+},
+{
+"id": "r0923",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "psa 2168"
+},
+{
+"id": "r0924",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "litigation"
+},
+{
+"id": "r0925",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "accounts payable vendors"
+},
+{
+"id": "r0926",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0927",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "nepool membership fee"
+},
+{
+"id": "r0928",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0929",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "flexible benefits- health spending account"
+},
+{
+"id": "r0930",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": true,
+"held_out": true,
+"recorded": "rent"
+},
+{
+"id": "r0931",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0932",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "401k contributions and loan repayments"
+},
+{
+"id": "r0933",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0934",
+"org": "ct:State Education Resource Center",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "bank fees"
+},
+{
+"id": "r0935",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "telephone & internet access"
+},
+{
+"id": "r0936",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "opeb liability"
+},
+{
+"id": "r0937",
+"org": "ct:State Education Resource Center",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "stipend expenses"
+},
+{
+"id": "r0938",
+"org": "ct:Connecticut Port Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "meals and entertainment"
+},
+{
+"id": "r0939",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "fuel"
+},
+{
+"id": "r0940",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0941",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0942",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "expense report system"
+},
+{
+"id": "r0943",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "grants"
+},
+{
+"id": "r0944",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0945",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "cultural grants for family and youth"
+},
+{
+"id": "r0946",
+"org": "ramsey",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "salaries permanent"
+},
+{
+"id": "r0947",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "shredding services"
+},
+{
+"id": "r0948",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "field equipment expense"
+},
+{
+"id": "r0949",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office and administrative"
+},
+{
+"id": "r0950",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0951",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0952",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "marketing"
+},
+{
+"id": "r0953",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "maint svc contracts"
+},
+{
+"id": "r0954",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "it - venture"
+},
+{
+"id": "r0955",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "copiers"
+},
+{
+"id": "r0956",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "construction expense"
+},
+{
+"id": "r0957",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "other benefits- bus passes"
+},
+{
+"id": "r0958",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "business insurance"
+},
+{
+"id": "r0959",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "petroleum products"
+},
+{
+"id": "r0960",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "interpreter service"
+},
+{
+"id": "r0961",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "engineering services"
+},
+{
+"id": "r0962",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "shipping"
+},
+{
+"id": "r0963",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0964",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "webinar / internet"
+},
+{
+"id": "r0965",
+"org": "ramsey",
+"case": "several_accounts",
+"large": true,
+"held_out": false,
+"recorded": "salaries overtime"
+},
+{
+"id": "r0966",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "legal fees"
+},
+{
+"id": "r0967",
+"org": "ramsey",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "pera"
+},
+{
+"id": "r0968",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "water cooler"
+},
+{
+"id": "r0969",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "staff development/training"
+},
+{
+"id": "r0970",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0971",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "thin_history",
+"large": false,
+"held_out": true,
+"recorded": "telephone and pagers"
+},
+{
+"id": "r0972",
+"org": "ct:Connecticut Port Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "mktg and bus dev"
+},
+{
+"id": "r0973",
+"org": "la",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0974",
+"org": "ct:Connecticut Innovations",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "trustee fee"
+},
+{
+"id": "r0975",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "bldg materials & supplies"
+},
+{
+"id": "r0976",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "issuance expense"
+},
+{
+"id": "r0977",
+"org": "la",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "operating supplies"
+},
+{
+"id": "r0978",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "r0979",
+"org": "ramsey",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "private counsel fees"
+},
+{
+"id": "r0980",
+"org": "ct:Connecticut Student Loan Foundation",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "office supplies"
+},
+{
+"id": "r0981",
+"org": "la",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "contractual services"
+},
+{
+"id": "r0982",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "utilities"
+},
+{
+"id": "r0983",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "event"
+},
+{
+"id": "r0984",
+"org": "ct:AccessHealthCT",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "temporary staffing"
+},
+{
+"id": "r0985",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "telephone"
+},
+{
+"id": "r0986",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "office supplies"
+},
+{
+"id": "r0987",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "home office support"
+},
+{
+"id": "r0988",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "building operations"
+},
+{
+"id": "r0989",
+"org": "ct:Connecticut Housing Finance Authority",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "travel"
+},
+{
+"id": "r0990",
+"org": "ct:Capitol Region Development Authority",
+"case": "easy",
+"large": false,
+"held_out": false,
+"recorded": "meals"
+},
+{
+"id": "r0991",
+"org": "ct:Connecticut Innovations",
+"case": "several_accounts",
+"large": false,
+"held_out": true,
+"recorded": "shipping"
+},
+{
+"id": "r0992",
+"org": "ct:Connecticut Innovations",
+"case": "new_merchant",
+"large": false,
+"held_out": true,
+"recorded": "venture clash"
+},
+{
+"id": "r0993",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "program supplies"
+},
+{
+"id": "r0994",
+"org": "ramsey",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "jail space"
+},
+{
+"id": "r0995",
+"org": "ramsey",
+"case": "thin_history",
+"large": false,
+"held_out": false,
+"recorded": "volunteer training"
+},
+{
+"id": "r0996",
+"org": "ct:AccessHealthCT",
+"case": "new_merchant",
+"large": false,
+"held_out": false,
+"recorded": "other administrative"
+},
+{
+"id": "r0997",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits - medical insurance"
+},
+{
+"id": "r0998",
+"org": "ct:Materials Innovation and Recycling Authority",
+"case": "easy",
+"large": false,
+"held_out": true,
+"recorded": "employee benefits - medical insurance"
+},
+{
+"id": "r0999",
+"org": "la",
+"case": "new_merchant",
+"large": true,
+"held_out": false,
+"recorded": "public works, sanitation liability payouts"
+}
+]

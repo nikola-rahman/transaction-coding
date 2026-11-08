@@ -1,0 +1,39 @@
+{
+ "test": {
+  "set": "test",
+  "rows": 1000,
+  "top1": 61.2,
+  "top5": 78.8,
+  "seconds": 175
+ },
+ "real_actions_held": {
+  "set": "real_actions_held",
+  "rows": 330,
+  "top1": 77.9,
+  "top5": 88.8,
+  "seconds": 22,
+  "action_accuracy": 62.4,
+  "recall": {
+   "accept": 98.9,
+   "request_document": 35.4,
+   "ask_person": 0.0,
+   "lookup_merchant": 0.0,
+   "send_to_bookkeeper": 7.7
+  }
+ },
+ "generated_held": {
+  "set": "generated_held",
+  "rows": 1350,
+  "top1": 85.6,
+  "top5": 98.0,
+  "seconds": 161,
+  "action_accuracy": 75.8,
+  "recall": {
+   "accept": 99.9,
+   "request_document": 0.0,
+   "ask_person": 0.0,
+   "lookup_merchant": 0.0,
+   "send_to_bookkeeper": 0.0
+  }
+ }
+}

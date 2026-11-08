@@ -1,0 +1,100 @@
+{"id": "s0200", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this merchant, including one of the same $1,200, went to sales/marketing - adver."}
+{"id": "s0201", "action": "lookup_merchant", "unknown": "merchant", "reason": "There is no history for this merchant and its name does not show what it sells, so identifying its business is the cheapest next step."}
+{"id": "s0202", "action": "accept", "unknown": "nothing", "reason": "This is a restaurant whose two past payments both went to meals and entertainment, and the amount is only modestly higher."}
+{"id": "s0203", "action": "request_document", "unknown": "item", "reason": "A round $5,000 to an individual with no history could be consulting, a grant or a PSA, and an invoice or agreement would show which."}
+{"id": "s0204", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $40,000 payment to a merchant with no history is high risk and nothing settles the account."}
+{"id": "s0205", "action": "accept", "unknown": "nothing", "reason": "All shown past payments to this merchant went to building maintenance, and the amount is within their range."}
+{"id": "s0206", "action": "request_document", "unknown": "item", "reason": "Past coding depends on the charge, spanning professional services, travel, postage and contract services, and a $2,000 payment fits none clearly."}
+{"id": "s0207", "action": "accept", "unknown": "nothing", "reason": "All past payments to this water company went to foreclosure expense, and the amount is within their range."}
+{"id": "s0208", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to other administrative, and this amount falls between them."}
+{"id": "s0209", "action": "request_document", "unknown": "item", "reason": "Past payments to this individual were month-specific mileage, so an expense report would show the period and whether this is mileage at all."}
+{"id": "s0210", "action": "accept", "unknown": "item", "reason": "The card history is mixed, but at $6.10 a meals or travel coding is reasonable and would not change reporting."}
+{"id": "s0211", "action": "request_document", "unknown": "item", "reason": "A manufacturer with no history at a grant-paying organization could fall under many PSA or grant accounts, and the invoice or agreement would identify which."}
+{"id": "s0212", "action": "request_document", "unknown": "item", "reason": "Past card charges split across meals, travel, dues and others, so the receipt would show what this $28 charge bought."}
+{"id": "s0213", "action": "accept", "unknown": "nothing", "reason": "The merchant is a cafe and at $8.35 a meals and entertainment coding is reasonable."}
+{"id": "s0214", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unfamiliar with no history, and knowing its business would likely settle one of only five accounts."}
+{"id": "s0215", "action": "accept", "unknown": "nothing", "reason": "A $500 payment to a federal regulator plainly matches fees / licenses / permits."}
+{"id": "s0216", "action": "request_document", "unknown": "item", "reason": "Past coding is all foreclosure expense, but this amount is about double the largest shown, so the invoice should confirm the work."}
+{"id": "s0217", "action": "request_document", "unknown": "item", "reason": "Payroll history spans many components that report differently, so the payroll register would show which one this $17.50 line is."}
+{"id": "s0218", "action": "request_document", "unknown": "item", "reason": "Past coding splits across office supplies, supplies and office furniture, so the invoice would show what was bought."}
+{"id": "s0219", "action": "request_document", "unknown": "item", "reason": "Payroll lines split by component and the amount alone does not identify one, so the payroll register would settle it."}
+{"id": "s0220", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past payments of similar size split between capital and operating expenses, and that call on a $272,000 payment needs accounting judgment."}
+{"id": "s0221", "action": "request_document", "unknown": "item", "reason": "Amazon sells many kinds of goods and there is no history, so a receipt would show what was bought."}
+{"id": "s0222", "action": "ask_person", "unknown": "purpose", "reason": "The restaurant is clear, but the only past coding is to a meeting-specific meals account, so the spender must say who the meal was for."}
+{"id": "s0223", "action": "request_document", "unknown": "item", "reason": "The one past payment was a $500 EIA venue deposit, so the invoice would show whether this is the balance or a different event."}
+{"id": "s0224", "action": "request_document", "unknown": "item", "reason": "Payroll lines in this department split across salaries, PERA and FICA, so the payroll register would show which this amount is."}
+{"id": "s0225", "action": "accept", "unknown": "nothing", "reason": "All shown past payments went to utilities, and the amount is within their range."}
+{"id": "s0226", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant has no history and its name does not show its business, while the department uses both litigation and office accounts."}
+{"id": "s0227", "action": "accept", "unknown": "nothing", "reason": "This is a very small repeat $4.24 charge, and supplies versus office supplies would not change reporting."}
+{"id": "s0228", "action": "accept", "unknown": "nothing", "reason": "All past payments went to solid waste disposal fees, and the amount is close to prior ones."}
+{"id": "s0229", "action": "accept", "unknown": "nothing", "reason": "Both past payments of the same $10,000 went to the power products management fee."}
+{"id": "s0230", "action": "ask_person", "unknown": "purpose", "reason": "This is plainly a restaurant, but the meals accounts are split by meeting or event, so the spender must say what the meal was for."}
+{"id": "s0231", "action": "accept", "unknown": "nothing", "reason": "CohnReznick is an accounting firm, and accounting fees is the one account that matches."}
+{"id": "s0232", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this payee went to psa at similar amounts."}
+{"id": "s0233", "action": "accept", "unknown": "nothing", "reason": "Payments of this size consistently went to contract operating charges, with only the recurring $130 going to building operations."}
+{"id": "s0234", "action": "accept", "unknown": "nothing", "reason": "Every past $26.92 payment went to emp medical, dental & life."}
+{"id": "s0235", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this computer vendor went to computer, and the amount falls between them."}
+{"id": "s0236", "action": "request_document", "unknown": "item", "reason": "The one past payment went to bond issuance costs, while advertising is also plausible, so the invoice would show what was published."}
+{"id": "s0237", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name does not show what the merchant does and there is no history, so identifying its business is the cheapest step."}
+{"id": "s0238", "action": "ask_person", "unknown": "purpose", "reason": "Past coding splits across issuance, board and marketing by purpose, and those accounts report differently even at $10.21."}
+{"id": "s0239", "action": "accept", "unknown": "nothing", "reason": "The merchant name matches office supplies, and at $86 no printing account exists to compete with it."}
+{"id": "s0240", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $31,992 payment to a merchant with no history is high risk and could be a capital or office-related purchase."}
+{"id": "s0241", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A journal entry is a reclassification or adjustment with no merchant history, which needs accounting judgment."}
+{"id": "s0242", "action": "accept", "unknown": "nothing", "reason": "Recurring payments of a similar size went to emp medical, dental & life, while only the small $81 charge went to dues."}
+{"id": "s0243", "action": "request_document", "unknown": "item", "reason": "Past coding is split between bank fees and the payroll cash account at a different amount, so the bank statement would show what this is."}
+{"id": "s0244", "action": "request_document", "unknown": "item", "reason": "This looks like a staff reimbursement and the amount differs from the one past expense, so the expense report would show what it covered."}
+{"id": "s0245", "action": "request_document", "unknown": "item", "reason": "Past payments were thousands of dollars to flexible benefits, so an invoice should explain this unusually small $220 charge."}
+{"id": "s0246", "action": "request_document", "unknown": "item", "reason": "There is only one past marketing payment at a lower amount, so the invoice would confirm what this $9,500 covers."}
+{"id": "s0247", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to storage fees at similar amounts."}
+{"id": "s0248", "action": "request_document", "unknown": "item", "reason": "The single past coding was consulting services, but engineering and environmental testing are close alternatives that the invoice would separate."}
+{"id": "s0249", "action": "accept", "unknown": "item", "reason": "This is unlike the town's past lease and subsidy payments, but at $4.00 a fees/licenses/permits coding is reasonable."}
+{"id": "s0250", "action": "request_document", "unknown": "item", "reason": "Past Dell coding splits between office and administrative and operating supplies at much lower amounts, so the invoice would show what was bought."}
+{"id": "s0251", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant is an unexplained acronym with no history, so identifying it is the cheapest step."}
+{"id": "s0252", "action": "request_document", "unknown": "item", "reason": "Sheriff payroll lines span many components that report differently, so the payroll register would show which this is."}
+{"id": "s0253", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unfamiliar with no history, so identifying its business is the cheapest step."}
+{"id": "s0254", "action": "accept", "unknown": "nothing", "reason": "Both past payments to the Postal Service went to postal supplies at similar small amounts."}
+{"id": "s0255", "action": "request_document", "unknown": "item", "reason": "Past card charges near this amount split across office supplies, meals, travel and telephone, so the receipt would show what was bought."}
+{"id": "s0256", "action": "request_document", "unknown": "item", "reason": "Past card charges near this amount split across meals and office supplies, so the receipt would show what was bought."}
+{"id": "s0257", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $53,444 payment with no history could be a grant, subsidy or loan-related item, which is high risk and needs judgment."}
+{"id": "s0258", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This $131,590 payment is far above the one past $7,237 subsidy, and the account is not settled."}
+{"id": "s0259", "action": "request_document", "unknown": "item", "reason": "There is no history and this retailer sells more than supplies, so the invoice would show what a $714 order contained."}
+{"id": "s0260", "action": "request_document", "unknown": "item", "reason": "Past identical $25,000 payments went to different grant and PSA accounts, so the agreement would show which program this is."}
+{"id": "s0261", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $75,000 payment with no history could be a grant, subsidy or prepayment, which is high risk and needs judgment."}
+{"id": "s0262", "action": "accept", "unknown": "nothing", "reason": "Past payments to this restaurant consistently went to meeting accounts, and this amount is somewhat lower but not concerning."}
+{"id": "s0263", "action": "accept", "unknown": "item", "reason": "Most past small charges from this bank went to misc exp, which is reasonable at $26.92."}
+{"id": "s0264", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past coding for this authority splits across SCRRRA, disposal and diversion expenses, and this payment is over $100,000."}
+{"id": "s0265", "action": "accept", "unknown": "nothing", "reason": "At $3.29 at a coffee shop, a meals and entertainment coding is reasonable."}
+{"id": "s0266", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to jackson labs project consultant at similar amounts."}
+{"id": "s0267", "action": "request_document", "unknown": "item", "reason": "An office vendor with no history could supply goods or equipment, so the invoice would show what a $2,132 order was."}
+{"id": "s0268", "action": "accept", "unknown": "nothing", "reason": "The memo states moving services, which plainly fits contractual services in this department."}
+{"id": "s0269", "action": "accept", "unknown": "nothing", "reason": "The one past payment at a similar amount went to copiers, which matches a Canon lease payment."}
+{"id": "s0270", "action": "request_document", "unknown": "item", "reason": "Past Xerox coding splits among printing, hardware and printer supplies, so the invoice would show what this $202 charge was."}
+{"id": "s0271", "action": "request_document", "unknown": "item", "reason": "The merchant is clear but a university could be paid for training, subscriptions or a grant, and an invoice would show which."}
+{"id": "s0272", "action": "accept", "unknown": "nothing", "reason": "The carrier and memo show a phone service bill, which plainly matches communication services."}
+{"id": "s0273", "action": "request_document", "unknown": "item", "reason": "Past support services payments were about $13,000 and this is about double, with accounting also used, so the invoice would show what it covers."}
+{"id": "s0274", "action": "accept", "unknown": "nothing", "reason": "The one past payment of the same $30 went to mktg and bus dev."}
+{"id": "s0275", "action": "request_document", "unknown": "item", "reason": "No payroll history is shown for this department and payroll components report differently, so the payroll register would show which this is."}
+{"id": "s0276", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is generic with no history, so identifying its business is the cheapest step."}
+{"id": "s0277", "action": "request_document", "unknown": "item", "reason": "Past marketing payments were much smaller, so the invoice would confirm what this $7,888 charge covers and whether it is event-specific."}
+{"id": "s0278", "action": "request_document", "unknown": "item", "reason": "There is no merchant history and library books, circulation and program supplies are close alternatives, so the invoice would show what was bought."}
+{"id": "s0279", "action": "request_document", "unknown": "item", "reason": "All past payments went to copiers, but they recur at exact amounts and $2,203.60 does not match, so the invoice should explain it."}
+{"id": "s0280", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "The memo already shows a vehicle tow, so choosing between contractual services and field equipment expense is a policy call."}
+{"id": "s0281", "action": "request_document", "unknown": "item", "reason": "Payroll lines span many components and this amount does not identify one, so the payroll register would settle it."}
+{"id": "s0282", "action": "request_document", "unknown": "item", "reason": "No history is shown and several payroll components could be this large, so the payroll register would show which it is."}
+{"id": "s0283", "action": "request_document", "unknown": "item", "reason": "Small charges from this landlord split across staff, board, issuance and maintenance accounts, so the invoice would show what this one was."}
+{"id": "s0284", "action": "request_document", "unknown": "item", "reason": "Payroll lines span many components that report differently, so the payroll register would show which this $32.86 line is."}
+{"id": "s0285", "action": "request_document", "unknown": "item", "reason": "The one past payment was a $75,000 grant, so this $450 charge is something else that an invoice would identify."}
+{"id": "s0286", "action": "accept", "unknown": "nothing", "reason": "The identical past $78.69 payment went to other operating charges, and the amount is small."}
+{"id": "s0287", "action": "request_document", "unknown": "item", "reason": "This is an insurer with no history, and disability versus medical and life are close accounts that the invoice would separate."}
+{"id": "s0288", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name does not show the merchant's business and there is no history, so identifying it is the cheapest step."}
+{"id": "s0289", "action": "request_document", "unknown": "item", "reason": "The payee is masked with no history, so a lookup cannot help and only the underlying document would show what was paid for."}
+{"id": "s0290", "action": "request_document", "unknown": "item", "reason": "This nonprofit has no history and the service is not stated, so the invoice would confirm whether it belongs in contractual services."}
+{"id": "s0291", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past payments split between capital and operating expenses, and that call on a $457,000 payment needs accounting judgment."}
+{"id": "s0292", "action": "request_document", "unknown": "item", "reason": "There is no merchant history and a foundation could provide consulting or supportive services, which an invoice would show."}
+{"id": "s0293", "action": "accept", "unknown": "nothing", "reason": "The merchant is a website service and at $79 a reasonable technology or contract services coding is acceptable."}
+{"id": "s0294", "action": "request_document", "unknown": "item", "reason": "Past Xerox coding splits between printing and hardware and this amount matches no prior charge, so the invoice would settle it."}
+{"id": "s0295", "action": "accept", "unknown": "nothing", "reason": "All past payments went to shredding or shredding services for the same small recurring amount."}
+{"id": "s0296", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name does not show what the merchant does and there is no history, so identifying its business is the cheapest step."}
+{"id": "s0297", "action": "request_document", "unknown": "item", "reason": "Best Buy sells many kinds of goods and has no history here, so a receipt would show what was bought."}
+{"id": "s0298", "action": "request_document", "unknown": "item", "reason": "The memo only says various invoices and there is no history, so those invoices would show whether this is services or equipment."}
+{"id": "s0299", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is truncated with no history, so identifying the product it sells is the cheapest step."}

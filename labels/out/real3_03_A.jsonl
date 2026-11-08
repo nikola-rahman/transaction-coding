@@ -1,0 +1,100 @@
+{"id": "p0300", "action": "ask_person", "unknown": "purpose", "reason": "A small payment to a named individual with no history and no evident account, so the payee can say what it was for."}
+{"id": "p0301", "action": "accept", "unknown": "nothing", "reason": "All three past payments went to psa 2090 and this amount sits within their range."}
+{"id": "p0302", "action": "request_document", "unknown": "item", "reason": "Both past payments went to psa 2132 but this amount is more than double the largest, so an invoice should confirm the engagement."}
+{"id": "p0303", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to telephone and pagers at similar amounts, and the merchant is a communications provider."}
+{"id": "p0304", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment is an employee expense reimbursement and this amount is within their range."}
+{"id": "p0305", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to grounds maintenance, which matches the merchant's name, and this is a smaller ordinary amount."}
+{"id": "p0306", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount is in their range."}
+{"id": "p0307", "action": "lookup_merchant", "unknown": "merchant", "reason": "The abbreviated name has no history, so identifying the merchant is the cheapest step toward an account."}
+{"id": "p0308", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to psa and this amount is in line with them."}
+{"id": "p0309", "action": "request_document", "unknown": "item", "reason": "A media company with no history could be a subscription, advertising or sponsorship, which an invoice would show."}
+{"id": "p0310", "action": "accept", "unknown": "nothing", "reason": "A very small payment to a person named in the employee format is reasonably an employee expense reimbursement."}
+{"id": "p0311", "action": "accept", "unknown": "nothing", "reason": "The one past payment is an employee expense reimbursement of a similar small amount."}
+{"id": "p0312", "action": "request_document", "unknown": "item", "reason": "Past payments of similar size are split across psa 2070, psa / consulting, ct next consulting and consultant, so the invoice should show the engagement."}
+{"id": "p0313", "action": "accept", "unknown": "nothing", "reason": "The merchant is a telecom provider and its one past payment went to telephone and pagers."}
+{"id": "p0314", "action": "ask_person", "unknown": "purpose", "reason": "A payment to a person named in the employee format with no history is too large to assume, so the payee can say what it covered."}
+{"id": "p0315", "action": "accept", "unknown": "nothing", "reason": "A very small payment to an individual reasonably fits employee expense reimbursement, which is in the account list."}
+{"id": "p0316", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large 25,000 payment with no history could be sponsorship, membership, donation or grant, and the account is not settled."}
+{"id": "p0317", "action": "accept", "unknown": "nothing", "reason": "A very small payment to a person named in the employee format is reasonably an employee expense reimbursement."}
+{"id": "p0318", "action": "request_document", "unknown": "item", "reason": "A round payment to an individual with no history could fall under many psa or program accounts, and an invoice or agreement would identify it."}
+{"id": "p0319", "action": "accept", "unknown": "nothing", "reason": "Three past payments of the identical amount went to postage and delivery accounts."}
+{"id": "p0320", "action": "ask_person", "unknown": "purpose", "reason": "A small payment to an individual with no history gives no account, so the payee can say what it was for."}
+{"id": "p0321", "action": "accept", "unknown": "nothing", "reason": "All past payments went to telephone & pagers, including two of this exact amount."}
+{"id": "p0322", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to office furniture and this amount is close to the larger one."}
+{"id": "p0323", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment of similar size went to 401k contributions and loan repayments."}
+{"id": "p0324", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount matches the largest."}
+{"id": "p0325", "action": "request_document", "unknown": "item", "reason": "Past payments split between psa 2156 and psa, so the invoice should show which agreement this one belongs to."}
+{"id": "p0326", "action": "accept", "unknown": "nothing", "reason": "Both past payments are employee expense reimbursements of similar size."}
+{"id": "p0327", "action": "request_document", "unknown": "item", "reason": "Past coding for this vendor depends on the billing, with home office support and management fee both at similar amounts, so the invoice would settle it."}
+{"id": "p0328", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to postage, one for this exact amount."}
+{"id": "p0329", "action": "ask_person", "unknown": "purpose", "reason": "A payment to an individual with no history could be mileage, meetings or other reimbursement, so the payee can say what it covered."}
+{"id": "p0330", "action": "request_document", "unknown": "item", "reason": "Past payments split between psa 2102 and psa 2012, so the invoice should show which agreement applies."}
+{"id": "p0331", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to psa 2143 and this amount is a plausible invoice under the same agreement."}
+{"id": "p0332", "action": "request_document", "unknown": "item", "reason": "The single past payment to psa 2059 was far smaller, so an invoice should confirm the agreement."}
+{"id": "p0333", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa accounts, and an invoice would identify the agreement."}
+{"id": "p0334", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa or program accounts, and an invoice would identify it."}
+{"id": "p0335", "action": "accept", "unknown": "nothing", "reason": "All past payments went to marketing and this amount is close to one of them."}
+{"id": "p0336", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large payment to a vendor coded to both capital expenses and operating expenses needs a capital versus operating judgment."}
+{"id": "p0337", "action": "lookup_merchant", "unknown": "merchant", "reason": "The unfamiliar name has no history, so learning the merchant's business is the cheapest step."}
+{"id": "p0338", "action": "accept", "unknown": "nothing", "reason": "The one past payment was the identical amount and went to engineering services."}
+{"id": "p0339", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment is an employee expense reimbursement and this amount is only slightly above them."}
+{"id": "p0340", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to meeting and this amount is within their range."}
+{"id": "p0341", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This large payment is over twenty times the one past payment, so the account is not settled and the risk is high."}
+{"id": "p0342", "action": "accept", "unknown": "nothing", "reason": "All past payments went to psa 2090 and this amount is within their range."}
+{"id": "p0343", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount is within their range."}
+{"id": "p0344", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment went to telephone and pagers and this amount is in their range."}
+{"id": "p0345", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment went to fast consultant and this amount is close to that range."}
+{"id": "p0346", "action": "ask_person", "unknown": "purpose", "reason": "An uneven amount paid to an individual with no history looks like a reimbursement, so the payee can say what it covered."}
+{"id": "p0347", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa or consulting accounts, and an invoice would identify it."}
+{"id": "p0348", "action": "request_document", "unknown": "item", "reason": "Past payments split across psa 2168, psa and psa 2098, and this amount is below all of them, so the invoice should show the agreement."}
+{"id": "p0349", "action": "accept", "unknown": "nothing", "reason": "A very small payment to an individual is reasonably an employee expense reimbursement."}
+{"id": "p0350", "action": "ask_person", "unknown": "purpose", "reason": "A payment to an individual with no history could be several reimbursement or meeting accounts, so the payee can say what it covered."}
+{"id": "p0351", "action": "request_document", "unknown": "item", "reason": "The one past payment to postage was far smaller and this vendor could also bill for meter items, so the invoice should confirm it."}
+{"id": "p0352", "action": "ask_person", "unknown": "purpose", "reason": "A payment to a person named in the employee format with no history is not small enough to assume, so the payee can say what it covered."}
+{"id": "p0353", "action": "request_document", "unknown": "item", "reason": "The one past payment to venture clash was double this amount and close accounts exist, so an invoice should confirm the project."}
+{"id": "p0354", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size went to conference calls."}
+{"id": "p0355", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa accounts, and an invoice would identify the agreement."}
+{"id": "p0356", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size went to subscription, which fits a newspaper."}
+{"id": "p0357", "action": "ask_person", "unknown": "purpose", "reason": "A payment to an individual with no history could be mileage or another reimbursement, so the payee can say what it covered."}
+{"id": "p0358", "action": "accept", "unknown": "nothing", "reason": "All past payments of similar size went to 401k contributions and loan repayments."}
+{"id": "p0359", "action": "accept", "unknown": "nothing", "reason": "All past payments went to psa 2080 and this amount is within their range."}
+{"id": "p0360", "action": "accept", "unknown": "nothing", "reason": "All past payments went to office furniture and this amount is within their range."}
+{"id": "p0361", "action": "request_document", "unknown": "item", "reason": "Shown history is small employee reimbursements, so this much larger amount needs the expense report to show what was paid for."}
+{"id": "p0362", "action": "accept", "unknown": "nothing", "reason": "The one past payment went to psa and a smaller consulting amount fits the same general account."}
+{"id": "p0363", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa or consulting accounts, and an invoice would identify it."}
+{"id": "p0364", "action": "accept", "unknown": "nothing", "reason": "All past payments went to building operations and this amount is within their range."}
+{"id": "p0365", "action": "accept", "unknown": "nothing", "reason": "All past payments of this exact amount went to other benefits- bus passes."}
+{"id": "p0366", "action": "accept", "unknown": "nothing", "reason": "The one past payment of nearly the same amount went to ttb grant."}
+{"id": "p0367", "action": "accept", "unknown": "nothing", "reason": "A small payment to a transit operator is reasonably employee bus passes."}
+{"id": "p0368", "action": "request_document", "unknown": "item", "reason": "Past payments were 18,750 to ct next consulting, so this much smaller uneven amount needs an invoice to show what it covers."}
+{"id": "p0369", "action": "accept", "unknown": "nothing", "reason": "All past payments went to telephone and pagers, including several of this exact amount."}
+{"id": "p0370", "action": "ask_person", "unknown": "purpose", "reason": "A payment to a person named in the employee format with no history is not small enough to assume, so the payee can say what it covered."}
+{"id": "p0371", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa or program accounts, and an invoice would identify it."}
+{"id": "p0372", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size went to elp program."}
+{"id": "p0373", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many program accounts, and an invoice would identify it."}
+{"id": "p0374", "action": "ask_person", "unknown": "purpose", "reason": "A payment to a person named in the employee format with no history is too large to assume, so the payee can say what it covered."}
+{"id": "p0375", "action": "lookup_merchant", "unknown": "merchant", "reason": "The unfamiliar name has no history, so learning what the organization does is the cheapest step."}
+{"id": "p0376", "action": "accept", "unknown": "nothing", "reason": "A very small payment to a person named in the employee format is reasonably an employee expense reimbursement."}
+{"id": "p0377", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount is within their range."}
+{"id": "p0378", "action": "request_document", "unknown": "item", "reason": "A round payment to an individual with no history could fall under many psa or program accounts, and an invoice would identify it."}
+{"id": "p0379", "action": "request_document", "unknown": "item", "reason": "Past payments of similar size split between environmental testing and engineering services, so the invoice would show the service."}
+{"id": "p0380", "action": "request_document", "unknown": "item", "reason": "Past payments split between psa 2101 and psa 2086, so the invoice should show which agreement applies."}
+{"id": "p0381", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount is about the largest of them."}
+{"id": "p0382", "action": "request_document", "unknown": "item", "reason": "A manufacturer with no history could be paid under several grant or program accounts, and an invoice or award document would show which."}
+{"id": "p0383", "action": "request_document", "unknown": "item", "reason": "A payment to an individual with no history could fall under many psa or consulting accounts, and an invoice would identify it."}
+{"id": "p0384", "action": "accept", "unknown": "nothing", "reason": "The one past payment of the identical amount went to auditing services."}
+{"id": "p0385", "action": "request_document", "unknown": "item", "reason": "Past payments split between psa and psa 2098, so the invoice should show which agreement applies."}
+{"id": "p0386", "action": "accept", "unknown": "nothing", "reason": "All past payments went to engineering services, including two of this exact amount."}
+{"id": "p0387", "action": "accept", "unknown": "nothing", "reason": "All past payments are employee expense reimbursements and this amount is within their range."}
+{"id": "p0388", "action": "request_document", "unknown": "item", "reason": "All shown past payments went to marketing but this amount is more than double the largest, so an invoice should confirm it."}
+{"id": "p0389", "action": "accept", "unknown": "nothing", "reason": "All past payments went to meeting and this amount is nearly the same as one of them."}
+{"id": "p0390", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large 25,000 payment with no history is probably sponsorship but is not settled, so the risk warrants review."}
+{"id": "p0391", "action": "accept", "unknown": "nothing", "reason": "The one past payment is an employee expense reimbursement of nearly the same amount."}
+{"id": "p0392", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment went to meetings and this amount is only slightly above them."}
+{"id": "p0393", "action": "request_document", "unknown": "item", "reason": "A round payment to an individual with no history could fall under many psa or consulting accounts, and an invoice would identify it."}
+{"id": "p0394", "action": "ask_person", "unknown": "purpose", "reason": "A small payment to an individual with no history gives no likely account, so the payee can say what it was for."}
+{"id": "p0395", "action": "accept", "unknown": "nothing", "reason": "A very small payment to a uniform and facility services vendor is reasonable to code to building or protective clothing costs without further work."}
+{"id": "p0396", "action": "accept", "unknown": "nothing", "reason": "Both past payments are employee expense reimbursements and this amount is in line with them."}
+{"id": "p0397", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size went to consulting services."}
+{"id": "p0398", "action": "accept", "unknown": "nothing", "reason": "Every shown past payment went to telephone and pagers and this amount is in their range."}
+{"id": "p0399", "action": "accept", "unknown": "nothing", "reason": "All past payments went to psa 2227 and this amount is nearly the same as one of them."}

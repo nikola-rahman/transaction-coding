@@ -1,0 +1,1267 @@
+{
+ "name": "Lantern Hill Coffee Roasters",
+ "chart": [
+  "Green Coffee Purchases",
+  "Green Coffee Freight and Import Fees",
+  "Dairy and Milk Alternatives",
+  "Bakery and Pastry Purchases",
+  "Cafe Food Ingredients",
+  "Syrups Teas and Beverage Ingredients",
+  "Retail Bags and Coffee Packaging",
+  "Cups Lids and Cafe Disposables",
+  "Labels and Printed Packaging",
+  "Merchandise for Resale",
+  "Wholesale Shipping and Outbound Freight",
+  "Customer Subscription Shipping",
+  "Roaster Fuel and Propane",
+  "Roastery Equipment Repairs",
+  "Roastery Supplies and Small Tools",
+  "Quality Control and Cupping Supplies",
+  "Roastery Equipment Purchases",
+  "Espresso Machine Repairs and Service",
+  "Cafe Equipment Under Capitalization Threshold",
+  "Cafe Equipment Capitalized",
+  "Cafe Cleaning and Janitorial Supplies",
+  "Water Filtration and Treatment",
+  "Cafe Smallwares and Serviceware",
+  "Pest Control Services",
+  "Waste Hauling and Recycling",
+  "Laundry and Linen Service",
+  "Cafe Rent",
+  "Roastery Rent",
+  "Electricity and Gas",
+  "Water and Sewer",
+  "Internet and Phone",
+  "Building Repairs and Maintenance",
+  "Security and Alarm Monitoring",
+  "Leasehold Improvements",
+  "Bank and Wire Fees",
+  "General Liability and Property Insurance",
+  "Workers Compensation Insurance",
+  "Prepaid Expenses",
+  "Payroll Service Fees",
+  "Employee Health Benefits",
+  "Recruiting and Job Postings",
+  "Staff Training and Barista Certification",
+  "Staff Meals and Shift Drinks",
+  "Uniforms and Aprons",
+  "Team Events and Morale",
+  "Digital Advertising",
+  "Social Media and Content Production",
+  "Local Events and Sponsorships",
+  "Trade Shows and Coffee Competitions",
+  "Print Signage and Menus",
+  "Customer Samples and Giveaways",
+  "Website and Online Store Costs",
+  "Design and Branding Services",
+  "Point of Sale Software",
+  "Accounting and Finance Software",
+  "Productivity and Collaboration Software",
+  "Computer Hardware and Tablets",
+  "Payment Processing Fees",
+  "Delivery App Commissions",
+  "Travel Airfare and Lodging",
+  "Origin Trip Travel",
+  "Meals and Client Entertainment",
+  "Delivery Van Fuel",
+  "Delivery Van Repairs and Maintenance",
+  "Parking Tolls and Rideshare",
+  "Legal Fees",
+  "Accounting and Tax Preparation",
+  "Licenses Permits and Health Inspections",
+  "Office Supplies and Postage"
+ ],
+ "departments": [
+  "Roastery",
+  "Cafes",
+  "Wholesale",
+  "Marketing",
+  "Finance and Admin"
+ ],
+ "people": [
+  {
+   "name": "Maren Tolliver",
+   "department": "Finance and Admin",
+   "card_name": "Maren Tolliver Card"
+  },
+  {
+   "name": "Desmond Achterberg",
+   "department": "Roastery",
+   "card_name": "Roastery Card"
+  },
+  {
+   "name": "Priya Vandersloot",
+   "department": "Roastery",
+   "card_name": "Green Buying Card"
+  },
+  {
+   "name": "Tomasz Oyelaran",
+   "department": "Roastery",
+   "card_name": "Roastery Card"
+  },
+  {
+   "name": "Lucia Fennimore",
+   "department": "Cafes",
+   "card_name": "Harbor Street Cafe Card"
+  },
+  {
+   "name": "Calvin Brandvold",
+   "department": "Cafes",
+   "card_name": "Foundry Square Cafe Card"
+  },
+  {
+   "name": "Noor Haskett",
+   "department": "Cafes",
+   "card_name": "Mill Yard Cafe Card"
+  },
+  {
+   "name": "Imani Rusk",
+   "department": "Cafes",
+   "card_name": "Harbor Street Cafe Card"
+  },
+  {
+   "name": "Theo Marchetti-Lund",
+   "department": "Cafes",
+   "card_name": "Foundry Square Cafe Card"
+  },
+  {
+   "name": "Gwen Sorrentino",
+   "department": "Wholesale",
+   "card_name": "Wholesale Card"
+  },
+  {
+   "name": "Rafael Quimby",
+   "department": "Wholesale",
+   "card_name": "Delivery Van Card"
+  },
+  {
+   "name": "Saoirse Delacroix",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Bennett Okafor-Hale",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Jolene Pruitt",
+   "department": "Finance and Admin",
+   "card_name": "Office Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMZN Mktp US*2K7HT0QP1",
+   "merchant_category": "Miscellaneous General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, toner and shipping labels for the office",
+     "account": "Office Supplies and Postage",
+     "amount_low": 15,
+     "amount_high": 140,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, thermal label rolls",
+     "memo": "office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sanitizer, descaler and microfiber towels for the cafes",
+     "account": "Cafe Cleaning and Janitorial Supplies",
+     "amount_low": 20,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Grinder cleaner tablets, microfiber towels",
+     "memo": "cafe cleaning stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Replacement scales and hand tools for the roasting floor",
+     "account": "Roastery Supplies and Small Tools",
+     "amount_low": 25,
+     "amount_high": 220,
+     "weight": 2,
+     "item_shown_by_document": "Digital bench scale, socket set",
+     "memo": "roastery tools",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0312",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Emergency oat milk and half and half run for a cafe",
+     "account": "Dairy and Milk Alternatives",
+     "amount_low": 40,
+     "amount_high": 260,
+     "weight": 4,
+     "item_shown_by_document": "Oat milk cases, half and half",
+     "memo": "ran out of oat at Harbor",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Breakfast sandwich ingredients and snacks for the cafe case",
+     "account": "Cafe Food Ingredients",
+     "amount_low": 35,
+     "amount_high": 240,
+     "weight": 2,
+     "item_shown_by_document": "Eggs, sliced cheese, granola bars",
+     "memo": "food case restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Food and drinks for an all-staff cupping night",
+     "account": "Team Events and Morale",
+     "amount_low": 60,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Party platters, sparkling water",
+     "memo": "staff night",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "WEBSTAURANTSTORE",
+   "merchant_category": "Restaurant Supply Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hot cups, lids and sleeves by the case",
+     "account": "Cups Lids and Cafe Disposables",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 5,
+     "item_shown_by_document": "Compostable hot cups, sip lids",
+     "memo": "cups and lids order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Pitchers, tampers and ceramic mugs for the bars",
+     "account": "Cafe Smallwares and Serviceware",
+     "amount_low": 30,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Steaming pitchers, stoneware mugs",
+     "memo": "smallwares",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Undercounter fridge for the Mill Yard bar",
+     "account": "Cafe Equipment Under Capitalization Threshold",
+     "amount_low": 650,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Undercounter refrigerator",
+     "memo": "new fridge Mill Yard",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "SQ *SQUARE SOFTWARE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly point of sale plan for all cafes",
+     "account": "Point of Sale Software",
+     "amount_low": 180,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Square for Restaurants subscription",
+     "memo": "POS monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHOPIFY* 318204477",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Online store subscription and apps",
+     "account": "Website and Online Store Costs",
+     "amount_low": 79,
+     "amount_high": 210,
+     "weight": 1,
+     "item_shown_by_document": "Shopify plan and subscription app fees",
+     "memo": "shopify monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8842210",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search ads for the coffee subscription",
+     "account": "Digital Advertising",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads campaign charges",
+     "memo": "subscription ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *ZQ4HV8MKL2",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Instagram ads promoting seasonal blends",
+     "account": "Digital Advertising",
+     "amount_low": 80,
+     "amount_high": 600,
+     "weight": 4,
+     "item_shown_by_document": "Ad account billing summary",
+     "memo": "holiday blend ads",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Boosted post looking for weekend baristas",
+     "account": "Recruiting and Job Postings",
+     "amount_low": 40,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Ad account billing summary",
+     "memo": "barista hiring post",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO PAYROLL FEES",
+   "merchant_category": "Payroll Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly payroll platform fee",
+     "account": "Payroll Service Fees",
+     "amount_low": 140,
+     "amount_high": 210,
+     "weight": 1,
+     "item_shown_by_document": "Gusto base fee and per-person fee",
+     "memo": "payroll fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTUIT *QBOOKS ONLINE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bookkeeping subscription",
+     "account": "Accounting and Finance Software",
+     "amount_low": 90,
+     "amount_high": 200,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online Plus",
+     "memo": "qbo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_lantern",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and shared drive seats",
+     "account": "Productivity and Collaboration Software",
+     "amount_low": 70,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Standard seats",
+     "memo": "google workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CANVA* I04218837",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design tool used for social posts",
+     "account": "Social Media and Content Production",
+     "amount_low": 15,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Canva Teams subscription",
+     "memo": "canva",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE R102",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "iPads and stands for cafe registers",
+     "account": "Computer Hardware and Tablets",
+     "amount_low": 350,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "iPad, register stand",
+     "memo": "new register ipad",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UPS* 1Z88F2A0",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pallet and case shipments to wholesale accounts",
+     "account": "Wholesale Shipping and Outbound Freight",
+     "amount_low": 45,
+     "amount_high": 620,
+     "weight": 3,
+     "item_shown_by_document": "Shipment to wholesale account",
+     "memo": "wholesale ship",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Coffee subscription parcels to home customers",
+     "account": "Customer Subscription Shipping",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 3,
+     "item_shown_by_document": "Daily parcel pickup charges",
+     "memo": "subscription parcels",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 57444218",
+   "merchant_category": "Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fuel for the delivery van",
+     "account": "Delivery Van Fuel",
+     "amount_low": 35,
+     "amount_high": 110,
+     "weight": 3,
+     "item_shown_by_document": "Unleaded fuel",
+     "memo": "van gas",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Rideshare",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides between the cafes and to meetings",
+     "account": "Parking Tolls and Rideshare",
+     "amount_low": 9,
+     "amount_high": 48,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt",
+     "memo": "uber to Foundry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR 0062318844",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight to a coffee industry conference",
+     "account": "Travel Airfare and Lodging",
+     "amount_low": 220,
+     "amount_high": 640,
+     "weight": 2,
+     "item_shown_by_document": "Round trip economy ticket",
+     "memo": "conference flight",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to visit a producer at origin",
+     "account": "Origin Trip Travel",
+     "amount_low": 780,
+     "amount_high": 1650,
+     "weight": 1,
+     "item_shown_by_document": "Round trip economy ticket",
+     "memo": "origin trip flight",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT PROVIDENCE DT",
+   "merchant_category": "Hotels and Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for a visiting wholesale buyer",
+     "account": "Meals and Client Entertainment",
+     "amount_low": 170,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Room and tax folio",
+     "memo": "hotel for buyer",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Hotel for a team member during a regional show",
+     "account": "Trade Shows and Coffee Competitions",
+     "amount_low": 170,
+     "amount_high": 520,
+     "weight": 2,
+     "item_shown_by_document": "Room and tax folio",
+     "memo": "show hotel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH COMMISSION",
+   "merchant_category": "Delivery Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Marketplace commissions on cafe delivery orders",
+     "account": "Delivery App Commissions",
+     "amount_low": 120,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Commission statement",
+     "memo": "doordash fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INDEED JOBS",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sponsored job posts for cafe staff",
+     "account": "Recruiting and Job Postings",
+     "amount_low": 50,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored job budget",
+     "memo": "barista job post",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VISTAPRINT",
+   "merchant_category": "Printing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Menu boards and window signs for the cafes",
+     "account": "Print Signage and Menus",
+     "amount_low": 40,
+     "amount_high": 380,
+     "weight": 3,
+     "item_shown_by_document": "Menu cards, window decal",
+     "memo": "new menus",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Roast date and origin labels for retail bags",
+     "account": "Labels and Printed Packaging",
+     "amount_low": 60,
+     "amount_high": 520,
+     "weight": 3,
+     "item_shown_by_document": "Roll labels",
+     "memo": "bag labels",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Branded aprons for new hires",
+     "account": "Uniforms and Aprons",
+     "amount_low": 60,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Embroidered aprons",
+     "memo": "aprons",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #2611",
+   "merchant_category": "Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Paint, fixtures and small building repairs",
+     "account": "Building Repairs and Maintenance",
+     "amount_low": 20,
+     "amount_high": 420,
+     "weight": 4,
+     "item_shown_by_document": "Paint, faucet cartridge",
+     "memo": "fix bathroom at Harbor",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Hose, fittings and shelving for the roastery",
+     "account": "Roastery Supplies and Small Tools",
+     "amount_low": 25,
+     "amount_high": 380,
+     "weight": 2,
+     "item_shown_by_document": "Wire shelving, hose clamps",
+     "memo": "roastery shelving",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Lumber and tile for the Foundry Square buildout",
+     "account": "Leasehold Improvements",
+     "amount_low": 400,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Lumber, tile, adhesive",
+     "memo": "Foundry buildout",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP",
+   "merchant_category": "Laundry Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly bar towel and floor mat service",
+     "account": "Laundry and Linen Service",
+     "amount_low": 55,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Towel and mat rental",
+     "memo": "linens",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ORKIN PEST CONTROL",
+   "merchant_category": "Exterminating Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly pest service at cafes and roastery",
+     "account": "Pest Control Services",
+     "amount_low": 85,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Monthly service visit",
+     "memo": "pest control",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WM CORPORATE SERVICES",
+   "merchant_category": "Waste Removal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dumpster and recycling pickup",
+     "account": "Waste Hauling and Recycling",
+     "amount_low": 180,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Container service invoice",
+     "memo": "trash pickup",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ADT SECURITY SVCS",
+   "merchant_category": "Security Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Alarm monitoring at all sites",
+     "account": "Security and Alarm Monitoring",
+     "amount_low": 60,
+     "amount_high": 210,
+     "weight": 1,
+     "item_shown_by_document": "Monitoring fee",
+     "memo": "alarm",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internet and phone for each location",
+     "account": "Internet and Phone",
+     "amount_low": 140,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Business internet and voice",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "RHODE ISLAND ENERGY",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric and gas service",
+     "account": "Electricity and Gas",
+     "amount_low": 380,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Usage statement",
+     "memo": "utilities",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PROVIDENCE WATER SUPPLY",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Water and sewer service",
+     "account": "Water and Sewer",
+     "amount_low": 90,
+     "amount_high": 460,
+     "weight": 1,
+     "item_shown_by_document": "Usage statement",
+     "memo": "water bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CITY OF PROVIDENCE LICENSING",
+   "merchant_category": "Government Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Food service license renewal and inspections",
+     "account": "Licenses Permits and Health Inspections",
+     "amount_low": 75,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Victualing license renewal",
+     "memo": "license renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMERIGAS PROPANE",
+   "merchant_category": "Fuel Dealers",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Propane delivery for the roaster",
+     "account": "Roaster Fuel and Propane",
+     "amount_low": 260,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Propane delivery ticket",
+     "memo": "propane",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "THE HARTFORD INS PMT",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly business owner policy installment",
+     "account": "General Liability and Property Insurance",
+     "amount_low": 320,
+     "amount_high": 780,
+     "weight": 5,
+     "item_shown_by_document": "Policy installment notice",
+     "memo": "insurance monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Workers comp premium installment",
+     "account": "Workers Compensation Insurance",
+     "amount_low": 180,
+     "amount_high": 520,
+     "weight": 3,
+     "item_shown_by_document": "Workers comp installment notice",
+     "memo": "workers comp",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Full year umbrella policy paid up front",
+     "account": "Prepaid Expenses",
+     "amount_low": 2400,
+     "amount_high": 6200,
+     "weight": 1,
+     "item_shown_by_document": "Annual premium invoice",
+     "memo": "annual umbrella",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "BCBS RI PREMIUM",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Group health premiums",
+     "account": "Employee Health Benefits",
+     "amount_low": 1800,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Group premium invoice",
+     "memo": "health insurance",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SPECIALTY COFFEE ASSOC",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Expo booth and badges",
+     "account": "Trade Shows and Coffee Competitions",
+     "amount_low": 350,
+     "amount_high": 2800,
+     "weight": 2,
+     "item_shown_by_document": "Expo registration",
+     "memo": "expo",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Barista skills course for cafe leads",
+     "account": "Staff Training and Barista Certification",
+     "amount_low": 180,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "Barista Skills Intermediate course",
+     "memo": "SCA course",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "LA MARZOCCO USA",
+   "merchant_category": "Restaurant Equipment Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Gaskets, shower screens and service calls",
+     "account": "Espresso Machine Repairs and Service",
+     "amount_low": 60,
+     "amount_high": 780,
+     "weight": 5,
+     "item_shown_by_document": "Group gaskets, technician labor",
+     "memo": "espresso service",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Spare grinder burrs and a small hot water tower",
+     "account": "Cafe Equipment Under Capitalization Threshold",
+     "amount_low": 450,
+     "amount_high": 2300,
+     "weight": 1,
+     "item_shown_by_document": "Grinder burr set, hot water tower",
+     "memo": "grinder parts",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "New espresso machine for Foundry Square",
+     "account": "Cafe Equipment Capitalized",
+     "amount_low": 9500,
+     "amount_high": 18500,
+     "weight": 1,
+     "item_shown_by_document": "Linea PB two group espresso machine",
+     "memo": "new machine Foundry",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "ROYAL COFFEE INC",
+   "merchant_category": "Wholesale Food Distributors",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Green coffee lots",
+     "account": "Green Coffee Purchases",
+     "amount_low": 3200,
+     "amount_high": 18000,
+     "weight": 3,
+     "item_shown_by_document": "Bags of green coffee by lot",
+     "memo": "green coffee order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KESTREL HOLLOW DAIRY",
+   "merchant_category": "Dairy Products Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Standing whole milk delivery",
+     "account": "Dairy and Milk Alternatives",
+     "amount_low": 240,
+     "amount_high": 880,
+     "weight": 4,
+     "item_shown_by_document": "Whole milk crates",
+     "memo": "milk delivery",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DAWN PATROL BAKEHOUSE",
+   "merchant_category": "Bakeries",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Daily pastry delivery to the cafes",
+     "account": "Bakery and Pastry Purchases",
+     "amount_low": 310,
+     "amount_high": 1250,
+     "weight": 4,
+     "item_shown_by_document": "Croissants, morning buns",
+     "memo": "pastry weekly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HBR ST PROPERTIES LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly rent for the Harbor Street cafe",
+     "account": "Cafe Rent",
+     "amount_low": 4800,
+     "amount_high": 5600,
+     "weight": 8,
+     "item_shown_by_document": "Monthly rent invoice",
+     "memo": "Harbor rent",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Security deposit for the patio lease extension",
+     "account": "Prepaid Expenses",
+     "amount_low": 2500,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Lease addendum deposit",
+     "memo": "patio deposit",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MILLYARD HOLDINGS 4471",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly rent for the roastery",
+     "account": "Roastery Rent",
+     "amount_low": 6200,
+     "amount_high": 7400,
+     "weight": 6,
+     "item_shown_by_document": "Monthly rent invoice",
+     "memo": "roastery rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "T&R MECHANICAL SVC",
+   "merchant_category": "Contractors",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Afterburner and drum bearing service on the roaster",
+     "account": "Roastery Equipment Repairs",
+     "amount_low": 240,
+     "amount_high": 2200,
+     "weight": 3,
+     "item_shown_by_document": "Mechanical service invoice",
+     "memo": "roaster service",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "HVAC service at a cafe",
+     "account": "Building Repairs and Maintenance",
+     "amount_low": 180,
+     "amount_high": 1400,
+     "weight": 2,
+     "item_shown_by_document": "Mechanical service invoice",
+     "memo": "AC at Harbor",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "WHITCOMB & AMES LLP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Lease review and general counsel",
+     "account": "Legal Fees",
+     "amount_low": 450,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Legal services invoice",
+     "memo": "legal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PENROSE CPA GROUP",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual tax return and quarterly reviews",
+     "account": "Accounting and Tax Preparation",
+     "amount_low": 600,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Professional services invoice",
+     "memo": "cpa",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OCEAN STATE PACKAGING",
+   "merchant_category": "Packaging Supply Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Valve bags and retail boxes",
+     "account": "Retail Bags and Coffee Packaging",
+     "amount_low": 480,
+     "amount_high": 2900,
+     "weight": 1,
+     "item_shown_by_document": "Twelve ounce valve bags",
+     "memo": "bags reorder",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FINE GRIND STUDIO",
+   "merchant_category": "Commercial Art and Graphics",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Seasonal label and brand design work",
+     "account": "Design and Branding Services",
+     "amount_low": 400,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Design services invoice",
+     "memo": "label design",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BLUE HERON WATER SYS",
+   "merchant_category": "Equipment Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Filter cartridge replacements",
+     "account": "Water Filtration and Treatment",
+     "amount_low": 90,
+     "amount_high": 460,
+     "weight": 1,
+     "item_shown_by_document": "Filter cartridges",
+     "memo": "water filters",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "RTE 6 AUTO & TIRE",
+   "merchant_category": "Automotive Service Shops",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Delivery van oil changes and tires",
+     "account": "Delivery Van Repairs and Maintenance",
+     "amount_low": 60,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Oil change, tire rotation",
+     "memo": "van service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTH SHORE SYRUP CO",
+   "merchant_category": "Wholesale Food Distributors",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Vanilla and seasonal syrups",
+     "account": "Syrups Teas and Beverage Ingredients",
+     "amount_low": 70,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Cases of vanilla and maple syrup",
+     "memo": "syrups",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HARBORLINE LOGISTICS",
+   "merchant_category": "Freight Carriers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Drayage of green coffee from the port",
+     "account": "Green Coffee Freight and Import Fees",
+     "amount_low": 280,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "Freight invoice",
+     "memo": "container drayage",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Pallet delivery to a regional grocery customer",
+     "account": "Wholesale Shipping and Outbound Freight",
+     "amount_low": 140,
+     "amount_high": 780,
+     "weight": 2,
+     "item_shown_by_document": "Freight invoice",
+     "memo": "grocer pallet",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TST* THE OYSTER ROOM",
+   "merchant_category": "Eating Places and Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a prospective wholesale account",
+     "account": "Meals and Client Entertainment",
+     "amount_low": 60,
+     "amount_high": 280,
+     "weight": 3,
+     "item_shown_by_document": "Itemized dinner check",
+     "memo": "dinner with buyer",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Thank-you dinner for the cafe leads",
+     "account": "Team Events and Morale",
+     "amount_low": 110,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Itemized dinner check",
+     "memo": "leads dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  }
+ ]
+}

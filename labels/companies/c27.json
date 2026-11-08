@@ -1,0 +1,1537 @@
+{
+ "name": "Thimble & Thyme Provisions",
+ "chart": [
+  "Proteins and Seafood Ingredients",
+  "Fresh Produce Ingredients",
+  "Dairy and Eggs Ingredients",
+  "Dry Goods and Pantry Ingredients",
+  "Spices and Sauce Sachets",
+  "Recipe Development Ingredients",
+  "Insulated Box Liners",
+  "Corrugated Shipping Boxes",
+  "Ice Packs and Dry Ice",
+  "Recipe Card Printing",
+  "Portioning Bags and Containers",
+  "Outbound Parcel Shipping",
+  "Refrigerated Freight Inbound",
+  "Last Mile Delivery Partners",
+  "Redelivery and Replacement Box Shipping",
+  "Spoilage and Food Waste Disposal",
+  "Temporary Labor Fulfillment Floor",
+  "Fulfillment Center Rent",
+  "Cold Storage Rental",
+  "Fulfillment Equipment Repairs",
+  "Fulfillment Small Tools and Supplies",
+  "Food Safety Testing and Audits",
+  "Sanitation and Cleaning Supplies",
+  "Uniforms and Protective Gear",
+  "Refrigeration Maintenance",
+  "Forklift and Pallet Jack Rentals",
+  "Pallets and Warehouse Consumables",
+  "Fulfillment Center Utilities",
+  "Paid Social Advertising",
+  "Paid Search Advertising",
+  "Influencer Partnerships",
+  "Podcast Sponsorships",
+  "Direct Mail Campaigns",
+  "Referral Program Rewards",
+  "Food Photography and Video",
+  "Brand Design and Creative Services",
+  "Email and SMS Marketing Tools",
+  "Farmers Market and Event Sampling",
+  "Marketing Swag and Merchandise",
+  "Affiliate Network Fees",
+  "Market Research and Surveys",
+  "Cloud Hosting and Infrastructure",
+  "Software Subscriptions Engineering",
+  "Software Subscriptions Business Teams",
+  "Data Warehouse and Analytics Tools",
+  "Customer Support Software",
+  "Design Software",
+  "Domain Names and Security Certificates",
+  "Laptops and Computers Below Capitalization Threshold",
+  "Capitalized Computer Equipment",
+  "Capitalized Fulfillment Equipment",
+  "Capitalized Software Development Contractors",
+  "Contract Engineering Expensed",
+  "Payment Processing Fees",
+  "Fraud Prevention Services",
+  "Monitors Keyboards and Peripherals",
+  "Recruiting Agency Fees",
+  "Job Board Postings",
+  "Employee Background Checks",
+  "Payroll Service Fees",
+  "Benefits Administration Fees",
+  "Team Meals and Snacks",
+  "Employee Recognition Gifts",
+  "Team Offsites",
+  "Staff Training and Courses",
+  "Conference Registrations",
+  "Professional Memberships and Dues",
+  "Employee Wellness Perks",
+  "Airfare",
+  "Hotels and Lodging",
+  "Rideshare and Taxis",
+  "Car Rentals",
+  "Mileage Fuel and Tolls",
+  "Parking",
+  "Travel Meals",
+  "Client and Supplier Entertainment",
+  "Prepaid Software Contracts",
+  "Head Office Rent",
+  "Coworking Memberships",
+  "Head Office Utilities",
+  "Internet and Phone Service",
+  "Office Supplies",
+  "Office Kitchen Supplies",
+  "Office Furniture Below Capitalization Threshold",
+  "Capitalized Furniture and Fixtures",
+  "Office Cleaning and Maintenance",
+  "Postage and Courier",
+  "Test Kitchen Equipment",
+  "Test Kitchen Supplies",
+  "General Legal Fees",
+  "Fundraising and Corporate Legal Fees",
+  "Trademark and Intellectual Property Fees",
+  "Accounting and Bookkeeping Services",
+  "Tax Preparation and Advisory",
+  "Annual Audit Fees",
+  "Business Licenses and Permits",
+  "Prepaid Business Insurance",
+  "Business Insurance Expense",
+  "Bank Fees and Wire Charges",
+  "Charitable Food Donations"
+ ],
+ "departments": [
+  "Culinary",
+  "Fulfillment Operations",
+  "Growth Marketing",
+  "Engineering and Data",
+  "Customer Care",
+  "Finance and People"
+ ],
+ "people": [
+  {
+   "name": "Marisol Ventrella",
+   "department": "Culinary",
+   "card_name": "Marisol Ventrella Card"
+  },
+  {
+   "name": "Tobias Okonkwo-Reyes",
+   "department": "Culinary",
+   "card_name": "Test Kitchen Card"
+  },
+  {
+   "name": "Hanneke Dragomir",
+   "department": "Culinary",
+   "card_name": "Hanneke Dragomir Card"
+  },
+  {
+   "name": "Desmond Araki",
+   "department": "Fulfillment Operations",
+   "card_name": "Fulfillment Floor Card"
+  },
+  {
+   "name": "Priya Lindqvist",
+   "department": "Fulfillment Operations",
+   "card_name": "Priya Lindqvist Card"
+  },
+  {
+   "name": "Caleb Mwangi-Stone",
+   "department": "Fulfillment Operations",
+   "card_name": "Cold Chain Card"
+  },
+  {
+   "name": "Saoirse Delacroix",
+   "department": "Growth Marketing",
+   "card_name": "Growth Marketing Card"
+  },
+  {
+   "name": "Ravi Tenorio",
+   "department": "Growth Marketing",
+   "card_name": "Ravi Tenorio Card"
+  },
+  {
+   "name": "Noor Haverford",
+   "department": "Growth Marketing",
+   "card_name": "Brand Studio Card"
+  },
+  {
+   "name": "Elias Brandvold",
+   "department": "Engineering and Data",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Yuki Castellano",
+   "department": "Engineering and Data",
+   "card_name": "Yuki Castellano Card"
+  },
+  {
+   "name": "Imani Fairweather",
+   "department": "Customer Care",
+   "card_name": "Customer Care Card"
+  },
+  {
+   "name": "Gideon Pruszynski",
+   "department": "Customer Care",
+   "card_name": "Gideon Pruszynski Card"
+  },
+  {
+   "name": "Thalia Nakashima-Boyd",
+   "department": "Finance and People",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Oren Whitcombe",
+   "department": "Finance and People",
+   "card_name": "People Team Card"
+  },
+  {
+   "name": "Lena Abernathy-Cruz",
+   "department": "Finance and People",
+   "card_name": "Lena Abernathy-Cruz Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMZN MKTP US",
+   "merchant_category": "Online Marketplaces",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, pens and desk supplies for head office",
+     "account": "Office Supplies",
+     "amount_low": 20,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, gel pens, sticky notes",
+     "memo": "office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Deli containers and vacuum bags for hand portioning",
+     "account": "Portioning Bags and Containers",
+     "amount_low": 40,
+     "amount_high": 320,
+     "weight": 2,
+     "item_shown_by_document": "Vacuum seal bags, deli containers",
+     "memo": "portioning bags",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monitor, keyboard or dock for a teammate",
+     "account": "Monitors Keyboards and Peripherals",
+     "amount_low": 60,
+     "amount_high": 450,
+     "weight": 2,
+     "item_shown_by_document": "27 inch monitor, USB-C dock",
+     "memo": "new hire desk setup",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMEA / AMAZON WEB SERVICES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly usage for the ordering platform",
+     "account": "Cloud Hosting and Infrastructure",
+     "amount_low": 3800,
+     "amount_high": 14500,
+     "weight": 5,
+     "item_shown_by_document": "EC2, RDS and S3 monthly usage",
+     "memo": "aws monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Upfront one year reserved instance purchase",
+     "account": "Prepaid Software Contracts",
+     "amount_low": 9000,
+     "amount_high": 36000,
+     "weight": 1,
+     "item_shown_by_document": "Reserved instance, all upfront, twelve month term",
+     "memo": "reserved instances upfront",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search campaigns for new subscriber acquisition",
+     "account": "Paid Search Advertising",
+     "amount_low": 2500,
+     "amount_high": 28000,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads campaign charges",
+     "memo": "search ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "META PLATFORMS *ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Facebook and Instagram acquisition campaigns",
+     "account": "Paid Social Advertising",
+     "amount_low": 3000,
+     "amount_high": 42000,
+     "weight": 1,
+     "item_shown_by_document": "Ad account billing threshold charge",
+     "memo": "meta ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TIKTOK ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Short video recipe ad campaigns",
+     "account": "Paid Social Advertising",
+     "amount_low": 800,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "TikTok ads manager charge",
+     "memo": "tiktok spend",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UPS*BILLING",
+   "merchant_category": "Courier Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly meal kit parcels to subscribers",
+     "account": "Outbound Parcel Shipping",
+     "amount_low": 6500,
+     "amount_high": 38000,
+     "weight": 6,
+     "item_shown_by_document": "Weekly shipping invoice with tracking numbers",
+     "memo": "ups weekly",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Contracts and samples sent to suppliers and counsel",
+     "account": "Postage and Courier",
+     "amount_low": 15,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Next day air letter",
+     "memo": "sent signed docs",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 7839214",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Regular ground shipping for subscriber boxes",
+     "account": "Outbound Parcel Shipping",
+     "amount_low": 1200,
+     "amount_high": 9800,
+     "weight": 4,
+     "item_shown_by_document": "Ground shipments summary",
+     "memo": "fedex boxes",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Overnight replacement of a late or spoiled box",
+     "account": "Redelivery and Replacement Box Shipping",
+     "amount_low": 35,
+     "amount_high": 140,
+     "weight": 2,
+     "item_shown_by_document": "Priority overnight, one package",
+     "memo": "reship for customer",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SYSCO FOODS",
+   "merchant_category": "Wholesale Food Distributors",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Chicken, beef and pork for weekly menus",
+     "account": "Proteins and Seafood Ingredients",
+     "amount_low": 6000,
+     "amount_high": 32000,
+     "weight": 4,
+     "item_shown_by_document": "Chicken thigh cases, ground beef",
+     "memo": "weekly protein order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Rice, pasta, grains and canned goods",
+     "account": "Dry Goods and Pantry Ingredients",
+     "amount_low": 1800,
+     "amount_high": 11000,
+     "weight": 3,
+     "item_shown_by_document": "Jasmine rice, orzo, canned tomatoes",
+     "memo": "pantry order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Butter, cream and cheese",
+     "account": "Dairy and Eggs Ingredients",
+     "amount_low": 900,
+     "amount_high": 6500,
+     "weight": 2,
+     "item_shown_by_document": "Unsalted butter, parmesan, heavy cream",
+     "memo": "dairy order",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "RESTAURANT DEPOT",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ingredients for testing next quarter's recipes",
+     "account": "Recipe Development Ingredients",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Lamb shoulder, fresh herbs, chili paste",
+     "memo": "recipe testing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WHOLE FOODS MKT",
+   "merchant_category": "Grocery Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Specialty ingredients for a recipe test",
+     "account": "Recipe Development Ingredients",
+     "amount_low": 25,
+     "amount_high": 190,
+     "weight": 3,
+     "item_shown_by_document": "Miso paste, gochujang, shallots",
+     "memo": "testing new menu",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Snacks and lunch for an all hands",
+     "account": "Team Meals and Snacks",
+     "amount_low": 40,
+     "amount_high": 280,
+     "weight": 2,
+     "item_shown_by_document": "Sandwich platter, fruit tray, sparkling water",
+     "memo": "all hands lunch",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ULINE SHIP SUPPLIES",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stretch wrap, tape and pallet corners",
+     "account": "Pallets and Warehouse Consumables",
+     "amount_low": 120,
+     "amount_high": 1400,
+     "weight": 3,
+     "item_shown_by_document": "Stretch wrap, carton tape",
+     "memo": "floor consumables",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Recycled denim insulated liners",
+     "account": "Insulated Box Liners",
+     "amount_low": 900,
+     "amount_high": 6200,
+     "weight": 3,
+     "item_shown_by_document": "Insulated box liners, case quantity",
+     "memo": "box liners",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Box cutters, label guns and bins",
+     "account": "Fulfillment Small Tools and Supplies",
+     "amount_low": 45,
+     "amount_high": 520,
+     "weight": 2,
+     "item_shown_by_document": "Safety knives, label printer rolls, stacking bins",
+     "memo": "tools for the line",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SLACK TECHNOLOGIES",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company chat seats",
+     "account": "Software Subscriptions Business Teams",
+     "amount_low": 280,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Business plan, monthly seats",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Code hosting and CI minutes",
+     "account": "Software Subscriptions Engineering",
+     "amount_low": 120,
+     "amount_high": 480,
+     "weight": 1,
+     "item_shown_by_document": "Team plan seats, actions minutes",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DATADOG INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monitoring and logs for production",
+     "account": "Software Subscriptions Engineering",
+     "amount_low": 650,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Infrastructure hosts, log ingestion",
+     "memo": "datadog monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SNOWFLAKE INC",
+   "merchant_category": "Data Processing Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly on demand warehouse credits",
+     "account": "Data Warehouse and Analytics Tools",
+     "amount_low": 600,
+     "amount_high": 3200,
+     "weight": 3,
+     "item_shown_by_document": "On demand compute credits",
+     "memo": "snowflake usage",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual capacity commitment paid upfront",
+     "account": "Prepaid Software Contracts",
+     "amount_low": 12000,
+     "amount_high": 30000,
+     "weight": 1,
+     "item_shown_by_document": "Annual capacity order form, twelve month term",
+     "memo": "annual capacity",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "KLAVIYO INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lifecycle email and SMS sends",
+     "account": "Email and SMS Marketing Tools",
+     "amount_low": 900,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Email plan, SMS credits",
+     "memo": "klaviyo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TWILIO INC",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Delivery notification text messages",
+     "account": "Email and SMS Marketing Tools",
+     "amount_low": 180,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Programmable messaging usage",
+     "memo": "delivery texts",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ZENDESK INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Help desk seats for Customer Care",
+     "account": "Customer Support Software",
+     "amount_low": 480,
+     "amount_high": 1350,
+     "weight": 1,
+     "item_shown_by_document": "Suite professional agents",
+     "memo": "zendesk",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA MONTHLY",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design seats for brand and product",
+     "account": "Design Software",
+     "amount_low": 75,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Professional seats",
+     "memo": "figma",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE PAYOUT FEES",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Subscription card processing fees",
+     "account": "Payment Processing Fees",
+     "amount_low": 3500,
+     "amount_high": 16000,
+     "weight": 1,
+     "item_shown_by_document": "Monthly processing fee statement",
+     "memo": "stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO PAYROLL FEE",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly payroll platform fee",
+     "account": "Payroll Service Fees",
+     "amount_low": 340,
+     "amount_high": 560,
+     "weight": 1,
+     "item_shown_by_document": "Monthly base and per person fee",
+     "memo": "gusto",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to supplier farms and conferences",
+     "account": "Airfare",
+     "amount_low": 180,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Economy e-ticket receipt",
+     "memo": "flight to supplier visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT HOTELS",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Room for a business trip",
+     "account": "Hotels and Lodging",
+     "amount_low": 140,
+     "amount_high": 420,
+     "weight": 4,
+     "item_shown_by_document": "Room and tax folio",
+     "memo": "hotel for trip",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Rooms and meeting space for the leadership offsite",
+     "account": "Team Offsites",
+     "amount_low": 900,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Group rooms and meeting room folio",
+     "memo": "leadership offsite",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Rideshare",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides during business travel",
+     "account": "Rideshare and Taxis",
+     "amount_low": 9,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt",
+     "memo": "ride to airport",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *EATS",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Late shift dinner for the team",
+     "account": "Team Meals and Snacks",
+     "amount_low": 35,
+     "amount_high": 260,
+     "weight": 3,
+     "item_shown_by_document": "Burrito bowls, delivery fee",
+     "memo": "pack night dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner alone while travelling",
+     "account": "Travel Meals",
+     "amount_low": 15,
+     "amount_high": 60,
+     "weight": 2,
+     "item_shown_by_document": "Single entree, delivery fee",
+     "memo": "dinner on the road",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE R412",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Standard laptop for a new hire",
+     "account": "Laptops and Computers Below Capitalization Threshold",
+     "amount_low": 1100,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Air, AppleCare",
+     "memo": "new hire laptop",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "High spec engineering workstation above threshold",
+     "account": "Capitalized Computer Equipment",
+     "amount_low": 2600,
+     "amount_high": 4900,
+     "weight": 1,
+     "item_shown_by_document": "MacBook Pro, max memory configuration",
+     "memo": "eng workstation",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #4417",
+   "merchant_category": "Home Improvement Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shelving hardware and hand tools for the floor",
+     "account": "Fulfillment Small Tools and Supplies",
+     "amount_low": 30,
+     "amount_high": 380,
+     "weight": 3,
+     "item_shown_by_document": "Wire shelving, drill bits, zip ties",
+     "memo": "floor fix",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 00892",
+   "merchant_category": "Office Supply Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Toner and office stationery",
+     "account": "Office Supplies",
+     "amount_low": 15,
+     "amount_high": 210,
+     "weight": 1,
+     "item_shown_by_document": "Toner cartridge, file folders",
+     "memo": "office stuff",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *JOBS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job slots for open roles",
+     "account": "Job Board Postings",
+     "amount_low": 250,
+     "amount_high": 1500,
+     "weight": 3,
+     "item_shown_by_document": "Job post promotion charge",
+     "memo": "hiring ops manager",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Telecom Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fiber and phone lines for office and fulfillment center",
+     "account": "Internet and Phone Service",
+     "amount_low": 220,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Business internet and voice monthly",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HERTZ CAR RENTAL",
+   "merchant_category": "Car Rental Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rental car for farm and supplier visits",
+     "account": "Car Rentals",
+     "amount_low": 70,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Compact rental agreement",
+     "memo": "rental for farm visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 57442",
+   "merchant_category": "Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fuel for the company van and rentals",
+     "account": "Mileage Fuel and Tolls",
+     "amount_low": 25,
+     "amount_high": 110,
+     "weight": 1,
+     "item_shown_by_document": "Regular unleaded",
+     "memo": "gas",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VISTAPRINT",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Branded tote bags and stickers for events",
+     "account": "Marketing Swag and Merchandise",
+     "amount_low": 90,
+     "amount_high": 780,
+     "weight": 2,
+     "item_shown_by_document": "Tote bags, die cut stickers",
+     "memo": "market swag",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CHECKR INC",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Background checks for warehouse hires",
+     "account": "Employee Background Checks",
+     "amount_low": 30,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Basic plus screenings",
+     "memo": "new hire checks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "THE HARTFORD INS",
+   "merchant_category": "Insurance Carriers",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual general liability premium paid upfront",
+     "account": "Prepaid Business Insurance",
+     "amount_low": 8000,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "Policy declaration, twelve month term",
+     "memo": "annual premium",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Monthly workers compensation installment",
+     "account": "Business Insurance Expense",
+     "amount_low": 650,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "Monthly installment notice",
+     "memo": "workers comp",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP",
+   "merchant_category": "Uniform Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lab coats, aprons and hairnets",
+     "account": "Uniforms and Protective Gear",
+     "amount_low": 140,
+     "amount_high": 720,
+     "weight": 3,
+     "item_shown_by_document": "Coat rental, aprons, hairnets",
+     "memo": "uniform service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINEAGE LOGISTICS",
+   "merchant_category": "Public Warehousing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Overflow frozen pallet storage",
+     "account": "Cold Storage Rental",
+     "amount_low": 2200,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Pallet positions, monthly storage invoice",
+     "memo": "cold storage",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AIRGAS USA LLC",
+   "merchant_category": "Industrial Gases",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dry ice for summer shipping weeks",
+     "account": "Ice Packs and Dry Ice",
+     "amount_low": 1400,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "Dry ice pellets by the pound",
+     "memo": "dry ice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EVENTBRITE *FOODTECH SUMMIT",
+   "merchant_category": "Ticket Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Industry conference tickets",
+     "account": "Conference Registrations",
+     "amount_low": 95,
+     "amount_high": 1200,
+     "weight": 1,
+     "item_shown_by_document": "General admission ticket",
+     "memo": "conference ticket",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TOPTAL LLC",
+   "merchant_category": "Computer Programming Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Contractor building the new menu planning system",
+     "account": "Capitalized Software Development Contractors",
+     "amount_low": 6000,
+     "amount_high": 18000,
+     "weight": 2,
+     "item_shown_by_document": "Developer hours, invoice period",
+     "memo": "menu planner build",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Contractor fixing bugs on the live site",
+     "account": "Contract Engineering Expensed",
+     "amount_low": 1500,
+     "amount_high": 7500,
+     "weight": 2,
+     "item_shown_by_document": "Developer hours, invoice period",
+     "memo": "site maintenance",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HARBOR STREET FISHMONGERS",
+   "merchant_category": "Fish and Seafood Markets",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fresh salmon and cod for the weekly menu",
+     "account": "Proteins and Seafood Ingredients",
+     "amount_low": 1200,
+     "amount_high": 7400,
+     "weight": 1,
+     "item_shown_by_document": "Salmon fillets, cod portions by the pound",
+     "memo": "fish order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREENBELT FAMILY FARM",
+   "merchant_category": "Farmers Markets",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Seasonal vegetables for weekly menus",
+     "account": "Fresh Produce Ingredients",
+     "amount_low": 800,
+     "amount_high": 5200,
+     "weight": 4,
+     "item_shown_by_document": "Kale, carrots, heirloom tomatoes by the case",
+     "memo": "farm produce",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Produce handed out at a sampling booth",
+     "account": "Farmers Market and Event Sampling",
+     "amount_low": 60,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Mixed vegetables, flat of berries",
+     "memo": "sampling booth",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "LUCIAS CORNER BAKERY",
+   "merchant_category": "Bakeries",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pastries for Friday team breakfast",
+     "account": "Team Meals and Snacks",
+     "amount_low": 35,
+     "amount_high": 160,
+     "weight": 3,
+     "item_shown_by_document": "Two dozen pastries, coffee box",
+     "memo": "friday breakfast",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TIDEWATER PRINT SHOP",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly recipe card print run",
+     "account": "Recipe Card Printing",
+     "amount_low": 1100,
+     "amount_high": 4800,
+     "weight": 4,
+     "item_shown_by_document": "Recipe cards, six recipes, full color",
+     "memo": "weekly cards",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Win back postcards to lapsed subscribers",
+     "account": "Direct Mail Campaigns",
+     "amount_low": 1800,
+     "amount_high": 7200,
+     "weight": 1,
+     "item_shown_by_document": "Postcards, addressing and mail prep",
+     "memo": "win back mailer",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COPPER KETTLE RESTAURANT SUPPLY",
+   "merchant_category": "Restaurant Equipment Suppliers",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pots, blenders and scales for the test kitchen",
+     "account": "Test Kitchen Equipment",
+     "amount_low": 80,
+     "amount_high": 950,
+     "weight": 3,
+     "item_shown_by_document": "Immersion blender, digital scale",
+     "memo": "test kitchen gear",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Commercial portioning table above threshold",
+     "account": "Capitalized Fulfillment Equipment",
+     "amount_low": 2800,
+     "amount_high": 7500,
+     "weight": 1,
+     "item_shown_by_document": "Stainless steel table with scale mounts",
+     "memo": "new portioning station",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "JRM HOLDINGS LLC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Walk in cooler compressor service",
+     "account": "Refrigeration Maintenance",
+     "amount_low": 350,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Service call, refrigerant recharge, labor",
+     "memo": "cooler repair",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *KMB VENTURES",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Half day shoot of next month's menu",
+     "account": "Food Photography and Video",
+     "amount_low": 600,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Half day shoot, edited images",
+     "memo": "menu shoot",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* 1147 PARTNERS",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a protein supplier",
+     "account": "Client and Supplier Entertainment",
+     "amount_low": 70,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Dinner for three, wine, gratuity",
+     "memo": "supplier dinner",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTHGATE ASSOCIATES",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly rent on the warehouse",
+     "account": "Fulfillment Center Rent",
+     "amount_low": 14000,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Base rent and CAM, warehouse suite",
+     "memo": "warehouse rent",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monthly rent on the head office floor",
+     "account": "Head Office Rent",
+     "amount_low": 5500,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Base rent, office suite",
+     "memo": "office rent",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "R&T GROUP INC",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Weekly temps for pack lines",
+     "account": "Temporary Labor Fulfillment Floor",
+     "amount_low": 3200,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "Timesheet hours by worker",
+     "memo": "temps this week",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "A&F PC",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Employment and supplier contract advice",
+     "account": "General Legal Fees",
+     "amount_low": 600,
+     "amount_high": 4800,
+     "weight": 4,
+     "item_shown_by_document": "Attorney hours, contract review",
+     "memo": "legal invoice",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Work on the upcoming financing",
+     "account": "Fundraising and Corporate Legal Fees",
+     "amount_low": 3500,
+     "amount_high": 18000,
+     "weight": 1,
+     "item_shown_by_document": "Attorney hours, corporate matter",
+     "memo": "financing legal",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Trademark filing for the brand",
+     "account": "Trademark and Intellectual Property Fees",
+     "amount_low": 450,
+     "amount_high": 2200,
+     "weight": 1,
+     "item_shown_by_document": "Trademark application and filing fee",
+     "memo": "trademark filing",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "MKL PARTNERS",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping and close support",
+     "account": "Accounting and Bookkeeping Services",
+     "amount_low": 1800,
+     "amount_high": 4200,
+     "weight": 5,
+     "item_shown_by_document": "Monthly close services retainer",
+     "memo": "monthly close",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual tax return preparation",
+     "account": "Tax Preparation and Advisory",
+     "amount_low": 2500,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Federal and state return preparation",
+     "memo": "tax return",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "CRESTLINE SVCS",
+   "merchant_category": "Cleaning and Maintenance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Nightly office cleaning",
+     "account": "Office Cleaning and Maintenance",
+     "amount_low": 420,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Janitorial service, monthly",
+     "memo": "office cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SP * BLUE HERON CO",
+   "merchant_category": "Miscellaneous Retail",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Branded aprons for influencer mailers",
+     "account": "Marketing Swag and Merchandise",
+     "amount_low": 180,
+     "amount_high": 1100,
+     "weight": 2,
+     "item_shown_by_document": "Embroidered linen aprons",
+     "memo": "press kit aprons",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Aprons as work anniversary gifts",
+     "account": "Employee Recognition Gifts",
+     "amount_low": 40,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Embroidered linen aprons",
+     "memo": "anniversary gifts",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *DLNVENTURES",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Creator fee for sponsored recipe reels",
+     "account": "Influencer Partnerships",
+     "amount_low": 300,
+     "amount_high": 3500,
+     "weight": 1,
+     "item_shown_by_document": "Two reels and one story, usage rights",
+     "memo": "creator payment",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ZENITH TRADING CO",
+   "merchant_category": "Wholesale Food Distributors",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Custom spice blends and sauce sachets",
+     "account": "Spices and Sauce Sachets",
+     "amount_low": 1100,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Blended spice sachets, case quantity",
+     "memo": "spice sachets",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OAKMONT 44 LLC",
+   "merchant_category": "Parking Lots and Garages",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Parking near head office for visitors",
+     "account": "Parking",
+     "amount_low": 8,
+     "amount_high": 42,
+     "weight": 1,
+     "item_shown_by_document": "Garage ticket",
+     "memo": "parking",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BRT ENTERPRISES",
+   "merchant_category": "Waste Management Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Compost hauling of unused food",
+     "account": "Spoilage and Food Waste Disposal",
+     "amount_low": 380,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Organic waste hauls, monthly",
+     "memo": "compost pickup",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LMC INDUSTRIES",
+   "merchant_category": "Equipment Rental and Repair",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly electric pallet jack rental",
+     "account": "Forklift and Pallet Jack Rentals",
+     "amount_low": 450,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "Pallet jack rental, monthly",
+     "memo": "pallet jack rental",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Conveyor belt repair",
+     "account": "Fulfillment Equipment Repairs",
+     "amount_low": 300,
+     "amount_high": 2600,
+     "weight": 2,
+     "item_shown_by_document": "Service call, replacement belt, labor",
+     "memo": "conveyor fix",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Conveyor section rebuild extending useful life",
+     "account": "Capitalized Fulfillment Equipment",
+     "amount_low": 5000,
+     "amount_high": 16000,
+     "weight": 1,
+     "item_shown_by_document": "Conveyor section rebuild, installed",
+     "memo": "conveyor rebuild",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "VANTAGE 9 MEDIA",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Host read spots on a cooking podcast",
+     "account": "Podcast Sponsorships",
+     "amount_low": 1500,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Host read spots, four episodes",
+     "memo": "podcast flight",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

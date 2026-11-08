@@ -1,0 +1,100 @@
+{"id": "p0300", "action": "accept", "unknown": "purpose", "reason": "A $16.09 payment to an individual with no history is very small, so treating it as a routine reimbursement is reasonable without further follow-up."}
+{"id": "p0301", "action": "accept", "unknown": "nothing", "reason": "All three past payments to Michael Sheldon went to psa 2090 at similar amounts of about $10-15k."}
+{"id": "p0302", "action": "request_document", "unknown": "item", "reason": "Past coding is psa 2132, but $12,677 is more than double the largest past payment, so an invoice should confirm which agreement it falls under."}
+{"id": "p0303", "action": "accept", "unknown": "nothing", "reason": "Cox Business has consistently been coded to telephone and pagers, and $610.50 is close to the past bills of about $545."}
+{"id": "p0304", "action": "accept", "unknown": "nothing", "reason": "All past payments to Bodendorf are employee expense reimbursements, and $156.04 is within their range."}
+{"id": "p0305", "action": "accept", "unknown": "nothing", "reason": "Turf Masters is a grounds vendor consistently coded to grounds maintenance, and the small $85 amount raises no concern."}
+{"id": "p0306", "action": "accept", "unknown": "nothing", "reason": "All past payments to Montanari are employee expense reimbursements at similar small amounts."}
+{"id": "p0307", "action": "lookup_merchant", "unknown": "merchant", "reason": "CCSU ITBD is an abbreviated name with no history, and knowing what the entity does would likely separate sponsorship from program or consulting accounts."}
+{"id": "p0308", "action": "accept", "unknown": "nothing", "reason": "Both past payments to Whitney Brown were coded to psa, and $1,275 is within their range."}
+{"id": "p0309", "action": "lookup_merchant", "unknown": "merchant", "reason": "Source Media is a generic name with no history, so finding out its business is the cheapest way to choose among subscription, marketing, and sponsorship accounts."}
+{"id": "p0310", "action": "accept", "unknown": "purpose", "reason": "A $50.12 payment to a person in surname-first format is small and is reasonably treated as a routine employee expense despite no history."}
+{"id": "p0311", "action": "accept", "unknown": "nothing", "reason": "The one past payment to Garry was an employee expense reimbursement at a similar small amount."}
+{"id": "p0312", "action": "request_document", "unknown": "item", "reason": "Fumiko Foos has been coded to psa 2070, psa / consulting, ct next consulting, and consultant at similar amounts, so an invoice is needed to show the engagement."}
+{"id": "p0313", "action": "accept", "unknown": "nothing", "reason": "Verizon Business is a telecom vendor, its past bill went to telephone and pagers, and no other account fits as well."}
+{"id": "p0314", "action": "request_document", "unknown": "item", "reason": "Gaffey has no history and $177.10 is not trivial, so an expense report or receipt should show what the payment covered."}
+{"id": "p0315", "action": "accept", "unknown": "purpose", "reason": "At $17.82 this payment to an individual is very small, and employee expense reimbursement is a reasonable likely account."}
+{"id": "p0316", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $25,000 payment to a vaguely named Business Council with no history could be a sponsorship, dues, or a donation, and the amount is too high to leave unsettled."}
+{"id": "p0317", "action": "accept", "unknown": "purpose", "reason": "A $12 payment to a person in surname-first format is very small, so a routine expense account is reasonable despite no history."}
+{"id": "p0318", "action": "request_document", "unknown": "item", "reason": "A $5,000 payment to an individual with no history could fall under many psa, consulting, or program accounts, and an invoice or agreement would show which."}
+{"id": "p0319", "action": "accept", "unknown": "nothing", "reason": "Pitney Bowes has the identical $537.03 amount in past payments, all coded to postage and delivery."}
+{"id": "p0320", "action": "request_document", "unknown": "item", "reason": "This $120 payment to an individual has no history and many possible reimbursement or program accounts, so a receipt or invoice should show what it was for."}
+{"id": "p0321", "action": "accept", "unknown": "nothing", "reason": "Verizon Wireless is consistently coded to telephone & pagers, including past $50 payments."}
+{"id": "p0322", "action": "accept", "unknown": "nothing", "reason": "Both past Red Thread payments were coded to office furniture, and $350 is close to the past $375."}
+{"id": "p0323", "action": "accept", "unknown": "nothing", "reason": "Fidelity payments of this size are consistently coded to 401k contributions and loan repayments."}
+{"id": "p0324", "action": "accept", "unknown": "nothing", "reason": "All past payments to Daley are employee expense reimbursements, and $55.78 nearly matches a past $55.91."}
+{"id": "p0325", "action": "request_document", "unknown": "item", "reason": "Whitney Brown's past coding splits between psa 2156 and psa, so an invoice is needed to show which agreement applies."}
+{"id": "p0326", "action": "accept", "unknown": "nothing", "reason": "Both past payments to Kirk are employee expense reimbursements at similar small amounts."}
+{"id": "p0327", "action": "request_document", "unknown": "item", "reason": "NAES coding depends on the service, with home office support and management fee both at this size, so the invoice is needed even though one past $6,638.90 went to home office support."}
+{"id": "p0328", "action": "accept", "unknown": "nothing", "reason": "Pitney Bowes past payments, including an identical $180, were coded to postage."}
+{"id": "p0329", "action": "accept", "unknown": "purpose", "reason": "A $78.48 payment to an individual is small, and an employee or mileage reimbursement account is reasonable despite no history."}
+{"id": "p0330", "action": "request_document", "unknown": "item", "reason": "Checkmate Creations has been coded to both psa 2102 and psa 2012, so an invoice is needed to show which agreement this $10,816.50 belongs to."}
+{"id": "p0331", "action": "accept", "unknown": "nothing", "reason": "Both past payments to Amanda Hayward were coded to psa 2143, and $10,367.50 is only moderately above the past $7,315."}
+{"id": "p0332", "action": "request_document", "unknown": "item", "reason": "The only past payment went to psa 2059 at $485, so $1,565 needs an invoice to confirm that it is the same agreement."}
+{"id": "p0333", "action": "request_document", "unknown": "item", "reason": "This $4,500 payment to an individual has no history and many possible psa or program accounts, so an invoice would show the engagement."}
+{"id": "p0334", "action": "request_document", "unknown": "item", "reason": "This $3,300 payment to an individual has no history and many possible psa or consulting accounts, so an invoice would show the engagement."}
+{"id": "p0335", "action": "accept", "unknown": "nothing", "reason": "All past payments to Joyce Ippolito were coded to marketing, and $236.25 is close to a past $240."}
+{"id": "p0336", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This $125,330 NAES payment fits past capital expenses and operating expenses, so it needs a capitalization judgment."}
+{"id": "p0337", "action": "lookup_merchant", "unknown": "merchant", "reason": "Biz Wiz is an unfamiliar name with no history, and knowing its business would likely settle the account."}
+{"id": "p0338", "action": "accept", "unknown": "nothing", "reason": "The past payment to John Romano was the identical $656.88 and was coded to engineering services."}
+{"id": "p0339", "action": "accept", "unknown": "nothing", "reason": "All past payments to Egan are employee expense reimbursements, and $124.24 is only slightly above the prior range."}
+{"id": "p0340", "action": "accept", "unknown": "nothing", "reason": "Both past Patty Cakes payments were coded to meeting, and this small amount is within their range."}
+{"id": "p0341", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "$19,170 is about 23 times the only past payment of $830 and could be a grant or program cost, so the single past coding does not settle it."}
+{"id": "p0342", "action": "accept", "unknown": "nothing", "reason": "All past payments to Michael Sheldon were coded to psa 2090, and $9,637.45 is within their range."}
+{"id": "p0343", "action": "accept", "unknown": "nothing", "reason": "All past payments to Gaffey are employee expense reimbursements, and $42.80 is within their range."}
+{"id": "p0344", "action": "accept", "unknown": "nothing", "reason": "Frontier Communications is consistently coded to telephone and pagers, and $141.82 nearly matches a past $141.99."}
+{"id": "p0345", "action": "accept", "unknown": "nothing", "reason": "All past payments to Johnna Scott were coded to fast consultant, and $1,575 is close to the past amounts."}
+{"id": "p0346", "action": "request_document", "unknown": "item", "reason": "This $822.27 payment to an individual has no history, and its uneven amount could be a reimbursement or a fee, so a receipt or invoice would show which."}
+{"id": "p0347", "action": "request_document", "unknown": "item", "reason": "This $2,950 payment to an individual has no history and many possible psa or consulting accounts, so an invoice would show the engagement."}
+{"id": "p0348", "action": "request_document", "unknown": "item", "reason": "Richard Sowerby's past coding splits among psa, psa 2168, and psa 2098, and $3,225 is below his usual amounts, so an invoice is needed."}
+{"id": "p0349", "action": "accept", "unknown": "purpose", "reason": "At $18.40 this payment to an individual is very small, and a routine employee expense account is reasonable despite no history."}
+{"id": "p0350", "action": "request_document", "unknown": "item", "reason": "Raymond has no history and $151.70 could be meeting, travel, or expense reimbursement, so a receipt or expense report would show which."}
+{"id": "p0351", "action": "request_document", "unknown": "item", "reason": "The only past Pitney Bowes payment was $180 to postage, so $800 is unusual and an invoice should show whether it is postage or another meter cost."}
+{"id": "p0352", "action": "accept", "unknown": "purpose", "reason": "A $73.66 payment to a person in surname-first format is small, and a routine employee expense account is reasonable despite no history."}
+{"id": "p0353", "action": "request_document", "unknown": "item", "reason": "Big Click has one past $7,500 payment to venture clash, and close accounts such as venture clash marketing and software exist, so an invoice should show the service."}
+{"id": "p0354", "action": "accept", "unknown": "nothing", "reason": "The past Connex International payment was coded to conference calls at a similar amount."}
+{"id": "p0355", "action": "request_document", "unknown": "item", "reason": "This $3,694.25 payment to an individual has no history and many possible psa accounts, so an invoice would show the agreement."}
+{"id": "p0356", "action": "accept", "unknown": "nothing", "reason": "The past Hartford Courant payment was coded to subscription at a similar amount, which fits a newspaper."}
+{"id": "p0357", "action": "accept", "unknown": "purpose", "reason": "A $99.88 payment to an individual is small, and a reimbursement account such as mileage is reasonable despite no history."}
+{"id": "p0358", "action": "accept", "unknown": "nothing", "reason": "Fidelity payments of about this size are consistently coded to 401k contributions and loan repayments."}
+{"id": "p0359", "action": "accept", "unknown": "nothing", "reason": "All past payments to Gerald Vovis were coded to psa 2080, and $728.75 is within their range."}
+{"id": "p0360", "action": "accept", "unknown": "nothing", "reason": "All past Red Thread payments were coded to office furniture, and $375 is within their range."}
+{"id": "p0361", "action": "request_document", "unknown": "item", "reason": "Past payments to Kirk are small reimbursements under about $50, so $906.92 is unusual and an expense report should show what it covers."}
+{"id": "p0362", "action": "request_document", "unknown": "item", "reason": "Greenawalt has only one past payment, to generic psa at a much larger amount, and numbered psa accounts exist, so an invoice should show the agreement."}
+{"id": "p0363", "action": "request_document", "unknown": "item", "reason": "This $2,250 payment to an individual has no history and many possible psa or consulting accounts, so an invoice would show the engagement."}
+{"id": "p0364", "action": "accept", "unknown": "nothing", "reason": "All past Cintas payments were coded to building operations at similar small amounts."}
+{"id": "p0365", "action": "accept", "unknown": "nothing", "reason": "Conn Transit has the identical $108.80 in past payments, all coded to other benefits- bus passes."}
+{"id": "p0366", "action": "request_document", "unknown": "item", "reason": "One past similar payment went to ttb grant, but several close ttb accounts exist, so an award or invoice document should confirm the tranche."}
+{"id": "p0367", "action": "accept", "unknown": "item", "reason": "A $54 payment to a transit agency is small and plainly a transit cost, so a reasonable employee transportation account can be used."}
+{"id": "p0368", "action": "request_document", "unknown": "item", "reason": "Past Janis Collins payments were $18,750 to ct next consulting, so an uneven $1,964.49 may be something else and needs an invoice or expense report."}
+{"id": "p0369", "action": "accept", "unknown": "nothing", "reason": "Verizon Wireless is consistently coded to telephone and pagers, including past $50 payments."}
+{"id": "p0370", "action": "accept", "unknown": "purpose", "reason": "A $103.53 payment to a person in surname-first format is small, and a routine employee expense account is reasonable despite no history."}
+{"id": "p0371", "action": "request_document", "unknown": "item", "reason": "This $997 payment to an individual has no history and many possible program or psa accounts, so an invoice would show what it was for."}
+{"id": "p0372", "action": "accept", "unknown": "nothing", "reason": "The one past payment to Thomas Wenchel went to elp program at a similar small amount."}
+{"id": "p0373", "action": "request_document", "unknown": "item", "reason": "This $350 payment to an individual has no history and many possible program accounts, so an invoice would show what it was for."}
+{"id": "p0374", "action": "request_document", "unknown": "item", "reason": "Kenney has no history and $151.35 could be travel, dues, or another expense, so a receipt or expense report would show which."}
+{"id": "p0375", "action": "lookup_merchant", "unknown": "merchant", "reason": "Achieve Hartford has no history, and knowing what the organization does would likely separate sponsorship, donation, and program accounts."}
+{"id": "p0376", "action": "accept", "unknown": "purpose", "reason": "A $30.46 payment to a person in surname-first format is very small, and a routine employee expense account is reasonable despite no history."}
+{"id": "p0377", "action": "accept", "unknown": "nothing", "reason": "All past payments to Bodendorf are employee expense reimbursements, and $249.85 is within their range."}
+{"id": "p0378", "action": "request_document", "unknown": "item", "reason": "This $5,000 payment to an individual has no history and many possible psa, program, or award accounts, so an invoice or agreement would show which."}
+{"id": "p0379", "action": "request_document", "unknown": "item", "reason": "TRC Lockbox coding splits between environmental testing and engineering services at this size, so the invoice is needed to show the service."}
+{"id": "p0380", "action": "request_document", "unknown": "item", "reason": "Christopher Bergstrom's past coding splits between psa 2101 and psa 2086 at similar amounts, so an invoice is needed to show the agreement."}
+{"id": "p0381", "action": "accept", "unknown": "nothing", "reason": "All past payments to David Bodendorf are employee expense reimbursements, and $206.08 is close to a past $199.92."}
+{"id": "p0382", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $12,481.50 payment to a manufacturer with no history could be a grant, tranche, or other program item, so the risk and treatment need accounting review."}
+{"id": "p0383", "action": "request_document", "unknown": "item", "reason": "This $9,500 payment to an individual has no history and many possible psa, consulting, or stipend accounts, so an invoice or agreement would show which."}
+{"id": "p0384", "action": "accept", "unknown": "nothing", "reason": "The past Mahoney Sabol payment was the identical $16,000 and was coded to auditing services."}
+{"id": "p0385", "action": "request_document", "unknown": "item", "reason": "Richard Sowerby's past coding splits between psa and psa 2098, so an invoice is needed to show which agreement this $11,925 belongs to."}
+{"id": "p0386", "action": "accept", "unknown": "nothing", "reason": "All past payments to John Romano were coded to engineering services, including the identical $656.88."}
+{"id": "p0387", "action": "accept", "unknown": "nothing", "reason": "All past payments to David Bodendorf are employee expense reimbursements, and $110.88 is within their range."}
+{"id": "p0388", "action": "request_document", "unknown": "item", "reason": "Past coding is marketing, but $2,435 is more than double the largest past payment shown, so an invoice should confirm the work."}
+{"id": "p0389", "action": "accept", "unknown": "nothing", "reason": "All past Congress Rotisserie payments were coded to meeting, and $59.06 is close to a past $58.56."}
+{"id": "p0390", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $25,000 payment to an event with no history is high risk, and many close sponsorship and event accounts could apply."}
+{"id": "p0391", "action": "accept", "unknown": "nothing", "reason": "The past payment to Kaminsky was an employee expense reimbursement of nearly the same small amount."}
+{"id": "p0392", "action": "accept", "unknown": "nothing", "reason": "Congress Rotisserie is consistently coded to meetings, and $205.72 is only slightly above the past amounts."}
+{"id": "p0393", "action": "request_document", "unknown": "item", "reason": "This $5,000 payment to an individual has no history and many possible psa or consulting accounts, so an invoice or agreement would show which."}
+{"id": "p0394", "action": "accept", "unknown": "purpose", "reason": "A $25 payment to an individual is very small, so treating it as a routine reimbursement is reasonable without further follow-up."}
+{"id": "p0395", "action": "accept", "unknown": "item", "reason": "A $42.71 Cintas payment is very small, so a reasonable facility or supply account can be used despite no history."}
+{"id": "p0396", "action": "accept", "unknown": "nothing", "reason": "Both past payments to Hunt are employee expense reimbursements, and $23.43 is within their range."}
+{"id": "p0397", "action": "accept", "unknown": "nothing", "reason": "The past payment to Steven Yates was coded to consulting services at a similar amount."}
+{"id": "p0398", "action": "accept", "unknown": "nothing", "reason": "Frontier Communications is consistently coded to telephone and pagers, and $305.04 is within the past range."}
+{"id": "p0399", "action": "accept", "unknown": "nothing", "reason": "All past payments to Amy Walsh were coded to psa 2227, and $1,784.37 nearly matches a past $1,782.54."}

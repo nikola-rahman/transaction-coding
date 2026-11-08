@@ -1,0 +1,1603 @@
+{
+ "name": "Halyard Compute, Inc.",
+ "chart": [
+  "GPU Cloud Rental - Model Training",
+  "GPU Cloud Rental - Customer Inference",
+  "General Cloud Hosting - Production",
+  "General Cloud Hosting - Development and Staging",
+  "Colocation and Data Center Power",
+  "Network Transit and Bandwidth",
+  "Object Storage and Data Transfer",
+  "Server Parts and Lab Consumables",
+  "Capitalized Server Hardware",
+  "Capitalized Laptops and Workstations",
+  "Computer Equipment Below Capitalization Threshold",
+  "Prepaid Software and Cloud Commitments",
+  "Developer Tools and Engineering Software",
+  "Observability and Monitoring Software",
+  "Security and Compliance Software",
+  "Business Productivity Software",
+  "Sales and Marketing Software",
+  "Third-Party AI Model Usage",
+  "Dataset Licensing and Data Labeling",
+  "Contract Engineering and Freelancers",
+  "Recruiting Fees and Job Boards",
+  "Payroll and HR Platform Fees",
+  "Outside Legal Counsel",
+  "Bookkeeping and Tax Advisors",
+  "Audit and Compliance Certification Fees",
+  "Corporate Insurance Premiums",
+  "Office Rent and Coworking Memberships",
+  "Office Supplies and Kitchen Stock",
+  "Office Cleaning and Repairs",
+  "Office Internet and Utilities",
+  "Mobile Phone Reimbursements",
+  "Business Travel - Airfare",
+  "Business Travel - Lodging",
+  "Business Travel - Ground Transportation",
+  "Business Travel - Meals",
+  "Team Meals and Offsites",
+  "Customer Entertainment",
+  "Conferences and Event Sponsorships",
+  "Paid Advertising and Promotion",
+  "Branded Swag and Printed Materials",
+  "Employee Learning and Books",
+  "Shipping and Freight",
+  "Bank and Payment Processing Fees",
+  "Business Licenses and Registered Agent Fees",
+  "Employee Gifts and Morale"
+ ],
+ "departments": [
+  "Infrastructure",
+  "Research",
+  "Product Engineering",
+  "Go-to-Market",
+  "People and Operations",
+  "Finance"
+ ],
+ "people": [
+  {
+   "name": "Mirela Dostanic",
+   "department": "Infrastructure",
+   "card_name": "Mirela Dostanic Card"
+  },
+  {
+   "name": "Tobias Okonkwo-Reyes",
+   "department": "Infrastructure",
+   "card_name": "Infrastructure Card"
+  },
+  {
+   "name": "Junpei Aldana",
+   "department": "Infrastructure",
+   "card_name": "Infrastructure Card"
+  },
+  {
+   "name": "Saoirse Venkataraman",
+   "department": "Research",
+   "card_name": "Research Compute Card"
+  },
+  {
+   "name": "Idris Halvorsen",
+   "department": "Research",
+   "card_name": "Research Compute Card"
+  },
+  {
+   "name": "Priya Castellanos",
+   "department": "Research",
+   "card_name": "Priya Castellanos Card"
+  },
+  {
+   "name": "Lucan Abernathy",
+   "department": "Product Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Noor Vandersloot",
+   "department": "Product Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Delphine Marchetti",
+   "department": "Go-to-Market",
+   "card_name": "Delphine Marchetti Card"
+  },
+  {
+   "name": "Kwame Lindqvist",
+   "department": "Go-to-Market",
+   "card_name": "Go-to-Market Card"
+  },
+  {
+   "name": "Rosalind Yamada",
+   "department": "People and Operations",
+   "card_name": "Operations Card"
+  },
+  {
+   "name": "Emeka Fairweather",
+   "department": "People and Operations",
+   "card_name": "Operations Card"
+  },
+  {
+   "name": "Hanneke Osei",
+   "department": "Finance",
+   "card_name": "Hanneke Osei Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "Amazon Web Services",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Production control plane and API hosting",
+     "account": "General Cloud Hosting - Production",
+     "amount_low": 18000,
+     "amount_high": 46000,
+     "weight": 5,
+     "item_shown_by_document": "EC2, RDS and load balancer usage, production linked account",
+     "memo": "AWS prod monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Developer sandboxes and staging clusters",
+     "account": "General Cloud Hosting - Development and Staging",
+     "amount_low": 4000,
+     "amount_high": 14000,
+     "weight": 3,
+     "item_shown_by_document": "EC2 and EKS usage, staging linked account",
+     "memo": "AWS staging/dev",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Spot GPU instances for training experiments",
+     "account": "GPU Cloud Rental - Model Training",
+     "amount_low": 9000,
+     "amount_high": 60000,
+     "weight": 2,
+     "item_shown_by_document": "p5 instance hours, research linked account",
+     "memo": "AWS research GPUs",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Google Cloud",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Accelerator capacity for training runs",
+     "account": "GPU Cloud Rental - Model Training",
+     "amount_low": 12000,
+     "amount_high": 75000,
+     "weight": 3,
+     "item_shown_by_document": "A3 VM and accelerator hours, research project",
+     "memo": "GCP training run",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Checkpoint and dataset bucket storage",
+     "account": "Object Storage and Data Transfer",
+     "amount_low": 2500,
+     "amount_high": 11000,
+     "weight": 2,
+     "item_shown_by_document": "Cloud Storage and network egress line items",
+     "memo": "GCS checkpoints",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Microsoft Azure",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Test environment for a customer's Azure deployment",
+     "account": "General Cloud Hosting - Development and Staging",
+     "amount_low": 400,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Azure virtual machine usage, single test subscription",
+     "memo": "Azure compat testing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CoreWeave",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Reserved GPUs serving customer inference",
+     "account": "GPU Cloud Rental - Customer Inference",
+     "amount_low": 85000,
+     "amount_high": 240000,
+     "weight": 5,
+     "item_shown_by_document": "H100 node hours under reserved cluster order",
+     "memo": "Inference cluster",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Reserved GPUs borrowed for internal training",
+     "account": "GPU Cloud Rental - Model Training",
+     "amount_low": 30000,
+     "amount_high": 120000,
+     "weight": 3,
+     "item_shown_by_document": "H100 node hours under reserved cluster order",
+     "memo": "Research on reserved nodes",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Upfront payment on a twelve month capacity commitment",
+     "account": "Prepaid Software and Cloud Commitments",
+     "amount_low": 180000,
+     "amount_high": 420000,
+     "weight": 1,
+     "item_shown_by_document": "Capacity reservation deposit, term start and end dates",
+     "memo": "CW commit prepayment",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "Lambda Cloud",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "On-demand GPU instances for research",
+     "account": "GPU Cloud Rental - Model Training",
+     "amount_low": 800,
+     "amount_high": 9500,
+     "weight": 3,
+     "item_shown_by_document": "On-demand GPU instance hours",
+     "memo": "Lambda research burst",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Overflow capacity during customer traffic spikes",
+     "account": "GPU Cloud Rental - Customer Inference",
+     "amount_low": 1200,
+     "amount_high": 8000,
+     "weight": 1,
+     "item_shown_by_document": "On-demand GPU instance hours",
+     "memo": "Inference overflow",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "RunPod",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Prepaid credits for short GPU experiments",
+     "account": "GPU Cloud Rental - Model Training",
+     "amount_low": 250,
+     "amount_high": 2500,
+     "weight": 1,
+     "item_shown_by_document": "Account credit top-up",
+     "memo": "RunPod credits",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Backblaze",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Cold storage for old model checkpoints",
+     "account": "Object Storage and Data Transfer",
+     "amount_low": 300,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "B2 storage and download usage",
+     "memo": "Checkpoint archive",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Equinix",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Cabinet space and metered power",
+     "account": "Colocation and Data Center Power",
+     "amount_low": 14000,
+     "amount_high": 32000,
+     "weight": 4,
+     "item_shown_by_document": "Cabinet recurring charge and metered power",
+     "memo": "Colo monthly",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Cross connects to transit providers",
+     "account": "Network Transit and Bandwidth",
+     "amount_low": 600,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Cross connect recurring charge",
+     "memo": "Equinix cross connects",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Lumen Technologies",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internet transit at the colocation site",
+     "account": "Network Transit and Bandwidth",
+     "amount_low": 2800,
+     "amount_high": 7500,
+     "weight": 1,
+     "item_shown_by_document": "Dedicated internet access circuit",
+     "memo": "Transit circuit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Cloudflare",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Content delivery and traffic for the public API",
+     "account": "Network Transit and Bandwidth",
+     "amount_low": 300,
+     "amount_high": 2400,
+     "weight": 2,
+     "item_shown_by_document": "Enterprise traffic and load balancing",
+     "memo": "CF traffic",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Zero trust access for employees",
+     "account": "Security and Compliance Software",
+     "amount_low": 180,
+     "amount_high": 700,
+     "weight": 1,
+     "item_shown_by_document": "Zero Trust seats",
+     "memo": "CF Access seats",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Vercel",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for the marketing site and console",
+     "account": "General Cloud Hosting - Production",
+     "amount_low": 80,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "Pro team seats and bandwidth usage",
+     "memo": "Vercel monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Anthropic",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Model API usage in evaluation pipelines",
+     "account": "Third-Party AI Model Usage",
+     "amount_low": 400,
+     "amount_high": 6500,
+     "weight": 3,
+     "item_shown_by_document": "API token usage by model",
+     "memo": "Eval API usage",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Team seats for coding assistance",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 500,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Team plan seats",
+     "memo": "Eng seats",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "OpenAI",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Model API usage for benchmarks against competitors",
+     "account": "Third-Party AI Model Usage",
+     "amount_low": 150,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "API usage by model",
+     "memo": "Benchmarks",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Hugging Face",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Private model repositories for the research team",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 90,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Team plan seats and private storage",
+     "memo": "HF org plan",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Weights & Biases",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Experiment tracking for research",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 900,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Team seats and tracked hours",
+     "memo": "W&B",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GitHub",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly seats and Actions minutes",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 400,
+     "amount_high": 1500,
+     "weight": 3,
+     "item_shown_by_document": "Enterprise seats and Actions usage for the month",
+     "memo": "GitHub monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual enterprise plan paid upfront",
+     "account": "Prepaid Software and Cloud Commitments",
+     "amount_low": 9000,
+     "amount_high": 16000,
+     "weight": 1,
+     "item_shown_by_document": "Enterprise seats, twelve month term",
+     "memo": "GitHub annual renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "Datadog",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly overage on hosts and logs",
+     "account": "Observability and Monitoring Software",
+     "amount_low": 1800,
+     "amount_high": 7400,
+     "weight": 4,
+     "item_shown_by_document": "Infrastructure hosts and indexed logs for the month",
+     "memo": "Datadog overage",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual committed spend paid upfront",
+     "account": "Prepaid Software and Cloud Commitments",
+     "amount_low": 36000,
+     "amount_high": 64000,
+     "weight": 1,
+     "item_shown_by_document": "Annual commitment order form",
+     "memo": "Datadog annual",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "Sentry",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Error tracking",
+     "account": "Observability and Monitoring Software",
+     "amount_low": 80,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Team plan and event volume",
+     "memo": "Sentry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PagerDuty",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "On-call scheduling for infrastructure engineers",
+     "account": "Observability and Monitoring Software",
+     "amount_low": 190,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Business plan seats",
+     "memo": "On-call tool",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Linear",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Engineering issue tracking",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 200,
+     "amount_high": 400,
+     "weight": 1,
+     "item_shown_by_document": "Business plan seats",
+     "memo": "Linear",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Docker",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team subscription for container builds",
+     "account": "Developer Tools and Engineering Software",
+     "amount_low": 120,
+     "amount_high": 360,
+     "weight": 1,
+     "item_shown_by_document": "Team plan seats",
+     "memo": "Docker seats",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Vanta",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Compliance automation subscription",
+     "account": "Security and Compliance Software",
+     "amount_low": 9000,
+     "amount_high": 18000,
+     "weight": 2,
+     "item_shown_by_document": "Annual platform subscription",
+     "memo": "Vanta platform",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Readiness package and auditor introduction for SOC report",
+     "account": "Audit and Compliance Certification Fees",
+     "amount_low": 3500,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Audit readiness services line",
+     "memo": "SOC readiness",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "1Password",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Password manager for all staff",
+     "account": "Security and Compliance Software",
+     "amount_low": 240,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Business plan seats",
+     "memo": "1Password",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Google Workspace",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and documents",
+     "account": "Business Productivity Software",
+     "amount_low": 700,
+     "amount_high": 980,
+     "weight": 1,
+     "item_shown_by_document": "Business Standard licenses",
+     "memo": "Workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Slack",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company chat",
+     "account": "Business Productivity Software",
+     "amount_low": 300,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Business+ seats",
+     "memo": "Slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Notion Labs",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internal wiki",
+     "account": "Business Productivity Software",
+     "amount_low": 280,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Plus plan seats",
+     "memo": "Notion",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Zoom.us",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Video calls",
+     "account": "Business Productivity Software",
+     "amount_low": 90,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Pro licenses",
+     "memo": "Zoom",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HubSpot",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Customer relationship tracking",
+     "account": "Sales and Marketing Software",
+     "amount_low": 800,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Sales Hub seats",
+     "memo": "HubSpot",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LinkedIn",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Recruiter seat for hiring engineers",
+     "account": "Recruiting Fees and Job Boards",
+     "amount_low": 800,
+     "amount_high": 1700,
+     "weight": 2,
+     "item_shown_by_document": "Recruiter Lite seat",
+     "memo": "Recruiter seat",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sponsored posts about the product",
+     "account": "Paid Advertising and Promotion",
+     "amount_low": 300,
+     "amount_high": 3000,
+     "weight": 2,
+     "item_shown_by_document": "Campaign Manager sponsored content",
+     "memo": "LI campaign",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sales Navigator for outbound",
+     "account": "Sales and Marketing Software",
+     "amount_low": 100,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Sales Navigator Core seat",
+     "memo": "Sales Nav",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Google Ads",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search ads for developers",
+     "account": "Paid Advertising and Promotion",
+     "amount_low": 400,
+     "amount_high": 4500,
+     "weight": 1,
+     "item_shown_by_document": "Search campaign clicks",
+     "memo": "Search ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Greenhouse Software",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Applicant tracking system",
+     "account": "Recruiting Fees and Job Boards",
+     "amount_low": 6500,
+     "amount_high": 9800,
+     "weight": 1,
+     "item_shown_by_document": "Annual Essential plan subscription",
+     "memo": "ATS renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Rippling",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll and benefits administration",
+     "account": "Payroll and HR Platform Fees",
+     "amount_low": 1100,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Per-employee platform fees",
+     "memo": "Rippling",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Scale AI",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Human labeling for evaluation data",
+     "account": "Dataset Licensing and Data Labeling",
+     "amount_low": 6000,
+     "amount_high": 28000,
+     "weight": 1,
+     "item_shown_by_document": "Labeling task batches",
+     "memo": "Eval set labels",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Upwork",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Freelancer on a kernel optimization project",
+     "account": "Contract Engineering and Freelancers",
+     "amount_low": 900,
+     "amount_high": 6800,
+     "weight": 2,
+     "item_shown_by_document": "Hourly contract payment to freelancer",
+     "memo": "Kernel contractor",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Freelancers cleaning and annotating a dataset",
+     "account": "Dataset Licensing and Data Labeling",
+     "amount_low": 300,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Hourly contract payment to freelancer",
+     "memo": "Dataset cleanup",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "Thinkmate",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Eight GPU server for the colocation cage",
+     "account": "Capitalized Server Hardware",
+     "amount_low": 48000,
+     "amount_high": 165000,
+     "weight": 2,
+     "item_shown_by_document": "Rackmount GPU server configuration",
+     "memo": "New GPU node",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Replacement drives and memory for existing servers",
+     "account": "Server Parts and Lab Consumables",
+     "amount_low": 600,
+     "amount_high": 4500,
+     "weight": 3,
+     "item_shown_by_document": "NVMe drives and memory modules",
+     "memo": "Node repair parts",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "Apple Store",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laptop for a new engineer",
+     "account": "Capitalized Laptops and Workstations",
+     "amount_low": 2900,
+     "amount_high": 4400,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Pro with AppleCare",
+     "memo": "New hire laptop",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Monitor or lower-priced laptop for a teammate",
+     "account": "Computer Equipment Below Capitalization Threshold",
+     "amount_low": 300,
+     "amount_high": 1900,
+     "weight": 2,
+     "item_shown_by_document": "Studio Display or MacBook Air",
+     "memo": "Desk setup",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "B&H Photo Video",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Webcams and microphones for meeting rooms",
+     "account": "Computer Equipment Below Capitalization Threshold",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "Conference camera and speakerphone",
+     "memo": "Room AV",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Cables and network tools for the lab",
+     "account": "Server Parts and Lab Consumables",
+     "amount_low": 60,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Fiber patch cables and crimp tools",
+     "memo": "Lab cables",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AMZN Mktp US",
+   "merchant_category": "Miscellaneous General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Kitchen and desk supplies",
+     "account": "Office Supplies and Kitchen Stock",
+     "amount_low": 20,
+     "amount_high": 220,
+     "weight": 4,
+     "item_shown_by_document": "Paper towels, pens, coffee filters",
+     "memo": "Office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Transceivers and cables for the server lab",
+     "account": "Server Parts and Lab Consumables",
+     "amount_low": 40,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "Optical transceivers and DAC cables",
+     "memo": "Lab parts",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Keyboards and docks for employees",
+     "account": "Computer Equipment Below Capitalization Threshold",
+     "amount_low": 60,
+     "amount_high": 400,
+     "weight": 2,
+     "item_shown_by_document": "USB-C dock and mechanical keyboard",
+     "memo": "Peripherals",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Costco Whse",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Snacks and drinks for the kitchen",
+     "account": "Office Supplies and Kitchen Stock",
+     "amount_low": 90,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Bulk snacks, sparkling water",
+     "memo": "Kitchen run",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food for the Friday demo",
+     "account": "Team Meals and Offsites",
+     "amount_low": 120,
+     "amount_high": 500,
+     "weight": 2,
+     "item_shown_by_document": "Bulk snacks, platters, drinks",
+     "memo": "Demo day food",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Gift cards for team anniversaries",
+     "account": "Employee Gifts and Morale",
+     "amount_low": 100,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "Gift card",
+     "memo": "Anniversary gifts",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "Staples",
+   "merchant_category": "Stationery and Office Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper and whiteboard markers",
+     "account": "Office Supplies and Kitchen Stock",
+     "amount_low": 25,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Paper, markers",
+     "memo": "Supplies",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Delta Air Lines",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to customers and conferences",
+     "account": "Business Travel - Airfare",
+     "amount_low": 280,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Economy ticket with passenger name",
+     "memo": "Flight",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "United Airlines",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to the colocation site",
+     "account": "Business Travel - Airfare",
+     "amount_low": 240,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Economy ticket with passenger name",
+     "memo": "Site visit flight",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Marriott Hotels",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel on customer or data center trips",
+     "account": "Business Travel - Lodging",
+     "amount_low": 210,
+     "amount_high": 780,
+     "weight": 3,
+     "item_shown_by_document": "Room and tax folio",
+     "memo": "Hotel",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Rooms during the company offsite",
+     "account": "Team Meals and Offsites",
+     "amount_low": 1800,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Room and tax folio",
+     "memo": "Offsite rooms",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "Airbnb",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rental house for a conference team",
+     "account": "Business Travel - Lodging",
+     "amount_low": 500,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Stay confirmation",
+     "memo": "Conf house",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Uber Trip",
+   "merchant_category": "Taxicabs and Rideshares",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides during business trips",
+     "account": "Business Travel - Ground Transportation",
+     "amount_low": 14,
+     "amount_high": 85,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt with pickup and dropoff",
+     "memo": "Ride",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Enterprise Rent-A-Car",
+   "merchant_category": "Car Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rental car near the data center",
+     "account": "Business Travel - Ground Transportation",
+     "amount_low": 90,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Rental agreement",
+     "memo": "Car for site visit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DoorDash",
+   "merchant_category": "Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dinner for engineers during an incident",
+     "account": "Team Meals and Offsites",
+     "amount_low": 60,
+     "amount_high": 380,
+     "weight": 2,
+     "item_shown_by_document": "Order receipt with restaurant",
+     "memo": "Incident dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Solo dinner while traveling",
+     "account": "Business Travel - Meals",
+     "amount_low": 20,
+     "amount_high": 65,
+     "weight": 1,
+     "item_shown_by_document": "Order receipt with restaurant",
+     "memo": "Dinner on trip",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "Starbucks",
+   "merchant_category": "Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee during travel",
+     "account": "Business Travel - Meals",
+     "amount_low": 6,
+     "amount_high": 24,
+     "weight": 1,
+     "item_shown_by_document": "Coffee and pastry",
+     "memo": "Coffee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* Bluefin & Barley",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a prospective customer",
+     "account": "Customer Entertainment",
+     "amount_low": 140,
+     "amount_high": 620,
+     "weight": 2,
+     "item_shown_by_document": "Itemized dinner check",
+     "memo": "Dinner w/ prospect",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner to celebrate a launch",
+     "account": "Team Meals and Offsites",
+     "amount_low": 200,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Itemized dinner check",
+     "memo": "Launch dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SQ *Tomasina's Kitchen",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Catered team lunch",
+     "account": "Team Meals and Offsites",
+     "amount_low": 180,
+     "amount_high": 640,
+     "weight": 1,
+     "item_shown_by_document": "Catering order for sandwiches and salads",
+     "memo": "Team lunch",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* Fogline Coffee Roasters",
+   "merchant_category": "Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Coffee with a candidate or customer",
+     "account": "Customer Entertainment",
+     "amount_low": 8,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "Two lattes",
+     "memo": "Coffee meeting",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Eventbrite",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ticket to an industry conference",
+     "account": "Conferences and Event Sponsorships",
+     "amount_low": 150,
+     "amount_high": 1400,
+     "weight": 2,
+     "item_shown_by_document": "Event ticket",
+     "memo": "Conf ticket",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Ticket to a hands-on workshop for skills",
+     "account": "Employee Learning and Books",
+     "amount_low": 80,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Event ticket",
+     "memo": "CUDA workshop",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "NVIDIA GTC",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Passes and booth for the annual conference",
+     "account": "Conferences and Event Sponsorships",
+     "amount_low": 1100,
+     "amount_high": 15000,
+     "weight": 1,
+     "item_shown_by_document": "Conference pass or exhibitor order",
+     "memo": "GTC",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "O'Reilly Media",
+   "merchant_category": "Book Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Online learning subscriptions for engineers",
+     "account": "Employee Learning and Books",
+     "amount_low": 49,
+     "amount_high": 499,
+     "weight": 1,
+     "item_shown_by_document": "Individual membership",
+     "memo": "Learning sub",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Pier Nine Print & Sign",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Hoodies and stickers with the logo",
+     "account": "Branded Swag and Printed Materials",
+     "amount_low": 300,
+     "amount_high": 2600,
+     "weight": 2,
+     "item_shown_by_document": "Printed hoodies and die-cut stickers",
+     "memo": "Conf swag",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Business cards and office signage",
+     "account": "Office Supplies and Kitchen Stock",
+     "amount_low": 60,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Business cards, door vinyl",
+     "memo": "Cards and signs",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "Ridgeline Counsel LLP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Customer contracts and financing advice",
+     "account": "Outside Legal Counsel",
+     "amount_low": 2500,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Invoice with hours by matter",
+     "memo": "Legal invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Marlowe Pike CPAs",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly close and tax filings",
+     "account": "Bookkeeping and Tax Advisors",
+     "amount_low": 2200,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Monthly bookkeeping retainer",
+     "memo": "Monthly close",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Corvid Risk Partners",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Cyber and directors liability policies",
+     "account": "Corporate Insurance Premiums",
+     "amount_low": 3800,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "Policy premium invoice",
+     "memo": "Insurance renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Sixth Street Commons",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly office rent",
+     "account": "Office Rent and Coworking Memberships",
+     "amount_low": 21000,
+     "amount_high": 23500,
+     "weight": 1,
+     "item_shown_by_document": "Monthly rent statement",
+     "memo": "Office rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BRIGHTLINE FM SVCS",
+   "merchant_category": "Cleaning and Maintenance",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Weekly office cleaning and small repairs",
+     "account": "Office Cleaning and Repairs",
+     "amount_low": 420,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Monthly service invoice",
+     "memo": "Office cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Comcast Business",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internet for the office",
+     "account": "Office Internet and Utilities",
+     "amount_low": 280,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Business internet statement",
+     "memo": "Office internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Verizon Wireless",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Phones for on-call engineers",
+     "account": "Mobile Phone Reimbursements",
+     "amount_low": 90,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Monthly wireless statement",
+     "memo": "On-call phones",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FedEx",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shipping servers and parts to the colocation site",
+     "account": "Shipping and Freight",
+     "amount_low": 40,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Shipping label with weight and destination",
+     "memo": "Ship to colo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Stripe",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Processing fees on customer payments",
+     "account": "Bank and Payment Processing Fees",
+     "amount_low": 140,
+     "amount_high": 2100,
+     "weight": 1,
+     "item_shown_by_document": "Monthly fee statement",
+     "memo": "Stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "Ironbark Rack Works",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Custom rails and cable trays for the colocation cage",
+     "account": "Server Parts and Lab Consumables",
+     "amount_low": 180,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Fabricated rack rails and cable trays",
+     "memo": "Cage hardware",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *KESTRELDATA",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Licensed web crawl sample for pretraining research",
+     "account": "Dataset Licensing and Data Labeling",
+     "amount_low": 500,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Dataset license for one year",
+     "memo": "Crawl sample",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CSC REGISTERED AGT",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Registered agent and state filings",
+     "account": "Business Licenses and Registered Agent Fees",
+     "amount_low": 150,
+     "amount_high": 820,
+     "weight": 1,
+     "item_shown_by_document": "Annual registered agent fee",
+     "memo": "Annual agent fee",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

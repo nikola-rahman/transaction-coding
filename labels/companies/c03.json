@@ -1,0 +1,1185 @@
+{
+  "name": "Tumbleroot Snack Co.",
+  "chart": [
+    "Ingredients",
+    "Packaging Materials",
+    "Co-Packer Fees",
+    "Inbound Freight",
+    "Outbound Freight",
+    "Warehouse & 3PL",
+    "Product Testing & QA",
+    "Market Data",
+    "Trade Spend",
+    "Slotting Fees",
+    "Retailer Chargebacks",
+    "Broker Commissions",
+    "Demos & Sampling",
+    "Trade Shows",
+    "Sales Travel",
+    "Sales Meals & Ent",
+    "Advertising - Digital",
+    "PR & Influencers",
+    "Photo & Creative",
+    "Mktg Swag & Print",
+    "Website & Ecomm",
+    "R&D Supplies",
+    "Product Dev Contractors",
+    "Salaries & Wages",
+    "Payroll Taxes",
+    "Employee Benefits",
+    "Payroll Svc Fees",
+    "Recruiting",
+    "Staff Meals & Events",
+    "Office Rent",
+    "Office Supplies",
+    "Utilities & Internet",
+    "Software Subscriptions",
+    "Computer Equip < $2,500",
+    "Equipment (Capitalized)",
+    "Prepaid Expenses",
+    "Insurance - GL & Product",
+    "Legal Fees",
+    "Accounting & Tax",
+    "Licenses & Permits",
+    "Bank & Merchant Fees",
+    "G&A Travel",
+    "Shipping & Postage"
+  ],
+  "departments": [
+    "Sales",
+    "Marketing",
+    "Operations",
+    "R&D",
+    "Finance & Admin"
+  ],
+  "people": [
+    {
+      "name": "Tessa Brandvold",
+      "department": "Finance & Admin",
+      "card_name": "Tessa Brandvold Card"
+    },
+    {
+      "name": "Marcus Oyelaran",
+      "department": "Sales",
+      "card_name": "Marcus Oyelaran Card"
+    },
+    {
+      "name": "Renee Castellano",
+      "department": "Sales",
+      "card_name": "Sales Card"
+    },
+    {
+      "name": "Devin Pruitt",
+      "department": "Sales",
+      "card_name": "Sales Card"
+    },
+    {
+      "name": "Hana Kowalczyk",
+      "department": "Sales",
+      "card_name": "Hana Kowalczyk Card"
+    },
+    {
+      "name": "Jonah Lindqvist",
+      "department": "Marketing",
+      "card_name": "Marketing Card"
+    },
+    {
+      "name": "Amara Delacroix",
+      "department": "Marketing",
+      "card_name": "Marketing Card"
+    },
+    {
+      "name": "Luis Tamayo",
+      "department": "Operations",
+      "card_name": "Ops Card"
+    },
+    {
+      "name": "Greta Sorensen",
+      "department": "Operations",
+      "card_name": "Ops Card"
+    },
+    {
+      "name": "Wes Hartigan",
+      "department": "Operations",
+      "card_name": "Wes Hartigan Card"
+    },
+    {
+      "name": "Nadia Farouk",
+      "department": "R&D",
+      "card_name": "R&D Card"
+    },
+    {
+      "name": "Colin Abernathy",
+      "department": "R&D",
+      "card_name": "R&D Card"
+    },
+    {
+      "name": "Priya Venkataswamy",
+      "department": "Finance & Admin",
+      "card_name": "Finance Card"
+    },
+    {
+      "name": "Sam Ostrowski",
+      "department": "Finance & Admin",
+      "card_name": "Finance Card"
+    }
+  ],
+  "merchants": [
+    {
+      "name": "AMZN MKTP US",
+      "merchant_category": "Online Retail",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Printer paper, pens and desk items for the office",
+          "account": "Office Supplies",
+          "amount_low": 15,
+          "amount_high": 140,
+          "weight": 4,
+          "item_shown_by_document": "Copy paper, toner, sticky notes",
+          "memo": "office stuff",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Small kitchen tools for recipe bench work",
+          "account": "R&D Supplies",
+          "amount_low": 20,
+          "amount_high": 220,
+          "weight": 3,
+          "item_shown_by_document": "Digital scale, silicone mats, moisture meter",
+          "memo": "test kitchen tools",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Tasting cups, napkins and tongs for store demos",
+          "account": "Demos & Sampling",
+          "amount_low": 18,
+          "amount_high": 90,
+          "weight": 2,
+          "item_shown_by_document": "2 oz sample cups, 500 ct",
+          "memo": "demo cups",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "COSTCO WHSE #1086",
+      "merchant_category": "Wholesale Clubs",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Oil, salt and spices for bench batches",
+          "account": "R&D Supplies",
+          "amount_low": 40,
+          "amount_high": 260,
+          "weight": 3,
+          "item_shown_by_document": "Grocery items, avocado oil, sea salt",
+          "memo": "bench batch supplies",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Food and drinks for monthly team lunch",
+          "account": "Staff Meals & Events",
+          "amount_low": 60,
+          "amount_high": 320,
+          "weight": 3,
+          "item_shown_by_document": "Grocery items, sandwich trays, drinks",
+          "memo": "team lunch",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Drinks and snacks for in-store sampling staff and tables",
+          "account": "Demos & Sampling",
+          "amount_low": 35,
+          "amount_high": 180,
+          "weight": 1,
+          "item_shown_by_document": "Grocery items, water, paper goods",
+          "memo": "demo weekend",
+          "decided_by": "purpose"
+        }
+      ]
+    },
+    {
+      "name": "UPS",
+      "merchant_category": "Courier Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Sample boxes to retail buyers",
+          "account": "Shipping & Postage",
+          "amount_low": 14,
+          "amount_high": 85,
+          "weight": 4,
+          "item_shown_by_document": "Ground parcel, 1 box, 6 lb",
+          "memo": "buyer samples",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Small pallet of case orders to a retailer",
+          "account": "Outbound Freight",
+          "amount_low": 180,
+          "amount_high": 640,
+          "weight": 1,
+          "item_shown_by_document": "UPS Freight, 1 pallet, 420 lb",
+          "memo": "rush PO ship",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "DELTA AIR LINES",
+      "merchant_category": "Airlines",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Flight to a retailer line review",
+          "account": "Sales Travel",
+          "amount_low": 190,
+          "amount_high": 620,
+          "weight": 3,
+          "item_shown_by_document": "Passenger ticket, DEN-MSP round trip",
+          "memo": "buyer mtg",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Flight to investor meeting or finance conference",
+          "account": "G&A Travel",
+          "amount_low": 190,
+          "amount_high": 540,
+          "weight": 1,
+          "item_shown_by_document": "Passenger ticket, DEN-SFO round trip",
+          "memo": "investor trip",
+          "decided_by": "purpose"
+        }
+      ]
+    },
+    {
+      "name": "UBER TRIP",
+      "merchant_category": "Taxicabs and Rideshare",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Ride to store checks or buyer meeting",
+          "account": "Sales Travel",
+          "amount_low": 11,
+          "amount_high": 58,
+          "weight": 4,
+          "item_shown_by_document": "Trip receipt, pickup and dropoff",
+          "memo": "store visits",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Ride during board or admin trip",
+          "account": "G&A Travel",
+          "amount_low": 11,
+          "amount_high": 48,
+          "weight": 1,
+          "item_shown_by_document": "Trip receipt, pickup and dropoff",
+          "memo": "airport ride",
+          "decided_by": "purpose"
+        }
+      ]
+    },
+    {
+      "name": "SHOPIFY* SUBSCRIPTION",
+      "merchant_category": "Computer Software Stores",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Monthly plan for the online store",
+          "account": "Website & Ecomm",
+          "amount_low": 79,
+          "amount_high": 105,
+          "weight": 5,
+          "item_shown_by_document": "Shopify plan, 1 month",
+          "memo": "shopify monthly",
+          "decided_by": "accounting_judgment"
+        },
+        {
+          "purpose": "Annual plan paid up front",
+          "account": "Prepaid Expenses",
+          "amount_low": 790,
+          "amount_high": 1050,
+          "weight": 1,
+          "item_shown_by_document": "Shopify plan, 12 months",
+          "memo": "annual plan",
+          "decided_by": "accounting_judgment"
+        }
+      ]
+    },
+    {
+      "name": "APPLE STORE #R283",
+      "merchant_category": "Electronics Stores",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Laptop for a new hire",
+          "account": "Computer Equip < $2,500",
+          "amount_low": 1100,
+          "amount_high": 2200,
+          "weight": 3,
+          "item_shown_by_document": "MacBook Air 13 in",
+          "memo": "new hire laptop",
+          "decided_by": "accounting_judgment"
+        },
+        {
+          "purpose": "High-end desktop for packaging design work",
+          "account": "Equipment (Capitalized)",
+          "amount_low": 2600,
+          "amount_high": 4200,
+          "weight": 1,
+          "item_shown_by_document": "Mac Studio with display",
+          "memo": "design workstation",
+          "decided_by": "accounting_judgment"
+        }
+      ]
+    },
+    {
+      "name": "LINKEDIN",
+      "merchant_category": "Advertising Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Job post for open sales and ops roles",
+          "account": "Recruiting",
+          "amount_low": 150,
+          "amount_high": 520,
+          "weight": 2,
+          "item_shown_by_document": "Job Slots, 30 days",
+          "memo": "job post",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Sponsored posts aimed at retail buyers",
+          "account": "Advertising - Digital",
+          "amount_low": 200,
+          "amount_high": 900,
+          "weight": 1,
+          "item_shown_by_document": "Sponsored Content campaign",
+          "memo": "buyer ads",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "ULINE",
+      "merchant_category": "Industrial Supplies",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Corrugated shippers for retail case packs",
+          "account": "Packaging Materials",
+          "amount_low": 220,
+          "amount_high": 1400,
+          "weight": 3,
+          "item_shown_by_document": "Corrugated boxes 12x9x6, 2 bundles",
+          "memo": "case shippers",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Stretch wrap and pallet labels for the warehouse",
+          "account": "Warehouse & 3PL",
+          "amount_low": 90,
+          "amount_high": 480,
+          "weight": 2,
+          "item_shown_by_document": "Stretch wrap, pallet labels",
+          "memo": "pallet supplies",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Padded mailers for sample sends",
+          "account": "Shipping & Postage",
+          "amount_low": 45,
+          "amount_high": 210,
+          "weight": 1,
+          "item_shown_by_document": "Bubble mailers, 100 ct",
+          "memo": "sample mailers",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "WHOLEFDS DEN 10231",
+      "merchant_category": "Grocery Stores",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Competitor snacks for taste benchmarking",
+          "account": "R&D Supplies",
+          "amount_low": 25,
+          "amount_high": 130,
+          "weight": 3,
+          "item_shown_by_document": "Assorted chips and crisps",
+          "memo": "competitive set",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Extra product and fruit for a local sampling table",
+          "account": "Demos & Sampling",
+          "amount_low": 20,
+          "amount_high": 95,
+          "weight": 1,
+          "item_shown_by_document": "Assorted grocery items",
+          "memo": "demo table",
+          "decided_by": "purpose"
+        }
+      ]
+    },
+    {
+      "name": "NEW HOPE NETWORK",
+      "merchant_category": "Trade Shows and Exhibits",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Booth and badges for this season's show",
+          "account": "Trade Shows",
+          "amount_low": 1800,
+          "amount_high": 6500,
+          "weight": 2,
+          "item_shown_by_document": "Expo booth 10x10, 4 badges",
+          "memo": "expo booth",
+          "decided_by": "accounting_judgment"
+        },
+        {
+          "purpose": "Deposit on next year's booth",
+          "account": "Prepaid Expenses",
+          "amount_low": 1200,
+          "amount_high": 3000,
+          "weight": 1,
+          "item_shown_by_document": "Booth deposit, next year's show",
+          "memo": "deposit for next yr",
+          "decided_by": "accounting_judgment"
+        }
+      ]
+    },
+    {
+      "name": "THE HARTFORD",
+      "merchant_category": "Insurance Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Monthly general liability and product liability installment",
+          "account": "Insurance - GL & Product",
+          "amount_low": 480,
+          "amount_high": 760,
+          "weight": 4,
+          "item_shown_by_document": "Policy installment, 1 month",
+          "memo": "GL monthly",
+          "decided_by": "accounting_judgment"
+        },
+        {
+          "purpose": "Annual product recall policy paid up front",
+          "account": "Prepaid Expenses",
+          "amount_low": 3200,
+          "amount_high": 6400,
+          "weight": 1,
+          "item_shown_by_document": "Recall policy, 12 month term",
+          "memo": "recall policy",
+          "decided_by": "accounting_judgment"
+        }
+      ]
+    },
+    {
+      "name": "KEHE DISTRIBUTORS",
+      "merchant_category": "Wholesale Food Distributors",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Promo billbacks on retail price cuts",
+          "account": "Trade Spend",
+          "amount_low": 600,
+          "amount_high": 5200,
+          "weight": 4,
+          "item_shown_by_document": "Billback, Q2 promo, 4 SKUs",
+          "memo": "promo billback",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Short-ship and late-delivery deductions",
+          "account": "Retailer Chargebacks",
+          "amount_low": 80,
+          "amount_high": 1100,
+          "weight": 3,
+          "item_shown_by_document": "Deduction notice, short ship",
+          "memo": "KeHE deduction",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "New item setup at distribution centers",
+          "account": "Slotting Fees",
+          "amount_low": 400,
+          "amount_high": 2400,
+          "weight": 1,
+          "item_shown_by_document": "New item fee, 2 DCs",
+          "memo": "new item setup",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "GUSTO",
+      "merchant_category": "Payroll Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Net pay run for staff",
+          "account": "Salaries & Wages",
+          "amount_low": 34000,
+          "amount_high": 46000,
+          "weight": 5,
+          "item_shown_by_document": "Payroll journal, net pay",
+          "memo": "payroll",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Employer and withheld payroll taxes",
+          "account": "Payroll Taxes",
+          "amount_low": 7000,
+          "amount_high": 11000,
+          "weight": 5,
+          "item_shown_by_document": "Payroll journal, tax debit",
+          "memo": "payroll tax",
+          "decided_by": "item"
+        },
+        {
+          "purpose": "Monthly service fee",
+          "account": "Payroll Svc Fees",
+          "amount_low": 160,
+          "amount_high": 240,
+          "weight": 1,
+          "item_shown_by_document": "Gusto invoice, 14 people",
+          "memo": "gusto fee",
+          "decided_by": "item"
+        }
+      ]
+    },
+    {
+      "name": "FRONT RANGE CO-PACKING",
+      "merchant_category": "Food Manufacturing",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Tolling fee on a production run",
+          "account": "Co-Packer Fees",
+          "amount_low": 8500,
+          "amount_high": 32000,
+          "weight": 5,
+          "item_shown_by_document": "Run 2214, 18,000 bags, tolling",
+          "memo": "run invoice",
+          "decided_by": "accounting_judgment"
+        },
+        {
+          "purpose": "Custom seasoning drum and fill tooling kept at the plant",
+          "account": "Equipment (Capitalized)",
+          "amount_low": 3500,
+          "amount_high": 9500,
+          "weight": 1,
+          "item_shown_by_document": "Custom fill tooling, 1 set",
+          "memo": "tooling for new bag size",
+          "decided_by": "accounting_judgment"
+        }
+      ]
+    },
+    {
+      "name": "BLUESTEM SUPPLY CO",
+      "merchant_category": "Wholesale Food Distributors",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Bulk oil and seasoning for a production run",
+          "account": "Ingredients",
+          "amount_low": 2400,
+          "amount_high": 14000,
+          "weight": 4,
+          "item_shown_by_document": "Sunflower oil, 2 totes; seasoning 400 lb",
+          "memo": "run 2214 ingredients",
+          "decided_by": "purpose"
+        },
+        {
+          "purpose": "Small lots for new flavor trials",
+          "account": "R&D Supplies",
+          "amount_low": 120,
+          "amount_high": 650,
+          "weight": 1,
+          "item_shown_by_document": "Seasoning blend sample, 25 lb",
+          "memo": "flavor trial",
+          "decided_by": "purpose"
+        }
+      ]
+    },
+    {
+      "name": "USPS PO 0712450",
+      "merchant_category": "Postal Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Postage for samples and documents",
+          "account": "Shipping & Postage",
+          "amount_low": 6,
+          "amount_high": 62,
+          "weight": 1,
+          "item_shown_by_document": "Priority Mail, 2 parcels",
+          "memo": "samples",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "GOOGLE *ADS8842",
+      "merchant_category": "Advertising Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Search ads for online store",
+          "account": "Advertising - Digital",
+          "amount_low": 150,
+          "amount_high": 1400,
+          "weight": 1,
+          "item_shown_by_document": "Google Ads invoice, monthly",
+          "memo": "search ads",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "FACEBK *K3W9PL2",
+      "merchant_category": "Advertising Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Social ads for flavor launches",
+          "account": "Advertising - Digital",
+          "amount_low": 100,
+          "amount_high": 1800,
+          "weight": 1,
+          "item_shown_by_document": "Meta Ads receipt",
+          "memo": "meta ads",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "INTUIT *QBOOKS ONLINE",
+      "merchant_category": "Computer Software Stores",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Accounting software",
+          "account": "Software Subscriptions",
+          "amount_low": 90,
+          "amount_high": 200,
+          "weight": 1,
+          "item_shown_by_document": "QuickBooks Online Plus, 1 month",
+          "memo": "QBO",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "SLACK T02LKH7",
+      "merchant_category": "Computer Software Stores",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Team chat",
+          "account": "Software Subscriptions",
+          "amount_low": 100,
+          "amount_high": 125,
+          "weight": 1,
+          "item_shown_by_document": "Slack Pro, 14 seats",
+          "memo": "slack",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "SPS COMMERCE",
+      "merchant_category": "Computer Software Stores",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "EDI for retailer orders",
+          "account": "Software Subscriptions",
+          "amount_low": 350,
+          "amount_high": 780,
+          "weight": 1,
+          "item_shown_by_document": "EDI fulfillment, monthly",
+          "memo": "EDI",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "SPINS LLC",
+      "merchant_category": "Business Services",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Retail scan data for natural channel",
+          "account": "Market Data",
+          "amount_low": 1200,
+          "amount_high": 2800,
+          "weight": 1,
+          "item_shown_by_document": "Category data subscription, quarter",
+          "memo": "SPINS data",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "COMCAST BUSINESS",
+      "merchant_category": "Telecommunications",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Office internet",
+          "account": "Utilities & Internet",
+          "amount_low": 120,
+          "amount_high": 210,
+          "weight": 1,
+          "item_shown_by_document": "Business internet, 1 month",
+          "memo": "internet",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "STRIPE TRANSFER FEES",
+      "merchant_category": "Financial Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Processing fees on online orders",
+          "account": "Bank & Merchant Fees",
+          "amount_low": 40,
+          "amount_high": 380,
+          "weight": 1,
+          "item_shown_by_document": "Monthly fee summary",
+          "memo": "stripe fees",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "DOORDASH*CORNER BISTRO",
+      "merchant_category": "Eating Places",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Lunch during production day or late work",
+          "account": "Staff Meals & Events",
+          "amount_low": 25,
+          "amount_high": 190,
+          "weight": 1,
+          "item_shown_by_document": "Delivery order, sandwiches",
+          "memo": "team lunch",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "INDEED JOBS",
+      "merchant_category": "Employment Agencies",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Job ads for warehouse and ops roles",
+          "account": "Recruiting",
+          "amount_low": 60,
+          "amount_high": 350,
+          "weight": 1,
+          "item_shown_by_document": "Sponsored job, monthly",
+          "memo": "indeed",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "UNFI",
+      "merchant_category": "Wholesale Food Distributors",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Slotting and new item fees",
+          "account": "Slotting Fees",
+          "amount_low": 500,
+          "amount_high": 4800,
+          "weight": 1,
+          "item_shown_by_document": "New item placement fee, 3 SKUs",
+          "memo": "UNFI slotting",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "CO SEC OF STATE",
+      "merchant_category": "Government Services",
+      "payment_kind": "card",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Annual report and trade name filing",
+          "account": "Licenses & Permits",
+          "amount_low": 10,
+          "amount_high": 60,
+          "weight": 1,
+          "item_shown_by_document": "Periodic report filing",
+          "memo": "SOS filing",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "KAISER PERMANENTE",
+      "merchant_category": "Medical Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Staff health plan premium",
+          "account": "Employee Benefits",
+          "amount_low": 5200,
+          "amount_high": 7800,
+          "weight": 1,
+          "item_shown_by_document": "Group premium, 1 month",
+          "memo": "health premium",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "R+L CARRIERS",
+      "merchant_category": "Motor Freight Carriers",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Freight on ingredients and film to the co-packer",
+          "account": "Inbound Freight",
+          "amount_low": 280,
+          "amount_high": 1600,
+          "weight": 1,
+          "item_shown_by_document": "BOL, 3 pallets to Front Range",
+          "memo": "inbound LTL",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "PRAIRIE ROOT FARMS",
+      "merchant_category": "Agricultural Products",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Beets, parsnips and sweet potatoes for production",
+          "account": "Ingredients",
+          "amount_low": 3800,
+          "amount_high": 18000,
+          "weight": 1,
+          "item_shown_by_document": "Root vegetables, 12,000 lb",
+          "memo": "root veg lot",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "TRI-COUNTY FILM & POUCH",
+      "merchant_category": "Packaging Suppliers",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Printed snack film rollstock",
+          "account": "Packaging Materials",
+          "amount_low": 4200,
+          "amount_high": 16000,
+          "weight": 1,
+          "item_shown_by_document": "Printed rollstock, 90,000 impressions",
+          "memo": "film order",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "MESA FREIGHT LINES",
+      "merchant_category": "Motor Freight Carriers",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "LTL from warehouse to distributor DCs",
+          "account": "Outbound Freight",
+          "amount_low": 320,
+          "amount_high": 2400,
+          "weight": 1,
+          "item_shown_by_document": "BOL, 6 pallets to Aurora DC",
+          "memo": "outbound LTL",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "RIDGELINE 3PL",
+      "merchant_category": "Warehousing and Storage",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Pallet storage and pick-pack",
+          "account": "Warehouse & 3PL",
+          "amount_low": 1800,
+          "amount_high": 5200,
+          "weight": 1,
+          "item_shown_by_document": "Storage 64 pallets, pick-pack",
+          "memo": "3PL monthly",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "HRL ANALYTICAL",
+      "merchant_category": "Testing Laboratories",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Shelf life and nutrition panels",
+          "account": "Product Testing & QA",
+          "amount_low": 180,
+          "amount_high": 1400,
+          "weight": 1,
+          "item_shown_by_document": "Nutrition panel, 2 samples",
+          "memo": "lab tests",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "PEAK FOOD BROKERS",
+      "merchant_category": "Business Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Monthly broker commission on regional sales",
+          "account": "Broker Commissions",
+          "amount_low": 900,
+          "amount_high": 4600,
+          "weight": 1,
+          "item_shown_by_document": "Commission statement, 5% of net sales",
+          "memo": "broker comm",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "OAKLINE DEMO STAFFING",
+      "merchant_category": "Employment Agencies",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Paid demo staff in stores",
+          "account": "Demos & Sampling",
+          "amount_low": 220,
+          "amount_high": 1900,
+          "weight": 1,
+          "item_shown_by_document": "8 demo shifts, 3 stores",
+          "memo": "demo staffing",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "JUNIPER & VALE PR",
+      "merchant_category": "Public Relations",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Monthly PR retainer",
+          "account": "PR & Influencers",
+          "amount_low": 2000,
+          "amount_high": 3500,
+          "weight": 1,
+          "item_shown_by_document": "Retainer, monthly",
+          "memo": "PR retainer",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "LO STUDIO",
+      "merchant_category": "Photographic Studios",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Product and lifestyle photo shoot",
+          "account": "Photo & Creative",
+          "amount_low": 650,
+          "amount_high": 3200,
+          "weight": 1,
+          "item_shown_by_document": "Half-day shoot, 12 final images",
+          "memo": "new flavor shoot",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "HOLLIS & TRENT LLP",
+      "merchant_category": "Legal Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Trademark and supply contract work",
+          "account": "Legal Fees",
+          "amount_low": 450,
+          "amount_high": 4200,
+          "weight": 1,
+          "item_shown_by_document": "Attorney time, trademark filing",
+          "memo": "legal",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "KESSLER CPA GROUP",
+      "merchant_category": "Accounting Services",
+      "payment_kind": "bank_payment",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Monthly bookkeeping review and tax prep",
+          "account": "Accounting & Tax",
+          "amount_low": 750,
+          "amount_high": 3600,
+          "weight": 1,
+          "item_shown_by_document": "Monthly close review",
+          "memo": "CPA",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "OTP HOLDINGS LLC",
+      "merchant_category": "Real Estate Agents and Managers",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Office and sample room rent",
+          "account": "Office Rent",
+          "amount_low": 3100,
+          "amount_high": 3400,
+          "weight": 1,
+          "item_shown_by_document": "Rent, Suite 204, 1 month",
+          "memo": "rent",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "SQ *SUNNY SIDE CAFE",
+      "merchant_category": "Eating Places",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Coffee or lunch with buyers and brokers",
+          "account": "Sales Meals & Ent",
+          "amount_low": 14,
+          "amount_high": 120,
+          "weight": 1,
+          "item_shown_by_document": "Lunch, 2 guests",
+          "memo": "buyer lunch",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "FOOTHILLS PRINT SHOP",
+      "merchant_category": "Printing Services",
+      "payment_kind": "card",
+      "clear_name": true,
+      "purposes": [
+        {
+          "purpose": "Sell sheets, shelf talkers and stickers",
+          "account": "Mktg Swag & Print",
+          "amount_low": 85,
+          "amount_high": 720,
+          "weight": 1,
+          "item_shown_by_document": "Sell sheets, 500 ct",
+          "memo": "sell sheets",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "KITCHEN COMMONS FTC",
+      "merchant_category": "Business Services",
+      "payment_kind": "card",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Hourly commercial kitchen rental for trials",
+          "account": "R&D Supplies",
+          "amount_low": 90,
+          "amount_high": 480,
+          "weight": 1,
+          "item_shown_by_document": "Kitchen rental, 6 hours",
+          "memo": "kitchen hours",
+          "decided_by": "nothing"
+        }
+      ]
+    },
+    {
+      "name": "MF CONSULTING",
+      "merchant_category": "Business Services",
+      "payment_kind": "bank_payment",
+      "clear_name": false,
+      "purposes": [
+        {
+          "purpose": "Contract food scientist on new flavors",
+          "account": "Product Dev Contractors",
+          "amount_low": 800,
+          "amount_high": 4200,
+          "weight": 1,
+          "item_shown_by_document": "Formulation work, 20 hours",
+          "memo": "food scientist",
+          "decided_by": "nothing"
+        }
+      ]
+    }
+  ]
+}

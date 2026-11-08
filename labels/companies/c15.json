@@ -1,0 +1,1637 @@
+{
+ "name": "Lanternwise Learning, Inc.",
+ "chart": [
+  "ENG-61010 Cloud Hosting",
+  "ENG-61020 Video Streaming & CDN",
+  "ENG-61030 Developer Tools",
+  "ENG-61040 Monitoring & Observability",
+  "ENG-61050 AI & API Usage",
+  "ENG-61060 Security & Compliance Tools",
+  "ENG-61070 Test Devices",
+  "ENG-61080 Contract Engineering",
+  "CON-62010 Freelance Instructors",
+  "CON-62020 Video Production Services",
+  "CON-62030 Studio Equipment Under $2,500",
+  "CON-62040 Studio Rental",
+  "CON-62050 Stock Media & Music Licensing",
+  "CON-62060 Course Authoring Software",
+  "CON-62070 Captioning & Translation",
+  "CON-62080 Accreditation & Certification Fees",
+  "MKT-63010 Paid Search",
+  "MKT-63020 Paid Social",
+  "MKT-63030 Marketing Software",
+  "MKT-63040 Content & SEO Services",
+  "MKT-63050 Events & Sponsorships",
+  "MKT-63060 Swag & Printed Materials",
+  "SAL-64010 CRM & Sales Software",
+  "SAL-64020 Sales Travel",
+  "SAL-64030 Client Meals & Entertainment",
+  "SAL-64040 Lead Lists & Prospecting Data",
+  "SAL-64050 Trade Shows",
+  "LSX-65010 Support Software",
+  "LSX-65020 Payment Processing Fees",
+  "LSX-65030 Learner Goodwill & Credits",
+  "LSX-65040 Customer Onboarding Travel",
+  "PPL-66010 Recruiting & Job Boards",
+  "PPL-66020 Benefits & Payroll Admin",
+  "PPL-66030 Team Events & Offsites",
+  "PPL-66040 Staff Training & Development",
+  "PPL-66050 Internal Travel",
+  "PPL-66060 Employee Meals",
+  "PPL-66070 Employee Gifts & Recognition",
+  "FIN-67010 Accounting & Tax Services",
+  "FIN-67020 Legal Fees",
+  "FIN-67030 Business Insurance",
+  "FIN-67040 Bank & Wire Fees",
+  "FIN-67050 Finance Software",
+  "FIN-67060 Licenses, Taxes & Filing Fees",
+  "FIN-17010 Prepaid Expenses",
+  "FIN-17510 Capitalized Equipment",
+  "OPS-68010 Office Rent & Coworking",
+  "OPS-68020 Office Supplies",
+  "OPS-68030 Internet & Phone",
+  "OPS-68040 Shipping & Postage",
+  "OPS-68050 Computer Equipment Under $2,500",
+  "OPS-68060 Collaboration Software"
+ ],
+ "departments": [
+  "Engineering",
+  "Content Studio",
+  "Marketing",
+  "Sales",
+  "Learner Success",
+  "People",
+  "Finance",
+  "Operations"
+ ],
+ "people": [
+  {
+   "name": "Marisol Vandeberg",
+   "department": "Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Tobias Okonkwo-Reed",
+   "department": "Engineering",
+   "card_name": "Tobias Okonkwo-Reed Card"
+  },
+  {
+   "name": "Priyanka Sethuraman",
+   "department": "Content Studio",
+   "card_name": "Content Studio Card"
+  },
+  {
+   "name": "Declan Fairweather",
+   "department": "Content Studio",
+   "card_name": "Declan Fairweather Card"
+  },
+  {
+   "name": "Junia Abernathy",
+   "department": "Content Studio",
+   "card_name": "Junia Abernathy Card"
+  },
+  {
+   "name": "Rafael Tomczak",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Odette Lindqvist",
+   "department": "Marketing",
+   "card_name": "Odette Lindqvist Card"
+  },
+  {
+   "name": "Corbin Asante",
+   "department": "Sales",
+   "card_name": "Sales Card"
+  },
+  {
+   "name": "Halina Moreau",
+   "department": "Sales",
+   "card_name": "Halina Moreau Card"
+  },
+  {
+   "name": "Wendell Nakashima",
+   "department": "Sales",
+   "card_name": "Wendell Nakashima Card"
+  },
+  {
+   "name": "Saoirse Delgado",
+   "department": "Learner Success",
+   "card_name": "Learner Success Card"
+  },
+  {
+   "name": "Emeka Holloway",
+   "department": "Learner Success",
+   "card_name": "Emeka Holloway Card"
+  },
+  {
+   "name": "Thandiwe Brandt",
+   "department": "People",
+   "card_name": "People Team Card"
+  },
+  {
+   "name": "Lucian Ferreira",
+   "department": "Finance",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Greta Mwangi",
+   "department": "Operations",
+   "card_name": "Operations Card"
+  },
+  {
+   "name": "Anselm Whitcombe",
+   "department": "Operations",
+   "card_name": "Anselm Whitcombe Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMZN Mktp US*2K4T91QX0",
+   "merchant_category": "Book Stores / General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Office consumables for the shared office",
+     "account": "OPS-68020 Office Supplies",
+     "amount_low": 15,
+     "amount_high": 140,
+     "weight": 5,
+     "item_shown_by_document": "Printer paper, pens, sticky notes",
+     "memo": "office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Lavalier mics, cables and lights for the studio",
+     "account": "CON-62030 Studio Equipment Under $2,500",
+     "amount_low": 25,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Wireless lavalier mic kit, XLR cables",
+     "memo": "studio gear",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Low-end phones and tablets for QA of the learner app",
+     "account": "ENG-61070 Test Devices",
+     "amount_low": 90,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Android tablet 10in",
+     "memo": "QA tablet",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE #R214",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "New-hire MacBook Pro above the capitalization threshold",
+     "account": "FIN-17510 Capitalized Equipment",
+     "amount_low": 2600,
+     "amount_high": 3900,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Pro 16in M-series",
+     "memo": "laptop for new hire",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Standard MacBook Air below the capitalization threshold",
+     "account": "OPS-68050 Computer Equipment Under $2,500",
+     "amount_low": 1099,
+     "amount_high": 1899,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Air 13in",
+     "memo": "laptop",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "iPhone and iPad for mobile app testing",
+     "account": "ENG-61070 Test Devices",
+     "amount_low": 429,
+     "amount_high": 1199,
+     "weight": 1,
+     "item_shown_by_document": "iPad 10.9in, iPhone SE",
+     "memo": "test device for iOS app",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "B&H PHOTO 800-606-6969",
+   "merchant_category": "Camera and Photographic Supply Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Cinema camera body or lens package kept for multiple years",
+     "account": "FIN-17510 Capitalized Equipment",
+     "amount_low": 2600,
+     "amount_high": 6800,
+     "weight": 1,
+     "item_shown_by_document": "Sony FX3 cinema camera body",
+     "memo": "new A-cam",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Tripods, SD cards, batteries and small studio accessories",
+     "account": "CON-62030 Studio Equipment Under $2,500",
+     "amount_low": 40,
+     "amount_high": 950,
+     "weight": 4,
+     "item_shown_by_document": "V-mount battery, 256GB SD cards",
+     "memo": "studio accessories",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMEA / AMAZON WEB SERVICES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly production and staging usage",
+     "account": "ENG-61010 Cloud Hosting",
+     "amount_low": 3800,
+     "amount_high": 9400,
+     "weight": 6,
+     "item_shown_by_document": "Monthly usage bill: EC2, RDS, S3",
+     "memo": "AWS monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Upfront one-year reserved instance purchase",
+     "account": "FIN-17010 Prepaid Expenses",
+     "amount_low": 9000,
+     "amount_high": 24000,
+     "weight": 1,
+     "item_shown_by_document": "1-yr all-upfront reserved instances",
+     "memo": "RI prepay",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HUBSPOT INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly seat overage and add-ons",
+     "account": "MKT-63030 Marketing Software",
+     "amount_low": 180,
+     "amount_high": 900,
+     "weight": 3,
+     "item_shown_by_document": "Additional marketing contacts tier",
+     "memo": "hubspot add-on",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual Marketing Hub Professional renewal paid upfront",
+     "account": "FIN-17010 Prepaid Expenses",
+     "amount_low": 8400,
+     "amount_high": 12600,
+     "weight": 1,
+     "item_shown_by_document": "Marketing Hub Pro, 12-month term",
+     "memo": "annual renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HARTWELL MUTUAL PREM ACH",
+   "merchant_category": "Insurance Sales and Underwriting",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly general liability instalment",
+     "account": "FIN-67030 Business Insurance",
+     "amount_low": 410,
+     "amount_high": 640,
+     "weight": 5,
+     "item_shown_by_document": "GL policy instalment 7 of 12",
+     "memo": "GL premium",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual cyber and E&O premium paid in full",
+     "account": "FIN-17010 Prepaid Expenses",
+     "amount_low": 6200,
+     "amount_high": 11800,
+     "weight": 1,
+     "item_shown_by_document": "Cyber/Tech E&O 12-month policy",
+     "memo": "annual cyber policy",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *RECRUITER",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Recruiter Lite seats and job slots",
+     "account": "PPL-66010 Recruiting & Job Boards",
+     "amount_low": 170,
+     "amount_high": 1450,
+     "weight": 4,
+     "item_shown_by_document": "Recruiter Lite, 2 job slots",
+     "memo": "recruiting seats",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sales Navigator seats for account executives",
+     "account": "SAL-64010 CRM & Sales Software",
+     "amount_low": 99,
+     "amount_high": 480,
+     "weight": 3,
+     "item_shown_by_document": "Sales Navigator Core",
+     "memo": "sales nav",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sponsored content campaigns aimed at L&D buyers",
+     "account": "MKT-63020 Paid Social",
+     "amount_low": 400,
+     "amount_high": 3800,
+     "weight": 2,
+     "item_shown_by_document": "Sponsored Content campaign",
+     "memo": "LI ads",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ADOBE *CREATIVE CLOUD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Creative Cloud seats for video editors",
+     "account": "CON-62060 Course Authoring Software",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 4,
+     "item_shown_by_document": "Creative Cloud All Apps, 5 seats",
+     "memo": "CC seats",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Adobe Stock credits for course imagery",
+     "account": "CON-62050 Stock Media & Music Licensing",
+     "amount_low": 30,
+     "amount_high": 240,
+     "weight": 2,
+     "item_shown_by_document": "Adobe Stock 25-asset pack",
+     "memo": "stock images",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ZOOM.US 888-799-9666",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Workplace licences for internal meetings",
+     "account": "OPS-68060 Collaboration Software",
+     "amount_low": 150,
+     "amount_high": 620,
+     "weight": 4,
+     "item_shown_by_document": "Zoom Workplace Business, 30 licences",
+     "memo": "zoom licences",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Webinars add-on for lead-gen sessions",
+     "account": "MKT-63030 Marketing Software",
+     "amount_low": 79,
+     "amount_high": 340,
+     "weight": 2,
+     "item_shown_by_document": "Zoom Webinars 500 add-on",
+     "memo": "webinar add-on",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX OFFICE 4471",
+   "merchant_category": "Quick Copy, Reproduction Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printed workbooks and booth one-pagers",
+     "account": "MKT-63060 Swag & Printed Materials",
+     "amount_low": 45,
+     "amount_high": 480,
+     "weight": 3,
+     "item_shown_by_document": "Color copies, spiral binding",
+     "memo": "printing for workshop",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Shipping demo kits and contracts",
+     "account": "OPS-68040 Shipping & Postage",
+     "amount_low": 14,
+     "amount_high": 120,
+     "weight": 2,
+     "item_shown_by_document": "FedEx 2Day label",
+     "memo": "shipped to client",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "UPWORK -1188273REF",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Short contract for a React engineer on the course player",
+     "account": "ENG-61080 Contract Engineering",
+     "amount_low": 300,
+     "amount_high": 3200,
+     "weight": 2,
+     "item_shown_by_document": "Hourly contract invoice, 40 hrs",
+     "memo": "player contractor",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Subject-matter expert writing course scripts",
+     "account": "CON-62010 Freelance Instructors",
+     "amount_low": 200,
+     "amount_high": 1800,
+     "weight": 3,
+     "item_shown_by_document": "Hourly contract invoice, 12 hrs",
+     "memo": "SME for data lit course",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Freelance writer on SEO blog posts",
+     "account": "MKT-63040 Content & SEO Services",
+     "amount_low": 120,
+     "amount_high": 750,
+     "weight": 2,
+     "item_shown_by_document": "Fixed-price milestone",
+     "memo": "blog posts",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *MKRIVERA",
+   "merchant_category": "Miscellaneous Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Guest instructor honorarium",
+     "account": "CON-62010 Freelance Instructors",
+     "amount_low": 250,
+     "amount_high": 1200,
+     "weight": 3,
+     "item_shown_by_document": "Invoice: instructor fee, Module 4",
+     "memo": "guest instructor",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Second shooter on a course shoot day",
+     "account": "CON-62020 Video Production Services",
+     "amount_low": 300,
+     "amount_high": 850,
+     "weight": 2,
+     "item_shown_by_document": "Invoice: day rate",
+     "memo": "shoot day help",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR 0062345718822",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight to a prospect's on-site demo",
+     "account": "SAL-64020 Sales Travel",
+     "amount_low": 180,
+     "amount_high": 720,
+     "weight": 4,
+     "item_shown_by_document": "Economy fare MSP-BOS",
+     "memo": "prospect visit",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to launch training at a new enterprise customer",
+     "account": "LSX-65040 Customer Onboarding Travel",
+     "amount_low": 180,
+     "amount_high": 720,
+     "weight": 2,
+     "item_shown_by_document": "Economy fare MSP-DEN",
+     "memo": "customer kickoff",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to company offsite",
+     "account": "PPL-66050 Internal Travel",
+     "amount_low": 150,
+     "amount_high": 560,
+     "weight": 2,
+     "item_shown_by_document": "Economy fare SEA-MSP",
+     "memo": "offsite flight",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UNITED 0162298844107",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight to a sales meeting",
+     "account": "SAL-64020 Sales Travel",
+     "amount_low": 190,
+     "amount_high": 780,
+     "weight": 3,
+     "item_shown_by_document": "Economy fare ORD-SFO",
+     "memo": "sales trip",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to a remote team gathering",
+     "account": "PPL-66050 Internal Travel",
+     "amount_low": 170,
+     "amount_high": 540,
+     "weight": 2,
+     "item_shown_by_document": "Economy fare DEN-ORD",
+     "memo": "team trip",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT DOWNTOWN",
+   "merchant_category": "Lodging / Hotels",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for a sales trip",
+     "account": "SAL-64020 Sales Travel",
+     "amount_low": 170,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Room and tax, 2 nights",
+     "memo": "client visit hotel",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Hotel while onboarding an enterprise customer",
+     "account": "LSX-65040 Customer Onboarding Travel",
+     "amount_low": 170,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "Room and tax, 3 nights",
+     "memo": "onboarding hotel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ride to and from prospect meetings",
+     "account": "SAL-64020 Sales Travel",
+     "amount_low": 12,
+     "amount_high": 65,
+     "weight": 4,
+     "item_shown_by_document": "Trip receipt with route",
+     "memo": "to client",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Ride during an internal offsite or office visit",
+     "account": "PPL-66050 Internal Travel",
+     "amount_low": 10,
+     "amount_high": 55,
+     "weight": 3,
+     "item_shown_by_document": "Trip receipt with route",
+     "memo": "airport",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*SWEET LEAF",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch for staff on a late release or shoot day",
+     "account": "PPL-66060 Employee Meals",
+     "amount_low": 35,
+     "amount_high": 220,
+     "weight": 4,
+     "item_shown_by_document": "Salads and bowls, delivery fee",
+     "memo": "team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch delivered for a customer workshop",
+     "account": "SAL-64030 Client Meals & Entertainment",
+     "amount_low": 80,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Salads and bowls, delivery fee",
+     "memo": "lunch for client workshop",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SQ *CEDAR & ASH CATERING",
+   "merchant_category": "Caterers",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Catering for the quarterly all-hands",
+     "account": "PPL-66030 Team Events & Offsites",
+     "amount_low": 380,
+     "amount_high": 1600,
+     "weight": 3,
+     "item_shown_by_document": "Catered lunch for 35",
+     "memo": "all hands",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Catering for a customer advisory dinner",
+     "account": "SAL-64030 Client Meals & Entertainment",
+     "amount_low": 450,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Plated dinner for 12",
+     "memo": "advisory board dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "EVENTBRITE *LEARNTECH",
+   "merchant_category": "Ticket Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Staff ticket to learn at an industry conference",
+     "account": "PPL-66040 Staff Training & Development",
+     "amount_low": 95,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "General admission ticket",
+     "memo": "conference ticket",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Sponsored local meetup for marketing reach",
+     "account": "MKT-63050 Events & Sponsorships",
+     "amount_low": 250,
+     "amount_high": 1500,
+     "weight": 2,
+     "item_shown_by_document": "Community sponsor package",
+     "memo": "meetup sponsor",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "HILLTOP PRINT & SIGN",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Trade show banners and printed swag",
+     "account": "MKT-63060 Swag & Printed Materials",
+     "amount_low": 90,
+     "amount_high": 1300,
+     "weight": 3,
+     "item_shown_by_document": "Retractable banner, 500 stickers",
+     "memo": "booth print",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Office door and studio wayfinding signs",
+     "account": "OPS-68020 Office Supplies",
+     "amount_low": 40,
+     "amount_high": 280,
+     "weight": 1,
+     "item_shown_by_document": "Vinyl door signs",
+     "memo": "office signs",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "WEWORK 1140 NICOLLET",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly dedicated desks and private office",
+     "account": "OPS-68010 Office Rent & Coworking",
+     "amount_low": 4200,
+     "amount_high": 6900,
+     "weight": 5,
+     "item_shown_by_document": "Private office, 14 desks",
+     "memo": "office rent",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Hourly conference room used for recording sessions",
+     "account": "CON-62040 Studio Rental",
+     "amount_low": 60,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Conference room credits overage",
+     "memo": "recording room",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "OPENAI *CHATGPT",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "API usage powering the AI tutor feature",
+     "account": "ENG-61050 AI & API Usage",
+     "amount_low": 800,
+     "amount_high": 4200,
+     "weight": 4,
+     "item_shown_by_document": "API usage, monthly",
+     "memo": "tutor API",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Team seats used by content writers",
+     "account": "OPS-68060 Collaboration Software",
+     "amount_low": 60,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "ChatGPT Team, 8 seats",
+     "memo": "chatgpt seats",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 01172",
+   "merchant_category": "Stationery, Office Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Paper, toner and whiteboard markers",
+     "account": "OPS-68020 Office Supplies",
+     "amount_low": 18,
+     "amount_high": 190,
+     "weight": 4,
+     "item_shown_by_document": "Toner cartridge, copy paper",
+     "memo": "supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "USB hubs, keyboards and mice for staff",
+     "account": "OPS-68050 Computer Equipment Under $2,500",
+     "amount_low": 25,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "USB-C hub, wireless mouse",
+     "memo": "desk peripherals",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8834201177",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search campaigns for course bundles",
+     "account": "MKT-63010 Paid Search",
+     "amount_low": 1200,
+     "amount_high": 9800,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads invoice, monthly clicks",
+     "memo": "google ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *JK8Y2MNQ42",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Meta campaigns promoting consumer courses",
+     "account": "MKT-63020 Paid Social",
+     "amount_low": 600,
+     "amount_high": 5400,
+     "weight": 1,
+     "item_shown_by_document": "Meta Ads billing receipt",
+     "memo": "meta ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VIMEO.COM",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Video hosting for course lessons",
+     "account": "ENG-61020 Video Streaming & CDN",
+     "amount_low": 240,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Vimeo Enterprise monthly",
+     "memo": "vimeo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MUX INC",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Video encoding and delivery for the learner player",
+     "account": "ENG-61020 Video Streaming & CDN",
+     "amount_low": 650,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Monthly usage: minutes delivered",
+     "memo": "mux usage",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CLOUDFLARE INC",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "CDN and WAF for the learning platform",
+     "account": "ENG-61020 Video Streaming & CDN",
+     "amount_low": 200,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Business plan plus add-ons",
+     "memo": "cloudflare",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team plan seats and Actions minutes",
+     "account": "ENG-61030 Developer Tools",
+     "amount_low": 180,
+     "amount_high": 540,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team, 14 seats",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DATADOG INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Infrastructure and APM monitoring",
+     "account": "ENG-61040 Monitoring & Observability",
+     "amount_low": 620,
+     "amount_high": 2300,
+     "weight": 1,
+     "item_shown_by_document": "Monthly hosts and APM usage",
+     "memo": "datadog",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SENTRY.IO",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Error tracking for web and mobile apps",
+     "account": "ENG-61040 Monitoring & Observability",
+     "amount_low": 29,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Team plan monthly",
+     "memo": "sentry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VANTA INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "SOC 2 compliance automation",
+     "account": "ENG-61060 Security & Compliance Tools",
+     "amount_low": 700,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Vanta monthly subscription",
+     "memo": "vanta",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "1PASSWORD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company password manager",
+     "account": "ENG-61060 Security & Compliance Tools",
+     "amount_low": 180,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Teams plan, 40 users",
+     "memo": "1password",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA MONTHLY",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design seats for product and course UI",
+     "account": "ENG-61030 Developer Tools",
+     "amount_low": 45,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Figma Professional seats",
+     "memo": "figma",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ARTICULATE GLOBAL",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Storyline and Rise authoring licences",
+     "account": "CON-62060 Course Authoring Software",
+     "amount_low": 110,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Articulate 360 Teams seat",
+     "memo": "articulate",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DESCRIPT INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Transcript-based video editing for lessons",
+     "account": "CON-62060 Course Authoring Software",
+     "amount_low": 30,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Descript Creator seats",
+     "memo": "descript",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EPIDEMIC SOUND",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Background music licence for course videos",
+     "account": "CON-62050 Stock Media & Music Licensing",
+     "amount_low": 19,
+     "amount_high": 49,
+     "weight": 1,
+     "item_shown_by_document": "Commercial plan monthly",
+     "memo": "music licence",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "REV.COM",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Human captions for accessible course videos",
+     "account": "CON-62070 Captioning & Translation",
+     "amount_low": 40,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Captions, 184 minutes",
+     "memo": "captions",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BLUE HERON LANGUAGE WORKS",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Spanish and French translation of course scripts",
+     "account": "CON-62070 Captioning & Translation",
+     "amount_low": 480,
+     "amount_high": 3100,
+     "weight": 1,
+     "item_shown_by_document": "Translation invoice, 11,200 words",
+     "memo": "translation batch",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KESTREL LANE STUDIOS",
+   "merchant_category": "Motion Picture and Video Production",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Day rental of the green-screen stage",
+     "account": "CON-62040 Studio Rental",
+     "amount_low": 350,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Stage rental, 8 hours",
+     "memo": "studio day",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TWO RIVERS MEDIA COOP",
+   "merchant_category": "Motion Picture and Video Production",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Outsourced editing and motion graphics for course launches",
+     "account": "CON-62020 Video Production Services",
+     "amount_low": 1200,
+     "amount_high": 6400,
+     "weight": 1,
+     "item_shown_by_document": "Invoice: edit and motion graphics, 6 lessons",
+     "memo": "video edit vendor",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CONT ED BD APPLICATION FEE",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Provider accreditation so courses can award CEUs",
+     "account": "CON-62080 Accreditation & Certification Fees",
+     "amount_low": 300,
+     "amount_high": 1950,
+     "weight": 1,
+     "item_shown_by_document": "Annual provider renewal",
+     "memo": "CEU provider fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SEMRUSH",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Keyword and SEO research tools",
+     "account": "MKT-63030 Marketing Software",
+     "amount_low": 130,
+     "amount_high": 280,
+     "weight": 1,
+     "item_shown_by_document": "Guru plan monthly",
+     "memo": "semrush",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MAILCHIMP *MONTHLY",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Newsletter sends to learners",
+     "account": "MKT-63030 Marketing Software",
+     "amount_low": 110,
+     "amount_high": 430,
+     "weight": 1,
+     "item_shown_by_document": "Standard plan, 25,000 contacts",
+     "memo": "mailchimp",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ORCHARD & VINE CONTENT LLC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly SEO article retainer",
+     "account": "MKT-63040 Content & SEO Services",
+     "amount_low": 1500,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Retainer invoice, 4 articles",
+     "memo": "content retainer",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ATD INTL CONFERENCE",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Exhibitor booth at the talent development expo",
+     "account": "SAL-64050 Trade Shows",
+     "amount_low": 2800,
+     "amount_high": 9200,
+     "weight": 1,
+     "item_shown_by_document": "10x10 exhibitor booth",
+     "memo": "ATD booth",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SALESFORCE.COM",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sales Cloud seats",
+     "account": "SAL-64010 CRM & Sales Software",
+     "amount_low": 375,
+     "amount_high": 1650,
+     "weight": 1,
+     "item_shown_by_document": "Sales Cloud Professional, 8 seats",
+     "memo": "salesforce",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APOLLO.IO",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "B2B contact data for outbound",
+     "account": "SAL-64040 Lead Lists & Prospecting Data",
+     "amount_low": 99,
+     "amount_high": 590,
+     "weight": 1,
+     "item_shown_by_document": "Apollo Professional seats",
+     "memo": "apollo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ZENDESK INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Learner helpdesk seats",
+     "account": "LSX-65010 Support Software",
+     "amount_low": 290,
+     "amount_high": 880,
+     "weight": 1,
+     "item_shown_by_document": "Suite Team, 6 agents",
+     "memo": "zendesk",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTERCOM R&D",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "In-app chat for learners",
+     "account": "LSX-65010 Support Software",
+     "amount_low": 180,
+     "amount_high": 740,
+     "weight": 1,
+     "item_shown_by_document": "Essential plan plus usage",
+     "memo": "intercom",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE TRANSFER FEES",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Card processing fees on course sales",
+     "account": "LSX-65020 Payment Processing Fees",
+     "amount_low": 900,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "Monthly processing fee summary",
+     "memo": "stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TREMENDOUS GIFT CREDIT",
+   "merchant_category": "Miscellaneous Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Make-good gift credits for learners after outages",
+     "account": "LSX-65030 Learner Goodwill & Credits",
+     "amount_low": 25,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Reward order, 6 recipients",
+     "memo": "learner make-good",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREENHOUSE SOFTWARE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Applicant tracking subscription",
+     "account": "PPL-66010 Recruiting & Job Boards",
+     "amount_low": 480,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "Greenhouse Essential monthly",
+     "memo": "ATS",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO PAYROLL FEE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll and benefits admin fees",
+     "account": "PPL-66020 Benefits & Payroll Admin",
+     "amount_low": 280,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Plus plan, 40 employees",
+     "memo": "gusto fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SNACKNATION*GIFT BOX",
+   "merchant_category": "Miscellaneous Food Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Work-anniversary gift boxes",
+     "account": "PPL-66070 Employee Gifts & Recognition",
+     "amount_low": 40,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Gift box, 4 recipients",
+     "memo": "anniversary gifts",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* LITTLE PINE TAQUERIA",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Team lunch near the office",
+     "account": "PPL-66060 Employee Meals",
+     "amount_low": 28,
+     "amount_high": 190,
+     "weight": 1,
+     "item_shown_by_document": "Tacos, chips and guac",
+     "memo": "team lunch",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *FOXGLOVE COFFEE",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Coffee during one-on-ones",
+     "account": "PPL-66060 Employee Meals",
+     "amount_low": 6,
+     "amount_high": 32,
+     "weight": 1,
+     "item_shown_by_document": "2 lattes",
+     "memo": "coffee 1:1",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NORTHBEND BOOKKEEPING GROUP",
+   "merchant_category": "Accounting, Auditing, Bookkeeping",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping and tax prep",
+     "account": "FIN-67010 Accounting & Tax Services",
+     "amount_low": 1800,
+     "amount_high": 3400,
+     "weight": 1,
+     "item_shown_by_document": "Monthly close services invoice",
+     "memo": "bookkeeper",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HARBOR STREET LEGAL PLLC",
+   "merchant_category": "Legal Services and Attorneys",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Outside counsel on customer contracts and privacy terms",
+     "account": "FIN-67020 Legal Fees",
+     "amount_low": 650,
+     "amount_high": 5800,
+     "weight": 1,
+     "item_shown_by_document": "Legal services invoice, 4.5 hrs",
+     "memo": "outside counsel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIRST LAKE BANK SVC FEE",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Outgoing wire and account fees",
+     "account": "FIN-67040 Bank & Wire Fees",
+     "amount_low": 15,
+     "amount_high": 85,
+     "weight": 1,
+     "item_shown_by_document": "Outgoing wire fee",
+     "memo": "wire fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "QBOOKS ONLINE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "QuickBooks Online subscription",
+     "account": "FIN-67050 Finance Software",
+     "amount_low": 90,
+     "amount_high": 235,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online Advanced",
+     "memo": "QBO",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DE SOS FRANCHISE TAX",
+   "merchant_category": "Government Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Delaware annual franchise tax and registered filing",
+     "account": "FIN-67060 Licenses, Taxes & Filing Fees",
+     "amount_low": 400,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Annual report and franchise tax",
+     "memo": "DE annual filing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Studio internet connection",
+     "account": "OPS-68030 Internet & Phone",
+     "amount_low": 150,
+     "amount_high": 290,
+     "weight": 1,
+     "item_shown_by_document": "Business internet 1 Gig",
+     "memo": "studio internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VERIZON WRLS 8842",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company mobile lines for field sales",
+     "account": "OPS-68030 Internet & Phone",
+     "amount_low": 80,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "4 lines, monthly",
+     "memo": "mobile lines",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 2614800231",
+   "merchant_category": "Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Mailing learner certificates and small packages",
+     "account": "OPS-68040 Shipping & Postage",
+     "amount_low": 6,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Priority Mail postage",
+     "memo": "certificates mailed",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T04KQ7ZLM",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company chat",
+     "account": "OPS-68060 Collaboration Software",
+     "amount_low": 320,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro, 40 users",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_LANT",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and documents for all staff",
+     "account": "OPS-68060 Collaboration Software",
+     "amount_low": 380,
+     "amount_high": 720,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Standard, 40 users",
+     "memo": "workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2802 @@
+[
+{
+"id": "p0000",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "building and safety expense and equipment"
+},
+{
+"id": "p0001",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0002",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "program supplies"
+},
+{
+"id": "p0003",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment"
+},
+{
+"id": "p0004",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "misc exp"
+},
+{
+"id": "p0005",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "rubbish removal"
+},
+{
+"id": "p0006",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "construction expense"
+},
+{
+"id": "p0007",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "misc exp"
+},
+{
+"id": "p0008",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0009",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "feed and grain"
+},
+{
+"id": "p0010",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "miscellaneous - penalty - late filing"
+},
+{
+"id": "p0011",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0012",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0013",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0014",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0015",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "deposit - facility security asses & plan : nl city pier"
+},
+{
+"id": "p0016",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "auto / air / rail - napa meeting"
+},
+{
+"id": "p0017",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0018",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0019",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0020",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0021",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0022",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "child shelter"
+},
+{
+"id": "p0023",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "chemicals"
+},
+{
+"id": "p0024",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0025",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "refinance pilot program exp"
+},
+{
+"id": "p0026",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment"
+},
+{
+"id": "p0027",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maint svc contracts"
+},
+{
+"id": "p0028",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0029",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0030",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0031",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0032",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other improvements - current"
+},
+{
+"id": "p0033",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0034",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0035",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "child shelter"
+},
+{
+"id": "p0036",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "repairs / maintenance - computer equipment"
+},
+{
+"id": "p0037",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "feb 2018 mileage"
+},
+{
+"id": "p0038",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "membership & dues"
+},
+{
+"id": "p0039",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0040",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0041",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0042",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "outside subcontract svcs - moderate discussion"
+},
+{
+"id": "p0043",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0044",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment"
+},
+{
+"id": "p0045",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0046",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "consulting - deposit - facility security assessment & planning - state pier"
+},
+{
+"id": "p0047",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0048",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0049",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "p0050",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "snow removal"
+},
+{
+"id": "p0051",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0052",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "right of way-temp easement"
+},
+{
+"id": "p0053",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "litigation"
+},
+{
+"id": "p0054",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "outside subcontract svcs - travel reimbursement - modetation discussion"
+},
+{
+"id": "p0055",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0056",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "internet/telephone"
+},
+{
+"id": "p0057",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "hardware expenses"
+},
+{
+"id": "p0058",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "food supplements"
+},
+{
+"id": "p0059",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0060",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "child shelter"
+},
+{
+"id": "p0061",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0062",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0063",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0064",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0065",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0066",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0067",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "food expenses"
+},
+{
+"id": "p0068",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0069",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0070",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "litigation"
+},
+{
+"id": "p0071",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0072",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0073",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "hsa er portion"
+},
+{
+"id": "p0074",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0075",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "issuance expense"
+},
+{
+"id": "p0076",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "postage"
+},
+{
+"id": "p0077",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "software expenses over $1000"
+},
+{
+"id": "p0078",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other payroll expenses"
+},
+{
+"id": "p0079",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0080",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "drugs,medicines,dental supplie"
+},
+{
+"id": "p0081",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0082",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0083",
+"org": "ct:Connecticut Student Loan Foundation",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0084",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0085",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0086",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0087",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0088",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "building maintenance"
+},
+{
+"id": "p0089",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "litigation"
+},
+{
+"id": "p0090",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0091",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0092",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0093",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0094",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0095",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0096",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0097",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "advertising"
+},
+{
+"id": "p0098",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0099",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0100",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "conf & education exp"
+},
+{
+"id": "p0101",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff mileage expenses"
+},
+{
+"id": "p0102",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "honorarium expenses"
+},
+{
+"id": "p0103",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "laboratory testing expense"
+},
+{
+"id": "p0104",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0105",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0106",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0107",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0108",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0109",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff mileage expenses"
+},
+{
+"id": "p0110",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0111",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "payroll - weeks ending 11/13/15, 11/20/17"
+},
+{
+"id": "p0112",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "conf & education exp"
+},
+{
+"id": "p0113",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0114",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "p0115",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0116",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0117",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0118",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "rent"
+},
+{
+"id": "p0119",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment & machinery repairs"
+},
+{
+"id": "p0120",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0121",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0122",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment"
+},
+{
+"id": "p0123",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other payroll expenses"
+},
+{
+"id": "p0124",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other office expense"
+},
+{
+"id": "p0125",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maint svc contracts"
+},
+{
+"id": "p0126",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "consulting services"
+},
+{
+"id": "p0127",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "misc client expense"
+},
+{
+"id": "p0128",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "interest"
+},
+{
+"id": "p0129",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0130",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "dues/subscriptions"
+},
+{
+"id": "p0131",
+"org": "ct:Connecticut Student Loan Foundation",
+"held_out": false,
+"case": "person_payee",
+"recorded": "non professional services"
+},
+{
+"id": "p0132",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0133",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "honorarium expenses"
+},
+{
+"id": "p0134",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0135",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0136",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "money management"
+},
+{
+"id": "p0137",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "opeb liability"
+},
+{
+"id": "p0138",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0139",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "building maintenance"
+},
+{
+"id": "p0140",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0141",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "telephone & internet access"
+},
+{
+"id": "p0142",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0143",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0144",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "miscellaneous liability payouts"
+},
+{
+"id": "p0145",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0146",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0147",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "workhouse medical"
+},
+{
+"id": "p0148",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0149",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "auto / air / rail"
+},
+{
+"id": "p0150",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "adult r 185 case mgmt-nw>21"
+},
+{
+"id": "p0151",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "p0152",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0153",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other services"
+},
+{
+"id": "p0154",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "motor vehicle supplies"
+},
+{
+"id": "p0155",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0156",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0157",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0158",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "groceries"
+},
+{
+"id": "p0159",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0160",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0161",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "deferred revenue"
+},
+{
+"id": "p0162",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0163",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "due to state of ct-ece"
+},
+{
+"id": "p0164",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "lodging (no receipt)"
+},
+{
+"id": "p0165",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0166",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maintenance materials, supplies & services"
+},
+{
+"id": "p0167",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "supplies"
+},
+{
+"id": "p0168",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0169",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0170",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0171",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maint svc contracts"
+},
+{
+"id": "p0172",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "lodging"
+},
+{
+"id": "p0173",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "miscellaneous liability payouts"
+},
+{
+"id": "p0174",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0175",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "p0176",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0177",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "supplies"
+},
+{
+"id": "p0178",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0179",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0180",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office and administrative"
+},
+{
+"id": "p0181",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "food supplements"
+},
+{
+"id": "p0182",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meat"
+},
+{
+"id": "p0183",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "audit expense"
+},
+{
+"id": "p0184",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0185",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0186",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "blade sign for office"
+},
+{
+"id": "p0187",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0188",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "state of ct-ece- renov to educate"
+},
+{
+"id": "p0189",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0190",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "public works, sanitation liability payouts"
+},
+{
+"id": "p0191",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "business expense - board"
+},
+{
+"id": "p0192",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "grants"
+},
+{
+"id": "p0193",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office and administrative"
+},
+{
+"id": "p0194",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0195",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0196",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "misc client expense"
+},
+{
+"id": "p0197",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0198",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "building and safety expense and equipment"
+},
+{
+"id": "p0199",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "parking expenses"
+},
+{
+"id": "p0200",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "grants"
+},
+{
+"id": "p0201",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "telephone-cellular service"
+},
+{
+"id": "p0202",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other professional services"
+},
+{
+"id": "p0203",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0204",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0205",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0206",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "postage"
+},
+{
+"id": "p0207",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0208",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "napa conf - (no receipt)"
+},
+{
+"id": "p0209",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "advertising & promotion"
+},
+{
+"id": "p0210",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0211",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other payroll expenses"
+},
+{
+"id": "p0212",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "printing"
+},
+{
+"id": "p0213",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0214",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office and administrative"
+},
+{
+"id": "p0215",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "postage exp"
+},
+{
+"id": "p0216",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "lodging - 11/30/17-12/1/17"
+},
+{
+"id": "p0217",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0218",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0219",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0220",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment"
+},
+{
+"id": "p0221",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0222",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0223",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0224",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0225",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0226",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "software expenses over $1000"
+},
+{
+"id": "p0227",
+"org": "ct:Connecticut Student Loan Foundation",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meetings & workshops"
+},
+{
+"id": "p0228",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "program material expenses"
+},
+{
+"id": "p0229",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0230",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "food expenses"
+},
+{
+"id": "p0231",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0232",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "supplies"
+},
+{
+"id": "p0233",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "construction expense"
+},
+{
+"id": "p0234",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff development/training"
+},
+{
+"id": "p0235",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment - (no receipt)"
+},
+{
+"id": "p0236",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0237",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0238",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "telephone - cell phones"
+},
+{
+"id": "p0239",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "family svcs for alt resp prog"
+},
+{
+"id": "p0240",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "business expense - board"
+},
+{
+"id": "p0241",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0242",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "business expense - board"
+},
+{
+"id": "p0243",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "groceries"
+},
+{
+"id": "p0244",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meeting space expenses"
+},
+{
+"id": "p0245",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "household supplies"
+},
+{
+"id": "p0246",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maint svc contracts"
+},
+{
+"id": "p0247",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "meals and entertainment"
+},
+{
+"id": "p0248",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "st. lighting improvements and supplies"
+},
+{
+"id": "p0249",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "business expense - board"
+},
+{
+"id": "p0250",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "advertising"
+},
+{
+"id": "p0251",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "consulting services - feb 2018"
+},
+{
+"id": "p0252",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "child shelter"
+},
+{
+"id": "p0253",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "transcript of testimony fee"
+},
+{
+"id": "p0254",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "employee development"
+},
+{
+"id": "p0255",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "marketing costs"
+},
+{
+"id": "p0256",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "intermediate sanctions"
+},
+{
+"id": "p0257",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "operating supplies"
+},
+{
+"id": "p0258",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "sales/marketing - adver"
+},
+{
+"id": "p0259",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "membership & dues"
+},
+{
+"id": "p0260",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "emp medical, dental & life"
+},
+{
+"id": "p0261",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "april 2018 mileage"
+},
+{
+"id": "p0262",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "software expenses over $1000"
+},
+{
+"id": "p0263",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "buildings & structures-repairs"
+},
+{
+"id": "p0264",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "audit expense"
+},
+{
+"id": "p0265",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "stipend expenses"
+},
+{
+"id": "p0266",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office and administrative"
+},
+{
+"id": "p0267",
+"org": "ct:Capitol Region Development Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "telephone - cell phones"
+},
+{
+"id": "p0268",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "honorarium expenses"
+},
+{
+"id": "p0269",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "staff mileage expenses"
+},
+{
+"id": "p0270",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0271",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other professional services"
+},
+{
+"id": "p0272",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "uniforms"
+},
+{
+"id": "p0273",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office and administrative"
+},
+{
+"id": "p0274",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "drugs,medicines,dental supplie"
+},
+{
+"id": "p0275",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "dues/subscriptions"
+},
+{
+"id": "p0276",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0277",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment & machinery-rental"
+},
+{
+"id": "p0278",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "maint svc contracts"
+},
+{
+"id": "p0279",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "uniforms and clothing"
+},
+{
+"id": "p0280",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "consulting services"
+},
+{
+"id": "p0281",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual services"
+},
+{
+"id": "p0282",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0283",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0284",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "other administrative"
+},
+{
+"id": "p0285",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0286",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "interest"
+},
+{
+"id": "p0287",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "resident program supplies"
+},
+{
+"id": "p0288",
+"org": "ct:Connecticut Port Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "equipment - computer hardware"
+},
+{
+"id": "p0289",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0290",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0291",
+"org": "ct:Connecticut Higher Education Supplemental Loan Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "office supplies"
+},
+{
+"id": "p0292",
+"org": "ramsey",
+"held_out": false,
+"case": "person_payee",
+"recorded": "health related services"
+},
+{
+"id": "p0293",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "general operating cash account"
+},
+{
+"id": "p0294",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "stipend expenses"
+},
+{
+"id": "p0295",
+"org": "ct:State Education Resource Center",
+"held_out": false,
+"case": "person_payee",
+"recorded": "accounts payable vendors"
+},
+{
+"id": "p0296",
+"org": "ct:Connecticut Housing Finance Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "travel"
+},
+{
+"id": "p0297",
+"org": "ct:Connecticut Health and Educational Facilities Authority",
+"held_out": false,
+"case": "person_payee",
+"recorded": "misc exp"
+},
+{
+"id": "p0298",
+"org": "ct:AccessHealthCT",
+"held_out": false,
+"case": "person_payee",
+"recorded": "contractual"
+},
+{
+"id": "p0299",
+"org": "la",
+"held_out": false,
+"case": "person_payee",
+"recorded": "field equipment expense"
+},
+{
+"id": "p0300",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "uconn intern"
+},
+{
+"id": "p0301",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2090"
+},
+{
+"id": "p0302",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2132"
+},
+{
+"id": "p0303",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone and pagers"
+},
+{
+"id": "p0304",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0305",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "grounds maintenance"
+},
+{
+"id": "p0306",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "misc.services"
+},
+{
+"id": "p0307",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "sponsorship"
+},
+{
+"id": "p0308",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa"
+},
+{
+"id": "p0309",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "marketing"
+},
+{
+"id": "p0310",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0311",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0312",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa / consulting"
+},
+{
+"id": "p0313",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone and pagers"
+},
+{
+"id": "p0314",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0315",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0316",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "ct next program"
+},
+{
+"id": "p0317",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0318",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "peer review psa 2142"
+},
+{
+"id": "p0319",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "postage and delivery fees"
+},
+{
+"id": "p0320",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "elp program"
+},
+{
+"id": "p0321",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone & pagers"
+},
+{
+"id": "p0322",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "office furniture"
+},
+{
+"id": "p0323",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "401k contributions and loan repayments"
+},
+{
+"id": "p0324",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0325",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2156"
+},
+{
+"id": "p0326",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0327",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "home offcie support"
+},
+{
+"id": "p0328",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "postage"
+},
+{
+"id": "p0329",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "reimbursement of loan overpayment"
+},
+{
+"id": "p0330",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2102"
+},
+{
+"id": "p0331",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2143"
+},
+{
+"id": "p0332",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2059"
+},
+{
+"id": "p0333",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2059"
+},
+{
+"id": "p0334",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "peer review"
+},
+{
+"id": "p0335",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "marketing"
+},
+{
+"id": "p0336",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "capital expenses"
+},
+{
+"id": "p0337",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "printing - venture clash"
+},
+{
+"id": "p0338",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "consulting services"
+},
+{
+"id": "p0339",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0340",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "meeting"
+},
+{
+"id": "p0341",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "ct next program"
+},
+{
+"id": "p0342",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2090"
+},
+{
+"id": "p0343",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0344",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone and pagers"
+},
+{
+"id": "p0345",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "fast consultant"
+},
+{
+"id": "p0346",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "venture clash"
+},
+{
+"id": "p0347",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2144"
+},
+{
+"id": "p0348",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2168"
+},
+{
+"id": "p0349",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0350",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0351",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "postage"
+},
+{
+"id": "p0352",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0353",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "venture clash"
+},
+{
+"id": "p0354",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "conference calls"
+},
+{
+"id": "p0355",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2227"
+},
+{
+"id": "p0356",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "subscription"
+},
+{
+"id": "p0357",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0358",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "401k contributions and loan repayments"
+},
+{
+"id": "p0359",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2080"
+},
+{
+"id": "p0360",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "office furniture"
+},
+{
+"id": "p0361",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0362",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa"
+},
+{
+"id": "p0363",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "diss. docs for innov. solution"
+},
+{
+"id": "p0364",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "building operations"
+},
+{
+"id": "p0365",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "other benefits- bus passes"
+},
+{
+"id": "p0366",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "ttb grant"
+},
+{
+"id": "p0367",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "other benefits- bus passes"
+},
+{
+"id": "p0368",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "travel expense"
+},
+{
+"id": "p0369",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone and pagers"
+},
+{
+"id": "p0370",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0371",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "venture clash"
+},
+{
+"id": "p0372",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "elp program"
+},
+{
+"id": "p0373",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "elp program"
+},
+{
+"id": "p0374",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0375",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "sponsorship"
+},
+{
+"id": "p0376",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0377",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0378",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "venture consulting"
+},
+{
+"id": "p0379",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "environmental testing"
+},
+{
+"id": "p0380",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2101"
+},
+{
+"id": "p0381",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0382",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "first growth grant"
+},
+{
+"id": "p0383",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "eia winner 1/16"
+},
+{
+"id": "p0384",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "auditing services"
+},
+{
+"id": "p0385",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa"
+},
+{
+"id": "p0386",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "engineering services"
+},
+{
+"id": "p0387",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0388",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "marketing"
+},
+{
+"id": "p0389",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "meeting"
+},
+{
+"id": "p0390",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "sponsorship"
+},
+{
+"id": "p0391",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0392",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "meetings"
+},
+{
+"id": "p0393",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2073"
+},
+{
+"id": "p0394",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "delivery"
+},
+{
+"id": "p0395",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "building operations"
+},
+{
+"id": "p0396",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "employee expense reimbursement ( mileage, meals and other misc. expenses)"
+},
+{
+"id": "p0397",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "consulting services"
+},
+{
+"id": "p0398",
+"org": "ct:Materials Innovation and Recycling Authority",
+"held_out": true,
+"case": "person_payee",
+"recorded": "telephone and pagers"
+},
+{
+"id": "p0399",
+"org": "ct:Connecticut Innovations",
+"held_out": true,
+"case": "person_payee",
+"recorded": "psa 2227"
+}
+]

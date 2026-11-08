@@ -1,0 +1,1152 @@
+{
+ "name": "Corbel Ridge Field Services",
+ "chart": [
+  "1310 Prepaid Expenses",
+  "1510 Tools and Equipment",
+  "5010 Job Materials",
+  "5020 Concrete",
+  "5030 Lumber",
+  "5040 Electrical Supplies",
+  "5050 Plumbing Supplies",
+  "5060 Small Tools",
+  "5070 Safety Gear",
+  "5080 Equipment Rental",
+  "5090 Subcontractors",
+  "5100 Permits",
+  "5110 Dumpsters and Hauling",
+  "5120 Site Services",
+  "5140 Surveying",
+  "5150 Testing and Inspection",
+  "6010 Fuel",
+  "6020 Truck Repairs",
+  "6030 Truck Leases",
+  "6040 Tolls and Parking",
+  "6050 Equipment Repairs",
+  "6100 Travel",
+  "6110 Lodging",
+  "6120 Meals",
+  "6130 Team Events",
+  "6200 Software",
+  "6210 Estimating Software",
+  "6220 Cloud Hosting",
+  "6230 Computers",
+  "6240 Phones",
+  "6250 Internet",
+  "6300 Office Rent",
+  "6310 Office Supplies",
+  "6320 Yard Rent",
+  "6330 Postage and Shipping",
+  "6400 Legal",
+  "6410 Accounting",
+  "6420 Insurance",
+  "6430 Bank Fees",
+  "6440 Licenses and Dues",
+  "6500 Marketing",
+  "6510 Recruiting",
+  "6520 Training",
+  "6530 Uniforms"
+ ],
+ "departments": [
+  "Field Operations",
+  "Project Management",
+  "Estimating",
+  "Safety",
+  "Fleet and Equipment",
+  "Product Engineering",
+  "Finance and Admin"
+ ],
+ "people": [
+  {
+   "name": "Dale Okafor",
+   "department": "Field Operations",
+   "card_name": "Field Ops Card 1"
+  },
+  {
+   "name": "Marisol Vega",
+   "department": "Field Operations",
+   "card_name": "Field Ops Card 2"
+  },
+  {
+   "name": "Tanner Brandvold",
+   "department": "Field Operations",
+   "card_name": "Tanner Brandvold Card"
+  },
+  {
+   "name": "Luis Arriaga",
+   "department": "Field Operations",
+   "card_name": "Luis Arriaga Card"
+  },
+  {
+   "name": "Renee Whitlock",
+   "department": "Project Management",
+   "card_name": "PM Card"
+  },
+  {
+   "name": "Grant Sefton",
+   "department": "Project Management",
+   "card_name": "Grant Sefton Card"
+  },
+  {
+   "name": "Priya Venkataraman",
+   "department": "Estimating",
+   "card_name": "Estimating Card"
+  },
+  {
+   "name": "Colleen Dudek",
+   "department": "Safety",
+   "card_name": "Safety Card"
+  },
+  {
+   "name": "Hector Maldonado",
+   "department": "Fleet and Equipment",
+   "card_name": "Fleet Card"
+  },
+  {
+   "name": "Wes Tolliver",
+   "department": "Fleet and Equipment",
+   "card_name": "Wes Tolliver Card"
+  },
+  {
+   "name": "Anika Rasmussen",
+   "department": "Product Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Joel Nakamura",
+   "department": "Product Engineering",
+   "card_name": "Joel Nakamura Card"
+  },
+  {
+   "name": "Bethany Crowe",
+   "department": "Finance and Admin",
+   "card_name": "Admin Card"
+  },
+  {
+   "name": "Omar Haddad",
+   "department": "Finance and Admin",
+   "card_name": "Omar Haddad Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "THE HOME DEPOT #4712",
+   "merchant_category": "Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "General job site materials",
+     "account": "5010 Job Materials",
+     "amount_low": 40,
+     "amount_high": 1400,
+     "weight": 5,
+     "item_shown_by_document": "Drywall sheets, joint compound, construction adhesive",
+     "memo": "materials for Baseline job",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Hand and power tools for crews",
+     "account": "5060 Small Tools",
+     "amount_low": 25,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "DeWalt impact driver, 25 ft tape measures",
+     "memo": "tools for crew 3",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Framing lumber for a small job shortfall",
+     "account": "5030 Lumber",
+     "amount_low": 60,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "2x4x8 studs, 3/4 in plywood",
+     "memo": "short on studs",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "LOWE'S #2281",
+   "merchant_category": "Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Wire and boxes for job site",
+     "account": "5040 Electrical Supplies",
+     "amount_low": 30,
+     "amount_high": 600,
+     "weight": 3,
+     "item_shown_by_document": "12/2 Romex 250 ft, outlet boxes",
+     "memo": "electrical for TI job",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Pipe and fittings for job site",
+     "account": "5050 Plumbing Supplies",
+     "amount_low": 20,
+     "amount_high": 450,
+     "weight": 2,
+     "item_shown_by_document": "PEX tubing, copper elbows, shutoff valves",
+     "memo": "plumbing fittings",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GRAINGER 0917",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hard hats, gloves and harnesses",
+     "account": "5070 Safety Gear",
+     "amount_low": 50,
+     "amount_high": 1200,
+     "weight": 3,
+     "item_shown_by_document": "Fall protection harness, cut-resistant gloves",
+     "memo": "PPE restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Specialty hand tools",
+     "account": "5060 Small Tools",
+     "amount_low": 35,
+     "amount_high": 800,
+     "weight": 2,
+     "item_shown_by_document": "Torque wrench, pipe threader die set",
+     "memo": "tool replacement",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AMZN MKTP US*2K7QX41",
+   "merchant_category": "Book Stores / Misc General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, toner and office items",
+     "account": "6310 Office Supplies",
+     "amount_low": 15,
+     "amount_high": 220,
+     "weight": 4,
+     "item_shown_by_document": "Copy paper case, HP toner cartridge",
+     "memo": "office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Small tools for crews",
+     "account": "5060 Small Tools",
+     "amount_low": 15,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "Laser level, bit set",
+     "memo": "crew tools",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Laptop accessories",
+     "account": "6230 Computers",
+     "amount_low": 20,
+     "amount_high": 250,
+     "weight": 1,
+     "item_shown_by_document": "USB-C dock, wireless mouse",
+     "memo": "dock for new laptop",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SUNBELT RENTALS #388",
+   "merchant_category": "Equipment Rental",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Scissor lifts and skid steers by the week",
+     "account": "5080 Equipment Rental",
+     "amount_low": 350,
+     "amount_high": 4200,
+     "weight": 4,
+     "item_shown_by_document": "19 ft scissor lift, 1 week rental",
+     "memo": "lift for Rio Vista",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Temporary fence and site barriers",
+     "account": "5120 Site Services",
+     "amount_low": 200,
+     "amount_high": 1800,
+     "weight": 2,
+     "item_shown_by_document": "Temp chain link panels, 400 ft, 4 weeks",
+     "memo": "site fencing",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "UNITED RENTALS 1420",
+   "merchant_category": "Equipment Rental",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly excavator and telehandler rental",
+     "account": "5080 Equipment Rental",
+     "amount_low": 1800,
+     "amount_high": 9500,
+     "weight": 4,
+     "item_shown_by_document": "Telehandler 8K, 4 week rental",
+     "memo": "telehandler for Gilbert job",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Buyout of rented compactor under purchase option",
+     "account": "1510 Tools and Equipment",
+     "amount_low": 6500,
+     "amount_high": 18000,
+     "weight": 1,
+     "item_shown_by_document": "Purchase option, plate compactor, serial shown",
+     "memo": "rental buyout",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES 0062",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to out of state job sites",
+     "account": "6100 Travel",
+     "amount_low": 180,
+     "amount_high": 780,
+     "weight": 5,
+     "item_shown_by_document": "PHX to DEN coach fare",
+     "memo": "Denver site visit",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flying in a superintendent candidate",
+     "account": "6510 Recruiting",
+     "amount_low": 220,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "PHX to SLC coach fare",
+     "memo": "candidate onsite",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flights to a contractor certification course",
+     "account": "6520 Training",
+     "amount_low": 200,
+     "amount_high": 700,
+     "weight": 1,
+     "item_shown_by_document": "PHX to ORD coach fare",
+     "memo": "OSHA 500 course",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT DENVER TECH CTR",
+   "merchant_category": "Hotels and Motels",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for job site visits",
+     "account": "6110 Lodging",
+     "amount_low": 140,
+     "amount_high": 620,
+     "weight": 5,
+     "item_shown_by_document": "Room, 2 nights, tax",
+     "memo": "site visit hotel",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Conference room for leadership offsite",
+     "account": "6130 Team Events",
+     "amount_low": 600,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Meeting room rental, catering",
+     "memo": "leadership offsite",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TST* MESA TACO HOUSE",
+   "merchant_category": "Eating Places and Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Lunch while traveling or with clients",
+     "account": "6120 Meals",
+     "amount_low": 15,
+     "amount_high": 140,
+     "weight": 5,
+     "item_shown_by_document": "Tacos, drinks, tip",
+     "memo": "lunch w/ GC",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Crew lunch for a safety milestone",
+     "account": "6130 Team Events",
+     "amount_low": 180,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Taco catering tray for 30",
+     "memo": "100 days no incidents",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE R214",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laptop for office staff under cap threshold",
+     "account": "6230 Computers",
+     "amount_low": 1100,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Air 13 in",
+     "memo": "laptop for new hire",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "High spec workstation over cap threshold",
+     "account": "1510 Tools and Equipment",
+     "amount_low": 2600,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "MacBook Pro 16 in, 64 GB",
+     "memo": "BIM workstation",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Replacement phone for a foreman",
+     "account": "6240 Phones",
+     "amount_low": 450,
+     "amount_high": 1100,
+     "weight": 2,
+     "item_shown_by_document": "iPhone 16, AppleCare",
+     "memo": "Luis phone replacement",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "TRAVELERS INS PREMIUM",
+   "merchant_category": "Insurance Sales and Underwriting",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly general liability installment",
+     "account": "6420 Insurance",
+     "amount_low": 4200,
+     "amount_high": 11500,
+     "weight": 4,
+     "item_shown_by_document": "GL policy installment, current month",
+     "memo": "GL installment",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual builders risk premium paid up front",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 18000,
+     "amount_high": 46000,
+     "weight": 1,
+     "item_shown_by_document": "Builders risk policy, 12 month term",
+     "memo": "annual BR premium",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *JOBS 7741",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job postings for field hires",
+     "account": "6510 Recruiting",
+     "amount_low": 150,
+     "amount_high": 1200,
+     "weight": 3,
+     "item_shown_by_document": "Sponsored job post credits",
+     "memo": "super job posting",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Sponsored posts about new projects",
+     "account": "6500 Marketing",
+     "amount_low": 200,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored content campaign",
+     "memo": "company page boost",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "AUTODESK INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly Revit and AutoCAD seats",
+     "account": "6200 Software",
+     "amount_low": 70,
+     "amount_high": 480,
+     "weight": 3,
+     "item_shown_by_document": "AEC Collection, monthly seats",
+     "memo": "monthly seats",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual multi-seat subscription paid up front",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 3200,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "AEC Collection, 12 month term, 5 seats",
+     "memo": "annual renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "TRI-COUNTY SUPPLY LLC",
+   "merchant_category": "Construction Materials",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Fasteners, anchors and caulk",
+     "account": "5010 Job Materials",
+     "amount_low": 30,
+     "amount_high": 700,
+     "weight": 3,
+     "item_shown_by_document": "Wedge anchors, sealant",
+     "memo": "anchors",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Conduit and fittings",
+     "account": "5040 Electrical Supplies",
+     "amount_low": 40,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "EMT conduit, couplings",
+     "memo": "conduit",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Drain pipe and glue",
+     "account": "5050 Plumbing Supplies",
+     "amount_low": 25,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "PVC pipe, primer, cement",
+     "memo": "PVC",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "A1 SERVICES INC",
+   "merchant_category": "Sanitary and Waste Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Roll-off dumpster swaps",
+     "account": "5110 Dumpsters and Hauling",
+     "amount_low": 380,
+     "amount_high": 1400,
+     "weight": 3,
+     "item_shown_by_document": "30 yd roll-off, haul and dump fee",
+     "memo": "dumpster swap",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Portable toilets on site",
+     "account": "5120 Site Services",
+     "amount_low": 140,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Portable toilet, weekly service, 4 weeks",
+     "memo": "site toilets",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "CITY OF MESA DEV SVCS",
+   "merchant_category": "Government Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Building permit fees",
+     "account": "5100 Permits",
+     "amount_low": 120,
+     "amount_high": 3800,
+     "weight": 4,
+     "item_shown_by_document": "Commercial building permit, plan review",
+     "memo": "permit Baseline TI",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Annual city contractor license",
+     "account": "6440 Licenses and Dues",
+     "amount_low": 75,
+     "amount_high": 400,
+     "weight": 1,
+     "item_shown_by_document": "Business license renewal",
+     "memo": "city license renewal",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FERGUSON ENTERPRISES 3127",
+   "merchant_category": "Plumbing and Heating Equipment",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Plumbing fixtures and pipe by job",
+     "account": "5050 Plumbing Supplies",
+     "amount_low": 300,
+     "amount_high": 7800,
+     "weight": 1,
+     "item_shown_by_document": "Water heaters, copper pipe, fixtures",
+     "memo": "Rio Vista plumbing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GRAYBAR ELECTRIC CO",
+   "merchant_category": "Electrical Parts and Equipment",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Panels and wire by job",
+     "account": "5040 Electrical Supplies",
+     "amount_low": 400,
+     "amount_high": 9200,
+     "weight": 1,
+     "item_shown_by_document": "200A panel, 500 ft THHN wire",
+     "memo": "panels Gilbert job",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "84 LUMBER #612",
+   "merchant_category": "Lumber and Building Materials",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Framing packages",
+     "account": "5030 Lumber",
+     "amount_low": 800,
+     "amount_high": 14000,
+     "weight": 1,
+     "item_shown_by_document": "Framing package, LVL beams, sheathing",
+     "memo": "framing delivery",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DESERT RIM READY MIX",
+   "merchant_category": "Construction Materials",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Ready mix deliveries",
+     "account": "5020 Concrete",
+     "amount_low": 900,
+     "amount_high": 12500,
+     "weight": 1,
+     "item_shown_by_document": "4000 psi concrete, 30 yd, short load fee",
+     "memo": "slab pour",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 57442",
+   "merchant_category": "Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Diesel and gas for crew trucks",
+     "account": "6010 Fuel",
+     "amount_low": 45,
+     "amount_high": 190,
+     "weight": 1,
+     "item_shown_by_document": "Diesel, 28 gal",
+     "memo": "fuel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DISCOUNT TIRE AZT 31",
+   "merchant_category": "Automotive Tire Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Tires and truck service",
+     "account": "6020 Truck Repairs",
+     "amount_low": 120,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "4 LT tires, mount and balance",
+     "memo": "tires truck 14",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ENTERPRISE FM TRUST",
+   "merchant_category": "Automotive Leasing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly truck fleet lease",
+     "account": "6030 Truck Leases",
+     "amount_low": 6800,
+     "amount_high": 9400,
+     "weight": 1,
+     "item_shown_by_document": "Fleet lease, 14 units, monthly",
+     "memo": "truck lease",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PLATEPASS LLC",
+   "merchant_category": "Toll and Bridge Fees",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Tolls on rental and fleet trucks",
+     "account": "6040 Tolls and Parking",
+     "amount_low": 10,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Toll charges and admin fee",
+     "memo": "tolls",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MOBILE HYDRAULICS OF AZ",
+   "merchant_category": "Equipment Repair Shops",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Field repair on hydraulic equipment",
+     "account": "6050 Equipment Repairs",
+     "amount_low": 240,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Hose replacement, service call",
+     "memo": "skid steer hose",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PRECISE LINE SURVEY GROUP",
+   "merchant_category": "Engineering and Surveying Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Site layout and as-built surveys",
+     "account": "5140 Surveying",
+     "amount_low": 850,
+     "amount_high": 5400,
+     "weight": 1,
+     "item_shown_by_document": "Building corner staking, 2 person crew",
+     "memo": "layout Gilbert",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TERRACON CONSULTANTS",
+   "merchant_category": "Testing Laboratories",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Concrete and soil testing",
+     "account": "5150 Testing and Inspection",
+     "amount_low": 450,
+     "amount_high": 4100,
+     "weight": 1,
+     "item_shown_by_document": "Compaction tests, concrete cylinders",
+     "memo": "special inspections",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OROZCO FRAMING LLC",
+   "merchant_category": "Special Trade Contractors",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Framing subcontract progress payments",
+     "account": "5090 Subcontractors",
+     "amount_low": 4500,
+     "amount_high": 38000,
+     "weight": 1,
+     "item_shown_by_document": "Progress billing no. 3, 10 percent retainage",
+     "memo": "pay app 3",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides to and from airports",
+     "account": "6100 Travel",
+     "amount_low": 14,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Trip from PHX Terminal 4",
+     "memo": "airport ride",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PROCORE TECHNOLOGIES",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Project management platform subscription",
+     "account": "6200 Software",
+     "amount_low": 2400,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Procore subscription, quarterly",
+     "memo": "Procore quarterly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BLUEBEAM INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Takeoff and markup seats for estimators",
+     "account": "6210 Estimating Software",
+     "amount_low": 30,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Bluebeam Core seats",
+     "memo": "estimating seats",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMES1 AMAZON WEB SVC",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for the field app",
+     "account": "6220 Cloud Hosting",
+     "amount_low": 1800,
+     "amount_high": 6400,
+     "weight": 1,
+     "item_shown_by_document": "EC2, RDS, S3 usage",
+     "memo": "AWS monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VERIZON WRLS 0048",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Field phones and tablets",
+     "account": "6240 Phones",
+     "amount_low": 1200,
+     "amount_high": 2900,
+     "weight": 1,
+     "item_shown_by_document": "Wireless service, 62 lines",
+     "memo": "cell bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Internet Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internet for office and yard",
+     "account": "6250 Internet",
+     "amount_low": 190,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Business internet 500 Mbps, 2 sites",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T02XR8Q",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team messaging",
+     "account": "6200 Software",
+     "amount_low": 420,
+     "amount_high": 980,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro, 55 users",
+     "memo": "Slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE RIDG",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and docs for staff",
+     "account": "6200 Software",
+     "amount_low": 900,
+     "amount_high": 1650,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Standard, 110 users",
+     "memo": "Workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CAMELBACK OFFICE PARTNERS",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly office rent",
+     "account": "6300 Office Rent",
+     "amount_low": 14500,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "Suite 210 rent, monthly",
+     "memo": "office rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SALT RIVER YARD LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly equipment yard rent",
+     "account": "6320 Yard Rent",
+     "amount_low": 5200,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Yard lease, 1.5 acres, monthly",
+     "memo": "yard rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BRIGHTWELL CPA GROUP",
+   "merchant_category": "Accounting and Bookkeeping Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Audit and tax work",
+     "account": "6410 Accounting",
+     "amount_low": 1500,
+     "amount_high": 16000,
+     "weight": 1,
+     "item_shown_by_document": "Job cost review and tax prep hours",
+     "memo": "CPA invoice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PRUITT LOWRY PLLC",
+   "merchant_category": "Legal Services and Attorneys",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Contract review and lien work",
+     "account": "6400 Legal",
+     "amount_low": 800,
+     "amount_high": 12000,
+     "weight": 1,
+     "item_shown_by_document": "Attorney hours, subcontract review",
+     "memo": "lien release review",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WIRE FEE OUTGOING",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Bank wire charges",
+     "account": "6430 Bank Fees",
+     "amount_low": 15,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Outgoing domestic wire fee",
+     "memo": "wire fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 78215564",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Overnight bid packages and plans",
+     "account": "6330 Postage and Shipping",
+     "amount_low": 18,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Priority Overnight, 1 package",
+     "memo": "bid docs to owner",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SAFEWORKS TRAINING CO",
+   "merchant_category": "Schools and Educational Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "OSHA 10 and first aid classes",
+     "account": "6520 Training",
+     "amount_low": 120,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "OSHA 10 class, 12 seats",
+     "memo": "OSHA 10 class",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CINTAS CORP 0482",
+   "merchant_category": "Uniform Supply",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hi-vis shirts and uniform service",
+     "account": "6530 Uniforms",
+     "amount_low": 260,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Hi-vis shirts, weekly service",
+     "memo": "uniforms",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ASSOC GENERAL CONTRACTORS",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual trade association dues",
+     "account": "6440 Licenses and Dues",
+     "amount_low": 950,
+     "amount_high": 3200,
+     "weight": 1,
+     "item_shown_by_document": "Chapter membership dues",
+     "memo": "AGC dues",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

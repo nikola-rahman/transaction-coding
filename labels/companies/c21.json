@@ -1,0 +1,1571 @@
+{
+ "name": "Fernhill Electric Cycles, Inc.",
+ "chart": [
+  "1410 Prepaid Software",
+  "1420 Prepaid Insurance",
+  "1430 Prepaid Other & Deposits",
+  "1610 Leasehold Improvements",
+  "1620 Shop Equipment (Cap)",
+  "1630 Computer Equipment (Cap)",
+  "1640 Store Fixtures (Cap)",
+  "5010 COGS - Bikes",
+  "5020 COGS - Parts & Accy",
+  "5030 COGS - Batteries",
+  "5040 Inbound Freight",
+  "5050 Customs & Duties",
+  "5060 Warranty Repairs",
+  "5070 Inventory Shrink",
+  "5080 Shop Supplies",
+  "5090 Merchant Processing Fees",
+  "5100 Last-Mile Delivery",
+  "5110 Packaging",
+  "5120 Battery Disposal & Recycling",
+  "6010 Payroll Svc Fees",
+  "6020 Benefits - Health",
+  "6030 Benefits - Other",
+  "6040 Recruiting",
+  "6050 Contractors",
+  "6060 Employee Training",
+  "6070 Team Meals",
+  "6080 Team Events",
+  "6090 Uniforms & Apparel",
+  "6110 Store Rent",
+  "6120 Warehouse Rent",
+  "6130 Office Rent",
+  "6140 Utilities",
+  "6150 Internet & Phone",
+  "6160 Repairs & Maint",
+  "6170 Janitorial",
+  "6180 Security & Alarm",
+  "6190 Waste Removal",
+  "6210 Store Supplies",
+  "6220 Office Supplies",
+  "6230 Small Tools",
+  "6240 Computer Equip < $2.5k",
+  "6250 Furniture < $2.5k",
+  "6260 Postage & Shipping",
+  "6270 Signage",
+  "6310 Software - Eng",
+  "6320 Software - G&A",
+  "6330 Software - Mktg",
+  "6340 Software - Retail Ops",
+  "6350 Cloud Hosting",
+  "6360 Dev Tools",
+  "6410 Paid Social",
+  "6420 Paid Search",
+  "6430 Local Ads & Sponsorships",
+  "6440 Events & Demo Days",
+  "6450 Creative & Photo",
+  "6460 Email & SMS Mktg",
+  "6470 PR & Content",
+  "6480 Promo Items & Swag",
+  "6490 Customer Goodwill",
+  "6510 Travel - Air",
+  "6520 Travel - Lodging",
+  "6530 Travel - Ground",
+  "6540 Travel - Meals",
+  "6550 Vehicle Fuel",
+  "6560 Vehicle Maint",
+  "6570 Vehicle Lease",
+  "6580 Parking & Tolls",
+  "6610 Legal Fees",
+  "6620 Accounting & Tax",
+  "6630 Consulting",
+  "6640 Bank Fees",
+  "6650 Licenses & Permits",
+  "6660 Dues & Subs",
+  "6670 Insurance - GL",
+  "6680 Insurance - Product Liab",
+  "6690 Charitable Donations",
+  "6710 R&D Prototypes"
+ ],
+ "departments": [
+  "Retail",
+  "Service",
+  "Operations",
+  "Marketing",
+  "Engineering",
+  "Customer Support",
+  "Finance & Admin"
+ ],
+ "people": [
+  {
+   "name": "Marisol Quintero-Hale",
+   "department": "Finance & Admin",
+   "card_name": "Marisol Quintero-Hale Card"
+  },
+  {
+   "name": "Devin Okafor",
+   "department": "Finance & Admin",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Tessa Lindqvist",
+   "department": "Retail",
+   "card_name": "Portland Store Card"
+  },
+  {
+   "name": "Ravi Subramaniam",
+   "department": "Retail",
+   "card_name": "Seattle Store Card"
+  },
+  {
+   "name": "Colleen Bartok",
+   "department": "Retail",
+   "card_name": "Boise Store Card"
+  },
+  {
+   "name": "Hector Valdivia",
+   "department": "Service",
+   "card_name": "Service Dept Card"
+  },
+  {
+   "name": "Jonah Pruitt",
+   "department": "Service",
+   "card_name": "Jonah Pruitt Card"
+  },
+  {
+   "name": "Ngozi Whitfield",
+   "department": "Operations",
+   "card_name": "Warehouse Card"
+  },
+  {
+   "name": "Sam Tran-Ellery",
+   "department": "Operations",
+   "card_name": "Fleet Card"
+  },
+  {
+   "name": "Bryce Amundsen",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Priya Castellano",
+   "department": "Marketing",
+   "card_name": "Priya Castellano Card"
+  },
+  {
+   "name": "Lena Hoffmeister",
+   "department": "Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Omar Dressler",
+   "department": "Engineering",
+   "card_name": "Omar Dressler Card"
+  },
+  {
+   "name": "Kayla Moreau",
+   "department": "Customer Support",
+   "card_name": "Support Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMZN MKTP US*2K4TR81Q0",
+   "merchant_category": "Book Stores / Misc Online Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, pens and toner for the office",
+     "account": "6220 Office Supplies",
+     "amount_low": 15,
+     "amount_high": 140,
+     "weight": 3,
+     "item_shown_by_document": "Copy paper, ballpoint pens, HP toner cartridge",
+     "memo": "office stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Chain lube, rags and nitrile gloves for the service bench",
+     "account": "5080 Shop Supplies",
+     "amount_low": 20,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Nitrile gloves 100ct, shop towels, degreaser",
+     "memo": "shop consumables",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Torque wrench or hex set for a mechanic",
+     "account": "6230 Small Tools",
+     "amount_low": 25,
+     "amount_high": 220,
+     "weight": 2,
+     "item_shown_by_document": "Torque wrench 2-20Nm, metric hex key set",
+     "memo": "tools for bench",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "THE HOME DEPOT #4012",
+   "merchant_category": "Home Supply Warehouse Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Drill bits, clamps and hand tools",
+     "account": "6230 Small Tools",
+     "amount_low": 20,
+     "amount_high": 240,
+     "weight": 2,
+     "item_shown_by_document": "DeWalt drill bit set, bar clamps",
+     "memo": "tools",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Parts to fix a leaking sink or broken door at a store",
+     "account": "6160 Repairs & Maint",
+     "amount_low": 15,
+     "amount_high": 320,
+     "weight": 3,
+     "item_shown_by_document": "Door closer, PVC fittings, caulk",
+     "memo": "store repair",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Paint and hooks for store displays",
+     "account": "6210 Store Supplies",
+     "amount_low": 20,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Interior paint 1 gal, wall hooks",
+     "memo": "store touch-up",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0737",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Snacks and drinks for the team",
+     "account": "6070 Team Meals",
+     "amount_low": 40,
+     "amount_high": 260,
+     "weight": 3,
+     "item_shown_by_document": "Sparkling water, granola bars, coffee pods",
+     "memo": "break room",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Paper towels and trash bags for a store",
+     "account": "6210 Store Supplies",
+     "amount_low": 30,
+     "amount_high": 190,
+     "weight": 2,
+     "item_shown_by_document": "Paper towels 12pk, trash bags",
+     "memo": "store restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Printer ink and folders",
+     "account": "6220 Office Supplies",
+     "amount_low": 20,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Ink cartridges, file folders",
+     "memo": "office supplies",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ULINE *SHIP SUPPLIES",
+   "merchant_category": "Packaging / Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bike boxes and foam for shipped orders",
+     "account": "5110 Packaging",
+     "amount_low": 180,
+     "amount_high": 1400,
+     "weight": 4,
+     "item_shown_by_document": "Bike cartons 54in, foam corner guards",
+     "memo": "boxes for shipping",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Absorbent pads and spill kits for the service bay",
+     "account": "5080 Shop Supplies",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "Absorbent pads, spill kit",
+     "memo": "shop supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Warehouse labels and tape for the office",
+     "account": "6220 Office Supplies",
+     "amount_low": 30,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Shipping labels 4x6, packing tape",
+     "memo": "labels",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 781224590",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sending documents or a replacement part to a customer",
+     "account": "6260 Postage & Shipping",
+     "amount_low": 12,
+     "amount_high": 95,
+     "weight": 3,
+     "item_shown_by_document": "FedEx Ground 1 pkg 8 lb",
+     "memo": "shipped part",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Express inbound parts from a supplier on our account",
+     "account": "5040 Inbound Freight",
+     "amount_low": 40,
+     "amount_high": 310,
+     "weight": 2,
+     "item_shown_by_document": "FedEx Priority 1 pkg 22 lb",
+     "memo": "rush inbound",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Return shipping on a warranty battery",
+     "account": "5060 Warranty Repairs",
+     "amount_low": 35,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "FedEx Ground 1 pkg 14 lb",
+     "memo": "warranty return",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UPS*1Z88E4W20391",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Small parcel to a customer",
+     "account": "6260 Postage & Shipping",
+     "amount_low": 10,
+     "amount_high": 80,
+     "weight": 1,
+     "item_shown_by_document": "UPS Ground 1 pkg",
+     "memo": "parcel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*ROSEMARY KITCHEN",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch for the store crew on a Saturday sale",
+     "account": "6070 Team Meals",
+     "amount_low": 45,
+     "amount_high": 210,
+     "weight": 3,
+     "item_shown_by_document": "2x burrito bowl, 4x tacos, chips",
+     "memo": "team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner on a work trip",
+     "account": "6540 Travel - Meals",
+     "amount_low": 18,
+     "amount_high": 55,
+     "weight": 2,
+     "item_shown_by_document": "1x ramen, 1x gyoza",
+     "memo": "dinner while traveling",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "STARBUCKS STORE 22817",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee on the road",
+     "account": "6540 Travel - Meals",
+     "amount_low": 5,
+     "amount_high": 16,
+     "weight": 3,
+     "item_shown_by_document": "Latte, egg sandwich",
+     "memo": "coffee",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Coffee carrier for the morning store meeting",
+     "account": "6070 Team Meals",
+     "amount_low": 20,
+     "amount_high": 55,
+     "weight": 2,
+     "item_shown_by_document": "Coffee Traveler, pastries",
+     "memo": "store mtg",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Gift card for an upset customer",
+     "account": "6490 Customer Goodwill",
+     "amount_low": 15,
+     "amount_high": 50,
+     "weight": 1,
+     "item_shown_by_document": "Starbucks eGift",
+     "memo": "sorry gift",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ENTERPRISE RENT-A-CAR",
+   "merchant_category": "Automobile Rental Agency",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rental car on a supplier visit",
+     "account": "6530 Travel - Ground",
+     "amount_low": 70,
+     "amount_high": 340,
+     "weight": 3,
+     "item_shown_by_document": "Midsize 3 days",
+     "memo": "rental car",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Cargo van to haul demo bikes to a weekend event",
+     "account": "6440 Events & Demo Days",
+     "amount_low": 110,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "Cargo van 2 days",
+     "memo": "van for demo day",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *JOBS 8821",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Job post for a store manager",
+     "account": "6040 Recruiting",
+     "amount_low": 120,
+     "amount_high": 650,
+     "weight": 3,
+     "item_shown_by_document": "LinkedIn Job Slot",
+     "memo": "store mgr job post",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sponsored post about the new cargo bike",
+     "account": "6410 Paid Social",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Sponsored Content campaign",
+     "memo": "LI ad",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA MONTHLY",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Seats for product designers working on the app",
+     "account": "6310 Software - Eng",
+     "amount_low": 45,
+     "amount_high": 180,
+     "weight": 2,
+     "item_shown_by_document": "Figma Professional 3 seats",
+     "memo": "eng seats",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Seats for marketing on ad layouts",
+     "account": "6330 Software - Mktg",
+     "amount_low": 15,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Figma Professional 1 seat",
+     "memo": "mktg seat",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "NOTION LABS INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company wiki for general use",
+     "account": "6320 Software - G&A",
+     "amount_low": 60,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Notion Plus 22 seats",
+     "memo": "wiki",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHOPIFY* 204881733",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly online store and POS plan",
+     "account": "6340 Software - Retail Ops",
+     "amount_low": 299,
+     "amount_high": 399,
+     "weight": 5,
+     "item_shown_by_document": "Shopify plan, monthly",
+     "memo": "shopify monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual plan paid up front",
+     "account": "1410 Prepaid Software",
+     "amount_low": 3200,
+     "amount_high": 4300,
+     "weight": 1,
+     "item_shown_by_document": "Shopify plan, 12 months",
+     "memo": "annual shopify",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "SLACK TECHNOLOGIES",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly seats",
+     "account": "6320 Software - G&A",
+     "amount_low": 180,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro 28 seats, monthly",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE.COM/US",
+   "merchant_category": "Computers, Peripherals, and Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "iPad or keyboard for a store, under the cap limit",
+     "account": "6240 Computer Equip < $2.5k",
+     "amount_low": 130,
+     "amount_high": 1100,
+     "weight": 3,
+     "item_shown_by_document": "iPad 10.9 64GB",
+     "memo": "store ipad",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "MacBook Pro for an engineer, over the cap limit",
+     "account": "1630 Computer Equipment (Cap)",
+     "amount_low": 2600,
+     "amount_high": 3400,
+     "weight": 2,
+     "item_shown_by_document": "MacBook Pro 14 M4 Pro",
+     "memo": "new eng laptop",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "IKEA PORTLAND",
+   "merchant_category": "Furniture, Home Furnishings",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Desk and chairs for the back office",
+     "account": "6250 Furniture < $2.5k",
+     "amount_low": 90,
+     "amount_high": 1300,
+     "weight": 3,
+     "item_shown_by_document": "Bekant desk, Markus chair",
+     "memo": "office furniture",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Shelving for a whole new store buildout",
+     "account": "1640 Store Fixtures (Cap)",
+     "amount_low": 2600,
+     "amount_high": 5400,
+     "weight": 1,
+     "item_shown_by_document": "Ivar shelving units x24",
+     "memo": "Boise store shelving",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "W W GRAINGER #912",
+   "merchant_category": "Industrial Supplies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bench vise and small shop items",
+     "account": "6230 Small Tools",
+     "amount_low": 40,
+     "amount_high": 480,
+     "weight": 3,
+     "item_shown_by_document": "Bench vise 5in, gloves",
+     "memo": "shop tools",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Battery-safe storage cabinet for the service area",
+     "account": "1620 Shop Equipment (Cap)",
+     "amount_low": 2700,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Flammable storage cabinet 45 gal",
+     "memo": "battery cabinet",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PARK TOOL CO",
+   "merchant_category": "Bicycle Shops - Sales and Service",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Cable cutters and wrenches",
+     "account": "6230 Small Tools",
+     "amount_low": 25,
+     "amount_high": 260,
+     "weight": 4,
+     "item_shown_by_document": "Cable cutter CN-10, pedal wrench",
+     "memo": "tools",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Full repair stand set for a new service bay",
+     "account": "1620 Shop Equipment (Cap)",
+     "amount_low": 2550,
+     "amount_high": 3900,
+     "weight": 1,
+     "item_shown_by_document": "PRS-33 stands x4, workbench",
+     "memo": "new bay stands",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "THE HARTFORD INS",
+   "merchant_category": "Insurance Sales, Underwriting",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly general liability installment",
+     "account": "6670 Insurance - GL",
+     "amount_low": 840,
+     "amount_high": 1250,
+     "weight": 4,
+     "item_shown_by_document": "GL policy installment",
+     "memo": "GL monthly",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual premium paid in advance",
+     "account": "1420 Prepaid Insurance",
+     "amount_low": 9800,
+     "amount_high": 14500,
+     "weight": 1,
+     "item_shown_by_document": "GL policy annual premium",
+     "memo": "annual GL",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "QUALITY BICYCLE PRODUCTS",
+   "merchant_category": "Bicycle Shops - Sales and Service",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Tires, tubes, brake pads and helmets for resale",
+     "account": "5020 COGS - Parts & Accy",
+     "amount_low": 650,
+     "amount_high": 6800,
+     "weight": 5,
+     "item_shown_by_document": "Tires, tubes, helmets by SKU",
+     "memo": "QBP order",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Specialty wheel truing tools for the shop",
+     "account": "6230 Small Tools",
+     "amount_low": 90,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Truing stand, spoke wrenches",
+     "memo": "tools order",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "BOSCH EBIKE SYSTEMS",
+   "merchant_category": "Motorcycle/Bicycle Parts",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Replacement drive units and displays for resale",
+     "account": "5020 COGS - Parts & Accy",
+     "amount_low": 1800,
+     "amount_high": 14000,
+     "weight": 3,
+     "item_shown_by_document": "Drive unit, Kiox display by SKU",
+     "memo": "Bosch parts",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "PowerTube batteries for resale",
+     "account": "5030 COGS - Batteries",
+     "amount_low": 2400,
+     "amount_high": 18000,
+     "weight": 3,
+     "item_shown_by_document": "PowerTube 625Wh x12",
+     "memo": "batteries",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FLEXPORT INC",
+   "merchant_category": "Freight Carriers, Trucking",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ocean freight on a container of bikes",
+     "account": "5040 Inbound Freight",
+     "amount_low": 4200,
+     "amount_high": 11500,
+     "weight": 3,
+     "item_shown_by_document": "Ocean freight FCL 40HC",
+     "memo": "container freight",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Duties on the imported bikes",
+     "account": "5050 Customs & Duties",
+     "amount_low": 2800,
+     "amount_high": 16000,
+     "weight": 2,
+     "item_shown_by_document": "Customs duty and entry fee",
+     "memo": "duties",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "HARBOR POINT PROPERTIES LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly rent for the Portland store",
+     "account": "6110 Store Rent",
+     "amount_low": 9800,
+     "amount_high": 11200,
+     "weight": 6,
+     "item_shown_by_document": "Rent, 2240 SE Division St",
+     "memo": "store rent",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Security deposit for the Boise lease",
+     "account": "1430 Prepaid Other & Deposits",
+     "amount_low": 14000,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Security deposit, Boise lease",
+     "memo": "Boise deposit",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "TRI-COUNTY ENV SVCS",
+   "merchant_category": "Sanitary and Waste Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dumpster pickup at the warehouse",
+     "account": "6190 Waste Removal",
+     "amount_low": 180,
+     "amount_high": 460,
+     "weight": 4,
+     "item_shown_by_document": "Container service, 2 yd",
+     "memo": "trash",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Pickup of damaged lithium packs",
+     "account": "5120 Battery Disposal & Recycling",
+     "amount_low": 350,
+     "amount_high": 1600,
+     "weight": 2,
+     "item_shown_by_document": "Hazmat pickup, Li-ion, 180 lb",
+     "memo": "dead batteries",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AGR PARTNERS",
+   "merchant_category": "Accounting, Auditing, Bookkeeping",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping and close help",
+     "account": "6620 Accounting & Tax",
+     "amount_low": 2800,
+     "amount_high": 4200,
+     "weight": 3,
+     "item_shown_by_document": "Professional services, monthly",
+     "memo": "monthly close",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Help building the Series B financial model",
+     "account": "6630 Consulting",
+     "amount_low": 3500,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Professional services, project",
+     "memo": "fundraise model",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SQ *DMB LLC",
+   "merchant_category": "Photographic Studios",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Product shoot for the new commuter bike",
+     "account": "6450 Creative & Photo",
+     "amount_low": 450,
+     "amount_high": 2200,
+     "weight": 3,
+     "item_shown_by_document": "Product photography, half day",
+     "memo": "photo shoot",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Short video for a store opening",
+     "account": "6470 PR & Content",
+     "amount_low": 600,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Video edit, 60 sec",
+     "memo": "opening video",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS8841023",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search ads for e-bike keywords",
+     "account": "6420 Paid Search",
+     "amount_low": 800,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads invoice",
+     "memo": "Google ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *Q7XK2MN4P2",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Instagram and Facebook ads",
+     "account": "6410 Paid Social",
+     "amount_low": 500,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Meta Ads receipt",
+     "memo": "Meta ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE TRANSFER FEES",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Card processing fees on web orders",
+     "account": "5090 Merchant Processing Fees",
+     "amount_low": 900,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "Stripe monthly fee statement",
+     "memo": "processing fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AMAZON WEB SERVICES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for the website and service app",
+     "account": "6350 Cloud Hosting",
+     "amount_low": 420,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "AWS monthly bill",
+     "memo": "AWS",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team plan for the code repos",
+     "account": "6360 Dev Tools",
+     "amount_low": 40,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team 8 seats",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DATADOG INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monitoring for the site and app",
+     "account": "6360 Dev Tools",
+     "amount_low": 110,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Datadog Pro hosts",
+     "memo": "monitoring",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO PAYROLL",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll service fee",
+     "account": "6010 Payroll Svc Fees",
+     "amount_low": 380,
+     "amount_high": 620,
+     "weight": 1,
+     "item_shown_by_document": "Gusto plan, 40 people",
+     "memo": "gusto",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTUIT *QBOOKS ONLINE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Accounting software",
+     "account": "6320 Software - G&A",
+     "amount_low": 115,
+     "amount_high": 235,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online Advanced",
+     "memo": "QBO",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ADOBE *CREATIVE CLOUD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design software for marketing",
+     "account": "6330 Software - Mktg",
+     "amount_low": 60,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Creative Cloud 3 seats",
+     "memo": "adobe",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KLAVIYO INC.",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and SMS sends to customers",
+     "account": "6460 Email & SMS Mktg",
+     "amount_low": 300,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Klaviyo plan, 45k profiles",
+     "memo": "klaviyo",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ZENDESK INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Support ticket software",
+     "account": "6340 Software - Retail Ops",
+     "amount_low": 190,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Zendesk Suite 5 agents",
+     "memo": "zendesk",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INDEED JOBS",
+   "merchant_category": "Employment Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sponsored job posts for mechanics",
+     "account": "6040 Recruiting",
+     "amount_low": 75,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Indeed sponsored job",
+     "memo": "mechanic job post",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UNITED AIRLINES 0162",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight to a supplier or trade show",
+     "account": "6510 Travel - Air",
+     "amount_low": 180,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "PDX-ORD economy",
+     "memo": "flight",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT SEATTLE WTRFRNT",
+   "merchant_category": "Lodging - Hotels",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for a Seattle store visit",
+     "account": "6520 Travel - Lodging",
+     "amount_low": 160,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Room, 2 nights",
+     "memo": "hotel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ride to the airport or a store",
+     "account": "6530 Travel - Ground",
+     "amount_low": 12,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt",
+     "memo": "uber",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHELL OIL 5744912",
+   "merchant_category": "Service Stations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Fuel for the delivery vans",
+     "account": "6550 Vehicle Fuel",
+     "amount_low": 45,
+     "amount_high": 130,
+     "weight": 1,
+     "item_shown_by_document": "Unleaded 18 gal",
+     "memo": "van gas",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 4012880",
+   "merchant_category": "Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stamps and small packages",
+     "account": "6260 Postage & Shipping",
+     "amount_low": 8,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Priority Mail, stamps",
+     "memo": "post office",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Pay TV",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Store internet",
+     "account": "6150 Internet & Phone",
+     "amount_low": 140,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Business Internet 500",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PORTLAND GENERAL ELEC",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric bill for the store and charging racks",
+     "account": "6140 Utilities",
+     "amount_low": 380,
+     "amount_high": 1150,
+     "weight": 1,
+     "item_shown_by_document": "Electric service, monthly",
+     "memo": "power bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PARKMOBILE",
+   "merchant_category": "Automobile Parking Lots",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Street parking for delivery stops",
+     "account": "6580 Parking & Tolls",
+     "amount_low": 3,
+     "amount_high": 28,
+     "weight": 1,
+     "item_shown_by_document": "Parking session",
+     "memo": "parking",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHIMANO NORTH AMERICA",
+   "merchant_category": "Motorcycle/Bicycle Parts",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Drivetrain parts for resale",
+     "account": "5020 COGS - Parts & Accy",
+     "amount_low": 1200,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Cassettes, chains, derailleurs by SKU",
+     "memo": "shimano order",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MILLBROOK SIGN & AWNING",
+   "merchant_category": "Signs and Advertising Specialties",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "New window lettering and A-frame signs",
+     "account": "6270 Signage",
+     "amount_low": 180,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Vinyl window graphics, A-frame",
+     "memo": "store sign",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SE DIVISION BIKE SWAP",
+   "merchant_category": "Civic, Social Associations",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Booth and sponsorship at a neighborhood bike swap",
+     "account": "6430 Local Ads & Sponsorships",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Sponsor booth fee",
+     "memo": "bike swap sponsor",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PEDAL STREET COFFEE",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee and pastries for the Saturday group ride",
+     "account": "6080 Team Events",
+     "amount_low": 35,
+     "amount_high": 140,
+     "weight": 1,
+     "item_shown_by_document": "Coffee box, pastries",
+     "memo": "group ride coffee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KMR HOLDINGS LLC",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly warehouse rent",
+     "account": "6120 Warehouse Rent",
+     "amount_low": 7200,
+     "amount_high": 8100,
+     "weight": 1,
+     "item_shown_by_document": "Base rent and CAM, Unit 4",
+     "memo": "warehouse rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JDS SERVICES",
+   "merchant_category": "Building Cleaning and Maintenance",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Weekly cleaning of stores",
+     "account": "6170 Janitorial",
+     "amount_low": 420,
+     "amount_high": 980,
+     "weight": 1,
+     "item_shown_by_document": "Janitorial service, monthly",
+     "memo": "cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HALVORSEN WHITLOCK LLP",
+   "merchant_category": "Legal Services, Attorneys",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Legal work on leases and dealer terms",
+     "account": "6610 Legal Fees",
+     "amount_low": 900,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Legal services, matter 0417",
+     "memo": "legal bill",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ORB LOGISTICS INC",
+   "merchant_category": "Motor Freight Carriers",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "White-glove bike home delivery",
+     "account": "5100 Last-Mile Delivery",
+     "amount_low": 350,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Deliveries, 14 stops",
+     "memo": "home deliveries",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NW FLT SVC",
+   "merchant_category": "Automotive Service Shops",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Oil change and brakes on the vans",
+     "account": "6560 Vehicle Maint",
+     "amount_low": 90,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Oil change, front pads, Transit van",
+     "memo": "van service",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PP*LUMENWORKS",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Contract web developer for a store locator",
+     "account": "6050 Contractors",
+     "amount_low": 600,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Web dev, 24 hours",
+     "memo": "contract dev",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BCP GROUP",
+   "merchant_category": "Burglar and Fire Alarm Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly alarm monitoring at the stores",
+     "account": "6180 Security & Alarm",
+     "amount_low": 85,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Alarm monitoring, 3 sites",
+     "memo": "alarm",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TLC 4471",
+   "merchant_category": "Miscellaneous Personal Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Bosch service technician certification class",
+     "account": "6060 Employee Training",
+     "amount_low": 180,
+     "amount_high": 650,
+     "weight": 1,
+     "item_shown_by_document": "Technician course, 1 seat",
+     "memo": "mechanic training",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EVERGREEN ADMIN CO",
+   "merchant_category": "Insurance Sales, Underwriting",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly health plan premium",
+     "account": "6020 Benefits - Health",
+     "amount_low": 9800,
+     "amount_high": 14200,
+     "weight": 1,
+     "item_shown_by_document": "Group health premium, 33 lives",
+     "memo": "health premium",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BEST BUY 00004127",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monitor or webcam for a desk",
+     "account": "6240 Computer Equip < $2.5k",
+     "amount_low": 60,
+     "amount_high": 480,
+     "weight": 1,
+     "item_shown_by_document": "27in monitor, webcam",
+     "memo": "monitor",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CALL2RECYCLE INC",
+   "merchant_category": "Sanitary and Waste Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Battery recycling collection box",
+     "account": "5120 Battery Disposal & Recycling",
+     "amount_low": 90,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Battery collection kit",
+     "memo": "battery recycling box",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ROSALINDS TAQUERIA",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Tacos for the service team after inventory count",
+     "account": "6070 Team Meals",
+     "amount_low": 60,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "Taco platter, drinks",
+     "memo": "inventory night dinner",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

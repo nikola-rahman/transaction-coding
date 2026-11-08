@@ -1,0 +1,1484 @@
+{
+ "name": "Brindlepay, Inc.",
+ "chart": [
+  "1310 Prepaid Expenses",
+  "1510 Fixed Assets",
+  "1520 Capitalized Software",
+  "5010 Cloud Hosting",
+  "5020 Payment Processing",
+  "5030 KYC Checks",
+  "5040 Bank Fees",
+  "5050 Card Issuing Fees",
+  "5060 Support Tools",
+  "5070 SMS and Voice",
+  "5080 Credit Data",
+  "6010 Software",
+  "6020 Dev Tools",
+  "6030 Security Tools",
+  "6040 Data Tools",
+  "6050 Design Tools",
+  "6060 Sales Tools",
+  "6070 HR Tools",
+  "6080 Finance Tools",
+  "6090 AI Services",
+  "6110 Laptops",
+  "6120 Small Equipment",
+  "6210 Paid Ads",
+  "6220 Events",
+  "6230 Sponsorships",
+  "6240 Swag",
+  "6250 Content",
+  "6260 PR",
+  "6270 Customer Gifts",
+  "6310 Legal",
+  "6320 Audit and Tax",
+  "6330 Compliance",
+  "6340 Licenses",
+  "6350 Consulting",
+  "6360 Contractors",
+  "6370 Recruiting",
+  "6380 Background Checks",
+  "6390 Insurance",
+  "6410 Rent",
+  "6420 Utilities",
+  "6430 Office Supplies",
+  "6440 Office Snacks",
+  "6450 Cleaning",
+  "6460 Repairs",
+  "6470 Internet",
+  "6480 Postage",
+  "6490 Furniture",
+  "6510 Airfare",
+  "6520 Hotels",
+  "6530 Ground Transport",
+  "6540 Travel Meals",
+  "6550 Client Meals",
+  "6560 Team Meals",
+  "6570 Team Events",
+  "6580 Parking",
+  "6610 Training",
+  "6620 Books",
+  "6630 Dues",
+  "6640 Perks",
+  "6650 Wellness",
+  "6660 Relocation",
+  "6710 Charity",
+  "6730 Taxes and Permits"
+ ],
+ "departments": [
+  "Engineering",
+  "Product",
+  "Risk",
+  "Sales",
+  "Marketing",
+  "Support",
+  "Finance",
+  "People"
+ ],
+ "people": [
+  {
+   "name": "Tessa Varga",
+   "department": "Engineering",
+   "card_name": "Engineering Card"
+  },
+  {
+   "name": "Omar Lindqvist",
+   "department": "Engineering",
+   "card_name": "Omar Lindqvist Card"
+  },
+  {
+   "name": "Priya Danforth",
+   "department": "Engineering",
+   "card_name": "Infrastructure Card"
+  },
+  {
+   "name": "Jonah Abara",
+   "department": "Product",
+   "card_name": "Product Card"
+  },
+  {
+   "name": "Mei Castellan",
+   "department": "Product",
+   "card_name": "Mei Castellan Card"
+  },
+  {
+   "name": "Rafael Osei",
+   "department": "Risk",
+   "card_name": "Risk Card"
+  },
+  {
+   "name": "Dana Whitlock",
+   "department": "Risk",
+   "card_name": "Dana Whitlock Card"
+  },
+  {
+   "name": "Callum Reyes",
+   "department": "Sales",
+   "card_name": "Sales Card"
+  },
+  {
+   "name": "Ingrid Moreau",
+   "department": "Sales",
+   "card_name": "Ingrid Moreau Card"
+  },
+  {
+   "name": "Nadia Ferrante",
+   "department": "Marketing",
+   "card_name": "Marketing Card"
+  },
+  {
+   "name": "Theo Barzani",
+   "department": "Marketing",
+   "card_name": "Events Card"
+  },
+  {
+   "name": "Lucy Okonjo",
+   "department": "Support",
+   "card_name": "Support Card"
+  },
+  {
+   "name": "Hana Sorensen",
+   "department": "Finance",
+   "card_name": "Finance Card"
+  },
+  {
+   "name": "Marcus Tiller",
+   "department": "Finance",
+   "card_name": "Marcus Tiller Card"
+  },
+  {
+   "name": "Elise Novak",
+   "department": "People",
+   "card_name": "People Card"
+  },
+  {
+   "name": "Ben Achterberg",
+   "department": "People",
+   "card_name": "Office Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMAZON WEB SERVICES",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Production hosting for the payments platform",
+     "account": "5010 Cloud Hosting",
+     "amount_low": 18000,
+     "amount_high": 46000,
+     "weight": 4,
+     "item_shown_by_document": "AWS invoice, production linked account",
+     "memo": "AWS prod",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Sandbox and staging environments for engineers",
+     "account": "6020 Dev Tools",
+     "amount_low": 1200,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "AWS invoice, sandbox linked account",
+     "memo": "AWS staging",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and docs for all staff",
+     "account": "6010 Software",
+     "amount_low": 1500,
+     "amount_high": 2100,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Plus, 110 seats",
+     "memo": "Google Workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search ads for business account signups",
+     "account": "6210 Paid Ads",
+     "amount_low": 4000,
+     "amount_high": 22000,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads campaign charges",
+     "memo": "Google search ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DATADOG INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Infrastructure monitoring and logs",
+     "account": "6020 Dev Tools",
+     "amount_low": 3500,
+     "amount_high": 9800,
+     "weight": 1,
+     "item_shown_by_document": "Infrastructure hosts and log ingestion",
+     "memo": "Datadog monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Source control and CI minutes",
+     "account": "6020 Dev Tools",
+     "amount_low": 900,
+     "amount_high": 2600,
+     "weight": 1,
+     "item_shown_by_document": "Enterprise seats and Actions minutes",
+     "memo": "GitHub",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK TECHNOLOGIES",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly seat true-up",
+     "account": "6010 Software",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "Business+ added seats, one month",
+     "memo": "Slack seats",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual plan renewal paid up front",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 14000,
+     "amount_high": 17500,
+     "weight": 1,
+     "item_shown_by_document": "Business+ 12 month subscription",
+     "memo": "Slack annual renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "ZOOM.US",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Video meetings",
+     "account": "6010 Software",
+     "amount_low": 350,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Zoom Workplace Business licenses",
+     "memo": "Zoom",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Product design seats",
+     "account": "6050 Design Tools",
+     "amount_low": 300,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Figma Organization seats",
+     "memo": "Figma",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NOTION LABS",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Company wiki",
+     "account": "6010 Software",
+     "amount_low": 800,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Notion Business plan seats",
+     "memo": "Notion",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINEAR",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Issue tracking",
+     "account": "6020 Dev Tools",
+     "amount_low": 300,
+     "amount_high": 750,
+     "weight": 1,
+     "item_shown_by_document": "Linear Business seats",
+     "memo": "Linear",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SNOWFLAKE INC",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Data warehouse usage",
+     "account": "6040 Data Tools",
+     "amount_low": 2200,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Snowflake on-demand credits",
+     "memo": "Snowflake usage",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OKTA INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual single sign-on contract",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 18000,
+     "amount_high": 26000,
+     "weight": 3,
+     "item_shown_by_document": "Workforce Identity, 12 month term",
+     "memo": "Okta annual",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Mid-term seat add-on under the prepaid threshold",
+     "account": "6030 Security Tools",
+     "amount_low": 200,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Workforce Identity prorated seats",
+     "memo": "Okta add-on seats",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "1PASSWORD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Password manager",
+     "account": "6030 Security Tools",
+     "amount_low": 600,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "1Password Business seats",
+     "memo": "1Password",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VANTA",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "SOC 2 monitoring platform",
+     "account": "6030 Security Tools",
+     "amount_low": 1800,
+     "amount_high": 3200,
+     "weight": 2,
+     "item_shown_by_document": "Vanta automated compliance platform",
+     "memo": "Vanta platform",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Penetration test arranged through Vanta",
+     "account": "6330 Compliance",
+     "amount_low": 6000,
+     "amount_high": 14000,
+     "weight": 1,
+     "item_shown_by_document": "Partner pen test engagement",
+     "memo": "Annual pen test",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SALESFORCE.COM",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Annual CRM contract",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 32000,
+     "amount_high": 58000,
+     "weight": 2,
+     "item_shown_by_document": "Sales Cloud Enterprise, 12 month term",
+     "memo": "Salesforce renewal",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Extra seats billed for the current month",
+     "account": "6060 Sales Tools",
+     "amount_low": 300,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Sales Cloud additional users",
+     "memo": "Salesforce seats",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "HUBSPOT INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Marketing email and landing pages",
+     "account": "6210 Paid Ads",
+     "amount_low": 1800,
+     "amount_high": 3600,
+     "weight": 2,
+     "item_shown_by_document": "Marketing Hub Professional",
+     "memo": "HubSpot marketing",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sales sequences for the SDR team",
+     "account": "6060 Sales Tools",
+     "amount_low": 500,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Sales Hub seats",
+     "memo": "HubSpot sales seats",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "RIPPLING",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll and HRIS",
+     "account": "6070 HR Tools",
+     "amount_low": 2400,
+     "amount_high": 3900,
+     "weight": 1,
+     "item_shown_by_document": "Rippling platform, per employee",
+     "memo": "Rippling",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREENHOUSE SOFTWARE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Applicant tracking",
+     "account": "6370 Recruiting",
+     "amount_low": 1100,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Greenhouse Recruiting subscription",
+     "memo": "Greenhouse",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TWILIO INC",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "One-time passcodes and customer alerts",
+     "account": "5070 SMS and Voice",
+     "amount_low": 3000,
+     "amount_high": 11000,
+     "weight": 1,
+     "item_shown_by_document": "Programmable SMS usage",
+     "memo": "Twilio SMS",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STRIPE",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Processing fees on customer funding",
+     "account": "5020 Payment Processing",
+     "amount_low": 4000,
+     "amount_high": 19000,
+     "weight": 1,
+     "item_shown_by_document": "Stripe monthly fee statement",
+     "memo": "Stripe fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PLAID INC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Bank account linking for onboarding",
+     "account": "5030 KYC Checks",
+     "amount_low": 3500,
+     "amount_high": 12000,
+     "weight": 1,
+     "item_shown_by_document": "Auth and Balance API calls",
+     "memo": "Plaid usage",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PERSONA IDENTITIES",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Identity verification",
+     "account": "5030 KYC Checks",
+     "amount_low": 2500,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Government ID verifications",
+     "memo": "Persona KYC",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "EXPERIAN",
+   "merchant_category": "Credit Reporting Agencies",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Business credit pulls for underwriting",
+     "account": "5080 Credit Data",
+     "amount_low": 2000,
+     "amount_high": 7500,
+     "weight": 1,
+     "item_shown_by_document": "Commercial credit reports",
+     "memo": "Experian pulls",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LITHIC INC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Card issuing program fees",
+     "account": "5050 Card Issuing Fees",
+     "amount_low": 9000,
+     "amount_high": 28000,
+     "weight": 1,
+     "item_shown_by_document": "Card program and transaction fees",
+     "memo": "Lithic program fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CROSSWATER BANK NA",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Sponsor bank monthly fees",
+     "account": "5040 Bank Fees",
+     "amount_low": 2500,
+     "amount_high": 6500,
+     "weight": 3,
+     "item_shown_by_document": "Program oversight and ACH fees",
+     "memo": "Sponsor bank fees",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Compliance review billed by the sponsor bank",
+     "account": "6330 Compliance",
+     "amount_low": 4000,
+     "amount_high": 12000,
+     "weight": 1,
+     "item_shown_by_document": "Program audit review fee",
+     "memo": "Sponsor bank audit",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ZENDESK",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Support ticketing",
+     "account": "5060 Support Tools",
+     "amount_low": 1600,
+     "amount_high": 3100,
+     "weight": 1,
+     "item_shown_by_document": "Zendesk Suite Professional agents",
+     "memo": "Zendesk",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OPENAI",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Staff ChatGPT seats",
+     "account": "6090 AI Services",
+     "amount_low": 500,
+     "amount_high": 1800,
+     "weight": 2,
+     "item_shown_by_document": "ChatGPT Business seats",
+     "memo": "ChatGPT seats",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "API usage in the production support bot",
+     "account": "5060 Support Tools",
+     "amount_low": 300,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "API platform credits",
+     "memo": "OpenAI API for support bot",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ANTHROPIC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coding assistant and API use for engineers",
+     "account": "6090 AI Services",
+     "amount_low": 800,
+     "amount_high": 4200,
+     "weight": 1,
+     "item_shown_by_document": "Team plan seats and API credits",
+     "memo": "Engineering AI",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NETSUITE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Accounting system",
+     "account": "6080 Finance Tools",
+     "amount_low": 2800,
+     "amount_high": 4600,
+     "weight": 1,
+     "item_shown_by_document": "NetSuite subscription, monthly",
+     "memo": "NetSuite",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE #R142",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laptop for a new hire under the capitalization limit",
+     "account": "6110 Laptops",
+     "amount_low": 1300,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "MacBook Air",
+     "memo": "New hire laptop",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "High-spec engineering laptop over the capitalization limit",
+     "account": "1510 Fixed Assets",
+     "amount_low": 2600,
+     "amount_high": 4200,
+     "weight": 2,
+     "item_shown_by_document": "MacBook Pro 16-inch",
+     "memo": "Engineer laptop",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Chargers, adapters and keyboards",
+     "account": "6120 Small Equipment",
+     "amount_low": 30,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "USB-C adapter, Magic Keyboard",
+     "memo": "Laptop accessories",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AMAZON MKTPL",
+   "merchant_category": "Miscellaneous General Merchandise",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pens, paper and desk supplies",
+     "account": "6430 Office Supplies",
+     "amount_low": 15,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Sticky notes, printer paper",
+     "memo": "Office supplies",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monitors, webcams and headsets",
+     "account": "6120 Small Equipment",
+     "amount_low": 40,
+     "amount_high": 450,
+     "weight": 2,
+     "item_shown_by_document": "27-inch monitor",
+     "memo": "Desk gear",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Books for the engineering library",
+     "account": "6620 Books",
+     "amount_low": 20,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Designing Data-Intensive Applications",
+     "memo": "Team book",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0482",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Kitchen snacks and drinks",
+     "account": "6440 Office Snacks",
+     "amount_low": 120,
+     "amount_high": 520,
+     "weight": 3,
+     "item_shown_by_document": "Sparkling water, granola bars, coffee",
+     "memo": "Office snacks",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Food and drinks for the quarterly party",
+     "account": "6570 Team Events",
+     "amount_low": 200,
+     "amount_high": 700,
+     "weight": 1,
+     "item_shown_by_document": "Sparkling water, chips, platters",
+     "memo": "Q party supplies",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER TRIP",
+   "merchant_category": "Taxicabs and Rideshares",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides on business trips",
+     "account": "6530 Ground Transport",
+     "amount_low": 12,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Trip receipt with pickup and dropoff",
+     "memo": "Uber to client",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER EATS",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Late release dinner for the team",
+     "account": "6560 Team Meals",
+     "amount_low": 60,
+     "amount_high": 320,
+     "weight": 2,
+     "item_shown_by_document": "Order of several meals",
+     "memo": "Release night dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner while traveling",
+     "account": "6540 Travel Meals",
+     "amount_low": 18,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Single meal delivered to hotel",
+     "memo": "Dinner on trip",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch for an all-hands or team meeting",
+     "account": "6560 Team Meals",
+     "amount_low": 120,
+     "amount_high": 620,
+     "weight": 3,
+     "item_shown_by_document": "Catering order, sandwiches and salads",
+     "memo": "Team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch for a visiting customer",
+     "account": "6550 Client Meals",
+     "amount_low": 70,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Catering order, sandwiches and salads",
+     "memo": "Lunch with partner bank",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Staff flights to customers and conferences",
+     "account": "6510 Airfare",
+     "amount_low": 220,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "E-ticket with passenger and route",
+     "memo": "Flight to NYC",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UNITED AIRLINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Staff flights",
+     "account": "6510 Airfare",
+     "amount_low": 220,
+     "amount_high": 820,
+     "weight": 4,
+     "item_shown_by_document": "E-ticket with passenger and route",
+     "memo": "Flight to Chicago",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flying in a final round candidate",
+     "account": "6370 Recruiting",
+     "amount_low": 260,
+     "amount_high": 700,
+     "weight": 1,
+     "item_shown_by_document": "E-ticket with passenger and route",
+     "memo": "Candidate onsite flight",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT HOTELS",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel on a business trip",
+     "account": "6520 Hotels",
+     "amount_low": 180,
+     "amount_high": 420,
+     "weight": 3,
+     "item_shown_by_document": "Folio with room and tax",
+     "memo": "Hotel for client trip",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Meeting room for a customer dinner at a conference",
+     "account": "6220 Events",
+     "amount_low": 900,
+     "amount_high": 3800,
+     "weight": 1,
+     "item_shown_by_document": "Folio with banquet room rental",
+     "memo": "Conference meeting room",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "AIRBNB",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lodging for a business trip",
+     "account": "6520 Hotels",
+     "amount_low": 150,
+     "amount_high": 380,
+     "weight": 2,
+     "item_shown_by_document": "Reservation with dates and address",
+     "memo": "Trip lodging",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "House for the leadership offsite",
+     "account": "6570 Team Events",
+     "amount_low": 1800,
+     "amount_high": 5200,
+     "weight": 1,
+     "item_shown_by_document": "Reservation with dates and address",
+     "memo": "Offsite house",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SPOTHERO",
+   "merchant_category": "Parking Lots and Garages",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Parking near customer meetings",
+     "account": "6580 Parking",
+     "amount_low": 12,
+     "amount_high": 48,
+     "weight": 1,
+     "item_shown_by_document": "Reservation for garage",
+     "memo": "Parking",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WEWORK",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly office membership",
+     "account": "6410 Rent",
+     "amount_low": 24000,
+     "amount_high": 31000,
+     "weight": 1,
+     "item_shown_by_document": "Private office membership, 2 floors",
+     "memo": "Office rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Pay Television",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Backup office internet",
+     "account": "6470 Internet",
+     "amount_low": 190,
+     "amount_high": 340,
+     "weight": 1,
+     "item_shown_by_document": "Business internet monthly bill",
+     "memo": "Backup internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PG&E",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electricity for the server closet and annex",
+     "account": "6420 Utilities",
+     "amount_low": 350,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Monthly electric bill",
+     "memo": "Electric",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Recruiter seats for sourcing",
+     "account": "6370 Recruiting",
+     "amount_low": 900,
+     "amount_high": 2800,
+     "weight": 2,
+     "item_shown_by_document": "LinkedIn Recruiter Corporate seats",
+     "memo": "LinkedIn Recruiter",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sponsored posts to finance leaders",
+     "account": "6210 Paid Ads",
+     "amount_low": 1500,
+     "amount_high": 8000,
+     "weight": 1,
+     "item_shown_by_document": "Campaign Manager ad spend",
+     "memo": "LinkedIn ads",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 7741902",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shipping laptops and documents",
+     "account": "6480 Postage",
+     "amount_low": 14,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Shipment receipt with tracking number",
+     "memo": "Laptop shipment",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CHECKR INC",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Pre-hire background checks",
+     "account": "6380 Background Checks",
+     "amount_low": 120,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Background reports by candidate",
+     "memo": "Checkr",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NMLS FEE PMT",
+   "merchant_category": "Government Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "State money transmitter license renewals",
+     "account": "6340 Licenses",
+     "amount_low": 400,
+     "amount_high": 6500,
+     "weight": 1,
+     "item_shown_by_document": "Renewal fees by state",
+     "memo": "MTL renewals",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CA FTB WEBPAY",
+   "merchant_category": "Tax Payments",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "State franchise tax",
+     "account": "6730 Taxes and Permits",
+     "amount_low": 800,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Estimated tax payment confirmation",
+     "memo": "CA franchise tax",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "HALVERSEN ROTH LLP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Commercial contract and general counsel work",
+     "account": "6310 Legal",
+     "amount_low": 3500,
+     "amount_high": 24000,
+     "weight": 3,
+     "item_shown_by_document": "Invoice with hours by matter",
+     "memo": "Outside counsel",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Filing work for a new state license",
+     "account": "6340 Licenses",
+     "amount_low": 2000,
+     "amount_high": 9000,
+     "weight": 1,
+     "item_shown_by_document": "Invoice with hours by matter",
+     "memo": "License filing counsel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MERIDEN CPA GROUP",
+   "merchant_category": "Accounting and Auditing Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual audit and tax return",
+     "account": "6320 Audit and Tax",
+     "amount_low": 6000,
+     "amount_high": 32000,
+     "weight": 1,
+     "item_shown_by_document": "Progress billing for audit",
+     "memo": "Audit fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "VERTEX RISK PARTNERS",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual cyber and E&O premium",
+     "account": "1310 Prepaid Expenses",
+     "amount_low": 28000,
+     "amount_high": 64000,
+     "weight": 2,
+     "item_shown_by_document": "Policy premium, 12 month term",
+     "memo": "Insurance premium",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Short-term event liability policy",
+     "account": "6390 Insurance",
+     "amount_low": 300,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "Policy premium, event dates",
+     "memo": "Event insurance",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "MONEY20/20",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Conference tickets for staff",
+     "account": "6220 Events",
+     "amount_low": 1800,
+     "amount_high": 4200,
+     "weight": 2,
+     "item_shown_by_document": "Attendee passes",
+     "memo": "Conference passes",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Booth and sponsorship package",
+     "account": "6230 Sponsorships",
+     "amount_low": 15000,
+     "amount_high": 45000,
+     "weight": 1,
+     "item_shown_by_document": "Exhibitor sponsorship package",
+     "memo": "Booth sponsorship",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "BLUE HERON PRINT CO",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Branded hoodies and notebooks",
+     "account": "6240 Swag",
+     "amount_low": 350,
+     "amount_high": 2800,
+     "weight": 2,
+     "item_shown_by_document": "Embroidered hoodies, notebooks",
+     "memo": "New swag",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Booth banners and signage",
+     "account": "6220 Events",
+     "amount_low": 180,
+     "amount_high": 1100,
+     "weight": 1,
+     "item_shown_by_document": "Retractable banner, 2 pieces",
+     "memo": "Booth signage",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SALT & RYE DELI",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team lunch near the office",
+     "account": "6560 Team Meals",
+     "amount_low": 60,
+     "amount_high": 260,
+     "weight": 2,
+     "item_shown_by_document": "Sandwiches and drinks",
+     "memo": "Team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch with a prospect",
+     "account": "6550 Client Meals",
+     "amount_low": 35,
+     "amount_high": 120,
+     "weight": 1,
+     "item_shown_by_document": "Sandwiches and drinks",
+     "memo": "Lunch with prospect",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TST* NORTH PIER GRILL",
+   "merchant_category": "Eating Places",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a customer",
+     "account": "6550 Client Meals",
+     "amount_low": 120,
+     "amount_high": 480,
+     "weight": 2,
+     "item_shown_by_document": "Dinner check with tip",
+     "memo": "Customer dinner",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Team dinner for a launch",
+     "account": "6570 Team Events",
+     "amount_low": 300,
+     "amount_high": 1200,
+     "weight": 1,
+     "item_shown_by_document": "Dinner check with tip",
+     "memo": "Launch dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SQ *MARISOL STEMS",
+   "merchant_category": "Florists",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Thank-you flowers for a customer",
+     "account": "6270 Customer Gifts",
+     "amount_low": 55,
+     "amount_high": 160,
+     "weight": 1,
+     "item_shown_by_document": "Mixed bouquet with delivery",
+     "memo": "Customer thank you",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CLASSPASS",
+   "merchant_category": "Health and Fitness Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly staff fitness credits",
+     "account": "6650 Wellness",
+     "amount_low": 400,
+     "amount_high": 1300,
+     "weight": 1,
+     "item_shown_by_document": "Corporate credits for enrolled staff",
+     "memo": "ClassPass",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TIDY DESK CLEANING",
+   "merchant_category": "Cleaning Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Weekly annex cleaning",
+     "account": "6450 Cleaning",
+     "amount_low": 420,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Monthly cleaning invoice",
+     "memo": "Cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *JLWORKS",
+   "merchant_category": "Professional Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Freelance help on marketing site",
+     "account": "6360 Contractors",
+     "amount_low": 800,
+     "amount_high": 4500,
+     "weight": 2,
+     "item_shown_by_document": "Invoice for contract hours",
+     "memo": "Site contractor",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Contract build of the new ledger service",
+     "account": "1520 Capitalized Software",
+     "amount_low": 3500,
+     "amount_high": 12000,
+     "weight": 1,
+     "item_shown_by_document": "Invoice for contract hours",
+     "memo": "Ledger build contractor",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  }
+ ]
+}

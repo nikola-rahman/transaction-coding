@@ -1,0 +1,100 @@
+{"id": "p0000", "action": "accept", "unknown": "nothing", "reason": "At $19.29 with no merchant history, the department's usual building and safety expense and equipment account is a reasonable home and the amount is very small."}
+{"id": "p0001", "action": "accept", "unknown": "nothing", "reason": "Both past Goudy Honda rows use field equipment expense, and the memo identifies a Honda part for a fleet Civic, which explains the higher amount."}
+{"id": "p0002", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history and a non-round amount that does not match the $40 per diem pattern, so the reason for the payment is unknown."}
+{"id": "p0003", "action": "lookup_merchant", "unknown": "merchant", "reason": "Guilford Mooring has no history and no memo, and learning what the business does would likely point to one account."}
+{"id": "p0004", "action": "accept", "unknown": "nothing", "reason": "Three of four Sam's Club rows use misc exp, the outlier is a round $45 membership fee, and this small non-round purchase fits misc exp."}
+{"id": "p0005", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, so only someone who approved the $551 payment can say what it was for."}
+{"id": "p0006", "action": "ask_person", "unknown": "purpose", "reason": "A $5,516.17 payment to an individual with no history or memo could be a contractor or a liability payout, and street services can say which."}
+{"id": "p0007", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, and a round $100 gives no sign of what the payment was for."}
+{"id": "p0008", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, so recreation and parks must say what the $1,435 was for."}
+{"id": "p0009", "action": "accept", "unknown": "nothing", "reason": "The memo says animal feed and zoo animal feed is coded to feed and grain, while the harbor shelter history belongs to another department."}
+{"id": "p0010", "action": "request_document", "unknown": "item", "reason": "The payee is a state agency with no history, and the notice would show whether the $25 is a contribution, a fee, or a late filing penalty."}
+{"id": "p0011", "action": "ask_person", "unknown": "purpose", "reason": "The only past row is the cash side, so nothing shows whether this $50 to an individual is a stipend, honorarium, or reimbursement."}
+{"id": "p0012", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and a round $400 could be an honorarium, stipend, or contracted service."}
+{"id": "p0013", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this person were coded to travel, and the amount is lower than both."}
+{"id": "p0014", "action": "request_document", "unknown": "item", "reason": "This person's past expense coding splits across professional learning travel, staff mileage, and professional learning mileage, which the reimbursement form would separate."}
+{"id": "p0015", "action": "request_document", "unknown": "item", "reason": "The only precedent is a project-specific deposit at a different amount, and the invoice would show which project or deliverable this $5,500 covers."}
+{"id": "p0016", "action": "accept", "unknown": "nothing", "reason": "The past Airport Taxi row uses auto / air / rail, which plainly matches a small taxi fare."}
+{"id": "p0017", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and a round $150 could be a stipend, honorarium, or reimbursement."}
+{"id": "p0018", "action": "accept", "unknown": "nothing", "reason": "All five past Comcast rows use other administrative, including three at this exact amount."}
+{"id": "p0019", "action": "accept", "unknown": "nothing", "reason": "A transmission shop with a fleet-style smuf memo plainly matches field equipment expense, which general services uses for vehicle and equipment vendors."}
+{"id": "p0020", "action": "request_document", "unknown": "item", "reason": "Business Card rows are spread across five different accounts, so the card statement is needed to see what was bought."}
+{"id": "p0021", "action": "ask_person", "unknown": "purpose", "reason": "The single $6,000 marketing precedent does not fit a non-round $518.23, which may be a reimbursement, so the purpose is unknown."}
+{"id": "p0022", "action": "accept", "unknown": "nothing", "reason": "All past Arlington House rows use child shelter, and $10,060.43 is close to the earlier $9,086.84 payment."}
+{"id": "p0023", "action": "request_document", "unknown": "item", "reason": "A chemical supplier with no history in a department with golf, park, custodial, and building supply accounts, so the invoice would show the product and use."}
+{"id": "p0024", "action": "lookup_merchant", "unknown": "merchant", "reason": "Tricor Direct has no history and no memo, and the name does not show what it sells."}
+{"id": "p0025", "action": "lookup_merchant", "unknown": "merchant", "reason": "Lamar Companies has no history and the name alone does not show its business, while confirming it would likely settle a $4,000 payment."}
+{"id": "p0026", "action": "lookup_merchant", "unknown": "merchant", "reason": "Engine Room has no history and the name is unclear, and knowing whether it is a restaurant would likely settle the account."}
+{"id": "p0027", "action": "accept", "unknown": "nothing", "reason": "All four past Net Access rows use maint svc contracts, including one at this exact amount."}
+{"id": "p0028", "action": "accept", "unknown": "nothing", "reason": "Past expense coding for this person is staff mileage expenses, and $18.21 is small enough to accept it."}
+{"id": "p0029", "action": "accept", "unknown": "nothing", "reason": "The only expense account in this person's history is staff mileage expenses, and the other rows are the cash and payable sides."}
+{"id": "p0030", "action": "lookup_merchant", "unknown": "merchant", "reason": "Liebert Corporation has no history and no memo, and knowing its products would show whether this is equipment, maintenance, or a service."}
+{"id": "p0031", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and a round $1,500 could be a consulting, legal, or other fee."}
+{"id": "p0032", "action": "accept", "unknown": "nothing", "reason": "The past Conservation Corps row in this department uses other professional services, as do comparable landscape service vendors."}
+{"id": "p0033", "action": "lookup_merchant", "unknown": "merchant", "reason": "Avant Resources has no history, and with only five accounts, knowing its business would likely settle contractual versus temporary staffing."}
+{"id": "p0034", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this person use staff development/training, and $183 is still a small amount."}
+{"id": "p0035", "action": "accept", "unknown": "nothing", "reason": "All six past rows for this payee in social services use child shelter, and the amount is only moderately above the earlier range."}
+{"id": "p0036", "action": "request_document", "unknown": "item", "reason": "The only precedent is a maintenance contract, but a computer vendor could also be hardware or repairs, which the invoice would show."}
+{"id": "p0037", "action": "accept", "unknown": "nothing", "reason": "Five of six past rows for this person are mileage accounts, and $547.97 is within their usual range."}
+{"id": "p0038", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and sheriff payments to individuals vary from gasoline to animal health services."}
+{"id": "p0039", "action": "accept", "unknown": "nothing", "reason": "The only expense account in this person's history is staff mileage expenses, and $70.52 is a small amount."}
+{"id": "p0040", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, so it is unclear whether $271 is contractual work, temporary staffing, or a reimbursement."}
+{"id": "p0041", "action": "request_document", "unknown": "item", "reason": "Past Xerox expense coding splits between printer supply expenses and hardware expenses, which the invoice would separate."}
+{"id": "p0042", "action": "request_document", "unknown": "item", "reason": "The only precedent is a travel reimbursement, and a round $900 looks like a fee, so an invoice would show what was billed."}
+{"id": "p0043", "action": "ask_person", "unknown": "purpose", "reason": "The only past row is the cash side, so nothing shows whether $800 to this individual is an honorarium, stipend, or contracted service."}
+{"id": "p0044", "action": "lookup_merchant", "unknown": "merchant", "reason": "Tony Ds has no history and the name does not confirm its business, while knowing it is a restaurant or not would likely settle the account."}
+{"id": "p0045", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, so the purpose of the $223 payment is unknown."}
+{"id": "p0046", "action": "request_document", "unknown": "item", "reason": "No history is shown and many project-specific consulting accounts exist, so the invoice would show which project this $2,000 belongs to."}
+{"id": "p0047", "action": "request_document", "unknown": "item", "reason": "This person's two past rows split between staff development/training and travel, and the reimbursement form would show which applies."}
+{"id": "p0048", "action": "request_document", "unknown": "item", "reason": "A sign shop with no history could be marketing, office, or a fixed asset at $750, and the invoice would show what was made."}
+{"id": "p0049", "action": "accept", "unknown": "nothing", "reason": "Both past Reliance Standard rows use emp medical, dental & life, and $2,563.40 is within their range."}
+{"id": "p0050", "action": "accept", "unknown": "nothing", "reason": "All past Iceman Industries rows use snow removal, and $225 is in the usual range for this department."}
+{"id": "p0051", "action": "lookup_merchant", "unknown": "merchant", "reason": "People Ink has no history, and knowing its business would likely settle which of the five accounts applies."}
+{"id": "p0052", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "An $8,750 payment to an individual with no history far exceeds the department's rows shown, and it could be a capital, legal, or settlement item."}
+{"id": "p0053", "action": "accept", "unknown": "nothing", "reason": "Past Madden Corporation rows shown all use litigation across dozens of uses, and $171.29 is a small amount for this vendor."}
+{"id": "p0054", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history shown and a non-round amount that may be a reimbursement, so the purpose is unknown."}
+{"id": "p0055", "action": "ask_person", "unknown": "purpose", "reason": "No history is shown for this individual, and a non-round $196.88 could be mileage, travel, or another reimbursement."}
+{"id": "p0056", "action": "accept", "unknown": "nothing", "reason": "All past Frontier Communications rows use telephone/internet, and the amount nearly matches a prior bill."}
+{"id": "p0057", "action": "accept", "unknown": "nothing", "reason": "History shows only cash and payable sides, but a $39 purchase from a technology vendor reasonably fits replaceable tech supplies."}
+{"id": "p0058", "action": "request_document", "unknown": "item", "reason": "Abbott has no history at this care center, and the invoice would show whether the item is a medical supply, patient supply, or food product."}
+{"id": "p0059", "action": "ask_person", "unknown": "purpose", "reason": "The only past row is the cash side, so nothing shows whether this individual is staff, a presenter, or a participant."}
+{"id": "p0060", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history in a department with many client service accounts, so the program or purpose is unknown."}
+{"id": "p0061", "action": "accept", "unknown": "nothing", "reason": "The memo matches the same Altec invoice already coded to field equipment expense, so this is another line of that invoice."}
+{"id": "p0062", "action": "accept", "unknown": "nothing", "reason": "At $13.30 the amount is very small, and this person's past staff development/training coding is a reasonable home."}
+{"id": "p0063", "action": "accept", "unknown": "nothing", "reason": "This person's past payment was coded to travel, and the amount is similar in size."}
+{"id": "p0064", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, so it is unclear whether $531 is contractual work, temporary staffing, or a reimbursement."}
+{"id": "p0065", "action": "accept", "unknown": "nothing", "reason": "The memo matches the same toner order already coded to operating supplies."}
+{"id": "p0066", "action": "request_document", "unknown": "item", "reason": "An Apple Store purchase could be equipment or supplies, and the receipt would show what was bought."}
+{"id": "p0067", "action": "accept", "unknown": "nothing", "reason": "History shows only cash and payable sides, but a small food retailer purchase reasonably fits food expenses."}
+{"id": "p0068", "action": "accept", "unknown": "nothing", "reason": "The past payment to this person uses contractual at a similar amount."}
+{"id": "p0069", "action": "accept", "unknown": "nothing", "reason": "All past Staples Advantage rows use supplies, and $513 is within their range."}
+{"id": "p0070", "action": "accept", "unknown": "nothing", "reason": "All past rows for this payee in the city attorney department use litigation, including one at this exact amount."}
+{"id": "p0071", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and a round $50 could be a stipend, honorarium, or reimbursement."}
+{"id": "p0072", "action": "accept", "unknown": "nothing", "reason": "All past Stotz Equipment rows use field equipment expense, and $103.46 is within their range."}
+{"id": "p0073", "action": "accept", "unknown": "nothing", "reason": "The past Health Equity row uses hsa er portion, which plainly matches this vendor, and $12,600 is below that earlier amount."}
+{"id": "p0074", "action": "accept", "unknown": "nothing", "reason": "All eight past rows for this person use travel, and $32.54 is within their range."}
+{"id": "p0075", "action": "accept", "unknown": "nothing", "reason": "Small Max Bibo's charges, including one at this exact $10.21, are coded to issuance expense, and the larger ones to the board account."}
+{"id": "p0076", "action": "accept", "unknown": "nothing", "reason": "At $6.90 the amount is very small, and this person's past office supplies coding for a small charge is a reasonable home."}
+{"id": "p0077", "action": "accept", "unknown": "nothing", "reason": "The only expense account in Club Texting's history is mobile, at this exact $25 amount."}
+{"id": "p0078", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history, and a round $200 gives no sign of what the payment was for."}
+{"id": "p0079", "action": "accept", "unknown": "nothing", "reason": "The single past payment to this person was a near-identical amount coded to staff development/training, so the size is not unusual for this payee."}
+{"id": "p0080", "action": "accept", "unknown": "nothing", "reason": "Both past Setzer Pharmacy rows use drugs,medicines,dental supplie, and a pharmacy plainly matches that account despite the larger bill."}
+{"id": "p0081", "action": "accept", "unknown": "nothing", "reason": "With five accounts and a $68 purchase from an orchard, supplies is a reasonable home and the amount is small."}
+{"id": "p0082", "action": "accept", "unknown": "nothing", "reason": "At $21.85 the amount is very small, and travel is a reasonable home for a small individual reimbursement in this organization."}
+{"id": "p0083", "action": "accept", "unknown": "nothing", "reason": "A stationer plainly matches office supplies, and $48.60 is a small amount."}
+{"id": "p0084", "action": "accept", "unknown": "nothing", "reason": "All seven similar payments to individuals in this department, in the same range, are coded to contractual services."}
+{"id": "p0085", "action": "accept", "unknown": "nothing", "reason": "All past Wondries Toyota rows use field equipment expense, and the memo follows the same fleet work-order format."}
+{"id": "p0086", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, so the purpose of the $326.06 payment is unknown."}
+{"id": "p0087", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "The memo shows basketball jerseys, but uniforms and operating supplies are close accounts here, so company policy decides the answer."}
+{"id": "p0088", "action": "accept", "unknown": "nothing", "reason": "All past Metropolitan District rows use building maintenance, and $665.61 is within their range."}
+{"id": "p0089", "action": "accept", "unknown": "nothing", "reason": "All past Madden Corporation rows shown use litigation, and $129.06 nearly matches a prior amount."}
+{"id": "p0090", "action": "accept", "unknown": "nothing", "reason": "History shows only the cash side, but a small purchase from a publisher reasonably fits reference books, periodicals & test kits."}
+{"id": "p0091", "action": "accept", "unknown": "nothing", "reason": "All past Ready Refresh rows use office supplies, and although $5.29 is low, it is too small to question."}
+{"id": "p0092", "action": "request_document", "unknown": "item", "reason": "This person's two past rows split between staff development/training and travel, and the reimbursement form would show which applies."}
+{"id": "p0093", "action": "ask_person", "unknown": "purpose", "reason": "An individual payee with no history or memo, so the purpose of the $72.43 payment is unknown."}
+{"id": "p0094", "action": "accept", "unknown": "nothing", "reason": "All past Jumper Candy rows use contractual services, and this memo shows the same service at another recreation center for a modestly higher price."}
+{"id": "p0095", "action": "accept", "unknown": "nothing", "reason": "The past payment to this person uses contractual at a similar amount."}
+{"id": "p0096", "action": "accept", "unknown": "nothing", "reason": "Four of five past rows for this person use travel, and $87.42 is within that range, with the one outlier far smaller."}
+{"id": "p0097", "action": "accept", "unknown": "nothing", "reason": "The past payment to this person uses other professional fees, and nothing here points to a different account."}
+{"id": "p0098", "action": "accept", "unknown": "nothing", "reason": "History shows only the cash side, but $15.47 is very small and the education publication fits reference or program material accounts."}
+{"id": "p0099", "action": "accept", "unknown": "nothing", "reason": "All four past payments to this person use staff development/training, and $96 is within their range."}

@@ -1,0 +1,12 @@
+You are an experienced bookkeeper. Label the next action for 100 transactions.
+
+Read only these two files. Do not read any other file, and do not use the web:
+- labels/rubric.md
+- labels/batches/real_05.jsonl
+
+Each line is one transaction with an id, the transaction, a sample of the organization's accounts, and similar past transactions. Read and judge every row yourself, applying the rubric. Do not write a script or rule that labels rows for you.
+
+Write one JSON object per line to labels/out/real_05_A.jsonl, in the same order, with exactly these keys:
+{"id": "...", "action": "accept|request_document|ask_person|lookup_merchant|send_to_bookkeeper", "unknown": "item|purpose|merchant|accounting_judgment|nothing", "reason": "one sentence based only on the rows shown"}
+
+Then reply with one line: the number of rows written and the count per action.

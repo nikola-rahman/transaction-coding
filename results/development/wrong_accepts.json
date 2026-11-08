@@ -1,0 +1,545 @@
+[
+{
+"org": "ct:CT Lottery",
+"merchant": "Petty Cash (Claims)",
+"amount": 44.0,
+"case": "new_merchant",
+"same": [],
+"label": "cash clearing",
+"in_shown": false,
+"state": "New transaction: merchant=Petty Cash (Claims); amount=44.0 USD; date=2017-10-01; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"s1": [
+"cash-claims petty cash",
+"mileage reimbursement"
+],
+"c1": 0.83,
+"s2": [
+"cash-claims petty cash",
+"mileage reimbursement"
+],
+"c2": 0.76
+},
+{
+"org": "ct:CT Lottery",
+"merchant": "Uline",
+"amount": 901.5,
+"case": "new_merchant",
+"same": [],
+"label": "office supplies",
+"in_shown": false,
+"state": "New transaction: merchant=Uline; amount=901.5 USD; date=2017-10-01; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"s1": [
+"courier and shipping services",
+"postage"
+],
+"c1": 0.77,
+"s2": [
+"courier and shipping services",
+"instnt ticket freight services"
+],
+"c2": 0.81
+},
+{
+"org": "ct:CT Lottery",
+"merchant": "Petty Cash (Claims)",
+"amount": 83.0,
+"case": "new_merchant",
+"same": [],
+"label": "cash clearing",
+"in_shown": false,
+"state": "New transaction: merchant=Petty Cash (Claims); amount=83.0 USD; date=2017-11-01; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nNone available.",
+"s1": [
+"cash-claims petty cash",
+"mileage reimbursement"
+],
+"c1": 0.85,
+"s2": [
+"cash-claims petty cash",
+"mileage reimbursement"
+],
+"c2": 0.76
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "DENNISON LUBRICANTS",
+"amount": 26.52,
+"case": "thin",
+"same": [
+"lubricants"
+],
+"label": "laundry, clean",
+"in_shown": false,
+"state": "New transaction: merchant=DENNISON LUBRICANTS; amount=26.52 USD; date=2014-10-21; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nDENNISON LUBRICANTS | 1765.37 | None | None | None -> lubricants",
+"s1": [
+"lubricants",
+"diesel fuel"
+],
+"c1": 0.55,
+"s2": [
+"lubricants",
+"mv supplies"
+],
+"c2": 0.82
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "COMCAST",
+"amount": 217.79,
+"case": "easy",
+"same": [
+"telephone",
+"telephone",
+"telephone",
+"telephone"
+],
+"label": "edp services (outside)",
+"in_shown": false,
+"state": "New transaction: merchant=COMCAST; amount=217.79 USD; date=2014-10-29; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.79 | None | None | None -> telephone\nCOMCAST | 217.81 | None | None | None -> telephone",
+"s1": [
+"telephone",
+"utilities - tele-land line"
+],
+"c1": 0.93,
+"s2": [
+"telephone",
+"utilities - tele-land line"
+],
+"c2": 0.89
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "SHERATON BRADLEY INTERNATIONAL",
+"amount": 159.85,
+"case": "easy",
+"same": [
+"food",
+"food",
+"food",
+"food",
+"food",
+"food",
+"food"
+],
+"label": "fees profess",
+"in_shown": false,
+"state": "New transaction: merchant=SHERATON BRADLEY INTERNATIONAL; amount=159.85 USD; date=2014-12-11; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nSHERATON BRADLEY INTERNATIONAL | 57.34 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 67.75 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 96.8 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 294.94 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 108.9 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 150.0 | None | None | None -> food\nSHERATON BRADLEY INTERNATIONAL | 242.0 | None | None | None -> food",
+"s1": [
+"food",
+"p-card purchase"
+],
+"c1": 0.94,
+"s2": [
+"food",
+"conference costs"
+],
+"c2": 0.86
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "COMCAST",
+"amount": 217.79,
+"case": "easy",
+"same": [
+"telephone",
+"telephone",
+"telephone",
+"telephone"
+],
+"label": "edp services (outside)",
+"in_shown": false,
+"state": "New transaction: merchant=COMCAST; amount=217.79 USD; date=2014-12-23; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.79 | None | None | None -> telephone\nCOMCAST | 217.81 | None | None | None -> telephone",
+"s1": [
+"telephone",
+"utilities - tele-land line"
+],
+"c1": 0.93,
+"s2": [
+"telephone",
+"utilities - tele-land line"
+],
+"c2": 0.89
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "COMCAST",
+"amount": 220.09,
+"case": "easy",
+"same": [
+"telephone",
+"telephone",
+"telephone",
+"telephone"
+],
+"label": "edp services (outside)",
+"in_shown": false,
+"state": "New transaction: merchant=COMCAST; amount=220.09 USD; date=2015-02-09; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.77 | None | None | None -> telephone\nCOMCAST | 217.79 | None | None | None -> telephone\nCOMCAST | 217.81 | None | None | None -> telephone",
+"s1": [
+"telephone",
+"utilities - internet"
+],
+"c1": 0.84,
+"s2": [
+"telephone",
+"utilities - internet"
+],
+"c2": 0.64
+},
+{
+"org": "ct:Connecticut Airport Authority",
+"merchant": "City of Groton",
+"amount": 61.52,
+"case": "easy",
+"same": [
+"utility: electricity",
+"utility: electricity",
+"utility: electricity",
+"utility: electricity",
+"utility: electricity",
+"utility: electricity",
+"utility: electricity",
+"utility: electricity"
+],
+"label": "utilities-electricty-public",
+"in_shown": false,
+"state": "New transaction: merchant=City of Groton; amount=61.52 USD; date=2015-03-16; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nCITY OF GROTON | 2129.42 | None | None | None -> utility: electricity\nCITY OF GROTON | 59.76 | None | None | None -> utility: electricity\nCITY OF GROTON | 219.14 | None | None | None -> utility: electricity\nCITY OF GROTON | 32.61 | None | None | None -> utility: electricity\nCITY OF GROTON | 1144.73 | None | None | None -> utility: electricity\nCITY OF GROTON | 1873.21 | None | None | None -> utility: electricity\nCITY OF GROTON | 198.38 | None | None | None -> utility: electricity\nCITY OF GROTON | 110.78 | None | None | None -> utility: electricity",
+"s1": [
+"utility: electricity",
+"utilities-electricty-public"
+],
+"c1": 0.83,
+"s2": [
+"utility: electricity",
+"utilities-electricty-public"
+],
+"c2": 0.78
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Cit",
+"amount": 95.74,
+"case": "easy",
+"same": [
+"office expenses",
+"office expenses",
+"office expenses",
+"office expenses"
+],
+"label": "office expenses",
+"in_shown": true,
+"state": "New transaction: merchant=Cit; amount=95.74 USD; date=2015-02-20; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nCit | 95.74 | None | None | None -> office expenses\nCit | 95.74 | None | None | None -> office expenses\nCit | 95.74 | None | None | None -> office expenses\nCit | 95.74 | None | None | None -> office expenses",
+"s1": [
+"office expense",
+"office expenses"
+],
+"c1": 0.83,
+"s2": [
+"office expense",
+"office expenses"
+],
+"c2": 0.81
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "AllGreenIT, LLC",
+"amount": 20975.0,
+"case": "easy",
+"same": [
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive"
+],
+"label": "hopbi contractor working capital loan",
+"in_shown": false,
+"state": "New transaction: merchant=AllGreenIT, LLC; amount=20975.0 USD; date=2015-03-25; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nAllGreenIT, LLC | 7682.5 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 12716.9 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 7826.1 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 15465.2 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 8932.79 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 22009.1 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 17855.9 | None | None | None -> residential pv incentive\nAllGreenIT, LLC | 30008.1 | None | None | None -> residential pv incentive",
+"s1": [
+"residential pv incentive",
+"program grant -osdg commercial pv"
+],
+"c1": 0.99,
+"s2": [
+"residential pv incentive",
+"program it support expense"
+],
+"c2": 0.96
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Shippee Solar and Construction LLC",
+"amount": 4657.0,
+"case": "several_accounts",
+"same": [
+"residential pv incentive",
+"hopbi contractor working capital loan",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"hopbi contractor working capital loan",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive"
+],
+"label": "hopbi contractor working capital loan",
+"in_shown": true,
+"state": "New transaction: merchant=Shippee Solar and Construction LLC; amount=4657.0 USD; date=2015-05-27; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nShippee Solar and Construction LLC | 8917.79 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 24534.0 | None | None | None -> hopbi contractor working capital loan\nShippee Solar and Construction LLC | 5413.8 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 2945.7 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 4086.0 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 9285.0 | None | None | None -> hopbi contractor working capital loan\nShippee Solar and Construction LLC | 5580.4 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 5259.9 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 10196.9 | None | None | None -> residential pv incentive\nShippee Solar and Construction LLC | 8853.4 | None | None | None -> residential pv incentive",
+"s1": [
+"residential pv incentive",
+"hopbi contractor working capital loan"
+],
+"c1": 0.84,
+"s2": [
+"residential pv incentive",
+"hopbi contractor working capital loan"
+],
+"c2": 0.85
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Garcia, Bryan",
+"amount": 227.66,
+"case": "easy",
+"same": [
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements",
+"employee travel&business exp. reimbursements"
+],
+"label": "employee travel&business exp. reimbursements",
+"in_shown": true,
+"state": "New transaction: merchant=Garcia, Bryan; amount=227.66 USD; date=2015-05-29; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nGarcia, Bryan | 1379.66 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 364.01 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 332.33 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 147.32 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 275.39 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 225.0 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 121.34 | None | None | None -> employee travel&business exp. reimbursements\nGarcia, Bryan | 20.36 | None | None | None -> employee travel&business exp. reimbursements",
+"s1": [
+"employee travel & business expense reimbursements",
+"employee travel&business exp. reimbursements"
+],
+"c1": 0.8,
+"s2": [
+"employee travel & business expense reimbursements",
+"employee travel&business exp. reimbursements"
+],
+"c2": 0.76
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Trinity Solar",
+"amount": 5472.0,
+"case": "several_accounts",
+"same": [
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"program marketing expense",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive"
+],
+"label": "hopbi contractor working capital loan",
+"in_shown": false,
+"state": "New transaction: merchant=Trinity Solar; amount=5472.0 USD; date=2015-06-26; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nTrinity Solar | 1936.5 | None | None | None -> residential pv incentive\nTrinity Solar | 2239.8 | None | None | None -> residential pv incentive\nTrinity Solar | 6736.4 | None | None | None -> residential pv incentive\nTrinity Solar | 3831.8 | None | None | None -> residential pv incentive\nTrinity Solar | 12179.1 | None | None | None -> residential pv incentive\nTrinity Solar | 1300.0 | None | None | None -> program marketing expense\nTrinity Solar | 2950.5 | None | None | None -> residential pv incentive\nTrinity Solar | 5791.9 | None | None | None -> residential pv incentive\nTrinity Solar | 8640.79 | None | None | None -> residential pv incentive",
+"s1": [
+"residential pv incentive",
+"program marketing expense"
+],
+"c1": 0.95,
+"s2": [
+"residential pv incentive",
+"program grant -osdg commercial pv"
+],
+"c2": 0.91
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Trinity Solar",
+"amount": 4914.0,
+"case": "several_accounts",
+"same": [
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive",
+"program marketing expense",
+"residential pv incentive",
+"residential pv incentive",
+"residential pv incentive"
+],
+"label": "hopbi contractor working capital loan",
+"in_shown": false,
+"state": "New transaction: merchant=Trinity Solar; amount=4914.0 USD; date=2015-07-10; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nTrinity Solar | 1936.5 | None | None | None -> residential pv incentive\nTrinity Solar | 2239.8 | None | None | None -> residential pv incentive\nTrinity Solar | 6736.4 | None | None | None -> residential pv incentive\nTrinity Solar | 3831.8 | None | None | None -> residential pv incentive\nTrinity Solar | 12179.1 | None | None | None -> residential pv incentive\nTrinity Solar | 1300.0 | None | None | None -> program marketing expense\nTrinity Solar | 2950.5 | None | None | None -> residential pv incentive\nTrinity Solar | 5791.9 | None | None | None -> residential pv incentive\nTrinity Solar | 8640.79 | None | None | None -> residential pv incentive",
+"s1": [
+"residential pv incentive",
+"program marketing expense"
+],
+"c1": 0.91,
+"s2": [
+"residential pv incentive",
+"program grant -osdg commercial pv"
+],
+"c2": 0.88
+},
+{
+"org": "ct:Connecticut Green Bank",
+"merchant": "Webster Bank",
+"amount": 838.24,
+"case": "easy",
+"same": [
+"office expense",
+"office expense",
+"office expense",
+"office expense"
+],
+"label": "office expenses",
+"in_shown": false,
+"state": "New transaction: merchant=Webster Bank; amount=838.24 USD; date=2015-09-04; department=None; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nWebster Bank | 781.06 | None | None | None -> office expense\nWebster Bank | 1887.93 | None | None | None -> office expense\nWebster Bank | 771.56 | None | None | None -> office expense\nWebster Bank | 6313.48 | None | None | None -> office expense",
+"s1": [
+"office expense",
+"office expenses"
+],
+"c1": 0.94,
+"s2": [
+"office expense",
+"office expenses"
+],
+"c2": 0.78
+},
+{
+"org": "fulton",
+"merchant": "ALLIE RUTH ROBINSON",
+"amount": 50.0,
+"case": "thin",
+"same": [
+"stipends",
+"stipends"
+],
+"label": "hospitality-expense",
+"in_shown": false,
+"state": "New transaction: merchant=ALLIE RUTH ROBINSON; amount=50.0 USD; date=2022-02-04; department=superior court-clerk; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nALLIE RUTH ROBINSON | 400.0 | superior court-clerk | None | None -> stipends\nALLIE RUTH ROBINSON | 200.0 | superior court-clerk | None | None -> stipends\nKENNETH W. VOSS | 6650.0 | superior court-clerk | None | None -> hearing officer fees\nCasey Lyon | 1400.0 | superior court-clerk | None | None -> hearing officer fees\nMarion Arlie Wilson | 8925.0 | superior court-clerk | None | None -> hearing officer fees\nKevin Andrew Lyon | 350.0 | superior court-clerk | None | None -> hearing officer fees\nWAM Real Estate Services, Inc | 2100.0 | superior court-clerk | None | None -> hearing officer fees\nVDS | 2452.78 | superior court-clerk | None | None -> office supplies\nVDS | 535.0 | superior court-clerk | None | None -> office supplies\nP. DOUGLAS FERNANDEZ | 500.0 | superior court-clerk | None | None -> stipends\nANNE A. GASKIN | 200.0 | superior court-clerk | None | None -> stipends\nDENISE B. STROUD | 200.0 | superior court-clerk | None | None -> stipends\nCARL EUGENE MC KINNEY | 200.0 | superior court-clerk | None | None -> stipends\nHUGH RICHARDS | 300.0 | superior court-clerk | None | None -> stipends\nSHELEPH O. HARPER, SR. | 300.0 | superior court-clerk | None | None -> stipends\nSecond To None, Inc. | 1400.0 | superior court-clerk | None | None -> professional services\nUPS | 142.16 | superior court-clerk | None | None -> postage\nNELSON BUSINESS PRODUCTS, INC | 378.0 | superior court-clerk | None | None -> printing\nDelores Lewis | 119.0 | superior court-clerk | None | None -> professional services",
+"s1": [
+"stipends",
+"hearing officer fees"
+],
+"c1": 0.81,
+"s2": [
+"stipends",
+"hearing officer fees"
+],
+"c2": 0.46
+},
+{
+"org": "fulton",
+"merchant": "Adrienne Bruce",
+"amount": 50.0,
+"case": "thin",
+"same": [
+"stipends",
+"stipends"
+],
+"label": "hospitality-expense",
+"in_shown": false,
+"state": "New transaction: merchant=Adrienne Bruce; amount=50.0 USD; date=2022-02-04; department=superior court-clerk; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nAdrienne Bruce | 200.0 | superior court-clerk | None | None -> stipends\nAdrienne Bruce | 500.0 | superior court-clerk | None | None -> stipends\nKENNETH W. VOSS | 6650.0 | superior court-clerk | None | None -> hearing officer fees\nCasey Lyon | 1400.0 | superior court-clerk | None | None -> hearing officer fees\nMarion Arlie Wilson | 8925.0 | superior court-clerk | None | None -> hearing officer fees\nKevin Andrew Lyon | 350.0 | superior court-clerk | None | None -> hearing officer fees\nWAM Real Estate Services, Inc | 2100.0 | superior court-clerk | None | None -> hearing officer fees\nVDS | 2452.78 | superior court-clerk | None | None -> office supplies\nVDS | 535.0 | superior court-clerk | None | None -> office supplies\nALLIE RUTH ROBINSON | 400.0 | superior court-clerk | None | None -> stipends\nP. DOUGLAS FERNANDEZ | 500.0 | superior court-clerk | None | None -> stipends\nANNE A. GASKIN | 200.0 | superior court-clerk | None | None -> stipends\nDENISE B. STROUD | 200.0 | superior court-clerk | None | None -> stipends\nCARL EUGENE MC KINNEY | 200.0 | superior court-clerk | None | None -> stipends\nHUGH RICHARDS | 300.0 | superior court-clerk | None | None -> stipends\nSecond To None, Inc. | 1400.0 | superior court-clerk | None | None -> professional services\nUPS | 142.16 | superior court-clerk | None | None -> postage\nNELSON BUSINESS PRODUCTS, INC | 378.0 | superior court-clerk | None | None -> printing\nDelores Lewis | 119.0 | superior court-clerk | None | None -> professional services",
+"s1": [
+"stipends",
+"hearing officer fees"
+],
+"c1": 0.92,
+"s2": [
+"stipends",
+"hearing officer fees"
+],
+"c2": 0.62
+},
+{
+"org": "fulton",
+"merchant": "AT&T MOBILITY",
+"amount": 150.0,
+"case": "new_merchant",
+"same": [],
+"label": "investigation expense",
+"in_shown": false,
+"state": "New transaction: merchant=AT&T MOBILITY; amount=150.0 USD; date=2022-02-11; department=police; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nTransUnion Risk and Alternative Data Solutions, Inc. | 100.0 | police | None | None -> software license\nSMYRNA POLICE DISTRIBUTORS | 912.0 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 793.7 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 1558.0 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 735.0 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 779.0 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 57.95 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 98.5 | police | None | None -> uniforms\nSMYRNA POLICE DISTRIBUTORS | 55.0 | police | None | None -> uniforms\nSELIG ENTERPRISES, INC. | 12278.86 | police | None | None -> rent/lease buildings\nAllied Universal Security Services | 87487.23 | police | None | None -> security service\nAllied Universal Security Services | 10351.99 | police | None | None -> security service\nSELIG ENTERPRISES, INC. | 12278.86 | police | None | None -> rent/lease buildings",
+"s1": [
+"mobile telephone",
+"network telecom"
+],
+"c1": 0.83,
+"s2": [
+"mobile telephone",
+"network telecom"
+],
+"c2": 0.83
+},
+{
+"org": "fulton",
+"merchant": "WADE COOTS COMPANY INC",
+"amount": 30584.39,
+"case": "easy",
+"same": [
+"professional services",
+"professional services",
+"professional services"
+],
+"label": "misc sewer line proj",
+"in_shown": false,
+"state": "New transaction: merchant=WADE COOTS COMPANY INC; amount=30584.39 USD; date=2022-02-11; department=public works; merchant category=None; memo=None.\n\nSimilar past transactions at this organization:\nWADE COOTS COMPANY INC | 42089.0 | public works | None | None -> professional services\nWADE COOTS COMPANY INC | 19440.0 | public works | None | None -> professional services\nWADE COOTS COMPANY INC | 17871.0 | public works | None | None -> professional services\nJOHN W. BELL, P.C. | 6350.0 | public works | None | None -> serenbe pump station\nJOHN W. BELL, P.C. | 3900.0 | public works | None | None -> serenbe pump station\nJOHN W. BELL, P.C. | 1500.0 | public works | None | None -> serenbe pump station\nKens Events Inc | 1843.0 | public works | None | None -> professional services\nSOUTHERN HYDRO VAC, INC. | 959.0 | public works | None | None -> professional services\nSOUTHERN HYDRO VAC, INC. | 556.0 | public works | None | None -> professional services\nSOUTHERN HYDRO VAC, INC. | 681.0 | public works | None | None -> professional services\nSOUTHERN HYDRO VAC, INC. | 1515.0 | public works | None | None -> professional services\nSCANA ENERGY | 523.79 | public works | None | None -> gas\nSAFETY PRODUCTS, INC | 257.55 | public works | None | None -> maintenance supplies\nCintas Corporation | 133.5 | public works | None | None -> uniforms\nCintas Corporation | 163.07 | public works | None | None -> uniforms\nCITY OF ATLANTA | 11150.98 | public works | None | None -> water/sewer charges\nSCANA ENERGY | 49.9 | public works | None | None -> gas\nSAFETY PRODUCTS, INC | 1640.8 | public works | None | None -> maintenance supplies\nSCANA ENERGY | 769.89 | public works | None | None -> gas\nSCANA ENERGY | 36.15 | public works | None | None -> gas",
+"s1": [
+"professional services",
+"sidewalk improvements"
+],
+"c1": 0.98,
+"s2": [
+"professional services",
+"sidewalk improvements"
+],
+"c2": 0.78
+},
+{
+"org": "council:cambridgeshire",
+"merchant": "AMAZON MUSIC 287QW8RE4",
+"amount": 14.99,
+"case": "new_merchant",
+"same": [],
+"label": "specialist supplies and materials",
+"in_shown": true,
+"state": "New transaction: merchant=AMAZON MUSIC 287QW8RE4; amount=14.99 GBP; date=2021-06-28; department=ld - in house provider services; merchant category=record shops; memo=None.\n\nSimilar past transactions at this organization:\nAMAZON MUSIC MK5271RZ4 | 7.99 | children's disability service | record shops | None -> subscriptions\nAMZN DIGITAL | 47.49 | children's disability service | record shops | None -> other service user support\nPRIME VIDEO MK88T9564 | 2.49 | children's disability service | record shops | None -> other service user support\nAMAZON MUSIC M42DZ9HH4 | 7.99 | children's disability service | record shops | None -> subscriptions\nB&M 292 - MARCH | 10.0 | ld - in house provider services | miscellaneous general merchandise | None -> grounds maintenance\nB&M 292 - MARCH | 83.74 | ld - in house provider services | miscellaneous general merchandise | None -> specialist supplies and materials\nTESCO STORE 2555 | 141.11 | ld - in house provider services | grocery stores, supermarkets | None -> catering provisions\nSKILLS FOR CARE MSHIP | 35.0 | ld - in house provider services | organizations, charitable and social services | None -> professional fees and hired services\nAMZNMKTPLACE AMAZON.CO | 32.78 | ld - in house provider services | miscellaneous and specialty retail stores | None -> cleaning and domestic supplies\nTESCO STORE 2889 | 6.0 | ld - in house provider services | grocery stores, supermarkets | None -> specialist supplies and materials\nTESCO STORE 2889 | 25.0 | ld - in house provider services | grocery stores, supermarkets | None -> specialist supplies and materials\nTESCO STORE 2889 | 55.88 | ld - in house provider services | grocery stores, supermarkets | None -> catering provisions\nSAINSBURYS 2007 | 2.87 | ld - in house provider services | grocery stores, supermarkets | None -> specialist supplies and materials\nTESCO STORE 2694 | 9.1 | ld - in house provider services | grocery stores, supermarkets | None -> specialist supplies and materials\nNUKEY | 10.08 | ld - in house provider services | direct marketing-catalog merchants | None -> specialist supplies and materials\nLIDL GB MARCH | 18.42 | ld - in house provider services | grocery stores, supermarkets | None -> specialist supplies and materials\nTESCO STORE 2555 | 90.84 | ld - in house provider services | grocery stores, supermarkets | None -> catering provisions\nAMZNMKTPLACE | 26.29 | ld - in house provider services | miscellaneous and specialty retail stores | None -> specialist equipment for service deliv\nTESCO STORE 2694 | 23.27 | ld - in house provider services | grocery stores, supermarkets | None -> catering provisions\nCURRYS ONLINE | 499.99 | ld - in house provider services | electronic sales | None -> specialist equipment for service deliv",
+"s1": [
+"subscriptions",
+"other service user support"
+],
+"c1": 0.86,
+"s2": [
+"subscriptions",
+"other service user support"
+],
+"c2": 0.88
+},
+{
+"org": "council:cambridgeshire",
+"merchant": "OYSTER ONLINE",
+"amount": 5.0,
+"case": "new_merchant",
+"same": [],
+"label": "parents visiting expenses",
+"in_shown": false,
+"state": "New transaction: merchant=OYSTER ONLINE; amount=5.0 GBP; date=2021-09-13; department=family safeguarding east; merchant category=passenger railways; memo=None.\n\nSimilar past transactions at this organization:\nSE ONLINE WEB | 77.4 | corporate parenting | passenger railways | None -> grants&support for other service users\nTRAINLINE | 130.48 | corporate parenting | passenger railways | None -> vehicle and plant hire\nTHETRAINLINE.COM | 151.58 | adoption | passenger railways | None -> public transport fares\nTHETRAINLINE.COM | 87.58 | corporate parenting | passenger railways | None -> vehicle and plant hire\nTHETRAINLINE.COM | 87.58 | corporate parenting | passenger railways | None -> vehicle and plant hire\nTRAINLINE | 79.43 | corporate parenting | passenger railways | None -> vehicle and plant hire\nTHETRAINLINE.COM | 162.58 | corporate parenting | passenger railways | None -> car mileage and allowances - other\nTRAINLINE | 28.18 | corporate parenting | passenger railways | None -> asylum seekers\nTL&GN RAILWAY WEB | 37.4 | corporate parenting | passenger railways | None -> vehicle and plant hire\nTHETRAINLINE.COM | 87.58 | corporate parenting | passenger railways | None -> car mileage and allowances - staff\nTRAINLINE | 77.19 | corporate parenting | passenger railways | None -> vehicle and plant hire\nCAMBRIDGE CITY COUNCIL | 107.0 | family safeguarding east | government services-not elsewhere classified | None -> living support grants\nAMZNMKTPLACE | 14.49 | family safeguarding east | miscellaneous and specialty retail stores | None -> grants&support for other service users\nPOST OFFICE COUNTER | 3.1 | family safeguarding east | postal services-government only | None -> grants&support for other service users\nCAMBRIDGE CITY COUNCIL | 107.0 | family safeguarding east | government services-not elsewhere classified | None -> living support grants\nAMZNMKTPLACE | 26.35 | family safeguarding east | miscellaneous and specialty retail stores | None -> educational materials\nCAMBRIDGE CITY COUNCIL | 35.21 | family safeguarding east | government services-not elsewhere classified | None -> living support grants\nCAMBRIDGE CITY COUNCIL | 108.59 | family safeguarding east | government services-not elsewhere classified | None -> living support grants\nCAMBRIDGE CITY COUNCIL | 250.0 | family safeguarding east | government services-not elsewhere classified | None -> living support grants\nCAMBRIDGE CITY COUNCIL | 250.0 | family safeguarding east | government services-not elsewhere classified | None -> living support grants",
+"s1": [
+"public transport fares",
+"social care transport"
+],
+"c1": 0.83,
+"s2": [
+"public transport fares",
+"social care transport"
+],
+"c2": 0.9
+}
+]

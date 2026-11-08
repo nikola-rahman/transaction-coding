@@ -1,0 +1,130 @@
+[
+ {
+  "id": "c00",
+  "type": "B2B SaaS startup with an outside bookkeeper",
+  "stage": "Series B, 110 people",
+  "accounts": 58,
+  "style": "four-digit account numbers, short plain names",
+  "merchants": 49
+ },
+ {
+  "id": "c01",
+  "type": "AI infrastructure startup with heavy compute spend",
+  "stage": "Series A, 40 people",
+  "accounts": 45,
+  "style": "no numbers, descriptive names",
+  "merchants": 67
+ },
+ {
+  "id": "c02",
+  "type": "direct-to-consumer skincare brand",
+  "stage": "pre-seed, 5 people",
+  "accounts": 65,
+  "style": "five-digit numbers, department-style prefixes",
+  "merchants": 47
+ },
+ {
+  "id": "c03",
+  "type": "packaged snack brand selling to retailers",
+  "stage": "seed, 14 people",
+  "accounts": 43,
+  "style": "plain names with some abbreviations",
+  "merchants": 47
+ },
+ {
+  "id": "c04",
+  "type": "digital marketing agency with client-rebillable spend",
+  "stage": "Series A, 40 people",
+  "accounts": 80,
+  "style": "no numbers, descriptive names",
+  "merchants": 55
+ },
+ {
+  "id": "c05",
+  "type": "design and product studio",
+  "stage": "seed, 14 people",
+  "accounts": 65,
+  "style": "no numbers, descriptive names",
+  "merchants": 54
+ },
+ {
+  "id": "c06",
+  "type": "logistics software company",
+  "stage": "seed, 14 people",
+  "accounts": 57,
+  "style": "six-digit numbers, parent and child style names",
+  "merchants": 69
+ },
+ {
+  "id": "c07",
+  "type": "climate hardware startup",
+  "stage": "pre-seed, 5 people",
+  "accounts": 34,
+  "style": "six-digit numbers, parent and child style names",
+  "merchants": 65
+ },
+ {
+  "id": "c08",
+  "type": "health-tech startup",
+  "stage": "seed, 14 people",
+  "accounts": 45,
+  "style": "four-digit account numbers, short plain names",
+  "merchants": 64
+ },
+ {
+  "id": "c09",
+  "type": "fintech startup",
+  "stage": "Series B, 110 people",
+  "accounts": 63,
+  "style": "four-digit account numbers, short plain names",
+  "merchants": 59
+ },
+ {
+  "id": "c10",
+  "type": "multi-location coffee roaster",
+  "stage": "seed, 14 people",
+  "accounts": 69,
+  "style": "no numbers, descriptive names",
+  "merchants": 49
+ },
+ {
+  "id": "c11",
+  "type": "gaming studio",
+  "stage": "pre-seed, 5 people",
+  "accounts": 59,
+  "style": "plain names with some abbreviations",
+  "merchants": 68
+ },
+ {
+  "id": "c12",
+  "type": "legal-tech startup",
+  "stage": "pre-seed, 5 people",
+  "accounts": 89,
+  "style": "plain names with some abbreviations",
+  "merchants": 64
+ },
+ {
+  "id": "c13",
+  "type": "biotech tools startup",
+  "stage": "Series B, 110 people",
+  "accounts": 43,
+  "style": "no numbers, descriptive names",
+  "merchants": 47
+ },
+ {
+  "id": "c14",
+  "type": "construction services firm",
+  "stage": "Series B, 110 people",
+  "accounts": 44,
+  "style": "four-digit account numbers, short plain names",
+  "merchants": 45
+ },
+ {
+  "id": "c15",
+  "type": "e-learning company",
+  "stage": "Series A, 40 people",
+  "accounts": 52,
+  "style": "five-digit numbers, department-style prefixes",
+  "merchants": 67
+ }
+]

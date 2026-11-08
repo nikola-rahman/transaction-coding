@@ -1,0 +1,100 @@
+{"id": "r0800", "action": "accept", "unknown": "nothing", "reason": "All shown Verizon Business payments use telephone & internet access, and this amount sits in the usual range."}
+{"id": "r0801", "action": "accept", "unknown": "nothing", "reason": "Small Kool Ink items split between two accounts, but its large payment of 56,495 went to contractual, which fits this amount."}
+{"id": "r0802", "action": "accept", "unknown": "nothing", "reason": "Cognizant's five-figure payments all use contractual, and only the flat 800 charges use equipment."}
+{"id": "r0803", "action": "request_document", "unknown": "item", "reason": "This individual payee has no history, and honorarium, presenter and contract accounts all fit, so an invoice or payment request would show what the 150 covered."}
+{"id": "r0804", "action": "accept", "unknown": "nothing", "reason": "A T-Mobile charge with a monthly billing-period memo plainly matches communication services."}
+{"id": "r0805", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large journal entry with no memo has past coding across many unrelated accounts, so it needs review of the entry itself."}
+{"id": "r0806", "action": "request_document", "unknown": "item", "reason": "The only past use was grounds-repairs in another department, and this public works job could be coded to close alternatives such as weed spraying or road maintenance."}
+{"id": "r0807", "action": "request_document", "unknown": "item", "reason": "Robinson & Cole is coded by legal matter and service period, so the invoice would show the right account."}
+{"id": "r0808", "action": "request_document", "unknown": "item", "reason": "Past payments of similar size split between psa 2070 and ct next consulting, so the invoice would show which engagement this is."}
+{"id": "r0809", "action": "accept", "unknown": "nothing", "reason": "All three past Suburban Stationers payments use office supplies, and the amount is in range."}
+{"id": "r0810", "action": "accept", "unknown": "nothing", "reason": "All five past TEKsystems payments use contractual, including two at this exact amount."}
+{"id": "r0811", "action": "accept", "unknown": "item", "reason": "Grainger coding varies by item, but at 33.60 the common equip repair-parts & supplies account is reasonable and the choice would not change reporting much."}
+{"id": "r0812", "action": "accept", "unknown": "nothing", "reason": "All shown CIT payments use copiers, and this exact 374.00 amount recurs."}
+{"id": "r0813", "action": "accept", "unknown": "nothing", "reason": "All shown WageWorks payments use other administrative, including this exact amount."}
+{"id": "r0814", "action": "lookup_merchant", "unknown": "merchant", "reason": "Entrust has no history and its name does not show its business, which would decide among computer, maintenance and professional service accounts."}
+{"id": "r0815", "action": "request_document", "unknown": "item", "reason": "NAES payments of similar size split between home office support and management fees, and this amount matches no recurring fee, so the invoice would show which applies."}
+{"id": "r0816", "action": "accept", "unknown": "nothing", "reason": "Past Treasurer payments separate cleanly by size, and this amount falls in the 510,000 to 530,000 range always coded to salaries."}
+{"id": "r0817", "action": "accept", "unknown": "nothing", "reason": "All shown Southern Express payments in general services use mail services, and this amount is in range."}
+{"id": "r0818", "action": "accept", "unknown": "nothing", "reason": "Kool Ink's large payments, including 48,590 and 49,662, all use contractual, which fits this amount."}
+{"id": "r0819", "action": "accept", "unknown": "purpose", "reason": "A small diner charge reasonably fits the general meals and entertainment account even though the meal's purpose is not shown."}
+{"id": "r0820", "action": "request_document", "unknown": "item", "reason": "Premiere Global splits between telephone and refinance pilot program, which changes reporting despite the small amount, so the invoice should show which service this was."}
+{"id": "r0821", "action": "accept", "unknown": "nothing", "reason": "A 25.00 charge from an unemployment compensation administrator is very small, and a general payroll-related or miscellaneous account is reasonable."}
+{"id": "r0822", "action": "request_document", "unknown": "item", "reason": "Amazon sells many kinds of goods and there is no history, so a receipt is needed to see what this 920.30 bought."}
+{"id": "r0823", "action": "accept", "unknown": "nothing", "reason": "Both past Halloran and Sage payments use legal services, and a small law firm bill plainly fits that account."}
+{"id": "r0824", "action": "accept", "unknown": "nothing", "reason": "Konica Minolta's small metered copy charges use contractual services, and 4.94 is too small to justify more work despite the different department."}
+{"id": "r0825", "action": "request_document", "unknown": "item", "reason": "Payroll lines are coded by pay component and nothing shown identifies this one, so the payroll register would show the account."}
+{"id": "r0826", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 165,034 journal entry has no memo or journal history for the sheriff, and the similar rows are only payroll, so the entry needs accounting review."}
+{"id": "r0827", "action": "accept", "unknown": "nothing", "reason": "This equipment vendor's memo carries an eq# like the Nixon-Egli equipment charges in general services, which consistently use field equipment expense."}
+{"id": "r0828", "action": "lookup_merchant", "unknown": "merchant", "reason": "RMK Business Systems has no history and its name does not show what it sells."}
+{"id": "r0829", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 25,000 first-time payment has no history, and the choice among many similar sponsorship accounts depends on company policy."}
+{"id": "r0830", "action": "lookup_merchant", "unknown": "merchant", "reason": "GCCFC 2007-GG9 Columbus is an unclear name with no history, and knowing the payee would probably settle the account."}
+{"id": "r0831", "action": "accept", "unknown": "nothing", "reason": "Past Grainger lines with this same memo and department all use field equipment expense."}
+{"id": "r0832", "action": "request_document", "unknown": "item", "reason": "W.B. Mason splits among office supplies, supplies and office furniture, so the invoice would show which items this covers."}
+{"id": "r0833", "action": "accept", "unknown": "nothing", "reason": "Police purchases from this vendor with office supplies memos consistently use office and administrative."}
+{"id": "r0834", "action": "request_document", "unknown": "item", "reason": "A glass vendor with no history could fit field equipment, maintenance materials or construction accounts, so the invoice would show the job."}
+{"id": "r0835", "action": "request_document", "unknown": "item", "reason": "Payroll is coded by pay component and the history is from another department, so the payroll register would show what this amount is."}
+{"id": "r0836", "action": "request_document", "unknown": "item", "reason": "Melick & Porter splits between legal services and claims/losses, so the invoice would show the matter this bill relates to."}
+{"id": "r0837", "action": "accept", "unknown": "nothing", "reason": "All shown Office Depot payments use office and administrative, and this is a small office purchase."}
+{"id": "r0838", "action": "accept", "unknown": "nothing", "reason": "Nearly all regional water payments use water, and the merchant's business plainly matches that account."}
+{"id": "r0839", "action": "accept", "unknown": "item", "reason": "At 27.10 from an industrial supplier with a repair-style memo, field equipment expense is a reasonable account that would not change reporting much."}
+{"id": "r0840", "action": "request_document", "unknown": "item", "reason": "The only past payment was 55,050 to equipment, and this much smaller amount may be a different service, so the invoice would show what it covers."}
+{"id": "r0841", "action": "lookup_merchant", "unknown": "merchant", "reason": "KONE INC. has no history and its name does not show its business, which would point to the right maintenance or operations account."}
+{"id": "r0842", "action": "accept", "unknown": "nothing", "reason": "CBIA Health Connections premiums of this scale consistently use emp medical, dental & life, and only one small payment went to dues."}
+{"id": "r0843", "action": "request_document", "unknown": "item", "reason": "NAES small payments appear in both management fees and home office support, so the invoice would show which this is."}
+{"id": "r0844", "action": "accept", "unknown": "nothing", "reason": "All shown Postal Service payments use postage exp, and this amount is in range."}
+{"id": "r0845", "action": "request_document", "unknown": "item", "reason": "This education vendor has no history, and contracted educational services, external contract services and staff learning accounts are close, so the invoice would show the service."}
+{"id": "r0846", "action": "accept", "unknown": "nothing", "reason": "Both past Lewis & Munday payments use bond issuance costs, and this amount closely matches the 35,252.09 payment."}
+{"id": "r0847", "action": "accept", "unknown": "purpose", "reason": "The only past use was a meal, and at 39.50 the general meals and entertainment account is reasonable."}
+{"id": "r0848", "action": "accept", "unknown": "nothing", "reason": "Both past MakeHartford payments use ct next program at a similar scale to this amount."}
+{"id": "r0849", "action": "accept", "unknown": "nothing", "reason": "All past Bank of New York Mellon payments use trustee fee, including this exact amount."}
+{"id": "r0850", "action": "request_document", "unknown": "item", "reason": "Payroll is coded by pay component and this amount does not identify one, so the payroll register would show the account."}
+{"id": "r0851", "action": "lookup_merchant", "unknown": "merchant", "reason": "Typoglyphic Studios has no history and is an unfamiliar name, so its business needs to be identified first."}
+{"id": "r0852", "action": "lookup_merchant", "unknown": "merchant", "reason": "Chase Biomedical has no history and its exact business is unclear from the name."}
+{"id": "r0853", "action": "request_document", "unknown": "item", "reason": "This individual payee has no history and no likely account stands out, so a receipt would show what the payment covered."}
+{"id": "r0854", "action": "accept", "unknown": "nothing", "reason": "All three past A&A Office Systems payments use maintenance copier, and this amount is in range."}
+{"id": "r0855", "action": "lookup_merchant", "unknown": "merchant", "reason": "Environmental Capital LLC has no history and its name does not show whether it provides consulting, testing or financial services."}
+{"id": "r0856", "action": "accept", "unknown": "nothing", "reason": "All shown Madden Corporation payments for the city attorney use litigation, and this amount is in range."}
+{"id": "r0857", "action": "accept", "unknown": "nothing", "reason": "A small Staples online purchase plainly fits office supplies, the only supply account in this short list."}
+{"id": "r0858", "action": "accept", "unknown": "nothing", "reason": "All four past Whitney Brown payments use psa at a similar scale."}
+{"id": "r0859", "action": "lookup_merchant", "unknown": "merchant", "reason": "Turf Star has no history and a memo of only numbers, so knowing what it sells would probably settle the account."}
+{"id": "r0860", "action": "accept", "unknown": "nothing", "reason": "All past Connecticut Convention Center F&B payments use meals, and the merchant's food and beverage business matches."}
+{"id": "r0861", "action": "accept", "unknown": "nothing", "reason": "All shown Frontier payments use telephone and pagers, and this amount is close to the 349.32 payment."}
+{"id": "r0862", "action": "ask_person", "unknown": "purpose", "reason": "The accounts name specific meetings and the only past use was a named meeting, so the spender must say who this 235.50 meal was for."}
+{"id": "r0863", "action": "accept", "unknown": "nothing", "reason": "All six past Cologix payments at this scale use maint svc contracts."}
+{"id": "r0864", "action": "accept", "unknown": "nothing", "reason": "All past Warren Distributing charges use field equipment expense, and the parts memo fits even though the department differs."}
+{"id": "r0865", "action": "accept", "unknown": "item", "reason": "At 40.08 for an office supply vendor, office and administrative is reasonable despite no history."}
+{"id": "r0866", "action": "request_document", "unknown": "item", "reason": "New Tech Haven is coded to several psa numbers and this amount is far below past payments, so the invoice would show which one applies."}
+{"id": "r0867", "action": "accept", "unknown": "nothing", "reason": "Connecticut Business Systems payments of this scale all use maint svc contracts, with only small items in office supplies."}
+{"id": "r0868", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Identical NextEra amounts are coded to both management fee and power product management fees, a conflict a document is unlikely to resolve."}
+{"id": "r0869", "action": "accept", "unknown": "nothing", "reason": "Both past state energy department payments use fees/licenses/permits, and a small 200.00 state fee fits that account."}
+{"id": "r0870", "action": "accept", "unknown": "nothing", "reason": "All shown Connecticare payments use emp medical, dental & life, including this exact amount."}
+{"id": "r0871", "action": "lookup_merchant", "unknown": "merchant", "reason": "Glenn E Thomas has no history and its business is unclear from the name, though the repair-order memo suggests knowing it would settle the account."}
+{"id": "r0872", "action": "lookup_merchant", "unknown": "merchant", "reason": "Chase Biomedical has no history and its exact business is unclear from the name."}
+{"id": "r0873", "action": "accept", "unknown": "nothing", "reason": "All shown Tri-Com payments use temporary staffing."}
+{"id": "r0874", "action": "request_document", "unknown": "item", "reason": "A central fleet oil company has no history, and the invoice would show which fuel or product this 15,975.55 bought."}
+{"id": "r0875", "action": "accept", "unknown": "nothing", "reason": "The one past T-Mobile USA payment used telephone-cellular service, and the merchant's business plainly matches it."}
+{"id": "r0876", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 25,000 first-time payment has no history, and the choice among similar sponsorship accounts depends on company policy."}
+{"id": "r0877", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 50,928 payment to a securities firm has no history and no clearly matching account, so the size and nature need accounting review."}
+{"id": "r0878", "action": "accept", "unknown": "nothing", "reason": "Both past US Postal Service payments use postal supplies (no receipt), and 15.03 is a very small amount in range."}
+{"id": "r0879", "action": "accept", "unknown": "nothing", "reason": "A 14.49 radiator part on a shop order fits field equipment expense, which the police use for vehicle-related vendors."}
+{"id": "r0880", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A journal entry with no memo has history across payroll, services and postage, so the entry needs accounting review."}
+{"id": "r0881", "action": "request_document", "unknown": "item", "reason": "This association has no history and the payment could be dues, a sponsorship or an event fee, which the invoice would show."}
+{"id": "r0882", "action": "accept", "unknown": "nothing", "reason": "All shown Cologix payments use maint svc contracts, and this amount is only slightly above the regular 1,833.65."}
+{"id": "r0883", "action": "request_document", "unknown": "item", "reason": "Payroll is coded by pay component and this amount could match several, so the payroll register would show the account."}
+{"id": "r0884", "action": "request_document", "unknown": "item", "reason": "W.B. Mason splits between office supplies and office furniture, so the invoice would show which items this covers."}
+{"id": "r0885", "action": "lookup_merchant", "unknown": "merchant", "reason": "Remarkable Technologies has no history and its name does not show its business."}
+{"id": "r0886", "action": "request_document", "unknown": "item", "reason": "A business journal could be advertising or subscriptions, and the invoice would show which this 1,470 payment was."}
+{"id": "r0887", "action": "request_document", "unknown": "item", "reason": "Past Verizon Business payments use telephone and pagers at about 410, so this 1,173.62 is unusual and the invoice should show what it covers."}
+{"id": "r0888", "action": "accept", "unknown": "nothing", "reason": "The past AT&T Mobility expense line uses mobile, and the other two lines at that amount are only cash and payables entries."}
+{"id": "r0889", "action": "accept", "unknown": "nothing", "reason": "The one past payment used telephone, and this wireless carrier plainly matches that account."}
+{"id": "r0890", "action": "accept", "unknown": "nothing", "reason": "The one past Totalfunds by Hasler payment used postage and delivery, and this small amount is reasonable there."}
+{"id": "r0891", "action": "request_document", "unknown": "item", "reason": "This provider has no history and many social service accounts could apply, so the invoice would show the service provided."}
+{"id": "r0892", "action": "request_document", "unknown": "item", "reason": "This individual payee has no history, and stipend, presenter and contract accounts all fit, so an invoice or payment request would show what the 150 covered."}
+{"id": "r0893", "action": "request_document", "unknown": "item", "reason": "This association has no history and the payment could be dues or training, which the invoice would show."}
+{"id": "r0894", "action": "request_document", "unknown": "item", "reason": "Payroll is coded by pay component and there is no history here, so the payroll register would show the account."}
+{"id": "r0895", "action": "request_document", "unknown": "item", "reason": "Anthony Brown is coded to psa, psa 2113 and new psa, so the invoice would show which agreement this payment falls under."}
+{"id": "r0896", "action": "request_document", "unknown": "item", "reason": "The single past payment was 45,582.98 to foreclosure expense, and this much smaller amount needs an invoice to show the service."}
+{"id": "r0897", "action": "request_document", "unknown": "item", "reason": "The one past payment was a conference registration, and this could also be a membership, which the invoice would show."}
+{"id": "r0898", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 69,425 first-time payment to a community organization has no history, and grants, contributions and child care subsidy are close accounts that need accounting judgment."}
+{"id": "r0899", "action": "accept", "unknown": "nothing", "reason": "The one past Malta House of Care payment was this exact 75,000 amount coded to grants."}

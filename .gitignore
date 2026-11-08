@@ -1,0 +1,26 @@
+# Internal research: contains material from third-party pages, never publish
+reports/
+research_notes/
+
+# Data, models, and secrets
+data/
+models/
+checkpoints/
+*.parquet
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+demo/.model_token
+demo/demo.db*
+
+# Local only: old experiments, derived datasets, run logs
+archive/
+gen/
+*.pid
+*.log
+demo/__pycache__/

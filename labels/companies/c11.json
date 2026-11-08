@@ -1,0 +1,1614 @@
+{
+ "name": "Tin Lantern Games",
+ "chart": [
+  "Software Subs",
+  "Dev Tools",
+  "Game Engine Licenses",
+  "Art Software",
+  "Audio Software",
+  "Cloud Hosting",
+  "Game Servers",
+  "Build & CI",
+  "Domains & DNS",
+  "Analytics Tools",
+  "QA & Playtesting",
+  "Playtester Incentives",
+  "Competitive Research",
+  "Art Assets",
+  "Audio Assets",
+  "Capitalized Game Dev",
+  "Contractors - Art",
+  "Contractors - Eng",
+  "Contractors - Audio",
+  "Contractors - Writing",
+  "Localization",
+  "Voice Talent",
+  "Platform Fees",
+  "Store Dev Fees",
+  "Console Dev Kits",
+  "Computer Equip (Capitalized)",
+  "Small Equip",
+  "Peripherals",
+  "Test Devices",
+  "Mktg - Paid Ads",
+  "Mktg - Creators & PR",
+  "Mktg - Trailers",
+  "Mktg - Swag",
+  "Community Tools",
+  "Conf & Expo Fees",
+  "Expo Booth Costs",
+  "Travel - Air",
+  "Travel - Lodging",
+  "Travel - Ground",
+  "Meals - Travel",
+  "Meals - Team",
+  "Meals - Investor",
+  "Team Events",
+  "Office Rent",
+  "Utilities",
+  "Internet & Phone",
+  "Office Supplies",
+  "Postage & Shipping",
+  "Legal Fees",
+  "Legal - IP & TM",
+  "Acctg & Tax",
+  "Payroll Svc Fees",
+  "Insurance - General",
+  "Prepaid Expenses",
+  "Bank Fees",
+  "Licenses & Permits",
+  "Taxes - State",
+  "Training & Books",
+  "Benefits - Health"
+ ],
+ "departments": [
+  "Engineering",
+  "Art",
+  "Design",
+  "Audio",
+  "Ops"
+ ],
+ "people": [
+  {
+   "name": "Dana Okerlund",
+   "department": "Ops",
+   "card_name": "Dana's Card"
+  },
+  {
+   "name": "Tomasz Wierzba",
+   "department": "Engineering",
+   "card_name": "Eng Card"
+  },
+  {
+   "name": "Mei-Lin Harcourt",
+   "department": "Art",
+   "card_name": "Art Card"
+  },
+  {
+   "name": "Jonah Adeyemi-Cole",
+   "department": "Design",
+   "card_name": "Jonah's Card"
+  },
+  {
+   "name": "Rosalind Trevino",
+   "department": "Audio",
+   "card_name": "Rosalind's Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "AMAZON.COM*RT4K92MX0",
+   "merchant_category": "Book Stores / General Merchandise Online",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper, pens and sticky notes for the studio",
+     "account": "Office Supplies",
+     "amount_low": 15,
+     "amount_high": 90,
+     "weight": 4,
+     "item_shown_by_document": "Copy paper, gel pens, sticky notes",
+     "memo": "office stuff",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Controllers, USB hubs and cables for dev machines",
+     "account": "Peripherals",
+     "amount_low": 20,
+     "amount_high": 180,
+     "weight": 3,
+     "item_shown_by_document": "Xbox wireless controller, 7-port USB hub",
+     "memo": "controllers for dev",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Game design and shader books",
+     "account": "Training & Books",
+     "amount_low": 25,
+     "amount_high": 80,
+     "weight": 1,
+     "item_shown_by_document": "The Art of Game Design (paperback)",
+     "memo": "book for jonah",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "APPLE.COM/US",
+   "merchant_category": "Computers, Peripherals, Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "MacBook Pro for iOS builds, kept over the cap threshold",
+     "account": "Computer Equip (Capitalized)",
+     "amount_low": 2600,
+     "amount_high": 3800,
+     "weight": 2,
+     "item_shown_by_document": "MacBook Pro 16-inch M-series",
+     "memo": "new mac for tomasz",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Mac mini or display under the cap threshold",
+     "account": "Small Equip",
+     "amount_low": 600,
+     "amount_high": 2200,
+     "weight": 2,
+     "item_shown_by_document": "Mac mini, Studio Display",
+     "memo": "build box",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "iPhone or iPad kept only for QA on device",
+     "account": "Test Devices",
+     "amount_low": 450,
+     "amount_high": 1100,
+     "weight": 2,
+     "item_shown_by_document": "iPad 10.9-inch 64GB",
+     "memo": "ios test device",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "BEST BUY 00014423",
+   "merchant_category": "Electronics Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Headsets, mice and keyboards",
+     "account": "Peripherals",
+     "amount_low": 30,
+     "amount_high": 220,
+     "weight": 3,
+     "item_shown_by_document": "Logitech MX Master mouse, wired headset",
+     "memo": "new mouse",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Low-end Android phone or handheld for compatibility testing",
+     "account": "Test Devices",
+     "amount_low": 150,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Samsung Galaxy A-series unlocked",
+     "memo": "android min spec test",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "ADOBE *CREATIVE CLOUD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Photoshop and Substance seats for art",
+     "account": "Art Software",
+     "amount_low": 55,
+     "amount_high": 120,
+     "weight": 3,
+     "item_shown_by_document": "Creative Cloud All Apps, 1 seat",
+     "memo": "cc for mei-lin",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Premiere and After Effects seat used to cut trailers",
+     "account": "Mktg - Trailers",
+     "amount_low": 25,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Premiere Pro single app, 1 seat",
+     "memo": "trailer editing",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UNITY TECHNOLOGIES",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Unity Pro seat",
+     "account": "Game Engine Licenses",
+     "amount_low": 185,
+     "amount_high": 2200,
+     "weight": 3,
+     "item_shown_by_document": "Unity Pro annual seat",
+     "memo": "unity pro",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Asset Store purchase of a tool or model pack",
+     "account": "Art Assets",
+     "amount_low": 15,
+     "amount_high": 120,
+     "weight": 3,
+     "item_shown_by_document": "Asset Store: Stylized Forest Pack",
+     "memo": "asset store pack",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "EPIC GAMES FAB",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Marketplace materials and 3D models",
+     "account": "Art Assets",
+     "amount_low": 10,
+     "amount_high": 150,
+     "weight": 3,
+     "item_shown_by_document": "Fab listing: Modular Ruins Kit",
+     "memo": "ruins kit",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Sound effect packs from the marketplace",
+     "account": "Audio Assets",
+     "amount_low": 10,
+     "amount_high": 80,
+     "weight": 1,
+     "item_shown_by_document": "Fab listing: Fantasy UI Sound Pack",
+     "memo": "ui sfx",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "STEAMGAMES.COM 4259522",
+   "merchant_category": "Digital Goods: Games",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Steam Direct fee to list a new app",
+     "account": "Store Dev Fees",
+     "amount_low": 100,
+     "amount_high": 100,
+     "weight": 1,
+     "item_shown_by_document": "Steam Direct Product Submission Fee",
+     "memo": "steam direct fee",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Buying competing games to study them",
+     "account": "Competitive Research",
+     "amount_low": 5,
+     "amount_high": 40,
+     "weight": 4,
+     "item_shown_by_document": "Game purchase: Dredge",
+     "memo": "comp research",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMEA / AMAZON WEB SERVICES",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Website, backend and storage",
+     "account": "Cloud Hosting",
+     "amount_low": 40,
+     "amount_high": 260,
+     "weight": 3,
+     "item_shown_by_document": "Monthly bill: S3, CloudFront, RDS",
+     "memo": "aws monthly",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Multiplayer test server instances",
+     "account": "Game Servers",
+     "amount_low": 60,
+     "amount_high": 420,
+     "weight": 2,
+     "item_shown_by_document": "Monthly bill: EC2 c6i instances, GameLift",
+     "memo": "playtest servers",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *CLOUD 7XK2QP",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Firebase backend for the demo",
+     "account": "Cloud Hosting",
+     "amount_low": 10,
+     "amount_high": 90,
+     "weight": 3,
+     "item_shown_by_document": "Firebase Blaze plan usage",
+     "memo": "firebase",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "BigQuery for playtest telemetry",
+     "account": "Analytics Tools",
+     "amount_low": 5,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "BigQuery analysis usage",
+     "memo": "telemetry",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT SEATTLE WATERFRONT",
+   "merchant_category": "Lodging - Hotels, Motels, Resorts",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Room for a conference or investor trip",
+     "account": "Travel - Lodging",
+     "amount_low": 190,
+     "amount_high": 780,
+     "weight": 4,
+     "item_shown_by_document": "Room and tax, 2 nights",
+     "memo": "hotel for pax",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Hotel restaurant charge billed separately",
+     "account": "Meals - Travel",
+     "amount_low": 20,
+     "amount_high": 75,
+     "weight": 1,
+     "item_shown_by_document": "Restaurant charge, dinner",
+     "memo": "hotel dinner",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "UBER *EATS",
+   "merchant_category": "Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch delivered on a crunch day",
+     "account": "Meals - Team",
+     "amount_low": 35,
+     "amount_high": 110,
+     "weight": 3,
+     "item_shown_by_document": "Thai Basil order, 5 entrees",
+     "memo": "crunch lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Dinner while traveling for a show",
+     "account": "Meals - Travel",
+     "amount_low": 15,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Burger order, 1 entree",
+     "memo": "dinner at hotel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "DOORDASH*PIEOLOGY",
+   "merchant_category": "Fast Food Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team lunch at the office",
+     "account": "Meals - Team",
+     "amount_low": 40,
+     "amount_high": 95,
+     "weight": 2,
+     "item_shown_by_document": "3 large pizzas, salad",
+     "memo": "team lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Pizza for outside playtesters on a test night",
+     "account": "QA & Playtesting",
+     "amount_low": 45,
+     "amount_high": 120,
+     "weight": 2,
+     "item_shown_by_document": "4 large pizzas, soda",
+     "memo": "playtest night food",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "COSTCO WHSE #0009",
+   "merchant_category": "Wholesale Clubs",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Coffee, snacks and paper towels for the studio",
+     "account": "Office Supplies",
+     "amount_low": 40,
+     "amount_high": 160,
+     "weight": 3,
+     "item_shown_by_document": "Coffee beans, paper towels, granola bars",
+     "memo": "studio snacks",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Food and drinks for the launch party",
+     "account": "Team Events",
+     "amount_low": 80,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Party platter, sparkling water, cake",
+     "memo": "demo launch party",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Gift cards handed to playtesters",
+     "account": "Playtester Incentives",
+     "amount_low": 50,
+     "amount_high": 200,
+     "weight": 1,
+     "item_shown_by_document": "Gift card, $25 x 4",
+     "memo": "playtester thank yous",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "FIVERR.COM",
+   "merchant_category": "Professional Services, Not Elsewhere Classified",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Freelance key art or icon set",
+     "account": "Contractors - Art",
+     "amount_low": 40,
+     "amount_high": 450,
+     "weight": 3,
+     "item_shown_by_document": "Order: Steam capsule art",
+     "memo": "capsule art",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Character voice lines for the demo",
+     "account": "Voice Talent",
+     "amount_low": 50,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "Order: 40 lines, fantasy male voice",
+     "memo": "vo for demo",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Short menu music loop from a freelance composer",
+     "account": "Contractors - Audio",
+     "amount_low": 60,
+     "amount_high": 400,
+     "weight": 1,
+     "item_shown_by_document": "Order: 90-second menu theme",
+     "memo": "menu music",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "UPWORK -1188204REF",
+   "merchant_category": "Professional Services, Not Elsewhere Classified",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hourly netcode help",
+     "account": "Contractors - Eng",
+     "amount_low": 200,
+     "amount_high": 1800,
+     "weight": 3,
+     "item_shown_by_document": "Hourly contract: Unity netcode developer",
+     "memo": "netcode contractor",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Quest and item text",
+     "account": "Contractors - Writing",
+     "amount_low": 100,
+     "amount_high": 700,
+     "weight": 2,
+     "item_shown_by_document": "Fixed price: narrative writer milestone",
+     "memo": "quest text",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "French and German string translation",
+     "account": "Localization",
+     "amount_low": 90,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Fixed price: FR/DE translation",
+     "memo": "loc for demo",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *KJSTUDIOS",
+   "merchant_category": "Miscellaneous Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Concept art for marketing only",
+     "account": "Contractors - Art",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "Invoice: concept paintings, 3 pieces",
+     "memo": "kj concepts",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Character models that ship in the game",
+     "account": "Capitalized Game Dev",
+     "amount_low": 400,
+     "amount_high": 1800,
+     "weight": 2,
+     "item_shown_by_document": "Invoice: 2 rigged characters",
+     "memo": "kj character models",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "WISE INC 88213",
+   "merchant_category": "Wire Transfer / Money Orders",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Paying the overseas environment artist",
+     "account": "Contractors - Art",
+     "amount_low": 500,
+     "amount_high": 2400,
+     "weight": 3,
+     "item_shown_by_document": "Transfer to Ana Lucia Ferreyra",
+     "memo": "ana monthly",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Paying the Japanese translator",
+     "account": "Localization",
+     "amount_low": 200,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Transfer to Hinako Moriwaki",
+     "memo": "jp loc",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 781224590",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sending signed docs and dev hardware",
+     "account": "Postage & Shipping",
+     "amount_low": 15,
+     "amount_high": 90,
+     "weight": 3,
+     "item_shown_by_document": "Express envelope, 1 lb",
+     "memo": "sent docs to lawyer",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Shipping booth gear to the show",
+     "account": "Expo Booth Costs",
+     "amount_low": 90,
+     "amount_high": 380,
+     "weight": 1,
+     "item_shown_by_document": "Ground, 2 boxes 38 lb",
+     "memo": "booth gear to seattle",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "VISTAPRINT",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stickers and enamel pins to hand out",
+     "account": "Mktg - Swag",
+     "amount_low": 40,
+     "amount_high": 300,
+     "weight": 2,
+     "item_shown_by_document": "Die-cut stickers, 500 ct",
+     "memo": "stickers",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Retractable banner for the booth",
+     "account": "Expo Booth Costs",
+     "amount_low": 90,
+     "amount_high": 260,
+     "weight": 1,
+     "item_shown_by_document": "Retractable banner stand, 33 x 81",
+     "memo": "booth banner",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "HOLLOWAY PRIETO LLP",
+   "merchant_category": "Legal Services, Attorneys",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Formation, SAFE and contract work",
+     "account": "Legal Fees",
+     "amount_low": 400,
+     "amount_high": 3500,
+     "weight": 3,
+     "item_shown_by_document": "Invoice: SAFE documents review, 3.2 hrs",
+     "memo": "safe docs",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Trademark filing for the game title",
+     "account": "Legal - IP & TM",
+     "amount_low": 350,
+     "amount_high": 1400,
+     "weight": 1,
+     "item_shown_by_document": "Invoice: USPTO trademark application",
+     "memo": "tm filing",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "HISCOX INC",
+   "merchant_category": "Insurance Sales, Underwriting",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly general liability payment",
+     "account": "Insurance - General",
+     "amount_low": 45,
+     "amount_high": 95,
+     "weight": 3,
+     "item_shown_by_document": "Monthly premium, GL policy",
+     "memo": "gl insurance",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual E&O policy paid up front",
+     "account": "Prepaid Expenses",
+     "amount_low": 900,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Annual premium, 12-month E&O policy",
+     "memo": "annual e&o",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "PAX EXPO / REEDPOP",
+   "merchant_category": "Trade Shows / Convention Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Exhibitor badges and registration",
+     "account": "Conf & Expo Fees",
+     "amount_low": 120,
+     "amount_high": 600,
+     "weight": 2,
+     "item_shown_by_document": "Exhibitor badges, 3",
+     "memo": "pax badges",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Indie booth space deposit",
+     "account": "Expo Booth Costs",
+     "amount_low": 800,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Indie Showcase 10x10 booth",
+     "memo": "booth deposit",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "SQ *LANTERN ALLEY PRINT",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Posters and flyers for the booth",
+     "account": "Expo Booth Costs",
+     "amount_low": 40,
+     "amount_high": 220,
+     "weight": 2,
+     "item_shown_by_document": "24x36 posters, 10 ct",
+     "memo": "pax posters",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Business cards",
+     "account": "Office Supplies",
+     "amount_low": 25,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Business cards, 250 ct",
+     "memo": "cards for dana",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "TST* FERN AND FORGE",
+   "merchant_category": "Eating Places, Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with an angel investor",
+     "account": "Meals - Investor",
+     "amount_low": 60,
+     "amount_high": 190,
+     "weight": 2,
+     "item_shown_by_document": "Dinner for 2, 2 entrees, 2 drinks",
+     "memo": "dinner w/ investor",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Friday team dinner",
+     "account": "Meals - Team",
+     "amount_low": 90,
+     "amount_high": 240,
+     "weight": 2,
+     "item_shown_by_document": "Dinner for 5, 5 entrees",
+     "memo": "team dinner",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_TINLANTERN",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and docs for the team",
+     "account": "Software Subs",
+     "amount_low": 35,
+     "amount_high": 80,
+     "weight": 1,
+     "item_shown_by_document": "Workspace Business Starter, 5 users",
+     "memo": "google workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T02LMX9R",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team chat",
+     "account": "Software Subs",
+     "amount_low": 35,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Slack Pro, 5 users",
+     "memo": "slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NOTION LABS, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design docs and wiki",
+     "account": "Software Subs",
+     "amount_low": 40,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Notion Plus, 5 members",
+     "memo": "notion",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA MONTHLY RENEWAL",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "UI mockups",
+     "account": "Software Subs",
+     "amount_low": 15,
+     "amount_high": 45,
+     "weight": 1,
+     "item_shown_by_document": "Figma Professional, 2 seats",
+     "memo": "figma",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "1PASSWORD",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shared password vault",
+     "account": "Software Subs",
+     "amount_low": 20,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "1Password Teams Starter",
+     "memo": "1password",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GITHUB, INC.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Private repos and LFS storage",
+     "account": "Dev Tools",
+     "amount_low": 20,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "GitHub Team, 5 seats, Git LFS data pack",
+     "memo": "github",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "JETBRAINS S.R.O.",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rider IDE license",
+     "account": "Dev Tools",
+     "amount_low": 170,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "JetBrains Rider annual subscription",
+     "memo": "rider renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LINEAR ORBIT INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Issue tracking",
+     "account": "Dev Tools",
+     "amount_low": 30,
+     "amount_high": 50,
+     "weight": 1,
+     "item_shown_by_document": "Linear Basic, 5 users",
+     "memo": "linear",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SENTRY",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Crash reports from demo builds",
+     "account": "Dev Tools",
+     "amount_low": 26,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "Sentry Team plan",
+     "memo": "sentry",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BUILDKITE PTY LTD",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Automated game builds",
+     "account": "Build & CI",
+     "amount_low": 30,
+     "amount_high": 150,
+     "weight": 1,
+     "item_shown_by_document": "Pipelines, 5 users",
+     "memo": "ci builds",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BLENDER MARKET",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Blender add-ons for modeling",
+     "account": "Art Software",
+     "amount_low": 15,
+     "amount_high": 90,
+     "weight": 1,
+     "item_shown_by_document": "Hard Ops add-on",
+     "memo": "blender addon",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ASEPRITE IGARA STUDIO",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Pixel art editor licenses",
+     "account": "Art Software",
+     "amount_low": 20,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "Aseprite license",
+     "memo": "aseprite",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AUDIOKINETIC INC",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Wwise audio middleware license",
+     "account": "Audio Software",
+     "amount_low": 250,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Wwise Pro license, 1 title",
+     "memo": "wwise",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SPLICE.COM",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sample library subscription",
+     "account": "Audio Assets",
+     "amount_low": 13,
+     "amount_high": 30,
+     "weight": 1,
+     "item_shown_by_document": "Splice Creator plan",
+     "memo": "splice",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PLUGIN BOUTIQUE",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Mixing plugins",
+     "account": "Audio Software",
+     "amount_low": 30,
+     "amount_high": 240,
+     "weight": 1,
+     "item_shown_by_document": "FabFilter Pro-Q license",
+     "memo": "eq plugin",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CLOUDFLARE",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "DNS and site protection",
+     "account": "Domains & DNS",
+     "amount_low": 20,
+     "amount_high": 30,
+     "weight": 1,
+     "item_shown_by_document": "Cloudflare Pro plan",
+     "memo": "cloudflare",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NAMECHEAP.COM",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Game and studio domains",
+     "account": "Domains & DNS",
+     "amount_low": 10,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Domain registration, 1 year",
+     "memo": "domain renewal",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PLAYTESTCLOUD GMBH",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Recorded remote playtests",
+     "account": "QA & Playtesting",
+     "amount_low": 200,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Playtest order, 15 testers",
+     "memo": "remote playtest",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GAMEANALYTICS APS",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Paid game analytics tier",
+     "account": "Analytics Tools",
+     "amount_low": 50,
+     "amount_high": 150,
+     "weight": 1,
+     "item_shown_by_document": "Pro plan, monthly",
+     "memo": "analytics",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MAILCHIMP *MONTHLY",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Newsletter to wishlist signups",
+     "account": "Community Tools",
+     "amount_low": 13,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Standard plan, 2,500 contacts",
+     "memo": "newsletter",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DISCORD* NITRO",
+   "merchant_category": "Computer Software Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Server boosts for the community Discord",
+     "account": "Community Tools",
+     "amount_low": 10,
+     "amount_high": 30,
+     "weight": 1,
+     "item_shown_by_document": "Server Boost x3",
+     "memo": "discord boosts",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "META PLATFORMS ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Wishlist ads on Instagram",
+     "account": "Mktg - Paid Ads",
+     "amount_low": 50,
+     "amount_high": 800,
+     "weight": 1,
+     "item_shown_by_document": "Ad campaign: Demo wishlist push",
+     "memo": "ig ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "REDDIT ADS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Promoted posts in game subreddits",
+     "account": "Mktg - Paid Ads",
+     "amount_low": 25,
+     "amount_high": 350,
+     "weight": 1,
+     "item_shown_by_document": "Ad campaign: r/indiegaming",
+     "memo": "reddit ads",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KEYMAILER",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Sending keys to streamers",
+     "account": "Mktg - Creators & PR",
+     "amount_low": 50,
+     "amount_high": 200,
+     "weight": 1,
+     "item_shown_by_document": "Monthly subscription, creator outreach",
+     "memo": "creator keys",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CASCADE CUTS VIDEO LLC",
+   "merchant_category": "Motion Picture / Video Production",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Editing the announce trailer",
+     "account": "Mktg - Trailers",
+     "amount_low": 800,
+     "amount_high": 3000,
+     "weight": 1,
+     "item_shown_by_document": "Invoice: 60-second trailer edit",
+     "memo": "announce trailer",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NINTENDO OF AMERICA",
+   "merchant_category": "Computers, Peripherals, Software",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Switch dev kit purchase",
+     "account": "Console Dev Kits",
+     "amount_low": 450,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Development hardware, 1 unit",
+     "memo": "switch devkit",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ITCH.IO PAYMENT FEE",
+   "merchant_category": "Digital Goods: Games",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Platform share and payout fees on demo sales",
+     "account": "Platform Fees",
+     "amount_low": 5,
+     "amount_high": 60,
+     "weight": 1,
+     "item_shown_by_document": "Payout statement, platform fee",
+     "memo": "itch fees",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GDC / INFORMA",
+   "merchant_category": "Trade Shows / Convention Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "GDC pass",
+     "account": "Conf & Expo Fees",
+     "amount_low": 400,
+     "amount_high": 1600,
+     "weight": 1,
+     "item_shown_by_document": "GDC Core Pass, 1",
+     "memo": "gdc pass",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ALASKA AIR 0272199648",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flights to shows and publisher meetings",
+     "account": "Travel - Air",
+     "amount_low": 110,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "PDX-SFO round trip",
+     "memo": "flight to gdc",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP HELP.UBER.COM",
+   "merchant_category": "Taxicabs and Limousines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Rides during work trips",
+     "account": "Travel - Ground",
+     "amount_low": 12,
+     "amount_high": 65,
+     "weight": 1,
+     "item_shown_by_document": "Trip: airport to hotel",
+     "memo": "ride to hotel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRIMET TVM",
+   "merchant_category": "Commuter Transport",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Light rail to the airport",
+     "account": "Travel - Ground",
+     "amount_low": 3,
+     "amount_high": 28,
+     "weight": 1,
+     "item_shown_by_document": "Adult day pass",
+     "memo": "max to pdx",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *BRASS KETTLE COFFEE",
+   "merchant_category": "Coffee Shops",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Coffee with candidates and team",
+     "account": "Meals - Team",
+     "amount_low": 6,
+     "amount_high": 35,
+     "weight": 1,
+     "item_shown_by_document": "2 lattes, 1 scone",
+     "memo": "coffee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BOWLERO BEAVERTON",
+   "merchant_category": "Bowling Alleys",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quarterly team outing",
+     "account": "Team Events",
+     "amount_low": 120,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "2 lanes, shoe rental",
+     "memo": "team bowling",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ACH DEBIT MORRISON ST MGMT",
+   "merchant_category": "Real Estate Agents and Managers - Rentals",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly rent on the studio",
+     "account": "Office Rent",
+     "amount_low": 1650,
+     "amount_high": 1650,
+     "weight": 1,
+     "item_shown_by_document": "Rent, Suite 204",
+     "memo": "rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PORTLAND GENERAL ELECTRIC",
+   "merchant_category": "Utilities",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Electric bill for the studio",
+     "account": "Utilities",
+     "amount_low": 60,
+     "amount_high": 190,
+     "weight": 1,
+     "item_shown_by_document": "Monthly electric service",
+     "memo": "pge",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Cable and Pay TV / Telecom",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Studio fiber",
+     "account": "Internet & Phone",
+     "amount_low": 110,
+     "amount_high": 180,
+     "weight": 1,
+     "item_shown_by_document": "Business Internet 500 Mbps",
+     "memo": "internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 4017770199",
+   "merchant_category": "Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Mailing prizes and tax forms",
+     "account": "Postage & Shipping",
+     "amount_low": 5,
+     "amount_high": 40,
+     "weight": 1,
+     "item_shown_by_document": "Priority Mail flat rate",
+     "memo": "mailed stickers",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BENCHMARK LEDGER GROUP",
+   "merchant_category": "Accounting, Auditing, Bookkeeping",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Monthly bookkeeping and year-end taxes",
+     "account": "Acctg & Tax",
+     "amount_low": 350,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Invoice: monthly bookkeeping",
+     "memo": "bookkeeper",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO",
+   "merchant_category": "Computer Programming, Data Processing Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Payroll service fee",
+     "account": "Payroll Svc Fees",
+     "amount_low": 60,
+     "amount_high": 95,
+     "weight": 1,
+     "item_shown_by_document": "Simple plan, 5 people",
+     "memo": "gusto fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KAISER PERMANENTE NW",
+   "merchant_category": "Medical Insurance",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team health coverage",
+     "account": "Benefits - Health",
+     "amount_low": 900,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Group premium, 3 subscribers",
+     "memo": "health premium",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OR SEC OF STATE CORP DIV",
+   "merchant_category": "Government Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual business registration",
+     "account": "Licenses & Permits",
+     "amount_low": 50,
+     "amount_high": 275,
+     "weight": 1,
+     "item_shown_by_document": "Annual report renewal",
+     "memo": "state filing",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OREGON DEPT OF REVENUE",
+   "merchant_category": "Tax Payments",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "State corporate minimum tax",
+     "account": "Taxes - State",
+     "amount_low": 150,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Corporate excise tax payment",
+     "memo": "or tax",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MERCURY WIRE FEE",
+   "merchant_category": "Financial Institutions",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Wire and FX fees",
+     "account": "Bank Fees",
+     "amount_low": 5,
+     "amount_high": 35,
+     "weight": 1,
+     "item_shown_by_document": "Outgoing international wire fee",
+     "memo": "wire fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "UDEMY",
+   "merchant_category": "Schools and Educational Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Course on shaders",
+     "account": "Training & Books",
+     "amount_low": 15,
+     "amount_high": 90,
+     "weight": 1,
+     "item_shown_by_document": "Course: Unity Shader Graph",
+     "memo": "shader course",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}

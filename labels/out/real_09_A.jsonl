@@ -1,0 +1,100 @@
+{"id": "r0900", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this bookkeeping vendor went to bookkeeper - outside sub contractor, and a smaller amount does not change what a single-service vendor provides."}
+{"id": "r0901", "action": "request_document", "unknown": "item", "reason": "One past payment went to building operations at a much lower amount, so an invoice is needed to show whether this electrical work is routine or something else."}
+{"id": "r0902", "action": "request_document", "unknown": "item", "reason": "Past card payments spread across meals, dues, supplies, travel and more, so the card statement detail is needed to show what was bought."}
+{"id": "r0903", "action": "request_document", "unknown": "item", "reason": "The name indicates IT audit work but there is no history and consulting and data processing accounts are both plausible, so the invoice should show the service."}
+{"id": "r0904", "action": "request_document", "unknown": "item", "reason": "The only past payment was 159.93 to telephone & internet access, and this much larger computer vendor charge could be equipment or a service contract, which an invoice would show."}
+{"id": "r0905", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past payments split between chefa support and consultants-other, and this large amount differs from the recurring ones, so the treatment needs accounting judgment."}
+{"id": "r0906", "action": "request_document", "unknown": "item", "reason": "Payroll lines map to many accounts such as salaries, overtime, PERA and FICA, so the payroll register is needed to show which component this is."}
+{"id": "r0907", "action": "request_document", "unknown": "item", "reason": "Payroll has no history here and could be any of several pay or benefit accounts, so the payroll register would show the component."}
+{"id": "r0908", "action": "accept", "unknown": "nothing", "reason": "All three past payments, including one for this exact amount, went to foreclosure expense."}
+{"id": "r0909", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A journal entry is an internal reclassification with past coding across unrelated accounts and no vendor to reveal its purpose."}
+{"id": "r0910", "action": "request_document", "unknown": "item", "reason": "There is no history for this technology finance vendor, so the invoice is needed to show what equipment or agreement the payment covers."}
+{"id": "r0911", "action": "request_document", "unknown": "item", "reason": "The one past payment was a far larger marketing charge and the chart has several program-specific marketing accounts, so the invoice should show the work."}
+{"id": "r0912", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Past entries hit only payroll cash account and exchange while a trb payable account also exists, so this balance-sheet treatment needs accounting judgment."}
+{"id": "r0913", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "This amount is far above past payments, which were split across food, AV, meeting space and travel accounts, so the large allocation needs bookkeeper review."}
+{"id": "r0914", "action": "accept", "unknown": "nothing", "reason": "Past payments consistently went to emp medical, dental & life at nearly the same amount."}
+{"id": "r0915", "action": "accept", "unknown": "nothing", "reason": "Past payments consistently went to phone/internet services, including one for this exact amount."}
+{"id": "r0916", "action": "request_document", "unknown": "item", "reason": "There is no history and non-departmental spending splits across council and district accounts, so the invoice or payment request should show the performance and program funded."}
+{"id": "r0917", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "An 88,863 payment to an unseen fleet vendor may be a capital vehicle purchase and needs accounting judgment."}
+{"id": "r0918", "action": "accept", "unknown": "nothing", "reason": "This law firm's past payments all went to legal services, and the amount is only modestly above the 17,463 seen before."}
+{"id": "r0919", "action": "request_document", "unknown": "item", "reason": "There is no history and mktg and bus dev, advertising and communications consulting are close alternatives, so the invoice should show the work done."}
+{"id": "r0920", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to other administrative and this amount falls between them."}
+{"id": "r0921", "action": "accept", "unknown": "nothing", "reason": "All past payments to this firm went to legal services, and a smaller bill does not change the nature of the service."}
+{"id": "r0922", "action": "request_document", "unknown": "item", "reason": "A restaurant supplier sells many goods and groceries, produce, meat and food service are all close accounts, so a receipt should show what was bought."}
+{"id": "r0923", "action": "request_document", "unknown": "item", "reason": "Past payments went to psa and psa 2168 among many numbered PSA accounts, so the invoice should show which agreement this covers."}
+{"id": "r0924", "action": "request_document", "unknown": "item", "reason": "This individual payee has no history and city attorney spending spans litigation and other accounts, so an invoice should show what the payment was for."}
+{"id": "r0925", "action": "request_document", "unknown": "item", "reason": "There is no history and honorarium, contracted educational services and presenter costs are close, so the invoice should show what the speakers bureau charged for."}
+{"id": "r0926", "action": "accept", "unknown": "nothing", "reason": "Past payments from this department to this vendor all went to contractual services and the amount is trivial."}
+{"id": "r0927", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size went to nepool membership fee, which plainly matches this merchant."}
+{"id": "r0928", "action": "request_document", "unknown": "item", "reason": "Past coding is contractual services at far larger amounts in another department and contaminated soil removal is a close alternative, so the invoice should show the service."}
+{"id": "r0929", "action": "request_document", "unknown": "item", "reason": "There is no history and health spending contributions versus admin fees are close accounts, so the invoice should show what this large payment covers."}
+{"id": "r0930", "action": "accept", "unknown": "nothing", "reason": "Past payments to this landlord went to rent and the amount is close to the usual 34,886."}
+{"id": "r0931", "action": "accept", "unknown": "nothing", "reason": "The past payment with the same memo format went to field equipment expense, which also fits police vehicle parts from a dealer."}
+{"id": "r0932", "action": "accept", "unknown": "nothing", "reason": "Past payments of almost the same amount all went to 401k contributions and loan repayments."}
+{"id": "r0933", "action": "accept", "unknown": "nothing", "reason": "A very small charge at a stationer reasonably belongs in office supplies."}
+{"id": "r0934", "action": "accept", "unknown": "nothing", "reason": "Past payments to the bank all expensed to bank fees and no other expense account fits a bank charge, though this one is somewhat higher."}
+{"id": "r0935", "action": "accept", "unknown": "nothing", "reason": "Past payments consistently went to telephone & internet access at this same amount level."}
+{"id": "r0936", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A journal entry with no history has no vendor or memo to explain it, so it needs accounting review."}
+{"id": "r0937", "action": "request_document", "unknown": "item", "reason": "This individual has no history and stipend, honorarium, presenter and mileage accounts are all possible, so the payment request should show what it was for."}
+{"id": "r0938", "action": "accept", "unknown": "nothing", "reason": "The one past payment of similar size at this restaurant went to meals and entertainment, and the amount is small."}
+{"id": "r0939", "action": "accept", "unknown": "nothing", "reason": "Past payments to this fleet fuel card all went to fuel and the amount is only slightly above earlier ones."}
+{"id": "r0940", "action": "request_document", "unknown": "item", "reason": "There is no history and fire system work could be a service or materials, so the invoice should show what was provided."}
+{"id": "r0941", "action": "accept", "unknown": "nothing", "reason": "Past payments to this health insurer all went to emp medical, dental & life at similar amounts."}
+{"id": "r0942", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unclear with no history, and learning the business would likely settle it, for example if it fits the expense report system account."}
+{"id": "r0943", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A 74,870 payment to a university with no history could be a grant, a loan-related item or a renovation pass-through, which needs accounting judgment."}
+{"id": "r0944", "action": "request_document", "unknown": "item", "reason": "There is no history and this amount at a stationer could be supplies, printing or equipment, so the invoice should show what was bought."}
+{"id": "r0945", "action": "request_document", "unknown": "item", "reason": "The payee looks like a cultural grantee with no history, and peers split between citywide exhibits and cultural grants, so the award document should show the program."}
+{"id": "r0946", "action": "request_document", "unknown": "item", "reason": "Payroll has no history here and could be any of several pay or benefit accounts, so the payroll register would show the component."}
+{"id": "r0947", "action": "accept", "unknown": "nothing", "reason": "Past payments of this exact amount all went to shredding accounts."}
+{"id": "r0948", "action": "lookup_merchant", "unknown": "merchant", "reason": "The merchant is unfamiliar with no history and a memo of only reference numbers, so learning its business would likely settle the account."}
+{"id": "r0949", "action": "accept", "unknown": "nothing", "reason": "A very small pest control service reasonably belongs in contractual services."}
+{"id": "r0950", "action": "accept", "unknown": "nothing", "reason": "A small charge at a stationer reasonably belongs in office supplies."}
+{"id": "r0951", "action": "accept", "unknown": "nothing", "reason": "Past payments all went to telephone and pagers and the amount is only slightly above the earlier range."}
+{"id": "r0952", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unfamiliar with no history, so learning what this merchant sells is the cheapest way to narrow the account."}
+{"id": "r0953", "action": "request_document", "unknown": "item", "reason": "Only one past payment went to maint svc contracts, and telephone or fixed assets remain close, so the invoice should show whether this is the maintenance contract."}
+{"id": "r0954", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unfamiliar with no history, so learning the merchant's business would likely settle the account."}
+{"id": "r0955", "action": "accept", "unknown": "nothing", "reason": "Past payments of this exact amount consistently went to copiers."}
+{"id": "r0956", "action": "accept", "unknown": "nothing", "reason": "A very small purchase from a ready-mix supplier reasonably belongs in construction materials."}
+{"id": "r0957", "action": "accept", "unknown": "nothing", "reason": "The past transit payment went to other benefits- bus passes, which plainly matches this merchant."}
+{"id": "r0958", "action": "request_document", "unknown": "item", "reason": "This amount is far below past insurance payments and insurance and business insurance are close, so the invoice should show what the broker billed."}
+{"id": "r0959", "action": "request_document", "unknown": "item", "reason": "There is no history, the department is not available and no fuel account appears in the sample, so the invoice should show the product and its user."}
+{"id": "r0960", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name is unfamiliar with no history, so learning the merchant's business would likely settle the account."}
+{"id": "r0961", "action": "request_document", "unknown": "item", "reason": "There is no history and environmental work could be testing, operating or capital, so the invoice should show the service."}
+{"id": "r0962", "action": "accept", "unknown": "nothing", "reason": "Past payments all went to shipping or the equivalent postage/shipping account."}
+{"id": "r0963", "action": "accept", "unknown": "nothing", "reason": "The memo says vehicle rental and leasing is the matching account in the list shown."}
+{"id": "r0964", "action": "request_document", "unknown": "item", "reason": "There is no history and the chart has several close software and subscription accounts, so the invoice should show which product was bought."}
+{"id": "r0965", "action": "request_document", "unknown": "item", "reason": "Payroll lines map to many accounts and none shown are for this department, so the payroll register would show the component."}
+{"id": "r0966", "action": "accept", "unknown": "nothing", "reason": "All past payments to this law firm went to legal fees."}
+{"id": "r0967", "action": "request_document", "unknown": "item", "reason": "Payroll lines map to several pay and benefit accounts, so the payroll register would show which component this is."}
+{"id": "r0968", "action": "accept", "unknown": "nothing", "reason": "Past payments of this exact amount all went to water cooler accounts."}
+{"id": "r0969", "action": "accept", "unknown": "nothing", "reason": "The one past payment of this exact amount went to staff development/training and the amount is very small."}
+{"id": "r0970", "action": "request_document", "unknown": "item", "reason": "Past coding splits between office supplies and information systems depending on the item, so the invoice should show what was bought."}
+{"id": "r0971", "action": "accept", "unknown": "nothing", "reason": "Both past payments went to telephone and pagers and the amount is in line."}
+{"id": "r0972", "action": "accept", "unknown": "nothing", "reason": "Past payments of this exact amount all went to mktg and bus dev."}
+{"id": "r0973", "action": "accept", "unknown": "nothing", "reason": "The amount is trivial and the past payment to this vendor went to contractual services."}
+{"id": "r0974", "action": "accept", "unknown": "nothing", "reason": "Past payments, including this exact amount, all went to trustee fee."}
+{"id": "r0975", "action": "lookup_merchant", "unknown": "merchant", "reason": "The name does not show what this distributor sells and there is no history, so a lookup is the cheapest way to find a likely account."}
+{"id": "r0976", "action": "request_document", "unknown": "item", "reason": "The one past payment went to issuance expense, but marketing costs is also plausible for a newspaper, so the invoice should show what the ad was for."}
+{"id": "r0977", "action": "accept", "unknown": "nothing", "reason": "The memo says summer camp supplies, which this department codes to operating supplies, and the amount is very small."}
+{"id": "r0978", "action": "accept", "unknown": "nothing", "reason": "Past payments to this health insurer all went to emp medical, dental & life at matching amounts."}
+{"id": "r0979", "action": "accept", "unknown": "nothing", "reason": "Past payments to this firm all went to private counsel fees."}
+{"id": "r0980", "action": "accept", "unknown": "nothing", "reason": "A very small charge at a stationer reasonably belongs in office supplies."}
+{"id": "r0981", "action": "request_document", "unknown": "item", "reason": "Past payments went to cityride program at much larger amounts, while this memo cites a different contract code, so the contract should show the program."}
+{"id": "r0982", "action": "accept", "unknown": "nothing", "reason": "Past payments to this utility all went to utilities and the amount is in the usual range."}
+{"id": "r0983", "action": "ask_person", "unknown": "purpose", "reason": "A brewery charge with no history depends on which event or meeting it served, which a receipt would not show and the approver can explain."}
+{"id": "r0984", "action": "request_document", "unknown": "item", "reason": "The one past payment went to temporary staffing but the name suggests data systems and contractual or equipment are possible, so the invoice should show the service."}
+{"id": "r0985", "action": "accept", "unknown": "nothing", "reason": "The one past payment of this exact amount went to telephone and the amount is small."}
+{"id": "r0986", "action": "accept", "unknown": "nothing", "reason": "A very small charge at a stationer reasonably belongs in office supplies."}
+{"id": "r0987", "action": "request_document", "unknown": "item", "reason": "Past coding spans home office support, management fee, operating and capital accounts depending on the item, so the invoice should show what this covers."}
+{"id": "r0988", "action": "accept", "unknown": "nothing", "reason": "Past payments all went to building operations and the amount is very small."}
+{"id": "r0989", "action": "accept", "unknown": "nothing", "reason": "The one past payment of nearly the same amount to this person went to travel and the amount is small."}
+{"id": "r0990", "action": "accept", "unknown": "nothing", "reason": "Past payments, including this exact amount, all went to meals."}
+{"id": "r0991", "action": "accept", "unknown": "nothing", "reason": "Past payments all went to shipping or the equivalent postage/shipping account."}
+{"id": "r0992", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large year-end payment with no history, likely for an annual press release subscription, may be a prepayment that needs accounting judgment."}
+{"id": "r0993", "action": "request_document", "unknown": "item", "reason": "Amazon Marketplace sells many kinds of goods and there is no history, so a receipt should show what was bought."}
+{"id": "r0994", "action": "request_document", "unknown": "item", "reason": "There is no history and no dental or medical account appears in the sample, so the invoice should show whether this is a service or supplies."}
+{"id": "r0995", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this merchant went to recruitment service at similarly small amounts."}
+{"id": "r0996", "action": "request_document", "unknown": "item", "reason": "There is no history and a newspaper charge could be an ad or a subscription under contractual or other administrative, so the invoice should show the item."}
+{"id": "r0997", "action": "accept", "unknown": "nothing", "reason": "Past payments to this health insurer all went to employee benefits - medical insurance and the amount is in the usual range."}
+{"id": "r0998", "action": "accept", "unknown": "nothing", "reason": "All past payments went to employee benefits - medical insurance, and although this one is lower no other account fits a health insurer."}
+{"id": "r0999", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A law office payment with no history from non-departmental funds may be a liability settlement, and the choice among payout accounts needs accounting judgment."}

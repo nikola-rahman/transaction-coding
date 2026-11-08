@@ -1,0 +1,60 @@
+{
+ "development": {
+  "rows": 1000,
+  "wrong": 281,
+  "wrong_in_top5": 157,
+  "wrong_routed": 237,
+  "wrong_approve": 44,
+  "groups": {
+   "inconsistent coding: history pointed to another account": [
+    37,
+    14
+   ],
+   "inconsistent coding: mixed history, right answer a minority": [
+    63,
+    6
+   ],
+   "insufficient information: new merchant, no history": [
+    132,
+    11
+   ],
+   "near-duplicate account names": [
+    26,
+    13
+   ],
+   "model missed: history pointed to the right answer": [
+    23,
+    0
+   ]
+  }
+ },
+ "test": {
+  "rows": 400,
+  "wrong": 163,
+  "wrong_in_top5": 113,
+  "wrong_routed": 100,
+  "wrong_approve": 63,
+  "groups": {
+   "inconsistent coding: history pointed to another account": [
+    24,
+    18
+   ],
+   "inconsistent coding: mixed history, right answer a minority": [
+    65,
+    21
+   ],
+   "insufficient information: new merchant, no history": [
+    51,
+    15
+   ],
+   "near-duplicate account names": [
+    6,
+    5
+   ],
+   "model missed: history pointed to the right answer": [
+    17,
+    4
+   ]
+  }
+ }
+}

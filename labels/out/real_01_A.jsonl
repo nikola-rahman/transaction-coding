@@ -1,0 +1,100 @@
+{"id": "r0100", "action": "accept", "unknown": "nothing", "reason": "Both past Cox Communications payments went to phone/internet services, and a telecom bill fits that account."}
+{"id": "r0101", "action": "request_document", "unknown": "item", "reason": "No history for this gas and equipment supplier, and an invoice would show whether this was field equipment, maintenance supplies, or something else."}
+{"id": "r0102", "action": "accept", "unknown": "nothing", "reason": "All three past GetGo payments of similar size were coded to webinar service."}
+{"id": "r0103", "action": "request_document", "unknown": "item", "reason": "A generic Payroll line with no history could be salary, tax, or benefit, and the payroll register would show which component it is."}
+{"id": "r0104", "action": "accept", "unknown": "nothing", "reason": "A small restaurant charge matching the one past coding to meals and entertainment."}
+{"id": "r0105", "action": "request_document", "unknown": "item", "reason": "An individual payee with no history and no likely account, so a receipt or expense report would show what was paid for."}
+{"id": "r0106", "action": "accept", "unknown": "nothing", "reason": "Both past payments, including one for the identical $1,200, were coded to sales/marketing - adver."}
+{"id": "r0107", "action": "accept", "unknown": "nothing", "reason": "The amount is far below past premiums, but it is very small and the merchant's history points to vision insurance within employee benefits."}
+{"id": "r0108", "action": "accept", "unknown": "nothing", "reason": "All past Checkmate charges, mostly this exact $42, were coded to payroll service fees."}
+{"id": "r0109", "action": "accept", "unknown": "nothing", "reason": "All past Verizon Wireless bills of similar size were coded to telephone - cell phones."}
+{"id": "r0110", "action": "request_document", "unknown": "item", "reason": "Past coding is marketing, but this round $17,500 exceeds every amount shown and close marketing accounts exist, so an invoice should confirm the service."}
+{"id": "r0111", "action": "accept", "unknown": "nothing", "reason": "The amount is in line with past Fidelity payments, all coded to 401k contributions and loan repayments."}
+{"id": "r0112", "action": "accept", "unknown": "nothing", "reason": "Verizon Business is plainly a telecom vendor, and telephone & internet access is the direct match despite no history."}
+{"id": "r0113", "action": "accept", "unknown": "nothing", "reason": "A small pizza charge matching the one past coding to meals and entertainment."}
+{"id": "r0114", "action": "lookup_merchant", "unknown": "merchant", "reason": "A generic vendor name with no history leaves the business unknown among 521 accounts, and identifying it would narrow the account."}
+{"id": "r0115", "action": "accept", "unknown": "nothing", "reason": "A small ready-mix purchase by street services matches how the department codes similar paving material vendor CalMat, to construction expense."}
+{"id": "r0116", "action": "request_document", "unknown": "item", "reason": "Lavigne is always consulting, but accounts are specific to the service month, so the invoice is needed to show the period billed."}
+{"id": "r0117", "action": "accept", "unknown": "nothing", "reason": "The identical $11,088.56 was previously coded to building maintenance, as was the other past payment."}
+{"id": "r0118", "action": "accept", "unknown": "nothing", "reason": "Past Frontier bills at this level were consistently coded to telephone and pagers."}
+{"id": "r0119", "action": "accept", "unknown": "nothing", "reason": "All past payments of this recurring amount, including the identical $757, were coded to building maintenance."}
+{"id": "r0120", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $94,688 payment to a vendor with no history against a prior-year encumbrance is high risk and needs review of the contract and fiscal-year treatment."}
+{"id": "r0121", "action": "request_document", "unknown": "item", "reason": "Similar aging providers split across meal, social service, and contractual accounts, so an invoice would show which program this payment covers."}
+{"id": "r0122", "action": "accept", "unknown": "nothing", "reason": "All past $10,000 payments to this vendor were coded to professional services, and only a smaller odd amount went to travel."}
+{"id": "r0123", "action": "accept", "unknown": "nothing", "reason": "This recurring $45 charge was consistently coded to other operating charges."}
+{"id": "r0124", "action": "accept", "unknown": "nothing", "reason": "All past Eversource payments, including ones of similar size, were coded to utilities."}
+{"id": "r0125", "action": "request_document", "unknown": "item", "reason": "NAES splits between management fees and home office support, and this small amount matches neither fixed fee, so an invoice would show which applies."}
+{"id": "r0126", "action": "accept", "unknown": "nothing", "reason": "All past Faneuil payments, including the identical $112,194, were coded to contractual."}
+{"id": "r0127", "action": "accept", "unknown": "nothing", "reason": "Staples Business Advantage is an office supply vendor and its one past charge was coded to office supplies."}
+{"id": "r0128", "action": "accept", "unknown": "nothing", "reason": "ADP charges of this kind expense to payroll services, with the cash and payables rows being the offsetting entries."}
+{"id": "r0129", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "The memo suggests contractual services, but $98,560 is wholly out of line with the two tiny past HP charges coded to office and administrative."}
+{"id": "r0130", "action": "request_document", "unknown": "item", "reason": "Past coding is to PSA accounts, but many numbered PSAs exist and this amount is far below past payments, so the invoice must show which agreement applies."}
+{"id": "r0131", "action": "accept", "unknown": "nothing", "reason": "Frontier Communications is plainly a phone provider, so a routine $139.98 bill belongs in the telephone account despite no history in this row."}
+{"id": "r0132", "action": "request_document", "unknown": "item", "reason": "No history for this council, and an invoice would show whether $11,025 was dues, conference fees, or something else given close membership accounts."}
+{"id": "r0133", "action": "request_document", "unknown": "item", "reason": "The one past payment was a $2,000 membership, and this different amount could be dues or an event, which an invoice would show."}
+{"id": "r0134", "action": "request_document", "unknown": "item", "reason": "Payroll amounts spread across many component accounts, and the payroll register would show which one this $69.20 line belongs to."}
+{"id": "r0135", "action": "request_document", "unknown": "item", "reason": "Past Elidah payments were much larger ct next grants, so a $530.94 odd amount needs an invoice to show whether it is a grant or something else."}
+{"id": "r0136", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $44,160 payment to a vendor with no history is high risk, with close fee, contract, and prepaid accounts possible."}
+{"id": "r0137", "action": "accept", "unknown": "nothing", "reason": "A $10 payment to an individual is too small to justify follow-up, and a general office or travel account would be reasonable."}
+{"id": "r0138", "action": "request_document", "unknown": "item", "reason": "Business Card is a card payment rather than a real vendor, so the statement or receipt is needed to show what was bought."}
+{"id": "r0139", "action": "request_document", "unknown": "item", "reason": "A generic Payroll line with no history could be any payroll component, and the payroll register would show which."}
+{"id": "r0140", "action": "lookup_merchant", "unknown": "merchant", "reason": "An unfamiliar name with no history leaves the business unknown, and identifying it is the cheapest first step."}
+{"id": "r0141", "action": "accept", "unknown": "nothing", "reason": "All past FedEx charges of similar size were coded to postage exp."}
+{"id": "r0142", "action": "accept", "unknown": "nothing", "reason": "Past large Kool Ink payments near this amount were all coded to contractual, with only small charges going elsewhere."}
+{"id": "r0143", "action": "accept", "unknown": "nothing", "reason": "All past payments of similar size were coded to homeownership counseling expense."}
+{"id": "r0144", "action": "request_document", "unknown": "item", "reason": "Past sheriff Payroll lines span several component accounts, and the payroll register would show which applies to this amount."}
+{"id": "r0145", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "Similar amounts to this town were coded to payment in lieu of taxes, municipal subsidy, and distributions, so the classification needs accounting judgment."}
+{"id": "r0146", "action": "request_document", "unknown": "item", "reason": "Payroll amounts span many component accounts, none shown for this department, and the payroll register would show which applies."}
+{"id": "r0147", "action": "request_document", "unknown": "item", "reason": "A chamber payment with no history could be dues, sponsorship, or advertising, which an invoice would show."}
+{"id": "r0148", "action": "accept", "unknown": "nothing", "reason": "Both past payments to this insurance broker were coded to business insurance."}
+{"id": "r0149", "action": "accept", "unknown": "nothing", "reason": "All three past charges of similar size were coded to advertising."}
+{"id": "r0150", "action": "accept", "unknown": "nothing", "reason": "Past $5 charges were mostly coded to other benefits - coffee/ water, and the amount is very small."}
+{"id": "r0151", "action": "accept", "unknown": "nothing", "reason": "All past Tri-Com payments of similar size were coded to temporary staffing."}
+{"id": "r0152", "action": "request_document", "unknown": "item", "reason": "This individual's past payments split between travel and advertising, and this amount sits between them, so the expense report would show which applies."}
+{"id": "r0153", "action": "accept", "unknown": "nothing", "reason": "This recurring amount matches past Verizon bills, all coded to telephone & internet access."}
+{"id": "r0154", "action": "accept", "unknown": "nothing", "reason": "This recurring treasurer payment fits the higher amount band that was always coded to salaries, not the lower other payroll expenses band."}
+{"id": "r0155", "action": "accept", "unknown": "nothing", "reason": "An advertising vendor with its one past payment coded to advertising, and a small amount."}
+{"id": "r0156", "action": "accept", "unknown": "nothing", "reason": "A very small $3 charge like past $2 and $4 charges coded to travel."}
+{"id": "r0157", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $250,000 payment with no history could be a grant, contribution, subsidy, or pass-through, which is high risk and needs accounting judgment."}
+{"id": "r0158", "action": "accept", "unknown": "nothing", "reason": "All past Iron Mountain charges of similar size were coded to rent."}
+{"id": "r0159", "action": "accept", "unknown": "nothing", "reason": "The identical recurring $18,927.78 was consistently coded to rent."}
+{"id": "r0160", "action": "accept", "unknown": "nothing", "reason": "All past Iron Mountain charges of similar size were coded to rent."}
+{"id": "r0161", "action": "request_document", "unknown": "item", "reason": "Past amounts were multiples of $178.86 coded to assertive community treatment, but $503 is not, so an invoice would show which service this is."}
+{"id": "r0162", "action": "accept", "unknown": "nothing", "reason": "A small bar charge with its one past use in a meals and entertainment account, so a meals account is reasonable."}
+{"id": "r0163", "action": "request_document", "unknown": "item", "reason": "Payroll amounts span many component accounts, and the payroll register would show which applies to this line."}
+{"id": "r0164", "action": "accept", "unknown": "nothing", "reason": "A very small Staples charge where office and other supplies expenses is the reasonable account."}
+{"id": "r0165", "action": "accept", "unknown": "nothing", "reason": "A small charge in line with all past amounts coded to meetings & workshops."}
+{"id": "r0166", "action": "accept", "unknown": "nothing", "reason": "All past Connecticare charges of similar size were coded to emp medical, dental & life."}
+{"id": "r0167", "action": "request_document", "unknown": "item", "reason": "An individual payee with no history and no likely account, so an expense report would show what was paid for."}
+{"id": "r0168", "action": "accept", "unknown": "nothing", "reason": "This recurring treasurer payment fits the lower amount band always coded to other payroll expenses, not the higher salaries band."}
+{"id": "r0169", "action": "accept", "unknown": "nothing", "reason": "All past Connecticare charges, including this exact $239, were coded to emp medical, dental & life."}
+{"id": "r0170", "action": "accept", "unknown": "nothing", "reason": "Both past payments of similar scale to this firm were coded to legal."}
+{"id": "r0171", "action": "accept", "unknown": "nothing", "reason": "The identical recurring $17,175.77 was consistently coded to support services."}
+{"id": "r0172", "action": "accept", "unknown": "nothing", "reason": "Small Office Depot charges were coded to office and administrative in nearly every department shown, and that account is in this organization's list."}
+{"id": "r0173", "action": "request_document", "unknown": "item", "reason": "This amount is over three times the past payments to this individual coded to staff development/training, so an expense report would show what it covers."}
+{"id": "r0174", "action": "lookup_merchant", "unknown": "merchant", "reason": "An unfamiliar company name with no history, and knowing its business would probably settle the account."}
+{"id": "r0175", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A large broker payment with one past use, where insurance and business insurance are close accounts and policy decides between them."}
+{"id": "r0176", "action": "accept", "unknown": "nothing", "reason": "All past Connecticare charges of similar size were coded to emp medical, dental & life."}
+{"id": "r0177", "action": "accept", "unknown": "nothing", "reason": "A very small vision benefit charge where emp medical, dental & life is the reasonable account."}
+{"id": "r0178", "action": "request_document", "unknown": "item", "reason": "Bank of America card charges spread over many accounts, so the receipt or statement would show what was bought."}
+{"id": "r0179", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $74,870 payment to a university with no history could be a grant, loan-related item, or contribution, which is high risk."}
+{"id": "r0180", "action": "lookup_merchant", "unknown": "merchant", "reason": "An unfamiliar company with no history, and knowing whether it is a repair or equipment business would probably settle the account."}
+{"id": "r0181", "action": "lookup_merchant", "unknown": "merchant", "reason": "An unclear merchant name with no history, and knowing its business would probably settle the account."}
+{"id": "r0182", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "$7,075 from a technology reseller is far above its one small past charge and could be a capital purchase."}
+{"id": "r0183", "action": "accept", "unknown": "nothing", "reason": "All past charges to this stationer were coded to office supplies, and the amount is small."}
+{"id": "r0184", "action": "accept", "unknown": "nothing", "reason": "A very small utility bill nearly identical to the one past charge coded to foreclosure expense."}
+{"id": "r0185", "action": "request_document", "unknown": "item", "reason": "This amount is about four times the largest past counseling payment, so an invoice should show whether it is still homeownership counseling."}
+{"id": "r0186", "action": "lookup_merchant", "unknown": "merchant", "reason": "An unfamiliar technology-sounding name with no history, and knowing its business would probably settle the account."}
+{"id": "r0187", "action": "accept", "unknown": "nothing", "reason": "The identical recurring $40 was consistently coded to water cooler."}
+{"id": "r0188", "action": "request_document", "unknown": "item", "reason": "Commercial card charges spread over many accounts, so the receipt would show what was bought."}
+{"id": "r0189", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $50,000 payment with no history could be a grant, contribution, or subsidy, which is high risk and needs accounting judgment."}
+{"id": "r0190", "action": "accept", "unknown": "nothing", "reason": "This amount fits the variable disability premiums near $96-$109, not the fixed $57.12 life charge."}
+{"id": "r0191", "action": "accept", "unknown": "nothing", "reason": "The identical $99,000 and the other past rating fee were coded to bond issuance costs."}
+{"id": "r0192", "action": "accept", "unknown": "nothing", "reason": "The name and PC suffix plainly indicate a law firm, so legal fees are the natural fit for a routine bill."}
+{"id": "r0193", "action": "accept", "unknown": "nothing", "reason": "All past Unishippers charges of similar size were coded to postage/shipping."}
+{"id": "r0194", "action": "accept", "unknown": "nothing", "reason": "All past Eversource payments were coded to utilities, including very small ones."}
+{"id": "r0195", "action": "accept", "unknown": "nothing", "reason": "All past payments, mostly of this scale, were coded to solid waste assessment tax."}
+{"id": "r0196", "action": "request_document", "unknown": "item", "reason": "An individual payee with no history and no likely account, so an expense report would show what was paid for."}
+{"id": "r0197", "action": "request_document", "unknown": "item", "reason": "Past coding depends on the item, split among office supplies, non-capital assets, and contributions, and this amount is the largest shown."}
+{"id": "r0198", "action": "send_to_bookkeeper", "unknown": "accounting_judgment", "reason": "A $75,000 payment with no history could be a grant, contribution, or subsidy, which is high risk and needs accounting judgment."}
+{"id": "r0199", "action": "request_document", "unknown": "item", "reason": "A life and benefits insurer with no history could fit pension, disability, or medical and life accounts, which an invoice would show."}

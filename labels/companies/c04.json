@@ -1,0 +1,1403 @@
+{
+ "name": "Brightfold Collective",
+ "chart": [
+  "Rebillable Client Paid Search Media",
+  "Rebillable Client Paid Social Media",
+  "Rebillable Client Programmatic Display Media",
+  "Rebillable Client Streaming Audio and Video Media",
+  "Rebillable Client Influencer and Creator Fees",
+  "Rebillable Client Stock Photography and Footage",
+  "Rebillable Client Freelance Production",
+  "Rebillable Client Photo and Video Shoot Costs",
+  "Rebillable Client Print and Direct Mail",
+  "Rebillable Client Software and Tool Licenses",
+  "Rebillable Client Travel",
+  "Rebillable Client Event and Activation Costs",
+  "Rebillable Client Research and Survey Panels",
+  "Rebillable Client Translation and Localization",
+  "Agency Own Brand Advertising",
+  "New Business Pitch Costs",
+  "Speculative Creative Production",
+  "Unbilled Client Cost Write-Offs",
+  "Freelance Creative Contractors",
+  "Freelance Developers",
+  "Creative Stock Asset Subscriptions",
+  "Salaries and Wages",
+  "Employer Payroll Taxes",
+  "Health and Dental Benefits",
+  "Retirement Plan Contributions",
+  "Payroll Service Fees",
+  "Recruiting Agency Fees",
+  "Job Board Postings",
+  "Recruiting Software",
+  "Background Checks",
+  "Employee Training and Courses",
+  "Team Offsites and Retreats",
+  "Employee Gifts and Recognition",
+  "Home Office Stipends",
+  "Commuter Benefits",
+  "Design and Creative Software",
+  "Marketing Analytics Software",
+  "Search Optimization and Keyword Tools",
+  "Social Media Management Tools",
+  "Project Management Software",
+  "Communication and Collaboration Software",
+  "Customer Relationship Management Software",
+  "Cloud Hosting and Infrastructure",
+  "Domain Names and Web Hosting",
+  "Artificial Intelligence Tools and Usage",
+  "Security and Password Management Software",
+  "Finance and Accounting Software",
+  "Prepaid Software Subscriptions",
+  "Office Rent",
+  "Coworking Memberships",
+  "Utilities",
+  "Internet and Telecommunications",
+  "Office Supplies",
+  "Kitchen Snacks and Coffee",
+  "Cleaning and Janitorial Services",
+  "Office Repairs and Maintenance",
+  "Postage and Couriers",
+  "Office Printing and Signage",
+  "Capitalized Computer Equipment",
+  "Small Equipment Under Capitalization Threshold",
+  "Office Furniture Under Capitalization Threshold",
+  "Airfare",
+  "Hotels and Lodging",
+  "Ground Transportation",
+  "Parking and Tolls",
+  "Travel Meals",
+  "Conference Registration and Tickets",
+  "Trade Show Booth Costs",
+  "Team Meals",
+  "Client Meals and Entertainment",
+  "Legal Fees",
+  "Accounting and Tax Preparation",
+  "Consulting and Advisory Fees",
+  "Business Insurance",
+  "Bank Service Fees",
+  "Foreign Exchange Fees",
+  "Business Licenses and Permits",
+  "Professional Association Dues",
+  "Industry Publications and Subscriptions",
+  "Charitable Donations"
+ ],
+ "departments": [
+  "Client Services",
+  "Paid Media",
+  "Creative Studio",
+  "Strategy and Analytics",
+  "Growth and New Business",
+  "Operations and Finance",
+  "People and Culture"
+ ],
+ "people": [
+  {
+   "name": "Marisol Vantongeren",
+   "department": "Client Services",
+   "card_name": "Marisol Vantongeren Card"
+  },
+  {
+   "name": "Theo Okonkwo-Reyes",
+   "department": "Client Services",
+   "card_name": "Client Services Team Card"
+  },
+  {
+   "name": "Priya Lindqvist",
+   "department": "Client Services",
+   "card_name": "Priya Lindqvist Card"
+  },
+  {
+   "name": "Dashiell Mbeki",
+   "department": "Paid Media",
+   "card_name": "Paid Media Client Spend Card"
+  },
+  {
+   "name": "Hanneke Soto",
+   "department": "Paid Media",
+   "card_name": "Hanneke Soto Card"
+  },
+  {
+   "name": "Callum Ferreira",
+   "department": "Paid Media",
+   "card_name": "Paid Media Client Spend Card"
+  },
+  {
+   "name": "Ines Halloran",
+   "department": "Creative Studio",
+   "card_name": "Creative Studio Card"
+  },
+  {
+   "name": "Rafferty Adeyemi",
+   "department": "Creative Studio",
+   "card_name": "Production Shoot Card"
+  },
+  {
+   "name": "Yuki Brannigan",
+   "department": "Creative Studio",
+   "card_name": "Creative Studio Card"
+  },
+  {
+   "name": "Soren Achebe",
+   "department": "Strategy and Analytics",
+   "card_name": "Strategy and Analytics Card"
+  },
+  {
+   "name": "Lucia Thackeray",
+   "department": "Growth and New Business",
+   "card_name": "Lucia Thackeray Card"
+  },
+  {
+   "name": "Bram Castellanos",
+   "department": "Growth and New Business",
+   "card_name": "New Business Pitch Card"
+  },
+  {
+   "name": "Odalys Whitlock",
+   "department": "Operations and Finance",
+   "card_name": "Operations Card"
+  },
+  {
+   "name": "Nikhil Sorensen",
+   "department": "Operations and Finance",
+   "card_name": "Nikhil Sorensen Card"
+  },
+  {
+   "name": "Tamsin Oyelaran",
+   "department": "People and Culture",
+   "card_name": "People and Culture Card"
+  }
+ ],
+ "merchants": [
+  {
+   "name": "GOOGLE *ADS8841203377",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Search campaign run for a client",
+     "account": "Rebillable Client Paid Search Media",
+     "amount_low": 800,
+     "amount_high": 18000,
+     "weight": 6,
+     "item_shown_by_document": "Google Ads invoice for a client ad account",
+     "memo": "Client search, monthly threshold charge",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Search campaign promoting the agency itself",
+     "account": "Agency Own Brand Advertising",
+     "amount_low": 200,
+     "amount_high": 2500,
+     "weight": 1,
+     "item_shown_by_document": "Google Ads invoice for the agency ad account",
+     "memo": "Our own lead gen search",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "FACEBK *W7KD3PLQ92",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Paid social campaign run for a client",
+     "account": "Rebillable Client Paid Social Media",
+     "amount_low": 500,
+     "amount_high": 15000,
+     "weight": 6,
+     "item_shown_by_document": "Meta Ads receipt for a client ad account",
+     "memo": "Client Meta spend",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Paid social promoting agency case studies",
+     "account": "Agency Own Brand Advertising",
+     "amount_low": 150,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Meta Ads receipt for the agency ad account",
+     "memo": "Case study promo",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "LINKEDIN *MKTG SOLNS",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Sponsored content for a business client",
+     "account": "Rebillable Client Paid Social Media",
+     "amount_low": 600,
+     "amount_high": 9000,
+     "weight": 4,
+     "item_shown_by_document": "Campaign Manager invoice for sponsored content",
+     "memo": "Client B2B sponsored posts",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Thought leadership ads for the agency",
+     "account": "Agency Own Brand Advertising",
+     "amount_low": 200,
+     "amount_high": 2000,
+     "weight": 1,
+     "item_shown_by_document": "Campaign Manager invoice for sponsored content",
+     "memo": "Founder post boost",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Open role listing",
+     "account": "Job Board Postings",
+     "amount_low": 250,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "LinkedIn job posting receipt",
+     "memo": "Senior media buyer role",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "ADOBE *CREATIVE CLOUD",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Creative Cloud seats for the studio",
+     "account": "Design and Creative Software",
+     "amount_low": 400,
+     "amount_high": 1400,
+     "weight": 4,
+     "item_shown_by_document": "Creative Cloud for Teams seat invoice",
+     "memo": "Studio seats",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Adobe Stock credits for a client campaign",
+     "account": "Rebillable Client Stock Photography and Footage",
+     "amount_low": 60,
+     "amount_high": 600,
+     "weight": 1,
+     "item_shown_by_document": "Adobe Stock credit pack receipt",
+     "memo": "Stock for client spring campaign",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "GETTY IMAGES US INC",
+   "merchant_category": "Commercial Photography and Art",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Image license used in a live client campaign",
+     "account": "Rebillable Client Stock Photography and Footage",
+     "amount_low": 175,
+     "amount_high": 2200,
+     "weight": 3,
+     "item_shown_by_document": "Getty image license with usage terms",
+     "memo": "Hero image license for client",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Image license used in a speculative pitch",
+     "account": "New Business Pitch Costs",
+     "amount_low": 175,
+     "amount_high": 800,
+     "weight": 1,
+     "item_shown_by_document": "Getty image license with usage terms",
+     "memo": "Pitch deck comp",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UPWORK -8814CLIENT",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Freelance designer on a client job",
+     "account": "Rebillable Client Freelance Production",
+     "amount_low": 150,
+     "amount_high": 3500,
+     "weight": 4,
+     "item_shown_by_document": "Upwork contract invoice with freelancer name",
+     "memo": "Resizes for client banners",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Freelance developer on the agency website",
+     "account": "Freelance Developers",
+     "amount_low": 200,
+     "amount_high": 2800,
+     "weight": 1,
+     "item_shown_by_document": "Upwork contract invoice with freelancer name",
+     "memo": "Agency site fixes",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "AMZN MKTP US*2K4TR81Q0",
+   "merchant_category": "General Merchandise",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Everyday office supplies",
+     "account": "Office Supplies",
+     "amount_low": 12,
+     "amount_high": 180,
+     "weight": 4,
+     "item_shown_by_document": "Order summary listing pens, notebooks and cables",
+     "memo": "Office restock",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Monitor or keyboard for a team member",
+     "account": "Small Equipment Under Capitalization Threshold",
+     "amount_low": 90,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Order summary listing a monitor or peripheral",
+     "memo": "New hire desk setup",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Props bought for a client shoot",
+     "account": "Rebillable Client Photo and Video Shoot Costs",
+     "amount_low": 25,
+     "amount_high": 450,
+     "weight": 2,
+     "item_shown_by_document": "Order summary listing styling props",
+     "memo": "Props for client shoot",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "APPLE STORE R214",
+   "merchant_category": "Computers and Peripherals",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Laptop above the capitalization threshold",
+     "account": "Capitalized Computer Equipment",
+     "amount_low": 2200,
+     "amount_high": 3800,
+     "weight": 2,
+     "item_shown_by_document": "Receipt for a MacBook Pro",
+     "memo": "New laptop for designer",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Tablet or accessories below the capitalization threshold",
+     "account": "Small Equipment Under Capitalization Threshold",
+     "amount_low": 80,
+     "amount_high": 1100,
+     "weight": 2,
+     "item_shown_by_document": "Receipt for an iPad or adapters",
+     "memo": "Replacement dock and adapters",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "DELTA AIR LINES",
+   "merchant_category": "Airlines",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Flight for agency business",
+     "account": "Airfare",
+     "amount_low": 180,
+     "amount_high": 750,
+     "weight": 3,
+     "item_shown_by_document": "E-ticket receipt with passenger and route",
+     "memo": "Flight to conference",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to a client site billed back to the client",
+     "account": "Rebillable Client Travel",
+     "amount_low": 220,
+     "amount_high": 850,
+     "weight": 2,
+     "item_shown_by_document": "E-ticket receipt with passenger and route",
+     "memo": "Client quarterly review",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Flight to pitch a prospective client",
+     "account": "New Business Pitch Costs",
+     "amount_low": 220,
+     "amount_high": 800,
+     "weight": 1,
+     "item_shown_by_document": "E-ticket receipt with passenger and route",
+     "memo": "Pitch in person",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "MARRIOTT HOTELS",
+   "merchant_category": "Lodging",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hotel for agency business",
+     "account": "Hotels and Lodging",
+     "amount_low": 170,
+     "amount_high": 620,
+     "weight": 3,
+     "item_shown_by_document": "Hotel folio with room and tax",
+     "memo": "Conference hotel",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Hotel for a client trip billed back to the client",
+     "account": "Rebillable Client Travel",
+     "amount_low": 190,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Hotel folio with room and tax",
+     "memo": "Client onsite stay",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "UBER *TRIP",
+   "merchant_category": "Taxis and Rideshare",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ride on agency business",
+     "account": "Ground Transportation",
+     "amount_low": 9,
+     "amount_high": 70,
+     "weight": 5,
+     "item_shown_by_document": "Trip receipt with pickup and dropoff",
+     "memo": "Ride to airport",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Ride during a client trip billed back to the client",
+     "account": "Rebillable Client Travel",
+     "amount_low": 10,
+     "amount_high": 80,
+     "weight": 2,
+     "item_shown_by_document": "Trip receipt with pickup and dropoff",
+     "memo": "Client shoot day ride",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "HUBSPOT INC",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly seats for the agency sales pipeline",
+     "account": "Customer Relationship Management Software",
+     "amount_low": 300,
+     "amount_high": 1200,
+     "weight": 3,
+     "item_shown_by_document": "HubSpot invoice for a monthly term",
+     "memo": "Monthly CRM",
+     "decided_by": "accounting_judgment"
+    },
+    {
+     "purpose": "Annual plan paid upfront",
+     "account": "Prepaid Software Subscriptions",
+     "amount_low": 6000,
+     "amount_high": 16000,
+     "weight": 1,
+     "item_shown_by_document": "HubSpot invoice for a twelve month term",
+     "memo": "Annual renewal",
+     "decided_by": "accounting_judgment"
+    }
+   ]
+  },
+  {
+   "name": "AWS EMEA / AMAZON WEB SERVICES",
+   "merchant_category": "Cloud Computing Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Hosting for internal reporting tools",
+     "account": "Cloud Hosting and Infrastructure",
+     "amount_low": 120,
+     "amount_high": 900,
+     "weight": 3,
+     "item_shown_by_document": "AWS bill by linked account",
+     "memo": "Reporting stack",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Hosting for a client landing page billed back",
+     "account": "Rebillable Client Software and Tool Licenses",
+     "amount_low": 40,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "AWS bill by linked account",
+     "memo": "Client microsite hosting",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "NORTHLIGHT STUDIO RENTALS",
+   "merchant_category": "Photographic Studios",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Studio day for a client shoot",
+     "account": "Rebillable Client Photo and Video Shoot Costs",
+     "amount_low": 600,
+     "amount_high": 3200,
+     "weight": 4,
+     "item_shown_by_document": "Studio rental invoice for a shoot day",
+     "memo": "Client spring shoot",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Studio day for the agency showreel",
+     "account": "Agency Own Brand Advertising",
+     "amount_low": 500,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Studio rental invoice for a shoot day",
+     "memo": "Agency reel",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "FERROUS PRINT WORKS",
+   "merchant_category": "Commercial Printing",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Direct mail run for a client",
+     "account": "Rebillable Client Print and Direct Mail",
+     "amount_low": 900,
+     "amount_high": 14000,
+     "weight": 3,
+     "item_shown_by_document": "Print invoice listing mailers and quantities",
+     "memo": "Client mailer drop",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Signage and banners for the agency booth",
+     "account": "Trade Show Booth Costs",
+     "amount_low": 250,
+     "amount_high": 1800,
+     "weight": 1,
+     "item_shown_by_document": "Print invoice listing banner stands",
+     "memo": "Booth banners",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Business cards and office signage",
+     "account": "Office Printing and Signage",
+     "amount_low": 60,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "Print invoice listing business cards",
+     "memo": "New hire cards",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "TALLOW & THYME CATERING",
+   "merchant_category": "Caterers",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Lunch for an internal team meeting",
+     "account": "Team Meals",
+     "amount_low": 120,
+     "amount_high": 700,
+     "weight": 3,
+     "item_shown_by_document": "Catering invoice with headcount",
+     "memo": "All hands lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Lunch for a client workshop at the office",
+     "account": "Client Meals and Entertainment",
+     "amount_low": 150,
+     "amount_high": 900,
+     "weight": 2,
+     "item_shown_by_document": "Catering invoice with headcount",
+     "memo": "Client workshop lunch",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Catering at a client event billed back",
+     "account": "Rebillable Client Event and Activation Costs",
+     "amount_low": 600,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Catering invoice with headcount",
+     "memo": "Client launch event",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "SEMRUSH *PRO",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Agency plan for keyword research",
+     "account": "Search Optimization and Keyword Tools",
+     "amount_low": 130,
+     "amount_high": 500,
+     "weight": 3,
+     "item_shown_by_document": "Semrush invoice for the agency plan",
+     "memo": "SEO team plan",
+     "decided_by": "item"
+    },
+    {
+     "purpose": "Add-on project seat dedicated to one client",
+     "account": "Rebillable Client Software and Tool Licenses",
+     "amount_low": 60,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Semrush invoice for an add-on seat",
+     "memo": "Client seat, bill back",
+     "decided_by": "item"
+    }
+   ]
+  },
+  {
+   "name": "EVENTBRITE *SUMMIT TIX",
+   "merchant_category": "Event Ticket Agencies",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Ticket for an industry conference",
+     "account": "Conference Registration and Tickets",
+     "amount_low": 90,
+     "amount_high": 1300,
+     "weight": 3,
+     "item_shown_by_document": "Eventbrite order confirmation",
+     "memo": "Marketing summit ticket",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Tickets for a client hosted event billed back",
+     "account": "Rebillable Client Event and Activation Costs",
+     "amount_low": 120,
+     "amount_high": 2400,
+     "weight": 1,
+     "item_shown_by_document": "Eventbrite order confirmation",
+     "memo": "Client activation guests",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "PAYPAL *JRPRODS",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Videographer on a client job",
+     "account": "Rebillable Client Freelance Production",
+     "amount_low": 400,
+     "amount_high": 2800,
+     "weight": 3,
+     "item_shown_by_document": "Emailed freelancer invoice for shoot days",
+     "memo": "Second shooter for client",
+     "decided_by": "purpose"
+    },
+    {
+     "purpose": "Videographer on a speculative concept",
+     "account": "Speculative Creative Production",
+     "amount_low": 300,
+     "amount_high": 1500,
+     "weight": 1,
+     "item_shown_by_document": "Emailed freelancer invoice for shoot days",
+     "memo": "Spec film for prospect",
+     "decided_by": "purpose"
+    }
+   ]
+  },
+  {
+   "name": "TIKTOK ADS 4418820",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Short video ads for a consumer client",
+     "account": "Rebillable Client Paid Social Media",
+     "amount_low": 400,
+     "amount_high": 9000,
+     "weight": 3,
+     "item_shown_by_document": "TikTok Ads billing statement",
+     "memo": "Client TikTok flight",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "THE TRADE DESK INC",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Programmatic display buys for clients",
+     "account": "Rebillable Client Programmatic Display Media",
+     "amount_low": 6000,
+     "amount_high": 48000,
+     "weight": 2,
+     "item_shown_by_document": "Monthly media invoice by campaign",
+     "memo": "Programmatic media, monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SPOTIFY AD STUDIO",
+   "merchant_category": "Advertising Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Audio ads for a client",
+     "account": "Rebillable Client Streaming Audio and Video Media",
+     "amount_low": 300,
+     "amount_high": 6000,
+     "weight": 1,
+     "item_shown_by_document": "Spotify Ads campaign invoice",
+     "memo": "Client audio flight",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SPROUT SOCIAL INC",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Social scheduling and listening",
+     "account": "Social Media Management Tools",
+     "amount_low": 300,
+     "amount_high": 1100,
+     "weight": 2,
+     "item_shown_by_document": "Sprout Social monthly invoice",
+     "memo": "Social tool",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FIGMA MONTHLY",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Design collaboration seats",
+     "account": "Design and Creative Software",
+     "amount_low": 90,
+     "amount_high": 600,
+     "weight": 2,
+     "item_shown_by_document": "Figma seat invoice",
+     "memo": "Figma seats",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "CANVA* I04812-7731",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Quick social templates",
+     "account": "Design and Creative Software",
+     "amount_low": 15,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "Canva Teams receipt",
+     "memo": "Canva teams",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SHUTTERSTOCK",
+   "merchant_category": "Commercial Photography and Art",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stock library subscription for the studio",
+     "account": "Creative Stock Asset Subscriptions",
+     "amount_low": 99,
+     "amount_high": 350,
+     "weight": 1,
+     "item_shown_by_document": "Shutterstock subscription receipt",
+     "memo": "Stock subscription",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "AHREFS PTE LTD",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Backlink and rank tracking",
+     "account": "Search Optimization and Keyword Tools",
+     "amount_low": 129,
+     "amount_high": 450,
+     "weight": 1,
+     "item_shown_by_document": "Ahrefs subscription receipt",
+     "memo": "Ahrefs monthly",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SLACK T04Q8RMNP",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Team and client messaging",
+     "account": "Communication and Collaboration Software",
+     "amount_low": 300,
+     "amount_high": 700,
+     "weight": 2,
+     "item_shown_by_document": "Slack monthly invoice",
+     "memo": "Slack",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "NOTION LABS INC",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Internal wiki and briefs",
+     "account": "Project Management Software",
+     "amount_low": 200,
+     "amount_high": 480,
+     "weight": 1,
+     "item_shown_by_document": "Notion workspace invoice",
+     "memo": "Notion",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ASANA",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Client project tracking",
+     "account": "Project Management Software",
+     "amount_low": 250,
+     "amount_high": 650,
+     "weight": 2,
+     "item_shown_by_document": "Asana seat invoice",
+     "memo": "Asana",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "ZOOM.US 888-799-9666",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Video meetings",
+     "account": "Communication and Collaboration Software",
+     "amount_low": 70,
+     "amount_high": 320,
+     "weight": 1,
+     "item_shown_by_document": "Zoom monthly receipt",
+     "memo": "Zoom",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GOOGLE *WORKSPACE_BRTF",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Email and documents",
+     "account": "Communication and Collaboration Software",
+     "amount_low": 350,
+     "amount_high": 640,
+     "weight": 2,
+     "item_shown_by_document": "Workspace invoice by seat",
+     "memo": "Workspace",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "OPENAI *CHATGPT TEAM",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Writing and research assistant seats",
+     "account": "Artificial Intelligence Tools and Usage",
+     "amount_low": 60,
+     "amount_high": 500,
+     "weight": 1,
+     "item_shown_by_document": "ChatGPT Team invoice",
+     "memo": "AI seats",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "1PASSWORD",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Shared logins for client ad accounts",
+     "account": "Security and Password Management Software",
+     "amount_low": 120,
+     "amount_high": 300,
+     "weight": 1,
+     "item_shown_by_document": "1Password Business invoice",
+     "memo": "Password manager",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GUSTO FEE 880412",
+   "merchant_category": "Payroll Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly payroll platform fee",
+     "account": "Payroll Service Fees",
+     "amount_low": 280,
+     "amount_high": 620,
+     "weight": 2,
+     "item_shown_by_document": "Gusto monthly invoice",
+     "memo": "Payroll fee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "INTUIT *QBOOKS ONLINE",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Accounting ledger",
+     "account": "Finance and Accounting Software",
+     "amount_low": 90,
+     "amount_high": 280,
+     "weight": 1,
+     "item_shown_by_document": "QuickBooks Online receipt",
+     "memo": "QBO",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREENHOUSE SOFTWARE",
+   "merchant_category": "Computer Software",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Applicant tracking",
+     "account": "Recruiting Software",
+     "amount_low": 400,
+     "amount_high": 900,
+     "weight": 1,
+     "item_shown_by_document": "Greenhouse subscription invoice",
+     "memo": "ATS",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GODADDY.COM",
+   "merchant_category": "Computer Network Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Domain renewals",
+     "account": "Domain Names and Web Hosting",
+     "amount_low": 18,
+     "amount_high": 220,
+     "weight": 1,
+     "item_shown_by_document": "Domain renewal receipt",
+     "memo": "Domains",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "FEDEX 771204338",
+   "merchant_category": "Courier Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Overnight of proofs and contracts",
+     "account": "Postage and Couriers",
+     "amount_low": 14,
+     "amount_high": 120,
+     "weight": 2,
+     "item_shown_by_document": "Shipping label receipt",
+     "memo": "Proofs to client",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "USPS PO 1147320088",
+   "merchant_category": "Postal Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Stamps and small parcels",
+     "account": "Postage and Couriers",
+     "amount_low": 6,
+     "amount_high": 70,
+     "weight": 1,
+     "item_shown_by_document": "Post office receipt",
+     "memo": "Stamps",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "COMCAST BUSINESS",
+   "merchant_category": "Telecommunication Services",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Office internet",
+     "account": "Internet and Telecommunications",
+     "amount_low": 190,
+     "amount_high": 420,
+     "weight": 1,
+     "item_shown_by_document": "Comcast Business statement",
+     "memo": "Office internet",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "STAPLES 01142",
+   "merchant_category": "Office Supply Stores",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Printer paper and toner",
+     "account": "Office Supplies",
+     "amount_low": 20,
+     "amount_high": 240,
+     "weight": 2,
+     "item_shown_by_document": "Register receipt with items",
+     "memo": "Paper and toner",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DD *DOORDASH LATENIGHT",
+   "merchant_category": "Eating Places and Restaurants",
+   "payment_kind": "card",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Dinner while working late on a launch",
+     "account": "Team Meals",
+     "amount_low": 35,
+     "amount_high": 260,
+     "weight": 2,
+     "item_shown_by_document": "DoorDash order receipt",
+     "memo": "Late launch dinner",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "SQ *HARBOR LANE COFFEE",
+   "merchant_category": "Eating Places and Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Coffee beans and milk for the kitchen",
+     "account": "Kitchen Snacks and Coffee",
+     "amount_low": 18,
+     "amount_high": 140,
+     "weight": 3,
+     "item_shown_by_document": "Square receipt listing beans and milk",
+     "memo": "Kitchen coffee",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "BLUEWATER CLEANING CO",
+   "merchant_category": "Cleaning and Maintenance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Weekly office cleaning",
+     "account": "Cleaning and Janitorial Services",
+     "amount_low": 320,
+     "amount_high": 780,
+     "weight": 1,
+     "item_shown_by_document": "Monthly cleaning invoice",
+     "memo": "Office cleaning",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MERIDIAN EXCHANGE PROPERTY MGMT",
+   "merchant_category": "Real Estate Agents and Managers",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Monthly office lease",
+     "account": "Office Rent",
+     "amount_low": 14500,
+     "amount_high": 16200,
+     "weight": 1,
+     "item_shown_by_document": "Monthly lease statement",
+     "memo": "Office rent",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "KESTREL RIDGE INSURANCE BROKERS",
+   "merchant_category": "Insurance Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "General and professional liability premium",
+     "account": "Business Insurance",
+     "amount_low": 1100,
+     "amount_high": 4800,
+     "weight": 1,
+     "item_shown_by_document": "Premium installment notice",
+     "memo": "Insurance installment",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "WHITCOMBE HALE LLP",
+   "merchant_category": "Legal Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Client contract and employment advice",
+     "account": "Legal Fees",
+     "amount_low": 900,
+     "amount_high": 9500,
+     "weight": 1,
+     "item_shown_by_document": "Law firm invoice with time entries",
+     "memo": "Outside counsel",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "DUNMORE & PIKE CPAS",
+   "merchant_category": "Accounting Services",
+   "payment_kind": "bank_payment",
+   "clear_name": true,
+   "purposes": [
+    {
+     "purpose": "Tax return and year end close support",
+     "account": "Accounting and Tax Preparation",
+     "amount_low": 1200,
+     "amount_high": 8500,
+     "weight": 1,
+     "item_shown_by_document": "Accountant engagement invoice",
+     "memo": "Tax prep",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "MKR HOLDINGS LLC",
+   "merchant_category": "Business Services",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Creator fee for a client sponsored post",
+     "account": "Rebillable Client Influencer and Creator Fees",
+     "amount_low": 750,
+     "amount_high": 12000,
+     "weight": 2,
+     "item_shown_by_document": "Talent agreement invoice for sponsored posts",
+     "memo": "Creator payment via management co",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "GREYLINE PANELS",
+   "merchant_category": "Marketing Research",
+   "payment_kind": "bank_payment",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Consumer survey panel for a client study",
+     "account": "Rebillable Client Research and Survey Panels",
+     "amount_low": 1500,
+     "amount_high": 11000,
+     "weight": 1,
+     "item_shown_by_document": "Panel invoice with completes and rate",
+     "memo": "Client brand tracker wave",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "LOCOLINGUA TRANSLATIONS",
+   "merchant_category": "Business Services",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Spanish adaptation of client ads",
+     "account": "Rebillable Client Translation and Localization",
+     "amount_low": 120,
+     "amount_high": 1900,
+     "weight": 1,
+     "item_shown_by_document": "Invoice by word count",
+     "memo": "Spanish ad copy",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TST* ORCHARD NINE",
+   "merchant_category": "Eating Places and Restaurants",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Dinner with a client contact",
+     "account": "Client Meals and Entertainment",
+     "amount_low": 70,
+     "amount_high": 520,
+     "weight": 1,
+     "item_shown_by_document": "Itemized restaurant check",
+     "memo": "Dinner with client",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "PARKWAY GARAGE 3",
+   "merchant_category": "Parking Lots and Garages",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Parking near a client office",
+     "account": "Parking and Tolls",
+     "amount_low": 8,
+     "amount_high": 48,
+     "weight": 2,
+     "item_shown_by_document": "Garage ticket receipt",
+     "memo": "Parking for client meeting",
+     "decided_by": "nothing"
+    }
+   ]
+  },
+  {
+   "name": "TRI-COUNTY AD CLUB",
+   "merchant_category": "Membership Organizations",
+   "payment_kind": "card",
+   "clear_name": false,
+   "purposes": [
+    {
+     "purpose": "Annual agency membership",
+     "account": "Professional Association Dues",
+     "amount_low": 250,
+     "amount_high": 950,
+     "weight": 1,
+     "item_shown_by_document": "Membership dues receipt",
+     "memo": "Ad club dues",
+     "decided_by": "nothing"
+    }
+   ]
+  }
+ ]
+}
